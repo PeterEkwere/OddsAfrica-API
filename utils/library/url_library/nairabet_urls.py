@@ -3,7 +3,7 @@
     This module contains all the nairabet league code to be used for querying
     Author: Peter Ekwere
 """
-FOOTBALL =  {
+SOCCER =  {
   "Angola": [
     "ANGOLA_GIRABOLA"
   ],
@@ -307,7 +307,7 @@ VOLLEYBALL = {
 }
 
 
-ICEHOCKEY = {
+ICE_HOCKEY = {
   "Australia": [
     "AHL"
   ],

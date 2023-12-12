@@ -1,8 +1,371 @@
 {
   "Europe": [
-    {},
-    {},
-    {}
+    {
+      "CEV Cup": {
+        "Kladno volejbal vs Nantes Reze MV": {
+          "Match Winner": {
+            "Kladno volejbal": "2.70",
+            "Nantes Reze MV": "1.35"
+          },
+          "time": "2023-12-12 17:00:00",
+          "Correct Score": {
+            "Kladno volejbal 3-0": "9.00",
+            "Kladno volejbal 3-1": "7.00",
+            "Kladno volejbal 3-2": "6.50",
+            "Nantes Reze MV 3-0": "3.50",
+            "Nantes Reze MV 3-1": "3.50",
+            "Nantes Reze MV 3-2": "4.75"
+          },
+          "Asian Handicap Including Overtime": {
+            "Kladno volejbal +1.5": "1.80",
+            "Nantes Reze MV -1.5": "1.85"
+          },
+          "Set 1 Winner": {
+            "Kladno volejbal": "2.25",
+            "Nantes Reze MV": "1.55"
+          },
+          "Set 2 Winner": {
+            "Kladno volejbal": "2.30",
+            "Nantes Reze MV": "1.50"
+          },
+          "Set 3 Winner": {
+            "Kladno volejbal": "2.40",
+            "Nantes Reze MV": "1.45"
+          },
+          "Handicap 1st Set": {
+            "Kladno volejbal +2.5": "1.70",
+            "Nantes Reze MV -2.5": "2.00"
+          },
+          "Handicap 2nd Set": {
+            "Kladno volejbal +2.5": "1.70",
+            "Nantes Reze MV -2.5": "1.95"
+          },
+          "Handicap 3rd Set": {
+            "Kladno volejbal +2.5": "1.70",
+            "Nantes Reze MV -2.5": "1.95"
+          },
+          "Over/Under 1st Set": {
+            "Over 45.5": "1.70",
+            "Under 45.5": "1.95"
+          },
+          "Over/Under 2nd Set": {
+            "Over 45.5": "1.70",
+            "Under 45.5": "1.95"
+          },
+          "Over/Under 3rd Set": {
+            "Under 45.5": "1.95",
+            "Over 45.5": "1.70"
+          },
+          "Total Points Over Under": {
+            "Over 181.5": "1.80",
+            "Under 181.5": "1.85"
+          }
+        },
+        "Draisma Dynamo vs Fenerbahce": {
+          "Match Winner": {
+            "Draisma Dynamo": "8.00",
+            "Fenerbahce": "1.04"
+          },
+          "time": "2023-12-12 18:30:00",
+          "Correct Score": {
+            "Draisma Dynamo 3-0": "31.00",
+            "Draisma Dynamo 3-1": "23.00",
+            "Draisma Dynamo 3-2": "17.00",
+            "Fenerbahce 3-0": "1.60",
+            "Fenerbahce 3-1": "3.25",
+            "Fenerbahce 3-2": "7.50"
+          },
+          "Asian Handicap Including Overtime": {
+            "Draisma Dynamo +2.5": "2.15",
+            "Fenerbahce -2.5": "1.60"
+          },
+          "Set 1 Winner": {
+            "Draisma Dynamo": "4.25",
+            "Fenerbahce": "1.16"
+          },
+          "Set 2 Winner": {
+            "Draisma Dynamo": "3.75",
+            "Fenerbahce": "1.20"
+          },
+          "Set 3 Winner": {
+            "Draisma Dynamo": "3.75",
+            "Fenerbahce": "1.20"
+          },
+          "Handicap 1st Set": {
+            "Draisma Dynamo +4.5": "1.75",
+            "Fenerbahce -4.5": "1.85"
+          },
+          "Handicap 2nd Set": {
+            "Draisma Dynamo +4.5": "1.85",
+            "Fenerbahce -4.5": "1.80"
+          },
+          "Handicap 3rd Set": {
+            "Draisma Dynamo +4.5": "1.85",
+            "Fenerbahce -4.5": "1.75"
+          },
+          "Over/Under 1st Set": {
+            "Under 44.5": "1.90",
+            "Over 44.5": "1.75"
+          },
+          "Over/Under 2nd Set": {
+            "Under 44.5": "1.85",
+            "Over 44.5": "1.80"
+          },
+          "Over/Under 3rd Set": {
+            "Under 44.5": "1.85",
+            "Over 44.5": "1.80"
+          },
+          "Total Points Over Under": {
+            "Over 146.5": "1.85",
+            "Under 146.5": "1.85"
+          }
+        }
+      }
+    },
+    {
+      "CEV Challenge Cup": {
+        "Levski Sofia vs Dinamo Bucuresti": {
+          "Match Winner": {
+            "Levski Sofia": "2.40",
+            "Dinamo Bucuresti": "1.45"
+          },
+          "time": "2023-12-12 17:30:00",
+          "Correct Score": {
+            "Levski Sofia 3-0": "8.00",
+            "Levski Sofia 3-1": "6.00",
+            "Levski Sofia 3-2": "6.00",
+            "Dinamo Bucuresti 3-0": "3.75",
+            "Dinamo Bucuresti 3-1": "3.75",
+            "Dinamo Bucuresti 3-2": "4.75"
+          },
+          "Asian Handicap Including Overtime": {
+            "Levski Sofia +1.5": "1.65",
+            "Dinamo Bucuresti -1.5": "2.05"
+          },
+          "Set 1 Winner": {
+            "Levski Sofia": "2.15",
+            "Dinamo Bucuresti": "1.60"
+          },
+          "Set 2 Winner": {
+            "Levski Sofia": "2.15",
+            "Dinamo Bucuresti": "1.55"
+          },
+          "Set 3 Winner": {
+            "Levski Sofia": "2.15",
+            "Dinamo Bucuresti": "1.55"
+          },
+          "Handicap 1st Set": {
+            "Levski Sofia +2.5": "1.70",
+            "Dinamo Bucuresti -2.5": "2.00"
+          },
+          "Handicap 2nd Set": {
+            "Levski Sofia +2.5": "1.70",
+            "Dinamo Bucuresti -2.5": "1.95"
+          },
+          "Handicap 3rd Set": {
+            "Levski Sofia +2.5": "1.70",
+            "Dinamo Bucuresti -2.5": "1.95"
+          },
+          "Over/Under 1st Set": {
+            "Under 45.5": "1.80",
+            "Over 45.5": "1.80"
+          },
+          "Over/Under 2nd Set": {
+            "Over 44.5": "1.70",
+            "Under 44.5": "1.95"
+          },
+          "Over/Under 3rd Set": {
+            "Over 44.5": "1.70",
+            "Under 44.5": "1.95"
+          },
+          "Total Points Over Under": {
+            "Under 178.5": "1.85",
+            "Over 178.5": "1.85"
+          }
+        },
+        "AJ Fonte Bastardo vs Komarno": {
+          "Match Winner": {
+            "AJ Fonte Bastardo": "1.20",
+            "Komarno": "3.75"
+          },
+          "time": "2023-12-12 20:30:00",
+          "Correct Score": {
+            "AJ Fonte Bastardo 3-0": "2.50",
+            "AJ Fonte Bastardo 3-1": "3.25",
+            "AJ Fonte Bastardo 3-2": "5.25",
+            "Komarno 3-0": "13.00",
+            "Komarno 3-1": "10.00",
+            "Komarno 3-2": "8.50"
+          },
+          "Asian Handicap Including Overtime": {
+            "AJ Fonte Bastardo -1.5": "1.50",
+            "Komarno +1.5": "2.40"
+          },
+          "Set 1 Winner": {
+            "AJ Fonte Bastardo": "1.35",
+            "Komarno": "2.70"
+          },
+          "Set 2 Winner": {
+            "AJ Fonte Bastardo": "1.40",
+            "Komarno": "2.60"
+          },
+          "Set 3 Winner": {
+            "AJ Fonte Bastardo": "1.40",
+            "Komarno": "2.60"
+          },
+          "Handicap 1st Set": {
+            "AJ Fonte Bastardo -3.5": "1.95",
+            "Komarno +3.5": "1.70"
+          },
+          "Handicap 2nd Set": {
+            "AJ Fonte Bastardo -3.5": "1.85",
+            "Komarno +3.5": "1.80"
+          },
+          "Handicap 3rd Set": {
+            "AJ Fonte Bastardo -3.5": "1.85",
+            "Komarno +3.5": "1.80"
+          },
+          "Over/Under 1st Set": {
+            "Over 44.5": "1.75",
+            "Under 44.5": "1.90"
+          },
+          "Over/Under 2nd Set": {
+            "Under 44.5": "1.85",
+            "Over 44.5": "1.80"
+          },
+          "Over/Under 3rd Set": {
+            "Over 44.5": "1.80",
+            "Under 44.5": "1.85"
+          },
+          "Total Points Over Under": {
+            "Under 174.5": "1.80",
+            "Over 174.5": "1.80"
+          }
+        }
+      }
+    },
+    {
+      "CEV Champions League": {
+        "Olympiacos Piraeus vs Ziraat Bankasi": {
+          "Match Winner": {
+            "Olympiacos Piraeus": "4.75",
+            "Ziraat Bankasi": "1.14"
+          },
+          "time": "2023-12-12 17:00:00",
+          "Correct Score": {
+            "Olympiacos Piraeus 3-0": "17.00",
+            "Olympiacos Piraeus 3-1": "13.00",
+            "Olympiacos Piraeus 3-2": "10.00",
+            "Ziraat Bankasi 3-0": "2.25",
+            "Ziraat Bankasi 3-1": "3.10",
+            "Ziraat Bankasi 3-2": "5.50"
+          },
+          "Asian Handicap Including Overtime": {
+            "Olympiacos Piraeus +2.5": "1.55",
+            "Ziraat Bankasi -2.5": "2.25"
+          },
+          "Set 1 Winner": {
+            "Olympiacos Piraeus": "3.10",
+            "Ziraat Bankasi": "1.30"
+          },
+          "Set 2 Winner": {
+            "Olympiacos Piraeus": "3.00",
+            "Ziraat Bankasi": "1.30"
+          },
+          "Set 3 Winner": {
+            "Olympiacos Piraeus": "3.00",
+            "Ziraat Bankasi": "1.30"
+          },
+          "Handicap 1st Set": {
+            "Olympiacos Piraeus +3.5": "1.70",
+            "Ziraat Bankasi -3.5": "1.95"
+          },
+          "Handicap 2nd Set": {
+            "Olympiacos Piraeus +3.5": "1.80",
+            "Ziraat Bankasi -3.5": "1.85"
+          },
+          "Handicap 3rd Set": {
+            "Olympiacos Piraeus +3.5": "1.80",
+            "Ziraat Bankasi -3.5": "1.85"
+          },
+          "Over/Under 1st Set": {
+            "Over 45.5": "1.95",
+            "Under 45.5": "1.70"
+          },
+          "Over/Under 2nd Set": {
+            "Over 45.5": "1.85",
+            "Under 45.5": "1.80"
+          },
+          "Over/Under 3rd Set": {
+            "Under 45.5": "1.75",
+            "Over 45.5": "1.85"
+          },
+          "Total Points Over Under": {
+            "Under 175.5": "1.85",
+            "Over 175.5": "1.80"
+          }
+        },
+        "Noliko Maaseik vs Cucine Lube BdM Civitanova": {
+          "Match Winner": {
+            "Noliko Maaseik": "8.50",
+            "Cucine Lube BdM Civitanova": "1.04"
+          },
+          "time": "2023-12-12 19:30:00",
+          "Correct Score": {
+            "Noliko Maaseik 3-0": "41.00",
+            "Noliko Maaseik 3-1": "26.00",
+            "Noliko Maaseik 3-2": "19.00",
+            "Cucine Lube BdM Civitanova 3-0": "1.55",
+            "Cucine Lube BdM Civitanova 3-1": "3.25",
+            "Cucine Lube BdM Civitanova 3-2": "8.50"
+          },
+          "Asian Handicap Including Overtime": {
+            "Noliko Maaseik +2.5": "2.20",
+            "Cucine Lube BdM Civitanova -2.5": "1.55"
+          },
+          "Set 1 Winner": {
+            "Noliko Maaseik": "4.25",
+            "Cucine Lube BdM Civitanova": "1.16"
+          },
+          "Set 2 Winner": {
+            "Noliko Maaseik": "4.75",
+            "Cucine Lube BdM Civitanova": "1.14"
+          },
+          "Set 3 Winner": {
+            "Noliko Maaseik": "4.75",
+            "Cucine Lube BdM Civitanova": "1.14"
+          },
+          "Handicap 1st Set": {
+            "Noliko Maaseik +4.5": "1.85",
+            "Cucine Lube BdM Civitanova -4.5": "1.75"
+          },
+          "Handicap 2nd Set": {
+            "Noliko Maaseik +5.5": "1.75",
+            "Cucine Lube BdM Civitanova -5.5": "1.90"
+          },
+          "Handicap 3rd Set": {
+            "Noliko Maaseik +5.5": "1.75",
+            "Cucine Lube BdM Civitanova -5.5": "1.90"
+          },
+          "Over/Under 1st Set": {
+            "Over 44.5": "1.85",
+            "Under 44.5": "1.80"
+          },
+          "Over/Under 2nd Set": {
+            "Over 44.5": "1.85",
+            "Under 44.5": "1.80"
+          },
+          "Over/Under 3rd Set": {
+            "Under 44.5": "1.80",
+            "Over 44.5": "1.85"
+          },
+          "Total Points Over Under": {
+            "Over 139.5": "1.85",
+            "Under 139.5": "1.80"
+          }
+        }
+      }
+    }
   ],
   "Germany": [
     {}
@@ -11,6 +374,68 @@
     {}
   ],
   "Poland ": [
-    {}
+    {
+      "Poland TAURON Liga Women": {
+        "Radomka Radom W vs KS Palac Bydgoszcz W": {
+          "Match Winner": {
+            "Radomka Radom W": "1.20",
+            "KS Palac Bydgoszcz W": "4.25"
+          },
+          "time": "2023-12-12 16:30:00",
+          "Correct Score": {
+            "Radomka Radom W 3-0": "2.50",
+            "Radomka Radom W 3-1": "3.10",
+            "Radomka Radom W 3-2": "5.00",
+            "KS Palac Bydgoszcz W 3-0": "15.00",
+            "KS Palac Bydgoszcz W 3-1": "11.00",
+            "KS Palac Bydgoszcz W 3-2": "8.50"
+          },
+          "Asian Handicap Including Overtime": {
+            "Radomka Radom W -1.5": "1.40",
+            "KS Palac Bydgoszcz W +1.5": "2.60"
+          },
+          "Set 1 Winner": {
+            "Radomka Radom W": "1.40",
+            "KS Palac Bydgoszcz W": "2.70"
+          },
+          "Set 2 Winner": {
+            "Radomka Radom W": "1.40",
+            "KS Palac Bydgoszcz W": "2.60"
+          },
+          "Set 3 Winner": {
+            "Radomka Radom W": "1.40",
+            "KS Palac Bydgoszcz W": "2.60"
+          },
+          "Handicap 1st Set": {
+            "Radomka Radom W -3.5": "1.90",
+            "KS Palac Bydgoszcz W +3.5": "1.75"
+          },
+          "Handicap 2nd Set": {
+            "Radomka Radom W -3.5": "1.85",
+            "KS Palac Bydgoszcz W +3.5": "1.80"
+          },
+          "Handicap 3rd Set": {
+            "Radomka Radom W -3.5": "1.85",
+            "KS Palac Bydgoszcz W +3.5": "1.80"
+          },
+          "Over/Under 1st Set": {
+            "Under 44.5": "1.90",
+            "Over 44.5": "1.75"
+          },
+          "Over/Under 2nd Set": {
+            "Under 44.5": "1.85",
+            "Over 44.5": "1.80"
+          },
+          "Over/Under 3rd Set": {
+            "Over 44.5": "1.80",
+            "Under 44.5": "1.85"
+          },
+          "Total Points Over Under": {
+            "Over 174.5": "1.85",
+            "Under 174.5": "1.85"
+          }
+        }
+      }
+    }
   ]
 }

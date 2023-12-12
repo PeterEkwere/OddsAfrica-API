@@ -6,7 +6,7 @@
 import requests
 from utils.parser.scrub import Parse
 from engine.storage_engine.vault import Vault
-from utils.library.url_library.nairabet_urls import FOOTBALL, VOLLEYBALL, BASKETBALL, ICEHOCKEY, DARTS, TENNIS
+from utils.library.url_library.nairabet_urls import SOCCER, VOLLEYBALL, BASKETBALL, ICE_HOCKEY, DARTS, TENNIS
 
 
 
@@ -15,8 +15,8 @@ class nairabet:
     """
     
     Sports = {
-        'football': FOOTBALL,
-        'icehockey': ICEHOCKEY,
+        'soccer': SOCCER,
+        'ice_hockey': ICE_HOCKEY,
         'darts': DARTS,
         'tennis': TENNIS,
         'volleyball': VOLLEYBALL,
@@ -50,7 +50,7 @@ class nairabet:
         for country, league_ids in nairabet.Sports.get(Sport).items():
             games = []
             for league_id in league_ids:
-                #try:
+                try:
                     league_games = []
                     games_count = 0
                     games_id = nairabet.get_league_games(league_id, Sport, nairabet.headers)
@@ -58,11 +58,15 @@ class nairabet:
                         games_count += 1
                         a_league_game = nairabet.get_markets_for_game(game_id, nairabet.headers)
                         league_games.append(a_league_game)
-                    print(f"there are {games_count} league games from {country}")
+                    print(f"Scraping {country} {Sport}")
                     games.append(Parse.clean(self, league_games, self.bookie_name))
-                #except Exception as e:
-                    #print(f"Error getting games for {country}, league id: {league_id}, game id: {game_id}, Error: {e}")
-            all_leagues[country] = games    
+                except Exception as e:
+                    print(f"Error getting games for {country}, league id: {league_id}, game id: {game_id}, Error: {e}")
+            all_leagues[country] = games 
+        if Sport == 'soccer':
+            Sport = 'football'
+        elif Sport == 'ice_hockey':
+            Sport = "icehockey"   
         Vault.save_games(self, all_leagues, self.bookie_name, Sport)
         return games
     

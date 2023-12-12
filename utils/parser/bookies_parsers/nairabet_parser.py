@@ -20,7 +20,6 @@ def extract_nairabet(json_data):
             game_list = data.get("eventNames", [])
             game_name = f"{game_list[0]} vs {game_list[1]}"
             time = data.get("startTime", None)
-            print(f"time is {time}")
             time_sec = time / 1000
             start_time = datetime.utcfromtimestamp(time_sec)
             start_time = start_time.strftime("%Y-%m-%d %H:%M:%S")
@@ -41,7 +40,7 @@ def extract_nairabet(json_data):
                             odds = outcome.get("value")
                         
                             if "time" not in result_dict[league][game_name]:
-                                result_dict[league][game_name]["time"] = 1 #start_time
+                                result_dict[league][game_name]["time"] = start_time
                             if outcome_name not in result_dict[league][game_name][market_name]:
                                 result_dict[league][game_name][market_name][outcome_name] = odds
                         

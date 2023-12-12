@@ -1,0 +1,2842 @@
+{
+  "Australia": [
+    {
+      "AHL": {
+        "Bakersfield Condors vs Colorado Eagles": {
+          "Match Result (Inc OT)": {
+            "Bakersfield Condors": "2.00",
+            "Colorado Eagles": "1.73"
+          },
+          "time": "2023-12-12 18:30:00",
+          "Handicap (Inc OT)": {
+            "Colorado Eagles -1.5": "3.00",
+            "Bakersfield Condors +1.5": "1.36"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "1.83",
+            "Under 5.5": "1.83"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "2.32",
+            "4.5 - 6.5 Inc": "2.70",
+            "Under 4.5": "3.45"
+          },
+          "1st Period Result": {
+            "Draw": "2.50",
+            "Colorado Eagles": "2.70",
+            "Bakersfield Condors": "3.15"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "1.91",
+            "Under 1.5": "1.80"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.95",
+            "2nd Period": "2.50",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "Bakersfield Condors & Over 5.5 Goals": "4.00",
+            "Colorado Eagles & Over 5.5 Goals": "3.30",
+            "Colorado Eagles & Under 5.5 Goals": "3.30",
+            "Bakersfield Condors & Under 5.5 Goals": "3.80"
+          },
+          "Match Result (No OT)": {
+            "Bakersfield Condors": "2.56",
+            "Draw": "4.10",
+            "Colorado Eagles": "2.20"
+          }
+        },
+        "Iowa Wild vs Chicago Wolves": {
+          "Match Result (Inc OT)": {
+            "Iowa Wild": "1.73",
+            "Chicago Wolves": "2.00"
+          },
+          "time": "2023-12-13 01:00:00",
+          "Handicap (Inc OT)": {
+            "Iowa Wild -1.5": "3.00",
+            "Chicago Wolves +1.5": "1.36"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "1.80",
+            "Under 5.5": "1.91"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "2.25",
+            "4.5 - 6.5 Inc": "2.70",
+            "Under 4.5": "3.65"
+          },
+          "1st Period Result": {
+            "Draw": "2.50",
+            "Chicago Wolves": "3.10",
+            "Iowa Wild": "2.70"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "1.91",
+            "Under 1.5": "1.80"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "4.00",
+            "2nd Period": "2.50",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "Chicago Wolves & Over 5.5 Goals": "3.80",
+            "Iowa Wild & Over 5.5 Goals": "3.25",
+            "Iowa Wild & Under 5.5 Goals": "3.40",
+            "Chicago Wolves & Under 5.5 Goals": "3.95"
+          },
+          "Match Result (No OT)": {
+            "Iowa Wild": "2.20",
+            "Draw": "4.10",
+            "Chicago Wolves": "2.56"
+          }
+        },
+        "Hershey Bears vs Providence Bruins": {
+          "Match Result (Inc OT)": {
+            "Hershey Bears": "1.80",
+            "Providence Bruins": "1.91"
+          },
+          "time": "2023-12-14 00:00:00",
+          "Handicap (Inc OT)": {
+            "Hershey Bears -1.5": "3.25",
+            "Providence Bruins +1.5": "1.33"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "1.91",
+            "Under 5.5": "1.80"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "2.40",
+            "4.5 - 6.5 Inc": "2.64",
+            "Under 4.5": "3.35"
+          },
+          "1st Period Result": {
+            "Hershey Bears": "2.80",
+            "Providence Bruins": "3.00",
+            "Draw": "2.50"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "2.00",
+            "Under 1.5": "1.73"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.95",
+            "2nd Period": "2.50",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "Hershey Bears & Over 5.5 Goals": "3.50",
+            "Providence Bruins & Over 5.5 Goals": "3.90",
+            "Providence Bruins & Under 5.5 Goals": "3.65",
+            "Hershey Bears & Under 5.5 Goals": "3.30"
+          },
+          "Match Result (No OT)": {
+            "Hershey Bears": "2.28",
+            "Draw": "4.00",
+            "Providence Bruins": "2.50"
+          }
+        },
+        "Grand Rapids Griffins vs Texas Stars": {
+          "Match Result (Inc OT)": {
+            "Grand Rapids Griffins": "1.83",
+            "Texas Stars": "1.83"
+          },
+          "time": "2023-12-14 00:00:00",
+          "Handicap (Inc OT)": {
+            "Grand Rapids Griffins -1.5": "3.25",
+            "Texas Stars +1.5": "1.33"
+          },
+          "Total Goals (O/U)": {
+            "Over 6.5": "1.91",
+            "Under 6.5": "1.80"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "1.96",
+            "4.5 - 6.5 Inc": "2.90",
+            "Under 4.5": "4.30"
+          },
+          "1st Period Result": {
+            "Texas Stars": "2.90",
+            "Draw": "2.60",
+            "Grand Rapids Griffins": "2.76"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "1.80",
+            "Under 1.5": "1.91"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "4.00",
+            "2nd Period": "2.50",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "Grand Rapids Griffins & Over 6.5 Goals": "3.60",
+            "Texas Stars & Over 6.5 Goals": "3.80",
+            "Grand Rapids Griffins & Under 6.5 Goals": "3.35",
+            "Texas Stars & Under 6.5 Goals": "3.60"
+          },
+          "Match Result (No OT)": {
+            "Grand Rapids Griffins": "2.36",
+            "Draw": "4.20",
+            "Texas Stars": "2.32"
+          }
+        },
+        "Wilkes-Barre/Scranton Penguins vs Syracuse Crunch": {
+          "Match Result (Inc OT)": {
+            "Wilkes-Barre/Scranton Penguins": "1.80",
+            "Syracuse Crunch": "1.91"
+          },
+          "time": "2023-12-14 00:05:00",
+          "Handicap (Inc OT)": {
+            "Wilkes-Barre/Scranton Penguins -1.5": "3.00",
+            "Syracuse Crunch +1.5": "1.36"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "1.73",
+            "Under 5.5": "2.00"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "2.10",
+            "4.5 - 6.5 Inc": "2.80",
+            "Under 4.5": "3.90"
+          },
+          "1st Period Result": {
+            "Syracuse Crunch": "3.05",
+            "Draw": "2.56",
+            "Wilkes-Barre/Scranton Penguins": "2.70"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "1.83",
+            "Under 1.5": "1.83"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "4.00",
+            "2nd Period": "2.50",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "Wilkes-Barre/Scranton Penguins & Over 5.5 Goals": "3.05",
+            "Syracuse Crunch & Over 5.5 Goals": "3.65",
+            "Wilkes-Barre/Scranton Penguins & Under 5.5 Goals": "3.65",
+            "Syracuse Crunch & Under 5.5 Goals": "4.10"
+          },
+          "Match Result (No OT)": {
+            "Wilkes-Barre/Scranton Penguins": "2.25",
+            "Draw": "4.10",
+            "Syracuse Crunch": "2.50"
+          }
+        },
+        "Springfield Thunderbirds vs Rochester Americans": {
+          "Match Result (Inc OT)": {
+            "Springfield Thunderbirds": "1.83",
+            "Rochester Americans": "1.83"
+          },
+          "time": "2023-12-14 00:05:00",
+          "Handicap (Inc OT)": {
+            "Springfield Thunderbirds -1.5": "3.25",
+            "Rochester Americans +1.5": "1.33"
+          },
+          "Total Goals (O/U)": {
+            "Over 6.5": "2.00",
+            "Under 6.5": "1.73"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "2.02",
+            "4.5 - 6.5 Inc": "2.84",
+            "Under 4.5": "4.10"
+          },
+          "1st Period Result": {
+            "Springfield Thunderbirds": "2.80",
+            "Draw": "2.56",
+            "Rochester Americans": "2.90"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "1.83",
+            "Under 1.5": "1.83"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "4.00",
+            "2nd Period": "2.50",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "Rochester Americans & Over 6.5 Goals": "3.95",
+            "Springfield Thunderbirds & Over 6.5 Goals": "3.75",
+            "Rochester Americans & Under 6.5 Goals": "3.40",
+            "Springfield Thunderbirds & Under 6.5 Goals": "3.25"
+          },
+          "Match Result (No OT)": {
+            "Springfield Thunderbirds": "2.30",
+            "Draw": "4.20",
+            "Rochester Americans": "2.40"
+          }
+        },
+        "Lehigh Valley Phantoms vs Charlotte Checkers": {
+          "Match Result (Inc OT)": {
+            "Lehigh Valley Phantoms": "1.80",
+            "Charlotte Checkers": "1.91"
+          },
+          "time": "2023-12-14 00:05:00",
+          "Handicap (Inc OT)": {
+            "Lehigh Valley Phantoms -1.5": "3.25",
+            "Charlotte Checkers +1.5": "1.33"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "1.80",
+            "Under 5.5": "1.91"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "2.20",
+            "4.5 - 6.5 Inc": "2.76",
+            "Under 4.5": "3.70"
+          },
+          "1st Period Result": {
+            "Draw": "2.56",
+            "Lehigh Valley Phantoms": "2.70",
+            "Charlotte Checkers": "3.05"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "1.91",
+            "Under 1.5": "1.80"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "4.00",
+            "2nd Period": "2.50",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "Charlotte Checkers & Over 5.5 Goals": "3.75",
+            "Lehigh Valley Phantoms & Over 5.5 Goals": "3.15",
+            "Lehigh Valley Phantoms & Under 5.5 Goals": "3.50",
+            "Charlotte Checkers & Under 5.5 Goals": "4.00"
+          },
+          "Match Result (No OT)": {
+            "Lehigh Valley Phantoms": "2.20",
+            "Draw": "4.25",
+            "Charlotte Checkers": "2.50"
+          }
+        },
+        "Ontario Reign vs Henderson Silver Knights": {
+          "Match Result (Inc OT)": {
+            "Ontario Reign": "1.73",
+            "Henderson Silver Knights": "2.00"
+          },
+          "time": "2023-12-14 03:00:00",
+          "Handicap (Inc OT)": {
+            "Ontario Reign -1.5": "3.25",
+            "Henderson Silver Knights +1.5": "1.33"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "1.83",
+            "Under 5.5": "1.83"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "2.30",
+            "4.5 - 6.5 Inc": "2.70",
+            "Under 4.5": "3.50"
+          },
+          "1st Period Result": {
+            "Draw": "2.50",
+            "Ontario Reign": "2.70",
+            "Henderson Silver Knights": "3.10"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "1.91",
+            "Under 1.5": "1.80"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "4.00",
+            "2nd Period": "2.50",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "Henderson Silver Knights & Over 5.5 Goals": "3.90",
+            "Ontario Reign & Over 5.5 Goals": "3.30",
+            "Henderson Silver Knights & Under 5.5 Goals": "3.80",
+            "Ontario Reign & Under 5.5 Goals": "3.35"
+          },
+          "Match Result (No OT)": {
+            "Ontario Reign": "2.20",
+            "Draw": "4.00",
+            "Henderson Silver Knights": "2.60"
+          }
+        },
+        "Coachella Valley Firebirds vs Abbotsford Canucks": {
+          "Match Result (Inc OT)": {
+            "Coachella Valley Firebirds": "1.73",
+            "Abbotsford Canucks": "2.00"
+          },
+          "time": "2023-12-14 03:00:00",
+          "Handicap (Inc OT)": {
+            "Coachella Valley Firebirds -1.5": "3.00",
+            "Abbotsford Canucks +1.5": "1.36"
+          },
+          "Total Goals (O/U)": {
+            "Over 6.5": "2.00",
+            "Under 6.5": "1.73"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "2.05",
+            "4.5 - 6.5 Inc": "2.80",
+            "Under 4.5": "4.10"
+          },
+          "1st Period Result": {
+            "Draw": "2.60",
+            "Coachella Valley Firebirds": "2.64",
+            "Abbotsford Canucks": "3.05"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "1.83",
+            "Under 1.5": "1.83"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "4.00",
+            "2nd Period": "2.50",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "Coachella Valley Firebirds & Over 6.5 Goals": "3.60",
+            "Abbotsford Canucks & Over 6.5 Goals": "4.25",
+            "Coachella Valley Firebirds & Under 6.5 Goals": "3.05",
+            "Abbotsford Canucks & Under 6.5 Goals": "3.60"
+          },
+          "Match Result (No OT)": {
+            "Coachella Valley Firebirds": "2.18",
+            "Draw": "4.20",
+            "Abbotsford Canucks": "2.56"
+          }
+        },
+        "Cleveland Monsters vs Belleville Senators": {
+          "Match Result (Inc OT)": {
+            "Cleveland Monsters": "1.73",
+            "Belleville Senators": "2.00"
+          },
+          "time": "2023-12-15 00:00:00",
+          "Handicap (Inc OT)": {
+            "Cleveland Monsters -1.5": "3.00",
+            "Belleville Senators +1.5": "1.36"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "1.83",
+            "Under 5.5": "1.83"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "2.30",
+            "4.5 - 6.5 Inc": "2.70",
+            "Under 4.5": "3.50"
+          },
+          "1st Period Result": {
+            "Draw": "2.50",
+            "Belleville Senators": "3.20",
+            "Cleveland Monsters": "2.64"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "1.91",
+            "Under 1.5": "1.80"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "4.00",
+            "2nd Period": "2.50",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "Belleville Senators & Over 5.5 Goals": "4.00",
+            "Cleveland Monsters & Over 5.5 Goals": "3.15",
+            "Cleveland Monsters & Under 5.5 Goals": "3.30",
+            "Belleville Senators & Under 5.5 Goals": "4.00"
+          },
+          "Match Result (No OT)": {
+            "Cleveland Monsters": "2.10",
+            "Draw": "4.20",
+            "Belleville Senators": "2.64"
+          }
+        }
+      }
+    }
+  ],
+  "Austria": [
+    {
+      "Austria OEL": {
+        "Supermercati Migross Asiago vs HC TWK Innsbruck": {
+          "Match Result (Inc OT)": {
+            "Supermercati Migross Asiago": "2.20",
+            "HC TWK Innsbruck": "1.61"
+          },
+          "time": "2023-12-16 18:45:00",
+          "Handicap (Inc OT)": {
+            "HC TWK Innsbruck -1.5": "2.75",
+            "Supermercati Migross Asiago +1.5": "1.40"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "2.00",
+            "Under 5.5": "1.73"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "2.56",
+            "4.5 - 6.5 Inc": "2.64",
+            "Under 4.5": "3.15"
+          },
+          "1st Period Result": {
+            "HC TWK Innsbruck": "2.64",
+            "Supermercati Migross Asiago": "3.35",
+            "Draw": "2.40"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "2.00",
+            "Under 1.5": "1.73"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.95",
+            "2nd Period": "2.50",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "Supermercati Migross Asiago & Over 5.5 Goals": "4.70",
+            "HC TWK Innsbruck & Over 5.5 Goals": "3.25",
+            "Supermercati Migross Asiago & Under 5.5 Goals": "3.90",
+            "HC TWK Innsbruck & Under 5.5 Goals": "2.90"
+          },
+          "Match Result (No OT)": {
+            "Supermercati Migross Asiago": "2.80",
+            "Draw": "4.30",
+            "HC TWK Innsbruck": "2.00"
+          }
+        }
+      }
+    }
+  ],
+  "Czech Republic": [
+    {
+      "Czech Republic Extraliga": {
+        "HC Dynamo Pardubice vs HC Olomouc": {
+          "Match Result (Inc OT)": {
+            "HC Dynamo Pardubice": "1.20",
+            "HC Olomouc": "4.33"
+          },
+          "time": "2023-12-18 17:00:00",
+          "Handicap (Inc OT)": {
+            "HC Dynamo Pardubice -1.5": "1.67",
+            "HC Olomouc +1.5": "2.10"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "1.91",
+            "Under 5.5": "1.80"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "2.50",
+            "4.5 - 6.5 Inc": "2.64",
+            "Under 4.5": "3.25"
+          },
+          "1st Period Result": {
+            "HC Olomouc": "4.90",
+            "Draw": "2.64",
+            "HC Dynamo Pardubice": "1.98"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "2.00",
+            "Under 1.5": "1.73"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.90",
+            "2nd Period": "2.50",
+            "3rd Period": "2.30"
+          },
+          "Match Winner & Total Goals": {
+            "HC Dynamo Pardubice & Over 5.5 Goals": "2.32",
+            "HC Olomouc & Over 5.5 Goals": "9.00",
+            "HC Dynamo Pardubice & Under 5.5 Goals": "2.36",
+            "HC Olomouc & Under 5.5 Goals": "6.60"
+          },
+          "Match Result (No OT)": {
+            "HC Dynamo Pardubice": "1.36",
+            "Draw": "5.40",
+            "HC Olomouc": "6.00"
+          }
+        },
+        "HC Vitkovice Ridera vs BK Mlada Boleslav": {
+          "Match Result (Inc OT)": {
+            "HC Vitkovice Ridera": "1.40",
+            "BK Mlada Boleslav": "2.75"
+          },
+          "time": "2023-12-19 16:30:00",
+          "Handicap (Inc OT)": {
+            "HC Vitkovice Ridera -1.5": "2.25",
+            "BK Mlada Boleslav +1.5": "1.57"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "2.50",
+            "Under 5.5": "1.50"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "3.25",
+            "4.5 - 6.5 Inc": "2.60",
+            "Under 4.5": "2.50"
+          },
+          "1st Period Result": {
+            "BK Mlada Boleslav": "4.10",
+            "HC Vitkovice Ridera": "2.36",
+            "Draw": "2.36"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "2.25",
+            "Under 1.5": "1.57"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.80",
+            "2nd Period": "2.56",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "HC Vitkovice Ridera & Over 5.5 Goals": "3.40",
+            "BK Mlada Boleslav & Over 5.5 Goals": "7.40",
+            "HC Vitkovice Ridera & Under 5.5 Goals": "2.20",
+            "BK Mlada Boleslav & Under 5.5 Goals": "4.25"
+          },
+          "Match Result (No OT)": {
+            "HC Vitkovice Ridera": "1.68",
+            "Draw": "4.20",
+            "BK Mlada Boleslav": "3.90"
+          }
+        }
+      }
+    }
+  ],
+  "Denmark": [
+    {
+      "Danish Metal Ligaen": {
+        "Esbjerg Energy vs Aalborg Pirates": {
+          "Match Result (Inc OT)": {
+            "Esbjerg Energy": "2.62",
+            "Aalborg Pirates": "1.44"
+          },
+          "time": "2023-12-12 18:00:00",
+          "Handicap (Inc OT)": {
+            "Aalborg Pirates -1.5": "2.20",
+            "Esbjerg Energy +1.5": "1.61"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "1.73",
+            "Under 5.5": "2.00"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "2.15",
+            "4.5 - 6.5 Inc": "2.80",
+            "Under 4.5": "3.80"
+          },
+          "1st Period Result": {
+            "Aalborg Pirates": "2.30",
+            "Draw": "2.60",
+            "Esbjerg Energy": "3.70"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "1.83",
+            "Under 1.5": "1.83"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "4.00",
+            "2nd Period": "2.50",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "Esbjerg Energy & Over 5.5 Goals": "5.00",
+            "Aalborg Pirates & Over 5.5 Goals": "2.50",
+            "Aalborg Pirates & Under 5.5 Goals": "3.05",
+            "Esbjerg Energy & Under 5.5 Goals": "5.20"
+          },
+          "Match Result (No OT)": {
+            "Esbjerg Energy": "3.50",
+            "Draw": "4.70",
+            "Aalborg Pirates": "1.70"
+          }
+        }
+      }
+    }
+  ],
+  "Europe": [
+    {},
+    {
+      "European Champions Hockey League": {
+        "Lukko vs HC Dynamo Pardubice": {
+          "Match Result (Inc OT)": {
+            "Lukko": "1.73",
+            "HC Dynamo Pardubice": "2.00"
+          },
+          "time": "2023-12-12 16:30:00",
+          "Handicap (Inc OT)": {
+            "Lukko -1.5": "3.00",
+            "HC Dynamo Pardubice +1.5": "1.36"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "2.00",
+            "Under 5.5": "1.73"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "2.56",
+            "4.5 - 6.5 Inc": "2.64",
+            "Under 4.5": "3.15"
+          },
+          "1st Period Result": {
+            "HC Dynamo Pardubice": "3.05",
+            "Draw": "2.56",
+            "Lukko": "2.70"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "2.00",
+            "Under 1.5": "1.73"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.95",
+            "2nd Period": "2.56",
+            "3rd Period": "2.25"
+          },
+          "Match Winner & Total Goals": {
+            "HC Dynamo Pardubice & Over 5.5 Goals": "4.20",
+            "Lukko & Over 5.5 Goals": "3.50",
+            "HC Dynamo Pardubice & Under 5.5 Goals": "3.60",
+            "Lukko & Under 5.5 Goals": "3.15"
+          },
+          "Match Result (No OT)": {
+            "Lukko": "2.20",
+            "Draw": "4.50",
+            "HC Dynamo Pardubice": "2.40"
+          }
+        },
+        "HC Vitkovice Ridera vs Rapperswil-Jona Lakers": {
+          "Match Result (Inc OT)": {
+            "HC Vitkovice Ridera": "1.83",
+            "Rapperswil-Jona Lakers": "1.83"
+          },
+          "time": "2023-12-12 17:00:00",
+          "Handicap (Inc OT)": {
+            "Rapperswil-Jona Lakers -1.5": "3.50",
+            "HC Vitkovice Ridera +1.5": "1.29"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "2.20",
+            "Under 5.5": "1.61"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "2.80",
+            "4.5 - 6.5 Inc": "2.64",
+            "Under 4.5": "2.84"
+          },
+          "1st Period Result": {
+            "Draw": "2.40",
+            "HC Vitkovice Ridera": "3.00",
+            "Rapperswil-Jona Lakers": "2.96"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "2.10",
+            "Under 1.5": "1.67"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.90",
+            "2nd Period": "2.56",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "HC Vitkovice Ridera & Over 5.5 Goals": "4.20",
+            "Rapperswil-Jona Lakers & Over 5.5 Goals": "4.10",
+            "Rapperswil-Jona Lakers & Under 5.5 Goals": "3.10",
+            "HC Vitkovice Ridera & Under 5.5 Goals": "3.15"
+          },
+          "Match Result (No OT)": {
+            "HC Vitkovice Ridera": "2.30",
+            "Draw": "4.50",
+            "Rapperswil-Jona Lakers": "2.32"
+          }
+        },
+        "Farjestad BK vs Skelleftea AIK": {
+          "Match Result (Inc OT)": {
+            "Farjestad BK": "1.44",
+            "Skelleftea AIK": "2.62"
+          },
+          "time": "2023-12-12 18:00:00",
+          "Handicap (Inc OT)": {
+            "Farjestad BK -1.5": "2.50",
+            "Skelleftea AIK +1.5": "1.50"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "2.25",
+            "Under 5.5": "1.57"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "2.96",
+            "4.5 - 6.5 Inc": "2.60",
+            "Under 4.5": "2.70"
+          },
+          "1st Period Result": {
+            "Skelleftea AIK": "3.80",
+            "Draw": "2.40",
+            "Farjestad BK": "2.40"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "2.20",
+            "Under 1.5": "1.61"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.90",
+            "2nd Period": "2.56",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "Skelleftea AIK & Over 5.5 Goals": "6.40",
+            "Farjestad BK & Over 5.5 Goals": "3.35",
+            "Skelleftea AIK & Under 5.5 Goals": "4.10",
+            "Farjestad BK & Under 5.5 Goals": "2.40"
+          },
+          "Match Result (No OT)": {
+            "Farjestad BK": "1.76",
+            "Draw": "4.50",
+            "Skelleftea AIK": "3.35"
+          }
+        },
+        "Vaxjo Lakers HC vs Geneve-Servette HC": {
+          "Match Result (Inc OT)": {
+            "Vaxjo Lakers HC": "1.44",
+            "Geneve-Servette HC": "2.62"
+          },
+          "time": "2023-12-12 18:00:00",
+          "Handicap (Inc OT)": {
+            "Vaxjo Lakers HC -1.5": "2.38",
+            "Geneve-Servette HC +1.5": "1.53"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "2.00",
+            "Under 5.5": "1.73"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "2.50",
+            "4.5 - 6.5 Inc": "2.64",
+            "Under 4.5": "3.20"
+          },
+          "1st Period Result": {
+            "Vaxjo Lakers HC": "2.36",
+            "Draw": "2.50",
+            "Geneve-Servette HC": "3.75"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "2.00",
+            "Under 1.5": "1.73"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.95",
+            "2nd Period": "2.50",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "Geneve-Servette HC & Over 5.5 Goals": "5.60",
+            "Vaxjo Lakers HC & Over 5.5 Goals": "2.84",
+            "Vaxjo Lakers HC & Under 5.5 Goals": "2.70",
+            "Geneve-Servette HC & Under 5.5 Goals": "4.60"
+          },
+          "Match Result (No OT)": {
+            "Vaxjo Lakers HC": "1.70",
+            "Draw": "4.50",
+            "Geneve-Servette HC": "3.60"
+          }
+        }
+      }
+    },
+    {
+      "International Europe Tour": {
+        "Czech Republic vs Finland": {
+          "Match Result (Inc OT)": {
+            "Czech Republic": "1.83",
+            "Finland": "1.83"
+          },
+          "time": "2023-12-14 17:00:00",
+          "Handicap (Inc OT)": {
+            "Finland -1.5": "3.50",
+            "Czech Republic +1.5": "1.29"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "2.38",
+            "Under 5.5": "1.53"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "3.15",
+            "4.5 - 6.5 Inc": "2.60",
+            "Under 4.5": "2.56"
+          },
+          "1st Period Result": {
+            "Draw": "2.32",
+            "Czech Republic": "3.15",
+            "Finland": "2.90"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "2.25",
+            "Under 1.5": "1.57"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.80",
+            "2nd Period": "2.56",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "Finland & Over 5.5 Goals": "4.30",
+            "Czech Republic & Over 5.5 Goals": "4.90",
+            "Finland & Under 5.5 Goals": "2.76",
+            "Czech Republic & Under 5.5 Goals": "3.10"
+          },
+          "Match Result (No OT)": {
+            "Czech Republic": "2.40",
+            "Draw": "4.00",
+            "Finland": "2.36"
+          }
+        },
+        "Sweden  vs Switzerland": {
+          "Match Result (Inc OT)": {
+            "Sweden ": "1.80",
+            "Switzerland": "1.91"
+          },
+          "time": "2023-12-14 18:45:00",
+          "Handicap (Inc OT)": {
+            "Sweden  -1.5": "3.25",
+            "Switzerland +1.5": "1.33"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "2.38",
+            "Under 5.5": "1.53"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "3.15",
+            "4.5 - 6.5 Inc": "2.60",
+            "Under 4.5": "2.56"
+          },
+          "1st Period Result": {
+            "Draw": "2.36",
+            "Switzerland": "3.20",
+            "Sweden ": "2.84"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "2.25",
+            "Under 1.5": "1.57"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.80",
+            "2nd Period": "2.56",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "Switzerland & Over 5.5 Goals": "4.90",
+            "Sweden  & Over 5.5 Goals": "4.30",
+            "Sweden  & Under 5.5 Goals": "2.76",
+            "Switzerland & Under 5.5 Goals": "3.10"
+          },
+          "Match Result (No OT)": {
+            "Sweden ": "2.20",
+            "Draw": "4.00",
+            "Switzerland": "2.60"
+          }
+        }
+      }
+    }
+  ],
+  "Finland": [
+    {
+      "Finland Mestis": {
+        "Kiekko Espoo vs Imatran Kettera": {
+          "Match Result (Inc OT)": {
+            "Kiekko Espoo": "1.61",
+            "Imatran Kettera": "2.20"
+          },
+          "time": "2023-12-12 16:30:00",
+          "Handicap (Inc OT)": {
+            "Kiekko Espoo -1.5": "2.75",
+            "Imatran Kettera +1.5": "1.40"
+          },
+          "Total Goals (O/U)": {
+            "Over 6.5": "1.83",
+            "Under 6.5": "1.83"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 8.5": "4.00",
+            "6.5 - 8.5 Inc": "3.20",
+            "Under 6.5": "1.90"
+          },
+          "1st Period Result": {
+            "Imatran Kettera": "3.10",
+            "Kiekko Espoo": "2.56",
+            "Draw": "2.64"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "1.80",
+            "Under 1.5": "1.91"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "4.00",
+            "2nd Period": "2.50",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "Imatran Kettera & Over 6.5 Goals": "4.10",
+            "Kiekko Espoo & Over 6.5 Goals": "3.15",
+            "Imatran Kettera & Under 6.5 Goals": "4.10",
+            "Kiekko Espoo & Under 6.5 Goals": "3.20"
+          },
+          "Match Result (No OT)": {
+            "Kiekko Espoo": "1.98",
+            "Draw": "4.40",
+            "Imatran Kettera": "2.80"
+          }
+        }
+      }
+    }
+  ],
+  "Germany": [
+    {
+      "Germany DEL": {
+        "ERC Ingolstadt vs EHC Munchen": {
+          "Match Result (Inc OT)": {
+            "ERC Ingolstadt": "2.50",
+            "EHC Munchen": "1.50"
+          },
+          "time": "2023-12-14 18:30:00",
+          "Handicap (Inc OT)": {
+            "EHC Munchen -1.5": "2.50",
+            "ERC Ingolstadt +1.5": "1.50"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "2.00",
+            "Under 5.5": "1.73"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "2.56",
+            "4.5 - 6.5 Inc": "2.64",
+            "Under 4.5": "3.10"
+          },
+          "1st Period Result": {
+            "Draw": "2.50",
+            "ERC Ingolstadt": "3.65",
+            "EHC Munchen": "2.40"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "2.00",
+            "Under 1.5": "1.73"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.95",
+            "2nd Period": "2.50",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "ERC Ingolstadt & Over 5.5 Goals": "5.20",
+            "EHC Munchen & Over 5.5 Goals": "3.05",
+            "EHC Munchen & Under 5.5 Goals": "2.76",
+            "ERC Ingolstadt & Under 5.5 Goals": "4.25"
+          },
+          "Match Result (No OT)": {
+            "ERC Ingolstadt": "3.35",
+            "Draw": "4.25",
+            "EHC Munchen": "1.80"
+          }
+        },
+        "Grizzly Adams Wolfsburg vs Nurnberg Ice Tigers": {
+          "Match Result (Inc OT)": {
+            "Grizzly Adams Wolfsburg": "1.33",
+            "Nurnberg Ice Tigers": "3.25"
+          },
+          "time": "2023-12-15 18:30:00",
+          "Handicap (Inc OT)": {
+            "Grizzly Adams Wolfsburg -1.5": "2.00",
+            "Nurnberg Ice Tigers +1.5": "1.73"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "1.91",
+            "Under 5.5": "1.80"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "2.40",
+            "4.5 - 6.5 Inc": "2.64",
+            "Under 4.5": "3.35"
+          },
+          "1st Period Result": {
+            "Draw": "2.56",
+            "Grizzly Adams Wolfsburg": "2.20",
+            "Nurnberg Ice Tigers": "4.10"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "2.00",
+            "Under 1.5": "1.73"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.95",
+            "2nd Period": "2.50",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "Grizzly Adams Wolfsburg & Over 5.5 Goals": "2.56",
+            "Nurnberg Ice Tigers & Over 5.5 Goals": "6.40",
+            "Grizzly Adams Wolfsburg & Under 5.5 Goals": "2.60",
+            "Nurnberg Ice Tigers & Under 5.5 Goals": "5.40"
+          },
+          "Match Result (No OT)": {
+            "Grizzly Adams Wolfsburg": "1.55",
+            "Draw": "4.60",
+            "Nurnberg Ice Tigers": "4.40"
+          }
+        },
+        "Iserlohn Roosters vs Eisbaren Berlin": {
+          "Match Result (Inc OT)": {
+            "Iserlohn Roosters": "3.50",
+            "Eisbaren Berlin": "1.29"
+          },
+          "time": "2023-12-15 18:30:00",
+          "Handicap (Inc OT)": {
+            "Eisbaren Berlin -1.5": "1.83",
+            "Iserlohn Roosters +1.5": "1.83"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "1.80",
+            "Under 5.5": "1.91"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "2.28",
+            "4.5 - 6.5 Inc": "2.70",
+            "Under 4.5": "3.60"
+          },
+          "1st Period Result": {
+            "Draw": "2.64",
+            "Iserlohn Roosters": "4.40",
+            "Eisbaren Berlin": "2.08"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "1.91",
+            "Under 1.5": "1.80"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.95",
+            "2nd Period": "2.50",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "Iserlohn Roosters & Over 5.5 Goals": "7.00",
+            "Eisbaren Berlin & Over 5.5 Goals": "2.30",
+            "Eisbaren Berlin & Under 5.5 Goals": "2.64",
+            "Iserlohn Roosters & Under 5.5 Goals": "6.00"
+          },
+          "Match Result (No OT)": {
+            "Iserlohn Roosters": "5.00",
+            "Draw": "4.90",
+            "Eisbaren Berlin": "1.46"
+          }
+        },
+        "Adler Mannheim vs Dusseldorfer EG": {
+          "Match Result (Inc OT)": {
+            "Adler Mannheim": "1.33",
+            "Dusseldorfer EG": "3.25"
+          },
+          "time": "2023-12-15 18:30:00",
+          "Handicap (Inc OT)": {
+            "Adler Mannheim -1.5": "2.00",
+            "Dusseldorfer EG +1.5": "1.73"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "1.91",
+            "Under 5.5": "1.80"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "2.40",
+            "4.5 - 6.5 Inc": "2.64",
+            "Under 4.5": "3.35"
+          },
+          "1st Period Result": {
+            "Adler Mannheim": "2.20",
+            "Dusseldorfer EG": "4.10",
+            "Draw": "2.56"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "2.00",
+            "Under 1.5": "1.73"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.95",
+            "2nd Period": "2.50",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "Adler Mannheim & Over 5.5 Goals": "2.60",
+            "Dusseldorfer EG & Over 5.5 Goals": "6.60",
+            "Dusseldorfer EG & Under 5.5 Goals": "5.20",
+            "Adler Mannheim & Under 5.5 Goals": "2.56"
+          },
+          "Match Result (No OT)": {
+            "Adler Mannheim": "1.54",
+            "Draw": "4.70",
+            "Dusseldorfer EG": "4.40"
+          }
+        },
+        "Augsburger Panther vs Fischtown Pinguins": {
+          "Match Result (Inc OT)": {
+            "Augsburger Panther": "2.50",
+            "Fischtown Pinguins": "1.50"
+          },
+          "time": "2023-12-15 18:30:00",
+          "Handicap (Inc OT)": {
+            "Fischtown Pinguins -1.5": "2.50",
+            "Augsburger Panther +1.5": "1.50"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "2.00",
+            "Under 5.5": "1.73"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "2.56",
+            "4.5 - 6.5 Inc": "2.64",
+            "Under 4.5": "3.10"
+          },
+          "1st Period Result": {
+            "Draw": "2.50",
+            "Augsburger Panther": "3.60",
+            "Fischtown Pinguins": "2.40"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "2.00",
+            "Under 1.5": "1.73"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.95",
+            "2nd Period": "2.50",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "Fischtown Pinguins & Over 5.5 Goals": "3.05",
+            "Augsburger Panther & Over 5.5 Goals": "5.20",
+            "Fischtown Pinguins & Under 5.5 Goals": "2.76",
+            "Augsburger Panther & Under 5.5 Goals": "4.25"
+          },
+          "Match Result (No OT)": {
+            "Augsburger Panther": "3.35",
+            "Draw": "4.20",
+            "Fischtown Pinguins": "1.80"
+          }
+        },
+        "SERC Wild Wings vs Lowen Frankfurt": {
+          "Match Result (Inc OT)": {
+            "SERC Wild Wings": "1.73",
+            "Lowen Frankfurt": "2.00"
+          },
+          "time": "2023-12-15 18:30:00",
+          "Handicap (Inc OT)": {
+            "SERC Wild Wings -1.5": "3.25",
+            "Lowen Frankfurt +1.5": "1.33"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "2.00",
+            "Under 5.5": "1.73"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "2.56",
+            "4.5 - 6.5 Inc": "2.64",
+            "Under 4.5": "3.10"
+          },
+          "1st Period Result": {
+            "Draw": "2.40",
+            "Lowen Frankfurt": "3.15",
+            "SERC Wild Wings": "2.80"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "2.10",
+            "Under 1.5": "1.67"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.95",
+            "2nd Period": "2.50",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "Lowen Frankfurt & Over 5.5 Goals": "4.25",
+            "SERC Wild Wings & Over 5.5 Goals": "3.60",
+            "SERC Wild Wings & Under 5.5 Goals": "3.10",
+            "Lowen Frankfurt & Under 5.5 Goals": "3.50"
+          },
+          "Match Result (No OT)": {
+            "SERC Wild Wings": "2.18",
+            "Draw": "4.10",
+            "Lowen Frankfurt": "2.60"
+          }
+        },
+        "Kolner Haie vs Straubing Tigers": {
+          "Match Result (Inc OT)": {
+            "Kolner Haie": "1.73",
+            "Straubing Tigers": "2.00"
+          },
+          "time": "2023-12-15 18:30:00",
+          "Handicap (Inc OT)": {
+            "Kolner Haie -1.5": "3.25",
+            "Straubing Tigers +1.5": "1.33"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "2.00",
+            "Under 5.5": "1.73"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "2.56",
+            "4.5 - 6.5 Inc": "2.64",
+            "Under 4.5": "3.10"
+          },
+          "1st Period Result": {
+            "Kolner Haie": "2.84",
+            "Straubing Tigers": "3.10",
+            "Draw": "2.40"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "2.10",
+            "Under 1.5": "1.67"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.95",
+            "2nd Period": "2.50",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "Kolner Haie & Over 5.5 Goals": "3.70",
+            "Straubing Tigers & Over 5.5 Goals": "4.10",
+            "Straubing Tigers & Under 5.5 Goals": "3.45",
+            "Kolner Haie & Under 5.5 Goals": "3.15"
+          },
+          "Match Result (No OT)": {
+            "Kolner Haie": "2.20",
+            "Draw": "4.10",
+            "Straubing Tigers": "2.56"
+          }
+        }
+      }
+    }
+  ],
+  "Kazakhstan": [
+    {}
+  ],
+  "Norway": [
+    {
+      "Norway 1st Division": {
+        "Furuset Ishockey vs Gjovik Hockey": {
+          "Match Result (Inc OT)": {
+            "Furuset Ishockey": "2.50",
+            "Gjovik Hockey": "1.50"
+          },
+          "time": "2023-12-13 18:00:00",
+          "Handicap (Inc OT)": {
+            "Gjovik Hockey -1.5": "2.38",
+            "Furuset Ishockey +1.5": "1.53"
+          },
+          "Total Goals (O/U)": {
+            "Over 6.5": "2.00",
+            "Under 6.5": "1.73"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "2.05",
+            "4.5 - 6.5 Inc": "2.80",
+            "Under 4.5": "4.10"
+          },
+          "1st Period Result": {
+            "Draw": "2.64",
+            "Gjovik Hockey": "2.36",
+            "Furuset Ishockey": "3.50"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "1.83",
+            "Under 1.5": "1.83"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "4.00",
+            "2nd Period": "2.50",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "Furuset Ishockey & Over 6.5 Goals": "5.40",
+            "Gjovik Hockey & Over 6.5 Goals": "3.05",
+            "Furuset Ishockey & Under 6.5 Goals": "4.40",
+            "Gjovik Hockey & Under 6.5 Goals": "2.64"
+          },
+          "Match Result (No OT)": {
+            "Furuset Ishockey": "3.40",
+            "Draw": "4.40",
+            "Gjovik Hockey": "1.76"
+          }
+        }
+      }
+    }
+  ],
+  "Sweden ": [
+    {
+      "Sweden HockeyAllsvenskan": {
+        "Vasterviks IK vs VIK Vasteras HK": {
+          "Match Result (Inc OT)": {
+            "Vasterviks IK": "2.50",
+            "VIK Vasteras HK": "1.50"
+          },
+          "time": "2023-12-13 18:00:00",
+          "Handicap (Inc OT)": {
+            "VIK Vasteras HK -1.5": "2.38",
+            "Vasterviks IK +1.5": "1.53"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "1.83",
+            "Under 5.5": "1.83"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "2.32",
+            "4.5 - 6.5 Inc": "2.70",
+            "Under 4.5": "3.45"
+          },
+          "1st Period Result": {
+            "Vasterviks IK": "3.65",
+            "Draw": "2.56",
+            "VIK Vasteras HK": "2.36"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "1.91",
+            "Under 1.5": "1.80"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.95",
+            "2nd Period": "2.50",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "VIK Vasteras HK & Over 5.5 Goals": "2.70",
+            "Vasterviks IK & Over 5.5 Goals": "5.20",
+            "Vasterviks IK & Under 5.5 Goals": "4.80",
+            "VIK Vasteras HK & Under 5.5 Goals": "2.84"
+          },
+          "Match Result (No OT)": {
+            "Vasterviks IK": "3.35",
+            "Draw": "4.40",
+            "VIK Vasteras HK": "1.78"
+          }
+        },
+        "Kalmar HC vs Nybro Vikings IF": {
+          "Match Result (Inc OT)": {
+            "Kalmar HC": "1.73",
+            "Nybro Vikings IF": "2.00"
+          },
+          "time": "2023-12-13 18:00:00",
+          "Handicap (Inc OT)": {
+            "Kalmar HC -1.5": "3.00",
+            "Nybro Vikings IF +1.5": "1.36"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "1.91",
+            "Under 5.5": "1.80"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "2.36",
+            "4.5 - 6.5 Inc": "2.70",
+            "Under 4.5": "3.40"
+          },
+          "1st Period Result": {
+            "Draw": "2.50",
+            "Nybro Vikings IF": "3.15",
+            "Kalmar HC": "2.70"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "2.00",
+            "Under 1.5": "1.73"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.95",
+            "2nd Period": "2.50",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "Kalmar HC & Over 5.5 Goals": "3.25",
+            "Nybro Vikings IF & Over 5.5 Goals": "4.10",
+            "Kalmar HC & Under 5.5 Goals": "3.20",
+            "Nybro Vikings IF & Under 5.5 Goals": "3.90"
+          },
+          "Match Result (No OT)": {
+            "Kalmar HC": "2.18",
+            "Draw": "4.10",
+            "Nybro Vikings IF": "2.60"
+          }
+        },
+        "Djurgardens IF vs Brynas IF": {
+          "Match Result (Inc OT)": {
+            "Djurgardens IF": "2.10",
+            "Brynas IF": "1.67"
+          },
+          "time": "2023-12-13 18:00:00",
+          "Handicap (Inc OT)": {
+            "Brynas IF -1.5": "2.75",
+            "Djurgardens IF +1.5": "1.40"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "1.80",
+            "Under 5.5": "1.91"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "2.20",
+            "4.5 - 6.5 Inc": "2.76",
+            "Under 4.5": "3.70"
+          },
+          "1st Period Result": {
+            "Draw": "2.56",
+            "Djurgardens IF": "3.20",
+            "Brynas IF": "2.60"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "1.91",
+            "Under 1.5": "1.80"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "4.00",
+            "2nd Period": "2.50",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "Djurgardens IF & Over 5.5 Goals": "4.10",
+            "Brynas IF & Over 5.5 Goals": "3.00",
+            "Brynas IF & Under 5.5 Goals": "3.30",
+            "Djurgardens IF & Under 5.5 Goals": "4.20"
+          },
+          "Match Result (No OT)": {
+            "Djurgardens IF": "2.64",
+            "Draw": "4.25",
+            "Brynas IF": "2.10"
+          }
+        },
+        "Almtuna IS vs Ostersund IK": {
+          "Match Result (Inc OT)": {
+            "Almtuna IS": "1.44",
+            "Ostersund IK": "2.62"
+          },
+          "time": "2023-12-13 18:00:00",
+          "Handicap (Inc OT)": {
+            "Almtuna IS -1.5": "2.38",
+            "Ostersund IK +1.5": "1.53"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "2.38",
+            "Under 5.5": "1.53"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "3.20",
+            "4.5 - 6.5 Inc": "2.60",
+            "Under 4.5": "2.56"
+          },
+          "1st Period Result": {
+            "Almtuna IS": "2.40",
+            "Draw": "2.40",
+            "Ostersund IK": "3.95"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "2.25",
+            "Under 1.5": "1.57"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.80",
+            "2nd Period": "2.56",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "Ostersund IK & Over 5.5 Goals": "7.00",
+            "Almtuna IS & Over 5.5 Goals": "3.35",
+            "Ostersund IK & Under 5.5 Goals": "4.10",
+            "Almtuna IS & Under 5.5 Goals": "2.30"
+          },
+          "Match Result (No OT)": {
+            "Almtuna IS": "1.78",
+            "Draw": "4.00",
+            "Ostersund IK": "3.60"
+          }
+        },
+        "Sodertalje SK vs IF Bjorkloven": {
+          "Match Result (Inc OT)": {
+            "Sodertalje SK": "1.73",
+            "IF Bjorkloven": "2.00"
+          },
+          "time": "2023-12-13 18:00:00",
+          "Handicap (Inc OT)": {
+            "Sodertalje SK -1.5": "3.00",
+            "IF Bjorkloven +1.5": "1.36"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "1.83",
+            "Under 5.5": "1.83"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "2.30",
+            "4.5 - 6.5 Inc": "2.70",
+            "Under 4.5": "3.50"
+          },
+          "1st Period Result": {
+            "Draw": "2.50",
+            "IF Bjorkloven": "3.15",
+            "Sodertalje SK": "2.70"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "1.91",
+            "Under 1.5": "1.80"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "4.00",
+            "2nd Period": "2.50",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "Sodertalje SK & Over 5.5 Goals": "3.20",
+            "IF Bjorkloven & Over 5.5 Goals": "4.00",
+            "IF Bjorkloven & Under 5.5 Goals": "3.95",
+            "Sodertalje SK & Under 5.5 Goals": "3.30"
+          },
+          "Match Result (No OT)": {
+            "Sodertalje SK": "2.18",
+            "Draw": "4.10",
+            "IF Bjorkloven": "2.60"
+          }
+        },
+        "BIK Karlskoga vs AIK IF Stockholm": {
+          "Match Result (Inc OT)": {
+            "BIK Karlskoga": "1.91",
+            "AIK IF Stockholm": "1.80"
+          },
+          "time": "2023-12-13 18:00:00",
+          "Handicap (Inc OT)": {
+            "AIK IF Stockholm -1.5": "3.25",
+            "BIK Karlskoga +1.5": "1.33"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "1.91",
+            "Under 5.5": "1.80"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 6.5": "2.40",
+            "4.5 - 6.5 Inc": "2.70",
+            "Under 4.5": "3.30"
+          },
+          "1st Period Result": {
+            "AIK IF Stockholm": "2.80",
+            "BIK Karlskoga": "3.05",
+            "Draw": "2.50"
+          },
+          "1st Period Goals": {
+            "Over 1.5": "2.00",
+            "Under 1.5": "1.73"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.95",
+            "2nd Period": "2.50",
+            "3rd Period": "2.28"
+          },
+          "Match Winner & Total Goals": {
+            "AIK IF Stockholm & Over 5.5 Goals": "3.50",
+            "BIK Karlskoga & Over 5.5 Goals": "4.00",
+            "BIK Karlskoga & Under 5.5 Goals": "3.60",
+            "AIK IF Stockholm & Under 5.5 Goals": "3.25"
+          },
+          "Match Result (No OT)": {
+            "BIK Karlskoga": "2.50",
+            "Draw": "4.00",
+            "AIK IF Stockholm": "2.28"
+          }
+        }
+      }
+    },
+    {}
+  ],
+  "Switzerland": [],
+  "United States": [
+    {
+      "NHL": {
+        "New York Rangers vs Toronto Maple Leafs": {
+          "Match Result (Inc OT)": {
+            "New York Rangers": "1.61",
+            "Toronto Maple Leafs": "2.25"
+          },
+          "time": "2023-12-13 00:05:00",
+          "Handicap (Inc OT)": {
+            "New York Rangers -3.5": "5.50",
+            "Toronto Maple Leafs -2.5": "5.50",
+            "New York Rangers -2.5": "3.25",
+            "Toronto Maple Leafs -1.5": "3.75",
+            "New York Rangers -1.5": "2.38",
+            "New York Rangers +1.5": "1.29",
+            "Toronto Maple Leafs +1.5": "1.57",
+            "Toronto Maple Leafs +2.5": "1.36",
+            "New York Rangers +2.5": "1.14",
+            "Toronto Maple Leafs +3.5": "1.14"
+          },
+          "Total Goals (O/U)": {
+            "Over 4.5": "1.22",
+            "Under 4.5": "4.33",
+            "Over 5.5": "1.61",
+            "Under 5.5": "2.25",
+            "Over 6.5": "1.95",
+            "Under 6.5": "1.83",
+            "Over 7.5": "3.00",
+            "Under 7.5": "1.40",
+            "Over 8.5": "4.33",
+            "Under 8.5": "1.22"
+          },
+          "Team to score 1st goal": {
+            "New York Rangers": "1.70",
+            "Toronto Maple Leafs": "2.02"
+          },
+          "Time Of First Match Goal (No OT)": {
+            "No Goals": "85.00",
+            "1 - 5 Minutes": "2.70",
+            "6 - 10 Minutes": "3.65",
+            "11 - 15 Minutes": "5.50",
+            "16 - 20 Minutes": "8.00",
+            "21 - 25 Minutes": "12.00",
+            "26 - 30 Minutes": "17.00",
+            "31 - 35 Minutes": "26.00",
+            "36 - 40 Minutes": "41.00",
+            "41 - 45 Minutes": "56.00",
+            "46 - 50 Minutes": "75.00",
+            "51 - 55 Minutes": "85.00",
+            "56 - 60 Minutes": "95.00"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 4.5": "1.20",
+            "2.5 - 4.5 Inc": "5.00",
+            "Under 2.5": "26.00",
+            "Over 6.5": "1.96",
+            "4.5 - 6.5 Inc": "2.84",
+            "Under 4.5": "4.40",
+            "Over 8.5": "4.30",
+            "6.5 - 8.5 Inc": "3.25",
+            "Under 6.5": "1.82"
+          },
+          "1st Period Result": {
+            "New York Rangers": "2.40",
+            "Draw": "2.76",
+            "Toronto Maple Leafs": "3.20"
+          },
+          "1st Period - Time Of 1st Goal": {
+            "No Goals": "5.00",
+            "1 - 5 Minutes": "2.70",
+            "6 - 10 Minutes": "3.65",
+            "11 - 15 Minutes": "5.50",
+            "16 - 20 Minutes": "8.00"
+          },
+          "1st Period Goals": {
+            "Over 1": "1.25",
+            "Under 1": "3.75",
+            "Over 2": "2.50",
+            "Under 2": "1.50",
+            "Over 1.5": "1.73",
+            "Under 1.5": "2.00"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.80",
+            "2nd Period": "3.00",
+            "3rd Period": "1.94"
+          },
+          "Match Winner & Total Goals": {
+            "Toronto Maple Leafs & Over 5.5 Goals": "3.75",
+            "New York Rangers & Over 5.5 Goals": "2.50",
+            "Toronto Maple Leafs & Under 5.5 Goals": "5.00",
+            "New York Rangers & Under 5.5 Goals": "3.95",
+            "Toronto Maple Leafs & Over 6.5 Goals": "4.40",
+            "New York Rangers & Over 6.5 Goals": "3.15",
+            "Toronto Maple Leafs & Under 6.5 Goals": "4.10",
+            "New York Rangers & Under 6.5 Goals": "3.00",
+            "Toronto Maple Leafs & Over 7.5 Goals": "7.00",
+            "New York Rangers & Over 7.5 Goals": "4.80",
+            "Toronto Maple Leafs & Under 7.5 Goals": "3.10",
+            "New York Rangers & Under 7.5 Goals": "2.25"
+          },
+          "Time Of First Goal Under/Over 9 mins": {
+            "After the 9th Minute": "2.05",
+            "Up to and including 9th Minute": "1.75",
+            "No Goals": "85.00"
+          },
+          "Match Result (No OT)": {
+            "New York Rangers": "1.94",
+            "Draw": "4.50",
+            "Toronto Maple Leafs": "3.10"
+          }
+        },
+        "Pittsburgh Penguins vs Arizona Coyotes": {
+          "Match Result (Inc OT)": {
+            "Pittsburgh Penguins": "1.53",
+            "Arizona Coyotes": "2.50"
+          },
+          "time": "2023-12-13 00:05:00",
+          "Handicap (Inc OT)": {
+            "Pittsburgh Penguins -3.5": "5.00",
+            "Pittsburgh Penguins -2.5": "3.00",
+            "Arizona Coyotes -2.5": "7.00",
+            "Pittsburgh Penguins -1.5": "2.20",
+            "Arizona Coyotes -1.5": "4.50",
+            "Arizona Coyotes +1.5": "1.67",
+            "Pittsburgh Penguins +1.5": "1.20",
+            "Arizona Coyotes +2.5": "1.40",
+            "Pittsburgh Penguins +2.5": "1.10",
+            "Arizona Coyotes +3.5": "1.17"
+          },
+          "Total Goals (O/U)": {
+            "Over 4.5": "1.25",
+            "Under 4.5": "4.00",
+            "Over 5.5": "1.67",
+            "Under 5.5": "2.20",
+            "Over 6.5": "2.00",
+            "Under 6.5": "1.80",
+            "Over 7.5": "3.50",
+            "Under 7.5": "1.33",
+            "Over 8.5": "4.50",
+            "Under 8.5": "1.20"
+          },
+          "Team to score 1st goal": {
+            "Pittsburgh Penguins": "1.65",
+            "Arizona Coyotes": "2.10"
+          },
+          "Time Of First Match Goal (No OT)": {
+            "No Goals": "80.00",
+            "1 - 5 Minutes": "2.76",
+            "6 - 10 Minutes": "3.70",
+            "11 - 15 Minutes": "5.50",
+            "16 - 20 Minutes": "8.00",
+            "21 - 25 Minutes": "11.00",
+            "26 - 30 Minutes": "17.00",
+            "31 - 35 Minutes": "26.00",
+            "36 - 40 Minutes": "36.00",
+            "41 - 45 Minutes": "56.00",
+            "46 - 50 Minutes": "65.00",
+            "51 - 55 Minutes": "85.00",
+            "56 - 60 Minutes": "95.00"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 4.5": "1.22",
+            "2.5 - 4.5 Inc": "4.70",
+            "Under 2.5": "23.00",
+            "Over 6.5": "2.05",
+            "4.5 - 6.5 Inc": "2.80",
+            "Under 4.5": "4.10",
+            "Over 8.5": "4.70",
+            "6.5 - 8.5 Inc": "3.30",
+            "Under 6.5": "1.74"
+          },
+          "1st Period Result": {
+            "Pittsburgh Penguins": "2.36",
+            "Arizona Coyotes": "3.45",
+            "Draw": "2.64"
+          },
+          "1st Period - Time Of 1st Goal": {
+            "No Goals": "4.90",
+            "1 - 5 Minutes": "2.76",
+            "6 - 10 Minutes": "3.70",
+            "11 - 15 Minutes": "5.50",
+            "16 - 20 Minutes": "7.40"
+          },
+          "1st Period Goals": {
+            "Over 1": "1.29",
+            "Under 1": "3.50",
+            "Over 2": "2.62",
+            "Under 2": "1.44",
+            "Over 1.5": "1.80",
+            "Under 1.5": "1.91"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.75",
+            "2nd Period": "3.00",
+            "3rd Period": "1.96"
+          },
+          "Match Winner & Total Goals": {
+            "Arizona Coyotes & Over 5.5 Goals": "4.40",
+            "Pittsburgh Penguins & Over 5.5 Goals": "2.40",
+            "Pittsburgh Penguins & Under 5.5 Goals": "3.50",
+            "Arizona Coyotes & Under 5.5 Goals": "5.20",
+            "Arizona Coyotes & Over 6.5 Goals": "5.20",
+            "Pittsburgh Penguins & Over 6.5 Goals": "3.10",
+            "Arizona Coyotes & Under 6.5 Goals": "4.40",
+            "Pittsburgh Penguins & Under 6.5 Goals": "2.64",
+            "Pittsburgh Penguins & Over 7.5 Goals": "4.90",
+            "Arizona Coyotes & Over 7.5 Goals": "8.60",
+            "Pittsburgh Penguins & Under 7.5 Goals": "2.02",
+            "Arizona Coyotes & Under 7.5 Goals": "3.30"
+          },
+          "Time Of First Goal Under/Over 9 mins": {
+            "After the 9th Minute": "2.02",
+            "Up to and including 9th Minute": "1.78",
+            "No Goals": "85.00"
+          },
+          "Match Result (No OT)": {
+            "Pittsburgh Penguins": "1.82",
+            "Draw": "4.50",
+            "Arizona Coyotes": "3.45"
+          }
+        },
+        "Ottawa Senators vs Carolina Hurricanes": {
+          "Match Result (Inc OT)": {
+            "Ottawa Senators": "2.00",
+            "Carolina Hurricanes": "1.80"
+          },
+          "time": "2023-12-13 00:05:00",
+          "Handicap (Inc OT)": {
+            "Carolina Hurricanes -3.5": "6.00",
+            "Ottawa Senators -2.5": "5.00",
+            "Carolina Hurricanes -2.5": "3.50",
+            "Ottawa Senators -1.5": "3.75",
+            "Carolina Hurricanes -1.5": "2.62",
+            "Ottawa Senators +1.5": "1.50",
+            "Carolina Hurricanes +1.5": "1.29",
+            "Carolina Hurricanes +2.5": "1.17",
+            "Ottawa Senators +2.5": "1.33",
+            "Ottawa Senators +3.5": "1.12"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "1.50",
+            "Under 5.5": "2.62",
+            "Over 6.5": "1.80",
+            "Under 6.5": "2.00",
+            "Over 7.5": "2.75",
+            "Under 7.5": "1.44",
+            "Over 8.5": "3.75",
+            "Under 8.5": "1.29",
+            "Over 9.5": "6.50",
+            "Under 9.5": "1.11"
+          },
+          "Team to score 1st goal": {
+            "Ottawa Senators": "1.96",
+            "Carolina Hurricanes": "1.76"
+          },
+          "Time Of First Match Goal (No OT)": {
+            "No Goals": "95.00",
+            "1 - 5 Minutes": "2.60",
+            "6 - 10 Minutes": "3.60",
+            "11 - 15 Minutes": "5.50",
+            "16 - 20 Minutes": "8.20",
+            "21 - 25 Minutes": "12.00",
+            "26 - 30 Minutes": "18.00",
+            "31 - 35 Minutes": "29.00",
+            "36 - 40 Minutes": "41.00",
+            "41 - 45 Minutes": "65.00",
+            "46 - 50 Minutes": "80.00",
+            "51 - 55 Minutes": "95.00",
+            "56 - 60 Minutes": "95.00"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 4.5": "1.15",
+            "2.5 - 4.5 Inc": "5.80",
+            "Under 2.5": "31.00",
+            "Over 6.5": "1.78",
+            "4.5 - 6.5 Inc": "3.05",
+            "Under 4.5": "5.00",
+            "Over 8.5": "3.70",
+            "6.5 - 8.5 Inc": "3.15",
+            "Under 6.5": "2.00"
+          },
+          "1st Period Result": {
+            "Carolina Hurricanes": "2.50",
+            "Draw": "2.76",
+            "Ottawa Senators": "3.05"
+          },
+          "1st Period - Time Of 1st Goal": {
+            "No Goals": "5.50",
+            "1 - 5 Minutes": "2.60",
+            "6 - 10 Minutes": "3.60",
+            "11 - 15 Minutes": "5.50",
+            "16 - 20 Minutes": "8.20"
+          },
+          "1st Period Goals": {
+            "Over 1": "1.22",
+            "Under 1": "4.00",
+            "Over 2": "2.25",
+            "Under 2": "1.57",
+            "Over 1.5": "1.67",
+            "Under 1.5": "2.10"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.80",
+            "2nd Period": "3.00",
+            "3rd Period": "1.94"
+          },
+          "Match Winner & Total Goals": {
+            "Ottawa Senators & Over 5.5 Goals": "3.25",
+            "Carolina Hurricanes & Over 5.5 Goals": "2.50",
+            "Ottawa Senators & Under 5.5 Goals": "5.20",
+            "Carolina Hurricanes & Under 5.5 Goals": "4.50",
+            "Ottawa Senators & Over 6.5 Goals": "3.80",
+            "Carolina Hurricanes & Over 6.5 Goals": "3.00",
+            "Ottawa Senators & Under 6.5 Goals": "4.30",
+            "Carolina Hurricanes & Under 6.5 Goals": "3.45",
+            "Ottawa Senators & Over 7.5 Goals": "5.80",
+            "Carolina Hurricanes & Over 7.5 Goals": "4.50",
+            "Carolina Hurricanes & Under 7.5 Goals": "2.50",
+            "Ottawa Senators & Under 7.5 Goals": "3.10"
+          },
+          "Time Of First Goal Under/Over 9 mins": {
+            "After the 9th Minute": "2.15",
+            "Up to and including 9th Minute": "1.70",
+            "No Goals": "95.00"
+          },
+          "Match Result (No OT)": {
+            "Ottawa Senators": "2.60",
+            "Draw": "4.30",
+            "Carolina Hurricanes": "2.25"
+          }
+        },
+        "St Louis Blues vs Detroit Red Wings": {
+          "Match Result (Inc OT)": {
+            "St Louis Blues": "1.80",
+            "Detroit Red Wings": "2.00"
+          },
+          "time": "2023-12-13 00:35:00",
+          "Handicap (Inc OT)": {
+            "St Louis Blues -3.5": "6.50",
+            "Detroit Red Wings -2.5": "5.00",
+            "St Louis Blues -2.5": "3.75",
+            "St Louis Blues -1.5": "2.62",
+            "Detroit Red Wings -1.5": "3.50",
+            "St Louis Blues +1.5": "1.33",
+            "Detroit Red Wings +1.5": "1.50",
+            "St Louis Blues +2.5": "1.17",
+            "Detroit Red Wings +2.5": "1.29",
+            "Detroit Red Wings +3.5": "1.11"
+          },
+          "Total Goals (O/U)": {
+            "Over 4.5": "1.20",
+            "Under 4.5": "4.50",
+            "Over 5.5": "1.57",
+            "Under 5.5": "2.38",
+            "Over 6.5": "1.91",
+            "Under 6.5": "1.91",
+            "Over 7.5": "3.00",
+            "Under 7.5": "1.40",
+            "Over 8.5": "4.00",
+            "Under 8.5": "1.25"
+          },
+          "Team to score 1st goal": {
+            "St Louis Blues": "1.76",
+            "Detroit Red Wings": "1.95"
+          },
+          "Time Of First Match Goal (No OT)": {
+            "No Goals": "85.00",
+            "1 - 5 Minutes": "2.70",
+            "6 - 10 Minutes": "3.65",
+            "11 - 15 Minutes": "5.50",
+            "16 - 20 Minutes": "8.00",
+            "21 - 25 Minutes": "11.00",
+            "26 - 30 Minutes": "18.00",
+            "31 - 35 Minutes": "26.00",
+            "36 - 40 Minutes": "41.00",
+            "41 - 45 Minutes": "56.00",
+            "46 - 50 Minutes": "75.00",
+            "51 - 55 Minutes": "85.00",
+            "56 - 60 Minutes": "95.00"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 4.5": "1.18",
+            "2.5 - 4.5 Inc": "5.20",
+            "Under 2.5": "29.00",
+            "Over 6.5": "1.90",
+            "4.5 - 6.5 Inc": "2.90",
+            "Under 4.5": "4.60",
+            "Over 8.5": "4.10",
+            "6.5 - 8.5 Inc": "3.20",
+            "Under 6.5": "1.88"
+          },
+          "1st Period Result": {
+            "Draw": "2.70",
+            "St Louis Blues": "2.60",
+            "Detroit Red Wings": "3.00"
+          },
+          "1st Period - Time Of 1st Goal": {
+            "No Goals": "5.20",
+            "1 - 5 Minutes": "2.70",
+            "6 - 10 Minutes": "3.60",
+            "11 - 15 Minutes": "5.40",
+            "16 - 20 Minutes": "8.00"
+          },
+          "1st Period Goals": {
+            "Over 1": "1.25",
+            "Under 1": "3.75",
+            "Over 2": "2.50",
+            "Under 2": "1.50",
+            "Over 1.5": "1.73",
+            "Under 1.5": "2.00"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.80",
+            "2nd Period": "3.00",
+            "3rd Period": "1.95"
+          },
+          "Match Winner & Total Goals": {
+            "St Louis Blues & Over 5.5 Goals": "2.70",
+            "Detroit Red Wings & Over 5.5 Goals": "3.30",
+            "St Louis Blues & Under 5.5 Goals": "4.20",
+            "Detroit Red Wings & Under 5.5 Goals": "4.80",
+            "St Louis Blues & Over 6.5 Goals": "3.25",
+            "Detroit Red Wings & Over 6.5 Goals": "4.00",
+            "St Louis Blues & Under 6.5 Goals": "3.25",
+            "Detroit Red Wings & Under 6.5 Goals": "3.90",
+            "Detroit Red Wings & Over 7.5 Goals": "6.00",
+            "St Louis Blues & Over 7.5 Goals": "5.20",
+            "St Louis Blues & Under 7.5 Goals": "2.40",
+            "Detroit Red Wings & Under 7.5 Goals": "2.90"
+          },
+          "Time Of First Goal Under/Over 9 mins": {
+            "After the 9th Minute": "2.08",
+            "Up to and including 9th Minute": "1.74",
+            "No Goals": "85.00"
+          },
+          "Match Result (No OT)": {
+            "St Louis Blues": "2.18",
+            "Draw": "4.30",
+            "Detroit Red Wings": "2.70"
+          }
+        },
+        "Nashville Predators vs Philadelphia Flyers": {
+          "Match Result (Inc OT)": {
+            "Nashville Predators": "1.80",
+            "Philadelphia Flyers": "2.00"
+          },
+          "time": "2023-12-13 01:05:00",
+          "Handicap (Inc OT)": {
+            "Nashville Predators -3.5": "6.50",
+            "Nashville Predators -2.5": "3.75",
+            "Philadelphia Flyers -2.5": "5.00",
+            "Nashville Predators -1.5": "2.62",
+            "Philadelphia Flyers -1.5": "3.50",
+            "Philadelphia Flyers +1.5": "1.50",
+            "Nashville Predators +1.5": "1.33",
+            "Philadelphia Flyers +2.5": "1.29",
+            "Nashville Predators +2.5": "1.17",
+            "Philadelphia Flyers +3.5": "1.11"
+          },
+          "Total Goals (O/U)": {
+            "Over 4.5": "1.29",
+            "Under 4.5": "3.75",
+            "Over 5.5": "1.73",
+            "Under 5.5": "2.10",
+            "Over 6.5": "2.10",
+            "Under 6.5": "1.73",
+            "Over 7.5": "3.50",
+            "Under 7.5": "1.33",
+            "Over 8.5": "5.00",
+            "Under 8.5": "1.17"
+          },
+          "Team to score 1st goal": {
+            "Nashville Predators": "1.76",
+            "Philadelphia Flyers": "1.95"
+          },
+          "Time Of First Match Goal (No OT)": {
+            "No Goals": "80.00",
+            "1 - 5 Minutes": "2.80",
+            "6 - 10 Minutes": "3.75",
+            "11 - 15 Minutes": "5.50",
+            "16 - 20 Minutes": "7.40",
+            "21 - 25 Minutes": "11.00",
+            "26 - 30 Minutes": "17.00",
+            "31 - 35 Minutes": "23.00",
+            "36 - 40 Minutes": "36.00",
+            "41 - 45 Minutes": "56.00",
+            "46 - 50 Minutes": "65.00",
+            "51 - 55 Minutes": "85.00",
+            "56 - 60 Minutes": "95.00"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 4.5": "1.25",
+            "2.5 - 4.5 Inc": "4.40",
+            "Under 2.5": "21.00",
+            "Over 6.5": "2.10",
+            "4.5 - 6.5 Inc": "2.76",
+            "Under 4.5": "3.90",
+            "Over 8.5": "5.00",
+            "6.5 - 8.5 Inc": "3.35",
+            "Under 6.5": "1.70"
+          },
+          "1st Period Result": {
+            "Philadelphia Flyers": "3.00",
+            "Nashville Predators": "2.60",
+            "Draw": "2.70"
+          },
+          "1st Period - Time Of 1st Goal": {
+            "No Goals": "4.80",
+            "1 - 5 Minutes": "2.80",
+            "6 - 10 Minutes": "3.75",
+            "11 - 15 Minutes": "5.50",
+            "16 - 20 Minutes": "7.40"
+          },
+          "1st Period Goals": {
+            "Over 1": "1.29",
+            "Under 1": "3.50",
+            "Over 2": "2.62",
+            "Under 2": "1.44",
+            "Over 1.5": "1.80",
+            "Under 1.5": "1.91"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.80",
+            "2nd Period": "3.00",
+            "3rd Period": "1.95"
+          },
+          "Match Winner & Total Goals": {
+            "Philadelphia Flyers & Over 5.5 Goals": "3.60",
+            "Nashville Predators & Over 5.5 Goals": "2.90",
+            "Nashville Predators & Under 5.5 Goals": "3.80",
+            "Philadelphia Flyers & Under 5.5 Goals": "4.30",
+            "Nashville Predators & Over 6.5 Goals": "3.70",
+            "Philadelphia Flyers & Over 6.5 Goals": "4.40",
+            "Philadelphia Flyers & Under 6.5 Goals": "3.50",
+            "Nashville Predators & Under 6.5 Goals": "2.96",
+            "Nashville Predators & Over 7.5 Goals": "5.80",
+            "Philadelphia Flyers & Over 7.5 Goals": "7.00",
+            "Philadelphia Flyers & Under 7.5 Goals": "2.70",
+            "Nashville Predators & Under 7.5 Goals": "2.30"
+          },
+          "Time Of First Goal Under/Over 9 mins": {
+            "After the 9th Minute": "2.00",
+            "Up to and including 9th Minute": "1.80",
+            "No Goals": "75.00"
+          },
+          "Match Result (No OT)": {
+            "Nashville Predators": "2.15",
+            "Draw": "4.20",
+            "Philadelphia Flyers": "2.80"
+          }
+        },
+        "Vancouver Canucks vs Tampa Bay Lightning": {
+          "Match Result (Inc OT)": {
+            "Vancouver Canucks": "1.80",
+            "Tampa Bay Lightning": "2.00"
+          },
+          "time": "2023-12-13 03:05:00",
+          "Handicap (Inc OT)": {
+            "Vancouver Canucks -3.5": "7.00",
+            "Tampa Bay Lightning -2.5": "5.00",
+            "Vancouver Canucks -2.5": "4.00",
+            "Vancouver Canucks -1.5": "2.75",
+            "Tampa Bay Lightning -1.5": "3.50",
+            "Vancouver Canucks +1.5": "1.33",
+            "Tampa Bay Lightning +1.5": "1.44",
+            "Tampa Bay Lightning +2.5": "1.25",
+            "Vancouver Canucks +2.5": "1.17",
+            "Tampa Bay Lightning +3.5": "1.10"
+          },
+          "Total Goals (O/U)": {
+            "Over 4.5": "1.22",
+            "Under 4.5": "4.33",
+            "Over 5.5": "1.67",
+            "Under 5.5": "2.20",
+            "Over 6.5": "2.00",
+            "Under 6.5": "1.80",
+            "Over 7.5": "3.25",
+            "Under 7.5": "1.36",
+            "Over 8.5": "4.33",
+            "Under 8.5": "1.22"
+          },
+          "Team to score 1st goal": {
+            "Vancouver Canucks": "1.78",
+            "Tampa Bay Lightning": "1.92"
+          },
+          "Time Of First Match Goal (No OT)": {
+            "No Goals": "80.00",
+            "1 - 5 Minutes": "2.76",
+            "6 - 10 Minutes": "3.70",
+            "11 - 15 Minutes": "5.50",
+            "16 - 20 Minutes": "8.00",
+            "21 - 25 Minutes": "11.00",
+            "26 - 30 Minutes": "17.00",
+            "31 - 35 Minutes": "26.00",
+            "36 - 40 Minutes": "36.00",
+            "41 - 45 Minutes": "56.00",
+            "46 - 50 Minutes": "65.00",
+            "51 - 55 Minutes": "85.00",
+            "56 - 60 Minutes": "95.00"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 4.5": "1.20",
+            "2.5 - 4.5 Inc": "5.00",
+            "Under 2.5": "26.00",
+            "Over 6.5": "1.98",
+            "4.5 - 6.5 Inc": "2.84",
+            "Under 4.5": "4.30",
+            "Over 8.5": "4.40",
+            "6.5 - 8.5 Inc": "3.25",
+            "Under 6.5": "1.80"
+          },
+          "1st Period Result": {
+            "Vancouver Canucks": "2.70",
+            "Draw": "2.64",
+            "Tampa Bay Lightning": "2.96"
+          },
+          "1st Period - Time Of 1st Goal": {
+            "No Goals": "5.00",
+            "1 - 5 Minutes": "2.76",
+            "6 - 10 Minutes": "3.70",
+            "11 - 15 Minutes": "5.50",
+            "16 - 20 Minutes": "7.40"
+          },
+          "1st Period Goals": {
+            "Over 1": "1.29",
+            "Under 1": "3.50",
+            "Over 2": "2.62",
+            "Under 2": "1.44",
+            "Over 1.5": "1.80",
+            "Under 1.5": "1.91"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.75",
+            "2nd Period": "3.00",
+            "3rd Period": "1.96"
+          },
+          "Match Winner & Total Goals": {
+            "Vancouver Canucks & Over 5.5 Goals": "2.84",
+            "Tampa Bay Lightning & Over 5.5 Goals": "3.35",
+            "Vancouver Canucks & Under 5.5 Goals": "4.00",
+            "Tampa Bay Lightning & Under 5.5 Goals": "4.50",
+            "Vancouver Canucks & Over 6.5 Goals": "3.50",
+            "Tampa Bay Lightning & Over 6.5 Goals": "4.00",
+            "Tampa Bay Lightning & Under 6.5 Goals": "3.65",
+            "Vancouver Canucks & Under 6.5 Goals": "3.20",
+            "Tampa Bay Lightning & Over 7.5 Goals": "6.40",
+            "Vancouver Canucks & Over 7.5 Goals": "5.60",
+            "Vancouver Canucks & Under 7.5 Goals": "2.40",
+            "Tampa Bay Lightning & Under 7.5 Goals": "2.70"
+          },
+          "Time Of First Goal Under/Over 9 mins": {
+            "After the 9th Minute": "2.05",
+            "Up to and including 9th Minute": "1.76",
+            "No Goals": "80.00"
+          },
+          "Match Result (No OT)": {
+            "Vancouver Canucks": "2.28",
+            "Draw": "4.10",
+            "Tampa Bay Lightning": "2.64"
+          }
+        },
+        "Vegas Golden Knights vs Calgary Flames": {
+          "Match Result (Inc OT)": {
+            "Vegas Golden Knights": "1.53",
+            "Calgary Flames": "2.50"
+          },
+          "time": "2023-12-13 03:05:00",
+          "Handicap (Inc OT)": {
+            "Vegas Golden Knights -3.5": "5.00",
+            "Calgary Flames -2.5": "7.50",
+            "Vegas Golden Knights -2.5": "3.00",
+            "Vegas Golden Knights -1.5": "2.20",
+            "Calgary Flames -1.5": "5.00",
+            "Vegas Golden Knights +1.5": "1.17",
+            "Calgary Flames +1.5": "1.67",
+            "Calgary Flames +2.5": "1.40",
+            "Vegas Golden Knights +2.5": "1.08",
+            "Calgary Flames +3.5": "1.17"
+          },
+          "Total Goals (O/U)": {
+            "Over 4.5": "1.25",
+            "Under 4.5": "4.00",
+            "Over 5.5": "1.67",
+            "Under 5.5": "2.20",
+            "Over 6.5": "2.00",
+            "Under 6.5": "1.80",
+            "Over 7.5": "3.25",
+            "Under 7.5": "1.36",
+            "Over 8.5": "4.50",
+            "Under 8.5": "1.20"
+          },
+          "Team to score 1st goal": {
+            "Vegas Golden Knights": "1.62",
+            "Calgary Flames": "2.15"
+          },
+          "Time Of First Match Goal (No OT)": {
+            "No Goals": "80.00",
+            "1 - 5 Minutes": "2.76",
+            "6 - 10 Minutes": "3.70",
+            "11 - 15 Minutes": "5.50",
+            "16 - 20 Minutes": "8.00",
+            "21 - 25 Minutes": "11.00",
+            "26 - 30 Minutes": "17.00",
+            "31 - 35 Minutes": "26.00",
+            "36 - 40 Minutes": "36.00",
+            "41 - 45 Minutes": "56.00",
+            "46 - 50 Minutes": "65.00",
+            "51 - 55 Minutes": "85.00",
+            "56 - 60 Minutes": "95.00"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 4.5": "1.22",
+            "2.5 - 4.5 Inc": "4.70",
+            "Under 2.5": "23.00",
+            "Over 6.5": "2.05",
+            "4.5 - 6.5 Inc": "2.80",
+            "Under 4.5": "4.10",
+            "Over 8.5": "4.60",
+            "6.5 - 8.5 Inc": "3.30",
+            "Under 6.5": "1.76"
+          },
+          "1st Period Result": {
+            "Vegas Golden Knights": "2.32",
+            "Draw": "2.70",
+            "Calgary Flames": "3.50"
+          },
+          "1st Period - Time Of 1st Goal": {
+            "No Goals": "5.00",
+            "1 - 5 Minutes": "2.76",
+            "6 - 10 Minutes": "3.70",
+            "11 - 15 Minutes": "5.50",
+            "16 - 20 Minutes": "7.40"
+          },
+          "1st Period Goals": {
+            "Over 1": "1.29",
+            "Under 1": "3.50",
+            "Over 2": "2.62",
+            "Under 2": "1.44",
+            "Over 1.5": "1.80",
+            "Under 1.5": "1.91"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.75",
+            "2nd Period": "3.00",
+            "3rd Period": "1.96"
+          },
+          "Match Winner & Total Goals": {
+            "Calgary Flames & Over 5.5 Goals": "4.50",
+            "Vegas Golden Knights & Over 5.5 Goals": "2.40",
+            "Vegas Golden Knights & Under 5.5 Goals": "3.45",
+            "Calgary Flames & Under 5.5 Goals": "5.20",
+            "Calgary Flames & Over 6.5 Goals": "5.40",
+            "Vegas Golden Knights & Over 6.5 Goals": "3.00",
+            "Vegas Golden Knights & Under 6.5 Goals": "2.64",
+            "Calgary Flames & Under 6.5 Goals": "4.50",
+            "Vegas Golden Knights & Over 7.5 Goals": "4.70",
+            "Calgary Flames & Over 7.5 Goals": "8.60",
+            "Calgary Flames & Under 7.5 Goals": "3.40",
+            "Vegas Golden Knights & Under 7.5 Goals": "2.02"
+          },
+          "Time Of First Goal Under/Over 9 mins": {
+            "After the 9th Minute": "2.02",
+            "Up to and including 9th Minute": "1.78",
+            "No Goals": "80.00"
+          },
+          "Match Result (No OT)": {
+            "Vegas Golden Knights": "1.85",
+            "Draw": "4.40",
+            "Calgary Flames": "3.40"
+          }
+        },
+        "Seattle Kraken vs Florida Panthers": {
+          "Match Result (Inc OT)": {
+            "Seattle Kraken": "2.25",
+            "Florida Panthers": "1.61"
+          },
+          "time": "2023-12-13 03:05:00",
+          "Handicap (Inc OT)": {
+            "Florida Panthers -3.5": "5.50",
+            "Florida Panthers -2.5": "3.25",
+            "Seattle Kraken -2.5": "5.50",
+            "Florida Panthers -1.5": "2.38",
+            "Seattle Kraken -1.5": "3.75",
+            "Seattle Kraken +1.5": "1.57",
+            "Florida Panthers +1.5": "1.29",
+            "Seattle Kraken +2.5": "1.36",
+            "Florida Panthers +2.5": "1.14",
+            "Seattle Kraken +3.5": "1.14"
+          },
+          "Total Goals (O/U)": {
+            "Over 4.5": "1.25",
+            "Under 4.5": "4.00",
+            "Over 5.5": "1.67",
+            "Under 5.5": "2.20",
+            "Over 6.5": "2.00",
+            "Under 6.5": "1.80",
+            "Over 7.5": "3.25",
+            "Under 7.5": "1.36",
+            "Over 8.5": "4.50",
+            "Under 8.5": "1.20"
+          },
+          "Team to score 1st goal": {
+            "Seattle Kraken": "2.02",
+            "Florida Panthers": "1.70"
+          },
+          "Time Of First Match Goal (No OT)": {
+            "No Goals": "80.00",
+            "1 - 5 Minutes": "2.76",
+            "6 - 10 Minutes": "3.70",
+            "11 - 15 Minutes": "5.50",
+            "16 - 20 Minutes": "8.00",
+            "21 - 25 Minutes": "11.00",
+            "26 - 30 Minutes": "17.00",
+            "31 - 35 Minutes": "26.00",
+            "36 - 40 Minutes": "36.00",
+            "41 - 45 Minutes": "56.00",
+            "46 - 50 Minutes": "65.00",
+            "51 - 55 Minutes": "85.00",
+            "56 - 60 Minutes": "95.00"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 4.5": "1.22",
+            "2.5 - 4.5 Inc": "4.70",
+            "Under 2.5": "23.00",
+            "Over 6.5": "2.05",
+            "4.5 - 6.5 Inc": "2.80",
+            "Under 4.5": "4.10",
+            "Over 8.5": "4.70",
+            "6.5 - 8.5 Inc": "3.30",
+            "Under 6.5": "1.74"
+          },
+          "1st Period Result": {
+            "Florida Panthers": "2.50",
+            "Seattle Kraken": "3.20",
+            "Draw": "2.70"
+          },
+          "1st Period - Time Of 1st Goal": {
+            "No Goals": "4.90",
+            "1 - 5 Minutes": "2.76",
+            "6 - 10 Minutes": "3.70",
+            "11 - 15 Minutes": "5.50",
+            "16 - 20 Minutes": "7.40"
+          },
+          "1st Period Goals": {
+            "Over 1": "1.29",
+            "Under 1": "3.50",
+            "Over 2": "2.62",
+            "Under 2": "1.44",
+            "Over 1.5": "1.80",
+            "Under 1.5": "1.91"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.80",
+            "2nd Period": "3.00",
+            "3rd Period": "1.95"
+          },
+          "Match Winner & Total Goals": {
+            "Florida Panthers & Over 5.5 Goals": "2.64",
+            "Seattle Kraken & Over 5.5 Goals": "3.80",
+            "Seattle Kraken & Under 5.5 Goals": "4.80",
+            "Florida Panthers & Under 5.5 Goals": "3.70",
+            "Florida Panthers & Over 6.5 Goals": "3.30",
+            "Seattle Kraken & Over 6.5 Goals": "4.70",
+            "Seattle Kraken & Under 6.5 Goals": "3.95",
+            "Florida Panthers & Under 6.5 Goals": "2.84",
+            "Seattle Kraken & Over 7.5 Goals": "7.40",
+            "Florida Panthers & Over 7.5 Goals": "5.20",
+            "Seattle Kraken & Under 7.5 Goals": "3.00",
+            "Florida Panthers & Under 7.5 Goals": "2.18"
+          },
+          "Time Of First Goal Under/Over 9 mins": {
+            "After the 9th Minute": "2.02",
+            "Up to and including 9th Minute": "1.78",
+            "No Goals": "85.00"
+          },
+          "Match Result (No OT)": {
+            "Seattle Kraken": "3.00",
+            "Draw": "4.40",
+            "Florida Panthers": "2.00"
+          }
+        },
+        "Edmonton Oilers vs Chicago Blackhawks": {
+          "Match Result (Inc OT)": {
+            "Edmonton Oilers": "1.25",
+            "Chicago Blackhawks": "4.00"
+          },
+          "time": "2023-12-13 03:05:00",
+          "Handicap (Inc OT)": {
+            "Edmonton Oilers -4.5": "6.00",
+            "Edmonton Oilers -3.5": "2.75",
+            "Edmonton Oilers -2.5": "1.95",
+            "Chicago Blackhawks -1.5": "7.50",
+            "Edmonton Oilers -1.5": "1.61",
+            "Chicago Blackhawks +1.5": "2.25",
+            "Edmonton Oilers +1.5": "1.08",
+            "Chicago Blackhawks +2.5": "1.83",
+            "Chicago Blackhawks +3.5": "1.44",
+            "Chicago Blackhawks +4.5": "1.12"
+          },
+          "Total Goals (O/U)": {
+            "Over 5.5": "1.44",
+            "Under 5.5": "2.75",
+            "Over 6.5": "1.73",
+            "Under 6.5": "2.10",
+            "Over 7.5": "2.50",
+            "Under 7.5": "1.53",
+            "Over 8.5": "3.50",
+            "Under 8.5": "1.33",
+            "Over 9.5": "6.00",
+            "Under 9.5": "1.12"
+          },
+          "Team to score 1st goal": {
+            "Edmonton Oilers": "1.45",
+            "Chicago Blackhawks": "2.56"
+          },
+          "Time Of First Match Goal (No OT)": {
+            "No Goals": "95.00",
+            "1 - 5 Minutes": "2.50",
+            "6 - 10 Minutes": "3.50",
+            "11 - 15 Minutes": "5.60",
+            "16 - 20 Minutes": "8.60",
+            "21 - 25 Minutes": "13.00",
+            "26 - 30 Minutes": "20.00",
+            "31 - 35 Minutes": "31.00",
+            "36 - 40 Minutes": "46.00",
+            "41 - 45 Minutes": "75.00",
+            "46 - 50 Minutes": "85.00",
+            "51 - 55 Minutes": "95.00",
+            "56 - 60 Minutes": "95.00"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 4.5": "1.14",
+            "2.5 - 4.5 Inc": "6.00",
+            "Under 2.5": "36.00",
+            "Over 6.5": "1.72",
+            "4.5 - 6.5 Inc": "3.05",
+            "Under 4.5": "5.50",
+            "Over 8.5": "3.50",
+            "6.5 - 8.5 Inc": "3.05",
+            "Under 6.5": "2.10"
+          },
+          "1st Period Result": {
+            "Draw": "3.05",
+            "Chicago Blackhawks": "4.40",
+            "Edmonton Oilers": "1.86"
+          },
+          "1st Period - Time Of 1st Goal": {
+            "No Goals": "6.00",
+            "1 - 5 Minutes": "2.50",
+            "6 - 10 Minutes": "3.50",
+            "11 - 15 Minutes": "5.60",
+            "16 - 20 Minutes": "8.60"
+          },
+          "1st Period Goals": {
+            "Over 2": "2.10",
+            "Under 2": "1.67",
+            "Over 1.5": "1.61",
+            "Under 1.5": "2.20",
+            "Over 2.5": "2.75",
+            "Under 2.5": "1.40"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.75",
+            "2nd Period": "2.96",
+            "3rd Period": "1.98"
+          },
+          "Match Winner & Total Goals": {
+            "Chicago Blackhawks & Over 5.5 Goals": "6.00",
+            "Edmonton Oilers & Over 5.5 Goals": "1.75",
+            "Chicago Blackhawks & Under 5.5 Goals": "8.60",
+            "Edmonton Oilers & Under 5.5 Goals": "3.80",
+            "Edmonton Oilers & Over 6.5 Goals": "2.15",
+            "Chicago Blackhawks & Over 6.5 Goals": "6.60",
+            "Chicago Blackhawks & Under 6.5 Goals": "7.40",
+            "Edmonton Oilers & Under 6.5 Goals": "2.70",
+            "Chicago Blackhawks & Over 7.5 Goals": "11.00",
+            "Edmonton Oilers & Over 7.5 Goals": "3.05",
+            "Edmonton Oilers & Under 7.5 Goals": "1.96",
+            "Chicago Blackhawks & Under 7.5 Goals": "5.40"
+          },
+          "Time Of First Goal Under/Over 9 mins": {
+            "After the 9th Minute": "2.20",
+            "Up to and including 9th Minute": "1.66",
+            "No Goals": "95.00"
+          },
+          "Match Result (No OT)": {
+            "Edmonton Oilers": "1.38",
+            "Draw": "6.00",
+            "Chicago Blackhawks": "6.00"
+          }
+        },
+        "San Jose Sharks vs Winnipeg Jets": {
+          "Match Result (Inc OT)": {
+            "San Jose Sharks": "2.62",
+            "Winnipeg Jets": "1.50"
+          },
+          "time": "2023-12-13 03:35:00",
+          "Handicap (Inc OT)": {
+            "Winnipeg Jets -3.5": "4.50",
+            "Winnipeg Jets -2.5": "2.75",
+            "San Jose Sharks -2.5": "8.00",
+            "Winnipeg Jets -1.5": "2.10",
+            "San Jose Sharks -1.5": "5.00",
+            "San Jose Sharks +1.5": "1.73",
+            "Winnipeg Jets +1.5": "1.17",
+            "San Jose Sharks +2.5": "1.44",
+            "Winnipeg Jets +2.5": "1.07",
+            "San Jose Sharks +3.5": "1.20"
+          },
+          "Total Goals (O/U)": {
+            "Over 4.5": "1.25",
+            "Under 4.5": "4.00",
+            "Over 5.5": "1.67",
+            "Under 5.5": "2.20",
+            "Over 6.5": "2.00",
+            "Under 6.5": "1.80",
+            "Over 7.5": "3.25",
+            "Under 7.5": "1.36",
+            "Over 8.5": "4.50",
+            "Under 8.5": "1.20"
+          },
+          "Team to score 1st goal": {
+            "San Jose Sharks": "2.20",
+            "Winnipeg Jets": "1.60"
+          },
+          "Time Of First Match Goal (No OT)": {
+            "No Goals": "80.00",
+            "1 - 5 Minutes": "2.76",
+            "6 - 10 Minutes": "3.70",
+            "11 - 15 Minutes": "5.50",
+            "16 - 20 Minutes": "8.00",
+            "21 - 25 Minutes": "11.00",
+            "26 - 30 Minutes": "17.00",
+            "31 - 35 Minutes": "26.00",
+            "36 - 40 Minutes": "36.00",
+            "41 - 45 Minutes": "56.00",
+            "46 - 50 Minutes": "65.00",
+            "51 - 55 Minutes": "85.00",
+            "56 - 60 Minutes": "95.00"
+          },
+          "Total Goals Bands (inc OT)": {
+            "Over 4.5": "1.22",
+            "2.5 - 4.5 Inc": "4.70",
+            "Under 2.5": "23.00",
+            "Over 6.5": "2.05",
+            "4.5 - 6.5 Inc": "2.80",
+            "Under 4.5": "4.10",
+            "Over 8.5": "4.70",
+            "6.5 - 8.5 Inc": "3.30",
+            "Under 6.5": "1.76"
+          },
+          "1st Period Result": {
+            "Winnipeg Jets": "2.28",
+            "Draw": "2.70",
+            "San Jose Sharks": "3.60"
+          },
+          "1st Period - Time Of 1st Goal": {
+            "No Goals": "5.00",
+            "1 - 5 Minutes": "2.76",
+            "6 - 10 Minutes": "3.70",
+            "11 - 15 Minutes": "5.50",
+            "16 - 20 Minutes": "7.40"
+          },
+          "1st Period Goals": {
+            "Over 1": "1.29",
+            "Under 1": "3.50",
+            "Over 2": "2.62",
+            "Under 2": "1.44",
+            "Over 1.5": "1.80",
+            "Under 1.5": "1.91"
+          },
+          "Highest Scoring Period": {
+            "1st Period": "3.75",
+            "2nd Period": "3.00",
+            "3rd Period": "1.96"
+          },
+          "Match Winner & Total Goals": {
+            "San Jose Sharks & Over 5.5 Goals": "4.60",
+            "Winnipeg Jets & Over 5.5 Goals": "2.32",
+            "Winnipeg Jets & Under 5.5 Goals": "3.40",
+            "San Jose Sharks & Under 5.5 Goals": "5.60",
+            "Winnipeg Jets & Over 6.5 Goals": "2.90",
+            "San Jose Sharks & Over 6.5 Goals": "5.50",
+            "San Jose Sharks & Under 6.5 Goals": "4.70",
+            "Winnipeg Jets & Under 6.5 Goals": "2.64",
+            "San Jose Sharks & Over 7.5 Goals": "9.00",
+            "Winnipeg Jets & Over 7.5 Goals": "4.60",
+            "Winnipeg Jets & Under 7.5 Goals": "2.00",
+            "San Jose Sharks & Under 7.5 Goals": "3.50"
+          },
+          "Time Of First Goal Under/Over 9 mins": {
+            "After the 9th Minute": "2.05",
+            "Up to and including 9th Minute": "1.76",
+            "No Goals": "80.00"
+          },
+          "Match Result (No OT)": {
+            "San Jose Sharks": "3.80",
+            "Draw": "4.40",
+            "Winnipeg Jets": "1.75"
+          }
+        },
+        "Montreal Canadiens vs Pittsburgh Penguins": {
+          "Match Result (Inc OT)": {},
+          "Handicap (Inc OT)": {},
+          "Total Goals (O/U)": {},
+          "Team to score 1st goal": {
+            "Montreal Canadiens": "2.10",
+            "Pittsburgh Penguins": "1.66"
+          },
+          "time": "2023-12-14 00:05:00",
+          "Time Of First Match Goal (No OT)": {},
+          "Total Goals Bands (inc OT)": {},
+          "1st Period Result": {},
+          "1st Period - Time Of 1st Goal": {},
+          "1st Period Goals": {},
+          "Highest Scoring Period": {},
+          "Match Winner & Total Goals": {},
+          "Time Of First Goal Under/Over 9 mins": {},
+          "Match Result (No OT)": {}
+        },
+        "New York Islanders vs Anaheim Ducks": {
+          "Match Result (Inc OT)": {},
+          "Handicap (Inc OT)": {},
+          "Total Goals (O/U)": {},
+          "Team to score 1st goal": {
+            "New York Islanders": "1.54",
+            "Anaheim Ducks": "2.32"
+          },
+          "time": "2023-12-14 00:35:00",
+          "Time Of First Match Goal (No OT)": {},
+          "Total Goals Bands (inc OT)": {},
+          "1st Period Result": {},
+          "1st Period - Time Of 1st Goal": {},
+          "1st Period Goals": {},
+          "Highest Scoring Period": {},
+          "Match Winner & Total Goals": {},
+          "Time Of First Goal Under/Over 9 mins": {},
+          "Match Result (No OT)": {}
+        },
+        "New Jersey Devils vs Boston Bruins": {
+          "Match Result (Inc OT)": {},
+          "Handicap (Inc OT)": {},
+          "Total Goals (O/U)": {},
+          "Team to score 1st goal": {
+            "New Jersey Devils": "1.85",
+            "Boston Bruins": "1.85"
+          },
+          "time": "2023-12-14 00:35:00",
+          "Time Of First Match Goal (No OT)": {},
+          "Total Goals Bands (inc OT)": {},
+          "1st Period Result": {},
+          "1st Period - Time Of 1st Goal": {},
+          "1st Period Goals": {},
+          "Highest Scoring Period": {},
+          "Match Winner & Total Goals": {},
+          "Time Of First Goal Under/Over 9 mins": {},
+          "Match Result (No OT)": {}
+        },
+        "Colorado Avalanche vs Buffalo Sabres": {
+          "Match Result (Inc OT)": {},
+          "Handicap (Inc OT)": {},
+          "Total Goals (O/U)": {},
+          "Team to score 1st goal": {
+            "Colorado Avalanche": "1.56",
+            "Buffalo Sabres": "2.28"
+          },
+          "time": "2023-12-14 03:05:00",
+          "Time Of First Match Goal (No OT)": {},
+          "Total Goals Bands (inc OT)": {},
+          "1st Period Result": {},
+          "1st Period - Time Of 1st Goal": {},
+          "1st Period Goals": {},
+          "Highest Scoring Period": {},
+          "Match Winner & Total Goals": {},
+          "Time Of First Goal Under/Over 9 mins": {},
+          "Match Result (No OT)": {}
+        },
+        "Los Angeles Kings vs Winnipeg Jets": {
+          "Match Result (Inc OT)": {},
+          "Handicap (Inc OT)": {},
+          "Total Goals (O/U)": {},
+          "Team to score 1st goal": {
+            "Los Angeles Kings": "1.70",
+            "Winnipeg Jets": "2.02"
+          },
+          "time": "2023-12-14 03:35:00",
+          "Time Of First Match Goal (No OT)": {},
+          "Total Goals Bands (inc OT)": {},
+          "1st Period Result": {},
+          "1st Period - Time Of 1st Goal": {},
+          "1st Period Goals": {},
+          "Highest Scoring Period": {},
+          "Match Winner & Total Goals": {},
+          "Time Of First Goal Under/Over 9 mins": {},
+          "Match Result (No OT)": {}
+        }
+      }
+    }
+  ]
+}
