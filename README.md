@@ -1,1 +1,1 @@
-## This repository contains code snippets for my arbbot
+## This repository contains code snippets for WagerBrain
