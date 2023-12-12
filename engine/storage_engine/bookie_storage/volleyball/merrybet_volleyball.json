@@ -1,0 +1,414 @@
+{
+  "Spain": [
+    {},
+    {
+      "Superliga, Group A, Women": {
+        "CV Emeve - C V Sant Cugat Tma": {
+          "Winner": {
+            "CV Emeve": 1.55,
+            "C V Sant Cugat Tma": 2.3
+          },
+          "time": 1702198800000
+        }
+      }
+    }
+  ],
+  "Turkiye": [
+    {
+      "1. Lig": {
+        "Tursad - Cizre Bld": {
+          "Winner": {
+            "Tursad": 1.85,
+            "Cizre Bld": 1.85
+          },
+          "time": 1702202400000,
+          "Under/Over 184.5 points": {
+            "Under 184.5 points": 1.84,
+            "Over 184.5 points": 1.86
+          }
+        },
+        "Alanya Belediye - Galatasaray Istanbul": {
+          "Winner": {
+            "Alanya Belediye": 3.35,
+            "Galatasaray Istanbul": 1.28
+          },
+          "time": 1702206000000,
+          "Under/Over 178.5 points": {
+            "Under 178.5 points": 1.85,
+            "Over 178.5 points": 1.85
+          }
+        },
+        "Fenerbahce SK Istanbul - Bursa B.sehir Bld": {
+          "Winner": {
+            "Fenerbahce SK Istanbul": 1.18,
+            "Bursa B.sehir Bld": 4.25
+          },
+          "time": 1702206000000,
+          "Under/Over 175.5 points": {
+            "Under 175.5 points": 1.85,
+            "Over 175.5 points": 1.86
+          }
+        },
+        "SK Ankara - Akkus Bld": {
+          "Winner": {
+            "SK Ankara": 1.23,
+            "Akkus Bld": 3.8
+          },
+          "time": 1702206000000,
+          "Under/Over 176.5 points": {
+            "Under 176.5 points": 1.85,
+            "Over 176.5 points": 1.85
+          }
+        },
+        "Develi Bld - Arkas Spor Izmir": {
+          "Winner": {
+            "Develi Bld": 4.65,
+            "Arkas Spor Izmir": 1.16
+          },
+          "time": 1702216800000,
+          "Under/Over 174.5 points": {
+            "Under 174.5 points": 1.85,
+            "Over 174.5 points": 1.85
+          }
+        }
+      }
+    },
+    {}
+  ],
+  "Italy": [
+    {
+      "SuperLega": {
+        "Saturnia Volley - Vero Volley": {
+          "Winner": {
+            "Saturnia Volley": 4.8,
+            "Vero Volley": 1.15
+          },
+          "time": 1702222200000
+        },
+        "Modena Volley - Trentino": {
+          "Winner": {
+            "Modena Volley": 3.65,
+            "Trentino": 1.24
+          },
+          "time": 1702227600000,
+          "Under/Over 178.5 points": {
+            "Under 178.5 points": 1.86,
+            "Over 178.5 points": 1.85
+          }
+        },
+        "Blu Volley Verona - Itely Milano": {
+          "Winner": {
+            "Blu Volley Verona": 2.4,
+            "Itely Milano": 1.51
+          },
+          "time": 1702236600000,
+          "Under/Over 183.5 points": {
+            "Under 183.5 points": 1.85,
+            "Over 183.5 points": 1.85
+          }
+        }
+      }
+    },
+    {
+      "Serie A2, Girone A": {
+        "Service Ortona - Cuneo Sport": {
+          "Winner": {
+            "Service Ortona": 4.15,
+            "Cuneo Sport": 1.18
+          },
+          "time": 1702227600000,
+          "Under/Over 173.5 points": {
+            "Under 173.5 points": 1.86,
+            "Over 173.5 points": 1.81
+          }
+        },
+        "Cassa Rurale Cantu - Alvainox Delta Porto Viro": {
+          "Winner": {
+            "Cassa Rurale Cantu": 1.9,
+            "Alvainox Delta Porto Viro": 1.77
+          },
+          "time": 1702227600000
+        },
+        "Kemas Lamipel Santa Croce - Atlantide Pallavolo Brescia": {
+          "Winner": {
+            "Kemas Lamipel Santa Croce": 1.87,
+            "Atlantide Pallavolo Brescia": 1.8
+          },
+          "time": 1702227600000
+        },
+        "CMC Ravenna - Conad Reggio Emilia": {
+          "Winner": {
+            "CMC Ravenna": 1.5,
+            "Conad Reggio Emilia": 2.35
+          },
+          "time": 1702227600000,
+          "Under/Over 182.5 points": {
+            "Under 182.5 points": 1.86,
+            "Over 182.5 points": 1.81
+          }
+        },
+        "M And G Scuola Pallavolo - Pineto Volley": {
+          "Winner": {
+            "M And G Scuola Pallavolo": 1.05,
+            "Pineto Volley": 7.45
+          },
+          "time": 1702227600000,
+          "Under/Over 145.5 points": {
+            "Under 145.5 points": 1.74,
+            "Over 145.5 points": 1.94
+          }
+        },
+        "Volleyball Aversa - Emma Villas Volley Siena": {
+          "Winner": {
+            "Volleyball Aversa": 1.89,
+            "Emma Villas Volley Siena": 1.78
+          },
+          "time": 1702231200000
+        }
+      }
+    },
+    {
+      "Serie A1 Women": {
+        "Imoco Conegliano - Volley Vallefoglia": {
+          "Winner": {
+            "Imoco Conegliano": 1.03,
+            "Volley Vallefoglia": 9.25
+          },
+          "time": 1702224000000,
+          "Under/Over 132.5 points": {
+            "Under 132.5 points": 1.87,
+            "Over 132.5 points": 1.83
+          }
+        },
+        "Azzurra Volley Firenze - Duck Farm Chieri Torino": {
+          "Winner": {
+            "Azzurra Volley Firenze": 2.3,
+            "Duck Farm Chieri Torino": 1.56
+          },
+          "time": 1702224000000,
+          "Under/Over 181.5 points": {
+            "Under 181.5 points": 1.83,
+            "Over 181.5 points": 1.87
+          }
+        },
+        "Cuneo Granda Volley - Vero Volley Milano": {
+          "Winner": {
+            "Cuneo Granda Volley": 9.75,
+            "Vero Volley Milano": 1.02
+          },
+          "time": 1702224000000,
+          "Under/Over 131.5 points": {
+            "Under 131.5 points": 1.92,
+            "Over 131.5 points": 1.78
+          }
+        },
+        "Delta Informatica Trentino - Volley Group Roma": {
+          "Winner": {
+            "Delta Informatica Trentino": 2.25,
+            "Volley Group Roma": 1.58
+          },
+          "time": 1702224000000,
+          "Under/Over 174.5 points": {
+            "Under 174.5 points": 2.25,
+            "Over 174.5 points": 1.56
+          }
+        },
+        "Bene Scandicci - Agil Volley Novara": {
+          "Winner": {
+            "Bene Scandicci": 1.32,
+            "Agil Volley Novara": 3.1
+          },
+          "time": 1702323000000,
+          "Under/Over 179.5 points": {
+            "Under 179.5 points": 1.85,
+            "Over 179.5 points": 1.86
+          }
+        }
+      }
+    },
+    {
+      "Serie A2 Women": {
+        "Volley Team Bologna - Akademia Sant Anna Messina": {
+          "Winner": {
+            "Volley Team Bologna": 2.9,
+            "Akademia Sant Anna Messina": 1.34
+          },
+          "time": 1702216800000,
+          "Under/Over 178.5 points": {
+            "Under 178.5 points": 1.83,
+            "Over 178.5 points": 1.84
+          }
+        },
+        "Bartoccini Gioiellerie Perugia - Cda Talmassons": {
+          "Winner": {
+            "Bartoccini Gioiellerie Perugia": 1.27,
+            "Cda Talmassons": 3.35
+          },
+          "time": 1702224000000
+        },
+        "Lpm Bam Mondovi - Helvia Recina Macerata": {
+          "Winner": {
+            "Lpm Bam Mondovi": 2.85,
+            "Helvia Recina Macerata": 1.35
+          },
+          "time": 1702224000000,
+          "Under/Over 179.5 points": {
+            "Under 179.5 points": 1.81,
+            "Over 179.5 points": 1.86
+          }
+        },
+        "Picco Lecco - Volley Offanengo": {
+          "Winner": {
+            "Picco Lecco": 1.66,
+            "Volley Offanengo": 2.05
+          },
+          "time": 1702224000000,
+          "Under/Over 181.5 points": {
+            "Under 181.5 points": 1.83,
+            "Over 181.5 points": 1.84
+          }
+        },
+        "Polisportiva SG Marignano - Volley Montecchio": {
+          "Winner": {
+            "Polisportiva SG Marignano": 1.7,
+            "Volley Montecchio": 2.0
+          },
+          "time": 1702224000000,
+          "Under/Over 182.5 points": {
+            "Under 182.5 points": 1.82,
+            "Over 182.5 points": 1.85
+          }
+        },
+        "Volley Soverato - Tecnoteam Albese V.co": {
+          "Winner": {
+            "Volley Soverato": 1.63,
+            "Tecnoteam Albese V.co": 2.1
+          },
+          "time": 1702224000000
+        },
+        "Cbl Costa Volpino BG - Narconon Melendugno Le": {
+          "Winner": {
+            "Cbl Costa Volpino BG": 1.49,
+            "Narconon Melendugno Le": 2.4
+          },
+          "time": 1702224000000,
+          "Under/Over 180.5 points": {
+            "Under 180.5 points": 1.84,
+            "Over 180.5 points": 1.83
+          }
+        },
+        "Millenium Brescia - Sirdeco Volley Pescara": {
+          "Winner": {
+            "Millenium Brescia": 1.02,
+            "Sirdeco Volley Pescara": 9.35
+          },
+          "time": 1702224000000,
+          "Under/Over 127.5 points": {
+            "Under 127.5 points": 2.4,
+            "Over 127.5 points": 1.48
+          }
+        }
+      }
+    }
+  ],
+  "Russia": [
+    {
+      "Superliga": {
+        "Fakel Novy Urengoy - Lokomotiv Novosibirsk": {
+          "Winner": {
+            "Fakel Novy Urengoy": 5.35,
+            "Lokomotiv Novosibirsk": 1.12
+          },
+          "time": 1702213200000,
+          "Under/Over 169.5 points": {
+            "Under 169.5 points": 1.85,
+            "Over 169.5 points": 1.85
+          }
+        }
+      }
+    },
+    {
+      "Superliga Women": {
+        "Dinamo Krasnodar - Dinamo Metar Chelyabinsk": {
+          "Winner": {
+            "Dinamo Krasnodar": 2.15,
+            "Dinamo Metar Chelyabinsk": 1.63
+          },
+          "time": 1702213200000,
+          "Under/Over 180.5 points": {
+            "Under 180.5 points": 1.88,
+            "Over 180.5 points": 1.83
+          }
+        },
+        "Minchanka Minsk - Lokomotiv Kaliningrad Region": {
+          "Winner": {
+            "Minchanka Minsk": 6.55,
+            "Lokomotiv Kaliningrad Region": 1.08
+          },
+          "time": 1702216800000,
+          "Under/Over 140.5 points": {
+            "Under 140.5 points": 1.83,
+            "Over 140.5 points": 1.87
+          }
+        },
+        "Tulitsa Tula - Dinamo Kazan": {
+          "Winner": {
+            "Tulitsa Tula": 3.9,
+            "Dinamo Kazan": 1.21
+          },
+          "time": 1702216800000,
+          "Under/Over 175.5 points": {
+            "Under 175.5 points": 1.84,
+            "Over 175.5 points": 1.87
+          }
+        }
+      }
+    }
+  ],
+  "Poland": [
+    null,
+    null
+  ],
+  "Japan": [],
+  "France": [],
+  "Brazil": [
+    {
+      "Superliga Women": {
+        "Dinamo Krasnodar - Dinamo Metar Chelyabinsk": {
+          "Winner": {
+            "Dinamo Krasnodar": 2.15,
+            "Dinamo Metar Chelyabinsk": 1.63
+          },
+          "time": 1702213200000,
+          "Under/Over 180.5 points": {
+            "Under 180.5 points": 1.88,
+            "Over 180.5 points": 1.83
+          }
+        },
+        "Minchanka Minsk - Lokomotiv Kaliningrad Region": {
+          "Winner": {
+            "Minchanka Minsk": 6.55,
+            "Lokomotiv Kaliningrad Region": 1.08
+          },
+          "time": 1702216800000,
+          "Under/Over 140.5 points": {
+            "Under 140.5 points": 1.83,
+            "Over 140.5 points": 1.87
+          }
+        },
+        "Tulitsa Tula - Dinamo Kazan": {
+          "Winner": {
+            "Tulitsa Tula": 3.9,
+            "Dinamo Kazan": 1.21
+          },
+          "time": 1702216800000,
+          "Under/Over 175.5 points": {
+            "Under 175.5 points": 1.84,
+            "Over 175.5 points": 1.87
+          }
+        }
+      }
+    },
+    {}
+  ]
+}

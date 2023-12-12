@@ -1,0 +1,1341 @@
+{
+  "categories": [
+    {
+      "id": "AO",
+      "name": "Angola",
+      "eventCount": 1,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "ANGOLA_GIRABOLA",
+          "name": "Angola Girabola",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "AR",
+      "name": "Argentina",
+      "eventCount": 5,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "ARGENTINA_CUP",
+          "name": "Argentina Cup",
+          "featured": true,
+          "eventCount": 1,
+          "outrightCount": 0
+        },
+        {
+          "id": "ARGENTINA_PRIMERA_DIVISION",
+          "name": "Argentina Primera",
+          "featured": true,
+          "eventCount": 1,
+          "outrightCount": 0
+        },
+        {
+          "id": "ARGENTINA_TORNEO_REGIONAL_FEDERAL_AMATEUR",
+          "name": "Argentina Torneo Regional Federal Amateur",
+          "featured": false,
+          "eventCount": 2,
+          "outrightCount": 0
+        },
+        {
+          "id": "ARGENTINA_RESERVE_LEAGUE",
+          "name": "Argentina Reserve League",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "AA",
+      "name": "Asia",
+      "eventCount": 9,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "AFC_CHAMPIONS_LEAGUE",
+          "name": "AFC Champions League",
+          "featured": true,
+          "eventCount": 4,
+          "outrightCount": 0
+        },
+        {
+          "id": "INTERNATIONAL_AFC_CUP",
+          "name": "International AFC Cup",
+          "featured": false,
+          "eventCount": 5,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "AU",
+      "name": "Australia",
+      "eventCount": 12,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "AUSTRALIA_A-LEAGUE",
+          "name": "Australia A-League",
+          "featured": false,
+          "eventCount": 6,
+          "outrightCount": 0
+        },
+        {
+          "id": "AUSTRALIA_WOMEN_W-LEAGUE",
+          "name": "Australia Women W-League",
+          "featured": false,
+          "eventCount": 6,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "AZ",
+      "name": "Azerbaijan",
+      "eventCount": 7,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "AZERBAIJAN_FIRST_DIVISION",
+          "name": "Azerbaijan First Division",
+          "featured": false,
+          "eventCount": 2,
+          "outrightCount": 0
+        },
+        {
+          "id": "AZERBAIJAN_PREMIER_LEAGUE",
+          "name": "Azerbaijan Premier League",
+          "featured": false,
+          "eventCount": 5,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "BE",
+      "name": "Belgium ",
+      "eventCount": 17,
+      "outrightCount": 1,
+      "competitions": [
+        {
+          "id": "BELGIUM_DIVISION_1",
+          "name": "Belgian Pro League",
+          "featured": true,
+          "eventCount": 8,
+          "outrightCount": 1
+        },
+        {
+          "id": "BELGIUM_BELGIAN_FIRST_DIVISION_B",
+          "name": "Belgium Belgian First Division B",
+          "featured": false,
+          "eventCount": 8,
+          "outrightCount": 0
+        },
+        {
+          "id": "BELGIUM_PRO_LEAGUE_RESERVES-U21",
+          "name": "Belgium Pro League Reserves/U21",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "BG",
+      "name": "Bulgaria",
+      "eventCount": 3,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "BULGARIA_SECOND_PROFESSIONAL_FOOTBALL_LEAGUE",
+          "name": "Bulgaria Second Professional Football League",
+          "featured": false,
+          "eventCount": 2,
+          "outrightCount": 0
+        },
+        {
+          "id": "BULGARIA_DIVISION_1",
+          "name": "Bulgarian A PFG",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "CL",
+      "name": "Chile",
+      "eventCount": 1,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "COPA_CHILE",
+          "name": "Chile Cup",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "CO",
+      "name": "Colombia",
+      "eventCount": 1,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "COLOMBIA_PRIMERA_A",
+          "name": "Colombia Primera A",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "HR",
+      "name": "Croatia",
+      "eventCount": 5,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "CROATIA_1_HNL",
+          "name": "Croatia 1. HNL",
+          "featured": false,
+          "eventCount": 5,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "CY",
+      "name": "Cyprus",
+      "eventCount": 7,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "CYPRUS_DIVISION_1",
+          "name": "Cyprus Division 1",
+          "featured": false,
+          "eventCount": 7,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "CZ",
+      "name": "Czech Republic",
+      "eventCount": 11,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "CZECH_REPUBLIC_DIVISION_1",
+          "name": "Czech 1. Liga",
+          "featured": false,
+          "eventCount": 11,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "DK",
+      "name": "Denmark",
+      "eventCount": 3,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "DENMARK_CHAMPIONSHIP__W",
+          "name": "Denmark Championship  W",
+          "featured": false,
+          "eventCount": 3,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "EC",
+      "name": "Ecuador",
+      "eventCount": 1,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "ECUADOR_LIGA_PRO_SERIE_A",
+          "name": "Ecuador Liga Pro Serie A",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "EG",
+      "name": "Egypt",
+      "eventCount": 1,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "EGYPT_SECOND_DIVISION",
+          "name": "Egypt Second Division",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "EN",
+      "name": "England",
+      "eventCount": 168,
+      "outrightCount": 4,
+      "competitions": [
+        {
+          "id": "EN_FA",
+          "name": "English FA Cup",
+          "featured": true,
+          "eventCount": 32,
+          "outrightCount": 1
+        },
+        {
+          "id": "EN_PR",
+          "name": "Premier League",
+          "featured": true,
+          "eventCount": 19,
+          "outrightCount": 1
+        },
+        {
+          "id": "EN_D1",
+          "name": "English Championship",
+          "featured": true,
+          "eventCount": 24,
+          "outrightCount": 0
+        },
+        {
+          "id": "EN_LC",
+          "name": "English League Cup",
+          "featured": true,
+          "eventCount": 0,
+          "outrightCount": 1
+        },
+        {
+          "id": "NORTHERN_PREMIER_LEAGUE",
+          "name": "English Northern Premier",
+          "featured": false,
+          "eventCount": 4,
+          "outrightCount": 0
+        },
+        {
+          "id": "FA_TROPHY",
+          "name": "England FA Trophy",
+          "featured": false,
+          "eventCount": 7,
+          "outrightCount": 0
+        },
+        {
+          "id": "ENGLAND_WOMENS_SUPER_LEAGUE",
+          "name": "English Women's Super League",
+          "featured": false,
+          "eventCount": 5,
+          "outrightCount": 0
+        },
+        {
+          "id": "EN_D3",
+          "name": "English League 2",
+          "featured": false,
+          "eventCount": 12,
+          "outrightCount": 0
+        },
+        {
+          "id": "ISTHMIAN_FOOTBALL_LEAGUE",
+          "name": "English Isthmian Premier",
+          "featured": false,
+          "eventCount": 2,
+          "outrightCount": 0
+        },
+        {
+          "id": "EN_D2",
+          "name": "English League 1",
+          "featured": false,
+          "eventCount": 13,
+          "outrightCount": 0
+        },
+        {
+          "id": "ENGLAND_NATIONAL_LEAGUE_SOUTH",
+          "name": "England National League South",
+          "featured": false,
+          "eventCount": 14,
+          "outrightCount": 0
+        },
+        {
+          "id": "ENGLAND_NATIONAL_LEAGUE",
+          "name": "English National League",
+          "featured": false,
+          "eventCount": 13,
+          "outrightCount": 1
+        },
+        {
+          "id": "SOUTHERN_FOOTBALL_LEAGUE",
+          "name": "English Southern Premier",
+          "featured": false,
+          "eventCount": 5,
+          "outrightCount": 0
+        },
+        {
+          "id": "ENGLAND_NATIONAL_LEAGUE_NORTH",
+          "name": "England National League North",
+          "featured": false,
+          "eventCount": 18,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "EU",
+      "name": "Europe",
+      "eventCount": 64,
+      "outrightCount": 4,
+      "competitions": [
+        {
+          "id": "EU_EQ",
+          "name": "European Championship Qualifiers",
+          "featured": true,
+          "eventCount": 6,
+          "outrightCount": 0
+        },
+        {
+          "id": "EUROPA_CONFERENCE_LEAGUE",
+          "name": "Europa Conference League",
+          "featured": true,
+          "eventCount": 16,
+          "outrightCount": 1
+        },
+        {
+          "id": "EU_UC",
+          "name": "Europa League",
+          "featured": true,
+          "eventCount": 16,
+          "outrightCount": 1
+        },
+        {
+          "id": "EU_CL",
+          "name": "Champions League",
+          "featured": true,
+          "eventCount": 16,
+          "outrightCount": 1
+        },
+        {
+          "id": "UEFA_WOMENS_CHAMPIONS_LEAGUE",
+          "name": "UEFA Women's Champions League",
+          "featured": true,
+          "eventCount": 8,
+          "outrightCount": 0
+        },
+        {
+          "id": "UEFA_YOUTH_LEAGUE",
+          "name": "International UEFA Youth League",
+          "featured": false,
+          "eventCount": 2,
+          "outrightCount": 0
+        },
+        {
+          "id": "EURO_2024_OUTRIGHT",
+          "name": "Euro 2024 Outright",
+          "featured": false,
+          "eventCount": 0,
+          "outrightCount": 1
+        }
+      ]
+    },
+    {
+      "id": "FR",
+      "name": "France",
+      "eventCount": 37,
+      "outrightCount": 1,
+      "competitions": [
+        {
+          "id": "FRANCE_LIGUE_2",
+          "name": "France Ligue 2",
+          "featured": true,
+          "eventCount": 10,
+          "outrightCount": 0
+        },
+        {
+          "id": "FR_L1",
+          "name": "France Ligue 1",
+          "featured": true,
+          "eventCount": 18,
+          "outrightCount": 1
+        },
+        {
+          "id": "FRANCE_NATIONAL_1",
+          "name": "France National 1",
+          "featured": false,
+          "eventCount": 9,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "GM",
+      "name": "Gambia",
+      "eventCount": 3,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "GAMBIA_2ND_DIVISION",
+          "name": "Gambia 2nd Division",
+          "featured": false,
+          "eventCount": 3,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "DE",
+      "name": "Germany",
+      "eventCount": 57,
+      "outrightCount": 1,
+      "competitions": [
+        {
+          "id": "GERMANY_BUNDESLIGA_2",
+          "name": "German Bundesliga 2",
+          "featured": true,
+          "eventCount": 9,
+          "outrightCount": 0
+        },
+        {
+          "id": "DE_BL",
+          "name": "German Bundesliga",
+          "featured": true,
+          "eventCount": 18,
+          "outrightCount": 1
+        },
+        {
+          "id": "GERMANY_3_LIGA",
+          "name": "Germany 3. Liga",
+          "featured": false,
+          "eventCount": 11,
+          "outrightCount": 0
+        },
+        {
+          "id": "GERMANY_REGIONALLIGA_NORTH",
+          "name": "Germany Regionalliga North",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        },
+        {
+          "id": "GERMANY_REGIONAL_LIGA_NORDOST",
+          "name": "Germany Regional Liga Nordost",
+          "featured": false,
+          "eventCount": 11,
+          "outrightCount": 0
+        },
+        {
+          "id": "GERMANY_REGIONAL_LIGA_WEST",
+          "name": "Germany Regional Liga West",
+          "featured": false,
+          "eventCount": 4,
+          "outrightCount": 0
+        },
+        {
+          "id": "GERMANY_REGIONALLIGA_SUDWEST",
+          "name": "Germany Regionalliga Sudwest",
+          "featured": false,
+          "eventCount": 3,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "GR",
+      "name": "Greece",
+      "eventCount": 9,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "GREECE_SUPER_LEAGUE_W",
+          "name": "Greece Super league W",
+          "featured": false,
+          "eventCount": 2,
+          "outrightCount": 0
+        },
+        {
+          "id": "GREECE_SUPER_LEAGUE",
+          "name": "Greece Super League",
+          "featured": false,
+          "eventCount": 7,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "HU",
+      "name": "Hungary ",
+      "eventCount": 6,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "NB_I",
+          "name": "Hungary NB I",
+          "featured": false,
+          "eventCount": 6,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "IN",
+      "name": "India",
+      "eventCount": 7,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "INDIA_I-LEAGUE",
+          "name": "India I-League",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        },
+        {
+          "id": "INDIA_SUPER_LEAGUE",
+          "name": "India Super League",
+          "featured": false,
+          "eventCount": 6,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "ID",
+      "name": "Indonesia",
+      "eventCount": 1,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "INDONESIA_LIGA_2",
+          "name": "Indonesia Liga 2",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "IR",
+      "name": "Iran, Islamic Republic of",
+      "eventCount": 6,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "IRAN_DIV_2",
+          "name": "Iran Div 2",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        },
+        {
+          "id": "IRAN_AZADEGAN_LEAGUE",
+          "name": "Iran Azadegan League",
+          "featured": false,
+          "eventCount": 4,
+          "outrightCount": 0
+        },
+        {
+          "id": "IRAN_PERSIAN_GULF_PRO_LEAGUE",
+          "name": "Iran Persian Gulf Pro League",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "IQ",
+      "name": "Iraq",
+      "eventCount": 1,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "IRAQ_PREMIER_LEAGUE",
+          "name": "Iraq Premier League",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "IE",
+      "name": "Ireland",
+      "eventCount": 6,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "NORTHERN_IRELAND_PREMIER_LEAGUE",
+          "name": "Northern Ireland Premier League",
+          "featured": false,
+          "eventCount": 6,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "IL",
+      "name": "Israel",
+      "eventCount": 24,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "ISRAEL_LIGA_ALEF_-_SOUTH",
+          "name": "Israel Liga Alef - South",
+          "featured": false,
+          "eventCount": 2,
+          "outrightCount": 0
+        },
+        {
+          "id": "ISRAEL_STATE_CUP",
+          "name": "Israel State Cup",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        },
+        {
+          "id": "ISRAEL_U19_LEAGUE",
+          "name": "Israel U19 League",
+          "featured": false,
+          "eventCount": 13,
+          "outrightCount": 0
+        },
+        {
+          "id": "ISRAEL_LIGA_LEUMIT",
+          "name": "Israel Liga Leumit",
+          "featured": false,
+          "eventCount": 8,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "IT",
+      "name": "Italy",
+      "eventCount": 64,
+      "outrightCount": 1,
+      "competitions": [
+        {
+          "id": "IT_SA",
+          "name": "Italian Serie A",
+          "featured": true,
+          "eventCount": 20,
+          "outrightCount": 1
+        },
+        {
+          "id": "ITALY_SERIE_B",
+          "name": "Italian Serie B",
+          "featured": true,
+          "eventCount": 10,
+          "outrightCount": 0
+        },
+        {
+          "id": "ITALY_ITALIA_SERIE_C_CUP",
+          "name": "Italy Italia Serie C Cup",
+          "featured": false,
+          "eventCount": 4,
+          "outrightCount": 0
+        },
+        {
+          "id": "ITALY_SERIE_C",
+          "name": "Italy Serie C",
+          "featured": false,
+          "eventCount": 30,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "JP",
+      "name": "Japan",
+      "eventCount": 4,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "JAPAN_UNIVERSITY_CHAMPIONSHIP",
+          "name": "Japan University Championship",
+          "featured": false,
+          "eventCount": 3,
+          "outrightCount": 0
+        },
+        {
+          "id": "JAPAN_WE_LEAGUE_WOMEN",
+          "name": "Japan WE League Women",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "JO",
+      "name": "Jordan",
+      "eventCount": 4,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "JORDAN_PROFESSIONAL_LEAGUE",
+          "name": "Jordan Professional League",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        },
+        {
+          "id": "JORDAN_1ST_DIVISION",
+          "name": "Jordan 1st Division",
+          "featured": false,
+          "eventCount": 3,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "KE",
+      "name": "Kenya",
+      "eventCount": 1,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "KENYA_PREMIER_LEAGUE",
+          "name": "Kenya Premier League",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "MT",
+      "name": "Malta",
+      "eventCount": 1,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "MALTA_FA_TROPHY",
+          "name": "Malta FA Trophy",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "MA",
+      "name": "Morocco",
+      "eventCount": 2,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "MOROCCO_BOTOLA_PRO",
+          "name": "Morocco Botola Pro",
+          "featured": false,
+          "eventCount": 2,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "NL",
+      "name": "Netherlands",
+      "eventCount": 20,
+      "outrightCount": 1,
+      "competitions": [
+        {
+          "id": "NETHERLANDS_EREDIVISIE",
+          "name": "Dutch Eredivisie",
+          "featured": true,
+          "eventCount": 9,
+          "outrightCount": 1
+        },
+        {
+          "id": "NETHERLANDS_EREDIVISIE_WOMEN",
+          "name": "Netherlands Eredivisie Women",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        },
+        {
+          "id": "NETHERLANDS_EERSTE_DIVISIE",
+          "name": "Dutch Eerste Divisie",
+          "featured": false,
+          "eventCount": 10,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "NG",
+      "name": "Nigeria",
+      "eventCount": 1,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "NIGERIA_PREMIER_LEAGUE",
+          "name": "Nigeria Premier League",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "ND",
+      "name": "Northern Ireland",
+      "eventCount": 2,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "NORTHERN_IRELAND_CHAMPIONSHIP_1",
+          "name": "Northern Ireland Championship 1",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        },
+        {
+          "id": "NORTHERN_IRELAND_NORTHERN_IRISH_LEAGUE_CUP",
+          "name": "Northern Ireland Northern Irish League Cup",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "PL",
+      "name": "Poland ",
+      "eventCount": 22,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "POLAND_1_LIGA",
+          "name": "Poland 1 Liga",
+          "featured": false,
+          "eventCount": 11,
+          "outrightCount": 0
+        },
+        {
+          "id": "POLAND_EKSTRAKLASA",
+          "name": "Polish Ekstraklasa",
+          "featured": false,
+          "eventCount": 9,
+          "outrightCount": 0
+        },
+        {
+          "id": "POLAND_2_LIGA",
+          "name": "Poland 2 Liga",
+          "featured": false,
+          "eventCount": 2,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "PT",
+      "name": "Portugal",
+      "eventCount": 18,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "PORTUGAL_PRIMEIRA_LIGA",
+          "name": "Portuguese Primeira",
+          "featured": true,
+          "eventCount": 9,
+          "outrightCount": 0
+        },
+        {
+          "id": "PORTUGAL_SEGUNDA_LIGA",
+          "name": "Portugal Segunda Liga",
+          "featured": false,
+          "eventCount": 9,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "QA",
+      "name": "Qatar",
+      "eventCount": 5,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "QATAR_-_STARS_LEAGUE",
+          "name": "Qatar - Stars League",
+          "featured": false,
+          "eventCount": 5,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "RO",
+      "name": "Romania",
+      "eventCount": 1,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "ROMANIA_LIGA_I",
+          "name": "Romania Liga I",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "RW",
+      "name": "Rwanda",
+      "eventCount": 5,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "RWANDA_NATIONAL_LEAGUE",
+          "name": "Rwanda National League",
+          "featured": false,
+          "eventCount": 5,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "SA",
+      "name": "Saudi Arabia",
+      "eventCount": 15,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "SAUDI_PRO_LEAGUE",
+          "name": "Saudi Pro League",
+          "featured": true,
+          "eventCount": 8,
+          "outrightCount": 0
+        },
+        {
+          "id": "SAUDI_ARABIA_DIVISION_1",
+          "name": "Saudi Arabia Division 1",
+          "featured": false,
+          "eventCount": 7,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "CT",
+      "name": "Scotland ",
+      "eventCount": 27,
+      "outrightCount": 3,
+      "competitions": [
+        {
+          "id": "LD_SP",
+          "name": "Scottish Premiership",
+          "featured": true,
+          "eventCount": 5,
+          "outrightCount": 1
+        },
+        {
+          "id": "SCOTLAND_LEAGUE_CUP",
+          "name": "Scotland League Cup",
+          "featured": true,
+          "eventCount": 1,
+          "outrightCount": 0
+        },
+        {
+          "id": "SCOTLAND_SPFL_RESERVE_LEAGUE",
+          "name": "Scotland SPFL Reserve League",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        },
+        {
+          "id": "SCOTLAND_LEAGUE_TWO",
+          "name": "Scottish League 2",
+          "featured": false,
+          "eventCount": 5,
+          "outrightCount": 0
+        },
+        {
+          "id": "SCOTLAND_LEAGUE_ONE",
+          "name": "Scottish League 1",
+          "featured": false,
+          "eventCount": 5,
+          "outrightCount": 1
+        },
+        {
+          "id": "SCOTLAND_CHAMPIONSHIP",
+          "name": "Scottish Championship",
+          "featured": false,
+          "eventCount": 7,
+          "outrightCount": 1
+        },
+        {
+          "id": "SCOTLAND_RESERVE_CUP",
+          "name": "Scotland Reserve Cup",
+          "featured": false,
+          "eventCount": 3,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "SK",
+      "name": "Slovakia",
+      "eventCount": 6,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "SLOVAKIA_SUPER_LIGA",
+          "name": "Slovakia Super Liga",
+          "featured": false,
+          "eventCount": 6,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "SI",
+      "name": "Slovenia",
+      "eventCount": 5,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "SLOVENIA_PREMIER_LEAGUE",
+          "name": "Slovenia Premier League",
+          "featured": false,
+          "eventCount": 5,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "ZA",
+      "name": "South Africa",
+      "eventCount": 4,
+      "outrightCount": 1,
+      "competitions": [
+        {
+          "id": "SOUTH_AFRICA_PREMIER_LEAGUE",
+          "name": "South Africa Premier",
+          "featured": true,
+          "eventCount": 3,
+          "outrightCount": 1
+        },
+        {
+          "id": "SOUTH_AFRICA_LEAGUE_CUP",
+          "name": "South Africa League Cup",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "ES",
+      "name": "Spain ",
+      "eventCount": 97,
+      "outrightCount": 1,
+      "competitions": [
+        {
+          "id": "ES_PL",
+          "name": "Spanish La liga",
+          "featured": true,
+          "eventCount": 20,
+          "outrightCount": 1
+        },
+        {
+          "id": "SPAIN_SEGUNDA_DIVISION",
+          "name": "Spanish Segunda",
+          "featured": true,
+          "eventCount": 11,
+          "outrightCount": 0
+        },
+        {
+          "id": "SPAIN_PRIMERA_DIVISION_W",
+          "name": "Spain Primera Division W",
+          "featured": false,
+          "eventCount": 8,
+          "outrightCount": 0
+        },
+        {
+          "id": "SPAIN_PRIMERA_DIVISION_RFEF",
+          "name": "Spain Primera Division RFEF",
+          "featured": false,
+          "eventCount": 18,
+          "outrightCount": 0
+        },
+        {
+          "id": "SPAIN_YOUTH_CHAMPIONSHIP",
+          "name": "Spain Youth Championship",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        },
+        {
+          "id": "SPAIN_SEGUNDA_DIVISION_RFEF",
+          "name": "Spain Segunda Division RFEF",
+          "featured": false,
+          "eventCount": 39,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "CH",
+      "name": "Switzerland",
+      "eventCount": 10,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "SWITZERLAND_SUPER_LEAGUE",
+          "name": "Swiss Super League",
+          "featured": true,
+          "eventCount": 7,
+          "outrightCount": 0
+        },
+        {
+          "id": "SWITZERLAND_CHALLENGE_LEAGUE",
+          "name": "Switzerland Challenge League",
+          "featured": false,
+          "eventCount": 3,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "SY",
+      "name": "Syrian Arab Republic",
+      "eventCount": 4,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "SYRIA_YOUTH_LEAGUE",
+          "name": "Syria Youth League",
+          "featured": false,
+          "eventCount": 4,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "TH",
+      "name": "Thailand",
+      "eventCount": 9,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "THAILAND_THAI_LEAGUE_1",
+          "name": "Thailand Thai League 1",
+          "featured": false,
+          "eventCount": 9,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "TN",
+      "name": "Tunisia",
+      "eventCount": 1,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "TUNISIA_LIGUE_1",
+          "name": "Tunisia Ligue 1",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "UG",
+      "name": "Uganda",
+      "eventCount": 4,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "UGANDA_UGANDA_PREMIER_LEAGUE",
+          "name": "Uganda Uganda. Premier League",
+          "featured": false,
+          "eventCount": 4,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "UY",
+      "name": "Uruguay",
+      "eventCount": 1,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "URUGUAY_PRIMERA_DIVISION",
+          "name": "Uruguay Primera",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "WA",
+      "name": "Wales",
+      "eventCount": 7,
+      "outrightCount": 0,
+      "competitions": [
+        {
+          "id": "WALES_FA_CUP",
+          "name": "Wales FAW Cup",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        },
+        {
+          "id": "Welsh Premier League",
+          "name": "Welsh Premier League",
+          "featured": false,
+          "eventCount": 6,
+          "outrightCount": 0
+        }
+      ]
+    },
+    {
+      "id": "WO",
+      "name": "World",
+      "eventCount": 3,
+      "outrightCount": 1,
+      "competitions": [
+        {
+          "id": "FIFA_CLUB_WORLD_CUP",
+          "name": "FIFA Club World Cup",
+          "featured": false,
+          "eventCount": 2,
+          "outrightCount": 0
+        },
+        {
+          "id": "U23_INTERNATIONAL_FRIENDLIES",
+          "name": "International National Friendlies U23",
+          "featured": false,
+          "eventCount": 1,
+          "outrightCount": 0
+        },
+        {
+          "id": "WORLD_CUP_2026",
+          "name": "World Cup 2026",
+          "featured": false,
+          "eventCount": 0,
+          "outrightCount": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "England": {
+    "Premier League": {
+      "Nottingham Forest vs Spurs": {
+        "1x2": {
+          "Nottingham Forest": "4.33",
+          "Draw": "4.20",
+          "Spurs": "1.75"
+        },
+        "Over/Under": {
+          "Under 0.5 goals": "13.00",
+          "Over 0.5 goals": "1.03",
+          "Under 1.5 goals": "4.75",
+          "Over 1.5 goals": "1.18",
+          "Under 2.5 goals": "2.38",
+          "Over 2.5 goals": "1.60",
+          "Under 3.5 goals": "1.57",
+          "Over 3.5 goals": "2.40",
+          "Under 4.5 goals": "1.22",
+          "Over 4.5 goals": "4.20",
+          "Under 5.5 goals": "1.08",
+          "Over 5.5 goals": "7.50",
+          "Under 6.5 goals": "1.02",
+          "Over 6.5 goals": "13.00"
+        },
+        "Both Teams to Score": {
+          "No": "2.38",
+          "Yes": "1.57"
+        },
+        "Double Chance": {
+          "Nottingham Forest or Draw": "1.95",
+          "Spurs or Draw": "1.22",
+          "Nottingham Forest or Spurs": "1.25"
+        },
+        "Draw No Bet": {
+          "Nottingham Forest": "3.20",
+          "Spurs": "1.36"
+        },
+        "Correct Score": {
+          "Nottingham Forest 1-0": "15.00",
+          "Nottingham Forest 2-0": "23.00",
+          "Nottingham Forest 2-1": "13.00",
+          "Nottingham Forest 3-0": "61.00",
+          "Nottingham Forest 3-1": "29.00",
+          "Nottingham Forest 3-2": "29.00",
+          "Nottingham Forest 4-0": "151.00",
+          "Nottingham Forest 4-1": "101.00",
+          "Nottingham Forest 4-2": "101.00",
+          "Nottingham Forest 4-3": "126.00",
+          "Nottingham Forest 5-1": "251.00",
+          "Nottingham Forest 5-2": "251.00",
+          "Draw 0-0": "10.00",
+          "Draw 1-1": "7.50",
+          "Draw 2-2": "12.00",
+          "Draw 3-3": "41.00",
+          "Draw 4-4": "251.00",
+          "Spurs 1-0": "9.00",
+          "Spurs 2-0": "9.50",
+          "Spurs 2-1": "8.00",
+          "Spurs 3-0": "13.00",
+          "Spurs 3-1": "12.00",
+          "Spurs 3-2": "19.00",
+          "Spurs 4-0": "26.00",
+          "Spurs 4-1": "23.00",
+          "Spurs 4-2": "34.00",
+          "Spurs 4-3": "81.00",
+          "Spurs 5-0": "61.00",
+          "Spurs 5-1": "51.00",
+          "Spurs 5-2": "81.00",
+          "Spurs 5-3": "201.00",
+          "Spurs 6-0": "151.00",
+          "Spurs 6-1": "151.00",
+          "Spurs 6-2": "251.00",
+          "Spurs 7-1": "251.00"
+        },
+        "Half Time / Full Time": {
+          "Nottingham Forest / Nottingham Forest": "6.50",
+          "Nottingham Forest / Draw": "11.00",
+          "Nottingham Forest / Spurs": "17.00",
+          "Draw / Nottingham Forest": "9.00",
+          "Draw / Draw": "7.00",
+          "Draw / Spurs": "4.33",
+          "Spurs / Nottingham Forest": "34.00",
+          "Spurs / Draw": "12.00",
+          "Spurs / Spurs": "2.70"
+        },
+        "Handicap": {
+          "Nottingham Forest -1": "9.50",
+          "Draw (Nottingham Forest -1)": "6.00",
+          "Spurs +1": "1.25",
+          "Nottingham Forest +1": "2.10",
+          "Draw (Nottingham Forest +1)": "3.80",
+          "Spurs -1": "2.75",
+          "Nottingham Forest +2": "1.44",
+          "Draw (Nottingham Forest +2)": "5.00",
+          "Spurs -2": "5.25"
+        },
+        "Total Goals": {
+          "0-1": "4.33",
+          "2-3": "2.10",
+          "4-6": "2.62",
+          "7+": "17.00"
+        },
+        "Total Goals Exact": {
+          "0 Goals": "10.00",
+          "1 Goal": "6.00",
+          "2 Goals": "4.00",
+          "3 Goals": "3.90",
+          "4 Goals": "4.75",
+          "5 Goals": "7.50",
+          "6 Goals": "13.00",
+          "7 Goals": "17.00"
+        },
+        "Half With Most Goals": {
+          "1st Half": "3.00",
+          "Draw": "3.75",
+          "2nd Half": "1.95"
+        },
+        "Teams to Score": {
+          "Neither": "10.00",
+          "Nottingham Forest only": "8.00",
+          "Spurs only": "3.25",
+          "Both": "1.57"
+        },
+        "Team Clean Sheet": {
+          "No": "1.12",
+          "Yes": "5.25"
+        },
+        "Both Teams To Score In Both Halves": {
+          "No": "1.05",
+          "Yes": "7.50"
+        },
+        "Team Total Goals (O/U)": {
+          "Under 0.5": "2.80",
+          "Over 0.5": "1.40",
+          "Under 1.5": "1.40",
+          "Over 1.5": "2.70",
+          "Under 2.5": "1.08",
+          "Over 2.5": "6.00",
+          "Under 3.5": "1.12",
+          "Over 3.5": "5.50"
+        },
+        "Home Total Goals": {
+          "0": "2.80",
+          "1": "2.50",
+          "2": "4.00",
+          "3": "9.50",
+          "4+": "23.00"
+        },
+        "Away Total Goals": {
+          "0": "6.00",
+          "1": "3.25",
+          "2": "3.30",
+          "3": "5.00",
+          "4+": "6.50"
+        },
+        "First Half Win/Draw/Win": {
+          "Nottingham Forest": "4.20",
+          "Draw": "2.35",
+          "Spurs": "2.35"
+        },
+        "Half time Goals - Under/Over": {
+          "Under 0.5 goals": "3.10",
+          "Over 0.5 goals": "1.29",
+          "Under 1.5 goals": "1.53",
+          "Over 1.5 goals": "2.20",
+          "Under 2.5 goals": "1.14",
+          "Over 2.5 goals": "4.50",
+          "Under 3.5 goals": "1.02",
+          "Over 3.5 goals": "8.50"
+        },
+        "First Half Total Goals": {
+          "0 Goals": "3.25",
+          "1 Goal": "2.62",
+          "2 Goals": "3.60",
+          "3 Goals": "7.50",
+          "4+ Goals": "15.00"
+        },
+        "Both Teams To Score In 1st Half": {
+          "No": "1.25",
+          "Yes": "3.50"
+        },
+        "First Half Double Chance": {
+          "Nottingham Forest or Draw": "1.55",
+          "Spurs or Draw": "1.22",
+          "Nottingham Forest or Spurs": "1.57"
+        },
+        "Half Time Correct Score": {
+          "Nottingham Forest 1-0": "6.00",
+          "Nottingham Forest 2-0": "21.00",
+          "Nottingham Forest 2-1": "23.00",
+          "Nottingham Forest 3-0": "101.00",
+          "Nottingham Forest 3-1": "101.00",
+          "Nottingham Forest 3-2": "101.00",
+          "Draw 0-0": "3.25",
+          "Draw 1-1": "7.00",
+          "Draw 2-2": "51.00",
+          "Spurs 1-0": "4.20",
+          "Spurs 2-0": "9.00",
+          "Spurs 2-1": "15.00",
+          "Spurs 3-0": "29.00",
+          "Spurs 3-1": "51.00",
+          "Spurs 3-2": "101.00",
+          "Spurs 4-0": "101.00",
+          "Spurs 4-1": "101.00"
+        },
+        "First Half Handicap": {
+          "Nottingham Forest -1": "15.00",
+          "Draw (Nottingham Forest -1)": "5.00",
+          "Spurs +1": "1.22",
+          "Nottingham Forest +1": "1.57",
+          "Draw (Nottingham Forest +1)": "3.40",
+          "Spurs -1": "6.00"
+        },
+        "Team First Half Goals (O/U)": {
+          "Under 0.5 goals": "1.60",
+          "Over 0.5 goals": "2.20",
+          "Under 1.5 goals": "1.08",
+          "Over 1.5 goals": "6.50",
+          "Under 2.5 goals": "1.03",
+          "Over 2.5 goals": "9.50"
+        },
+        "Multibet Goals First Half": {
+          "One to Two goals": "1.62",
+          "One to Three goals": "1.40",
+          "One to Four goals": "1.33",
+          "Two to Three goals": "2.60",
+          "Two to Four goals": "2.35",
+          "Two to Five goals": "2.30",
+          "Three to Four goals": "5.50",
+          "Three to Five goals": "5.25",
+          "Four to Five goals": "15.00",
+          "Five to Six goals": "51.00"
+        },
+        "First half goals \u2013 odd/even": {
+          "Even": "1.73",
+          "Odd": "2.00"
+        },
+        "2nd Half Result": {
+          "Nottingham Forest": "4.00",
+          "Draw": "3.10",
+          "Spurs": "1.91"
+        },
+        "Second Half Goals (O/U)": {
+          "Under 0.5 goals": "5.00",
+          "Over 0.5 goals": "1.14",
+          "Under 1.5 goals": "1.95",
+          "Over 1.5 goals": "1.75",
+          "Under 2.5 goals": "1.30",
+          "Over 2.5 goals": "3.20",
+          "Under 3.5 goals": "1.08",
+          "Over 3.5 goals": "6.50"
+        },
+        "Both Teams To Score In 2nd Half": {
+          "No": "1.40",
+          "Yes": "2.88"
+        },
+        "Team To Score In Second Half (Y/N)": {
+          "No": "1.75",
+          "Yes": "1.95"
+        },
+        "Team Second Half Goals (O/U)": {
+          "Under 0.5 goals": "1.73",
+          "Over 0.5 goals": "1.91",
+          "Under 1.5 goals": "1.11",
+          "Over 1.5 goals": "5.00",
+          "Under 2.5 goals": "1.08",
+          "Over 2.5 goals": "6.00"
+        },
+        "Multibet Goals Second Half": {
+          "One to Two goals": "1.62",
+          "One to Three goals": "1.30",
+          "One to Four goals": "1.20",
+          "Two to Three goals": "2.15",
+          "Two to Four goals": "1.91",
+          "Two to Five goals": "1.80",
+          "Three to Four goals": "3.75",
+          "Three to Five goals": "3.40",
+          "Four to Five goals": "8.50",
+          "Five to Six goals": "21.00"
+        },
+        "Second half goals \u2013 odd/even": {
+          "Even": "1.91",
+          "Odd": "1.83"
+        },
+        "Match Winner And Over Under": {
+          "Nottingham Forest And Over 1.5 Goals - 1x2ou.over": "5.00",
+          "Nottingham Forest And Under 1.5 Goals - 1x2ou.under": "15.00",
+          "Draw And Over 1.5 Goals - 1x2ou.draw.over": "4.50",
+          "Draw And Under 1.5 Goals - 1x2ou.draw.under": "17.00",
+          "Spurs And Over 1.5 Goals - 1x2ou.over": "2.00",
+          "Spurs And Under 1.5 Goals - 1x2ou.under": "9.50",
+          "Nottingham Forest And Over 2.5 Goals - 1x2ou.over": "6.00",
+          "Nottingham Forest And Under 2.5 Goals - 1x2ou.under": "10.00",
+          "Draw And Over 2.5 Goals - 1x2ou.draw.over": "10.00",
+          "Draw And Under 2.5 Goals - 1x2ou.draw.under": "5.50",
+          "Spurs And Over 2.5 Goals - 1x2ou.over": "2.38",
+          "Spurs And Under 2.5 Goals - 1x2ou.under": "5.00",
+          "Nottingham Forest And Over 3.5 Goals - 1x2ou.over": "11.00",
+          "Nottingham Forest And Under 3.5 Goals - 1x2ou.under": "5.50",
+          "Draw And Over 3.5 Goals - 1x2ou.draw.over": "10.00",
+          "Draw And Under 3.5 Goals - 1x2ou.draw.under": "5.50",
+          "Spurs And Over 3.5 Goals - 1x2ou.over": "3.75",
+          "Spurs And Under 3.5 Goals - 1x2ou.under": "2.80"
+        },
+        "Match Result and Both Teams to Score": {
+          "Nottingham Forest": "6.00",
+          "Draw": "4.50",
+          "Spurs": "3.00"
+        },
+        "Both Teams To Score & Either Team To Win": {
+          "No": "1.57",
+          "Yes": "2.15"
+        },
+        "MultiBet Goals Full time": {
+          "One to Two goals": "2.60",
+          "One to Three goals": "1.67",
+          "One to Four goals": "1.30",
+          "Two to Three goals": "2.10",
+          "Two to Four goals": "1.53",
+          "Two to Five goals": "1.33",
+          "Three to Four goals": "2.30",
+          "Three to Five goals": "1.83",
+          "Four to Five goals": "3.10",
+          "Five to Six goals": "5.00"
+        },
+        "MultiBeT Exact Score": {
+          "Any Other score": "4.20",
+          "1-0, 2-0, 2-1 Nottingham Forest Win": "6.00",
+          "3-0, 3-1, 3-2 Nottingham Forest Win": "13.00",
+          "1-0, 2-0, 2-1 Spurs Win": "3.30",
+          "3-0, 3-1, 3-2 Spurs Win": "5.25",
+          "1-1, 2-2, 3-3": "4.60"
+        },
+        "Win to Nil (Y/N)": {
+          "No": "1.08",
+          "Yes": "8.00"
+        },
+        "Team Total Goals (Odd/Even)": {
+          "Even": "1.70",
+          "Odd": "2.00"
+        },
+        "Team Highest Scoring Half": {
+          "1st Half": "3.50",
+          "2nd Half": "2.80",
+          "Draw": "2.20"
+        },
+        "Team To Win Both Halves": {
+          "Yes": "10.00",
+          "No": "1.02"
+        },
+        "Team To Win Either Half": {
+          "Yes": "2.30",
+          "No": "1.50"
+        },
+        "Both Teams To Score Two Or More Goals": {
+          "No": "1.18",
+          "Yes": "4.00"
+        },
+        "Odd/Even": {
+          "Even": "1.85",
+          "Odd": "1.91"
+        },
+        "Team To Score In Both Halves": {
+          "No": "1.20",
+          "Yes": "4.20"
+        }
+      }
+    }
+  }
+}
