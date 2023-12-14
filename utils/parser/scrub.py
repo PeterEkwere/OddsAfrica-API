@@ -8,6 +8,7 @@ sys.path.append("..")
 from utils.parser.bookies_parsers.xbet_parser import extract
 from utils.parser.bookies_parsers.merrybet_parser import extract_merrybet
 from utils.parser.bookies_parsers.nairabet_parser import extract_nairabet
+from utils.parser.bookies_parsers.betnaija_parser import extract_bet9ja
 
 
 
@@ -45,6 +46,9 @@ class Parse:
                 return      
             if bookie_name == "nairabet":
                 clean_data = extract_nairabet(data)
+                return clean_data
+            if bookie_name == "bet9ja":
+                clean_data = extract_bet9ja(data)
                 return clean_data
         except Exception as e:
             print(f"Error cleaning Data: {e}")
