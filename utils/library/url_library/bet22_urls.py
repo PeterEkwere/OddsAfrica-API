@@ -15,9 +15,8 @@ FOOTBALL = {
     'Germany': [
         "https://22bet.ng/LineFeed/Get1x2_VZip?sports=1&champs=119235&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true",
         "https://22bet.ng/LineFeed/Get1x2_VZip?sports=1&champs=96463&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true",
-        "https://22bet.ng/LineFeed/Get1x2_VZip?sports=1&champs=109313&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true",
         "https://22bet.ng/LineFeed/Get1x2_VZip?sports=1&champs=2579233&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true",
-        ],
+            ],
     'Italy': [
         "https://22bet.ng/LineFeed/Get1x2_VZip?sports=1&champs=110163&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true",
         "https://22bet.ng/LineFeed/Get1x2_VZip?sports=1&champs=7067&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true",
@@ -25,13 +24,10 @@ FOOTBALL = {
         ],
     'Spain': [
         "https://22bet.ng/LineFeed/Get1x2_VZip?sports=1&champs=127733&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true",
-        "https://22bet.ng/LineFeed/Get1x2_VZip?sports=1&champs=119243&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true",
         "https://22bet.ng/LineFeed/Get1x2_VZip?sports=1&champs=27687&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true",
-        "https://22bet.ng/LineFeed/Get1x2_VZip?sports=1&champs=124885&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true",
         ],
     'France': [
         "https://22bet.ng/LineFeed/Get1x2_VZip?sports=1&champs=12821,124885&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true",
-        "https://22bet.ng/LineFeed/Get1x2_VZip?sports=1&champs=119241&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true",
         "https://22bet.ng/LineFeed/Get1x2_VZip?sports=1&champs=12829&count=20&lng=en&mode=4&country=132&partner=159&getEmpty=true&virtualSports=true",
         ],
     'UCL': [

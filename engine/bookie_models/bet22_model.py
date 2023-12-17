@@ -3,6 +3,7 @@
     This module houses the class for 22bet
     Author: Peter Ekwere
 """
+import requests
 from utils.scraper import Scraper
 from utils.parser.scrub import Parse
 from engine.storage_engine.vault import Vault
@@ -52,13 +53,54 @@ class bet22:
         """
         all_leagues = {}
         for country, league_urls in bet22.Sports.get(Sport).items():
-            games = []
+            league_dict = {}
             for url in league_urls:
+                games = []
                 try:
-                    response = Scraper.Get_games(self, url)
-                    games.append(Parse.clean(self, response, self.bookie_name))
+                    league_games = Scraper.Get_games(self, url)
+                    games_id = bet22.get_games_id(league_games)
+                    markets = bet22.get_games_market(games_id, bet22.headers)
+                    result_dict, league = Parse.clean(self, markets, self.bookie_name)
+                    #games.append(result_dict)
+                    league_dict[league] = result_dict
+                    print(f"Scraped {league}")
                 except Exception as e:
                     print(f"Error getting games for {country}, URL: {url}, Error: {e}")
-            all_leagues[country] = games    
+            all_leagues[country] = league_dict
+            print(f"Scraped {country}") 
         Vault.save_games(self, all_leagues, self.bookie_name, Sport)
+        print(f"Saved {Sport}")
         return games
+    
+    
+    
+    def get_games_id(league_games):
+        """ This Method will get all the games id in each league
+
+        Args:
+            league_games (int): This is the league games 
+            headers (dict): This is the headers that will be passed to the request
+        """
+        id_list = []
+        for a_dict in league_games.get("Value", {}):
+            game_id = a_dict.get("CI", "")
+            id_list.append(game_id)
+            
+        return id_list 
+    
+    def get_games_market(games_id, headers):
+        """ This Method takes a list of games id
+        and query an endpoint url for all the markets for that games
+
+        Args:
+            games_id (list): This is a list of game ids
+        """
+        session = requests.Session()
+        markets = []
+        for id in games_id:
+            url = f"https://22bet.ng/LineFeed/GetGameZip?id={id}&lng=en&tzo=1&isSubGames=true&GroupEvents=true&countevents=100&partner=151&grMode=2&country=132&fcountry=132&marketType=1&mobi=true"
+            response = session.get(url, headers=headers)
+            markets.append(response.json())
+        return markets
+        
+        
