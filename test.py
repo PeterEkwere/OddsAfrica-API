@@ -3,7 +3,7 @@
     This module houses the class for 1xbet
     Author: Peter Ekwere
 """
-from engine.bookie_models.bet22_model import bet22
+from engine.bookie_models.paripasa_model import Paripesa
 import requests
 import json
 from difflib import SequenceMatcher
@@ -18,7 +18,7 @@ from utils.parser.bookies_parsers.xbet_parser import extract
 #result = str_similarity("Everton - Chelsea FC", "Everton VS Chelsea")
 #print(result)
 
-Today = bet22()
+Today = Paripesa()
 sports = ["football", "basketball", "volleyball", "tennis", "darts", "icehockey"]
 for sport in sports:
     league_games = Today.Get_games(sport)

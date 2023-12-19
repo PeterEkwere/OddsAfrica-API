@@ -8,7 +8,7 @@ from datetime import datetime
 sys.path.append("..") 
 
 
-def extract(data):
+def extract_22bet(data):
         """ This Method Handles the extracting of needed Data(games, odds, markets) from a 1xbet response
 
         Args:
@@ -33,7 +33,7 @@ def extract(data):
             for all_markets in a_game_dict.get("GE", []):
 
                     for market in all_markets.get("E", []):
-                        market_id = all_markets.get("GS", 0)
+                        market_id = all_markets.get("G", 0)
                         for a_dict in market:
                             odds = a_dict.get("C", 0)
                             outcome_id = a_dict.get("T", 0)
@@ -74,10 +74,10 @@ def extract(data):
                     for all_markets in a_game_dict.get("GE", []):
 
                         for market in all_markets.get("E", []):
-                            market_id = all_markets.get("GS", 0)
+                            market_id = all_markets.get("G", 0)
                             for a_dict in market:
                                     odds = a_dict.get("C", 0)
-                                    market_id = a_dict.get("GS", 0)
+                                    market_id = a_dict.get("G", 0)
                                     outcome_id = a_dict.get("T", 0)
 
                                     if market_id == 1:

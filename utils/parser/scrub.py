@@ -9,6 +9,7 @@ from utils.parser.bookies_parsers.xbet_parser import extract
 from utils.parser.bookies_parsers.merrybet_parser import extract_merrybet
 from utils.parser.bookies_parsers.nairabet_parser import extract_nairabet
 from utils.parser.bookies_parsers.betnaija_parser import extract_bet9ja
+from utils.parser.bookies_parsers.bet22_parser import extract_22bet
 
 
 
@@ -31,16 +32,16 @@ class Parse:
         try:
             
             if bookie_name == "1xbet":
-                clean_data = extract(data)
-                return clean_data
+                clean_data, league = extract(data)
+                return clean_data, league
             if bookie_name == "paripesa":
                 clean_data = extract(data)
                 return clean_data
             if bookie_name == "betwinner":
-                clean_data = extract(data)
-                return clean_data
-            if bookie_name == "22bet":
                 clean_data, league = extract(data)
+                return clean_data, league
+            if bookie_name == "22bet":
+                clean_data, league = extract_22bet(data)
                 return clean_data, league
             if bookie_name == "merrybet":
                 clean_data = extract_merrybet(data)
