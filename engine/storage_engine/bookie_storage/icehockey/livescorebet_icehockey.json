@@ -1,0 +1,1028 @@
+{
+  "Austria": {
+    "Austria ICE Hockey League": {
+      "EC GRAND Immo VSV vs Asiago Hockey": {
+        "time": "2023-12-22 18:15:00",
+        "Winner": {
+          "EC GRAND Immo VSV": 1.5882353,
+          "Draw": 4.75,
+          "Asiago Hockey": 4.3
+        },
+        "Puck line": {
+          "EC GRAND Immo VSV -1.5": 1.8268448,
+          "Asiago Hockey +1.5": 1.81188524
+        },
+        "Over/under": {
+          "Over 6": 1.71944712,
+          "Under 6": 1.93304399
+        }
+      },
+      "Graz 99ers vs Klagenfurt": {
+        "time": "2023-12-22 18:15:00",
+        "Winner": {
+          "Graz 99ers": 3.55,
+          "Draw": 4.15,
+          "Klagenfurt": 1.83333334
+        },
+        "Puck line": {
+          "Klagenfurt -0.5": 1.75897514,
+          "Graz 99ers +0.5": 1.88541137
+        },
+        "Over/under": {
+          "Over 5": 1.73361146,
+          "Under 5": 1.91544973
+        }
+      },
+      "Red Bulls Salzburg vs Val Pustertal Wolves": {
+        "time": "2023-12-22 18:15:00",
+        "Winner": {
+          "Red Bulls Salzburg": 1.60606061,
+          "Draw": 4.4,
+          "Val Pustertal Wolves": 4.6
+        },
+        "Puck line": {
+          "Red Bulls Salzburg -1.5": 1.91201528,
+          "Val Pustertal Wolves +1.5": 1.73643451
+        },
+        "Over/under": {
+          "Over 5": 1.77461391,
+          "Under 5": 1.86713752
+        }
+      },
+      "Innsbruck vs Vienna Capitals": {
+        "time": "2023-12-22 18:30:00",
+        "Winner": {
+          "Innsbruck": 1.64516129,
+          "Draw": 4.6,
+          "Vienna Capitals": 4.05
+        },
+        "Puck line": {
+          "Innsbruck -1.5": 1.92862864,
+          "Vienna Capitals +1.5": 1.72295566
+        },
+        "Over/under": {
+          "Over 6": 1.893232,
+          "Under 6": 1.7522224
+        }
+      },
+      "HCB Sudtirol vs HK SZ Olimpija": {
+        "time": "2023-12-22 18:45:00",
+        "Winner": {
+          "HCB Sudtirol": 1.48780488,
+          "Draw": 4.8,
+          "HK SZ Olimpija": 5.25
+        },
+        "Puck line": {
+          "HCB Sudtirol -1.5": 1.72735415,
+          "HK SZ Olimpija +1.5": 1.92314713
+        },
+        "Over/under": {
+          "Over 5.5": 1.81532702,
+          "Under 5.5": 1.82469711
+        }
+      }
+    },
+    "Alps Hockey League": {}
+  },
+  "Czech Republic": {
+    "Czech Extraliga": {
+      "HC Skoda Plzen vs Ceske Budejovice": {
+        "time": "2023-12-22 16:30:00",
+        "Winner": {
+          "HC Skoda Plzen": 2.4,
+          "Draw": 3.9,
+          "Ceske Budejovice": 2.55
+        },
+        "Puck line": {
+          "HC Skoda Plzen -0.5": 2.26173326,
+          "Ceske Budejovice +0.5": 1.5226208
+        },
+        "Over/under": {
+          "Over 5": 1.90693046,
+          "Under 5": 1.74064973
+        }
+      },
+      "Bili Tygri Liberec vs Ocelari Trinec": {
+        "time": "2023-12-22 17:00:00",
+        "Winner": {
+          "Bili Tygri Liberec": 2.4,
+          "Draw": 3.95,
+          "Ocelari Trinec": 2.55
+        },
+        "Puck line": {
+          "Bili Tygri Liberec -0.5": 2.25867591,
+          "Ocelari Trinec +0.5": 1.52400964
+        },
+        "Over/under": {
+          "Over 5": 1.70484956,
+          "Under 5": 1.94754249
+        }
+      },
+      "Kometa Brno vs HC Verva Litvinov": {
+        "time": "2023-12-22 17:00:00",
+        "Winner": {
+          "Kometa Brno": 1.86956522,
+          "Draw": 4.1,
+          "HC Verva Litvinov": 3.45
+        },
+        "Puck line": {
+          "Kometa Brno -0.5": 1.79385264,
+          "HC Verva Litvinov +0.5": 1.8408131
+        },
+        "Over/under": {
+          "Over 5": 1.72934601,
+          "Under 5": 1.91782076
+        }
+      },
+      "Mountfield HK vs BK Mlada Boleslav": {
+        "time": "2023-12-22 17:00:00",
+        "Winner": {
+          "Mountfield HK": 1.52631579,
+          "Draw": 4.5,
+          "BK Mlada Boleslav": 5.25
+        },
+        "Puck line": {
+          "Mountfield HK -1.5": 1.82752273,
+          "BK Mlada Boleslav +1.5": 1.81253895
+        },
+        "Over/under": {
+          "Over 5": 1.92084435,
+          "Under 5": 1.7269413
+        }
+      },
+      "Olomouc vs HC Energie Karlovy Vary": {
+        "time": "2023-12-22 17:00:00",
+        "Winner": {
+          "Olomouc": 2.45,
+          "Draw": 3.85,
+          "HC Energie Karlovy Vary": 2.45
+        },
+        "Puck line": {
+          "Olomouc -0.5": 2.34121066,
+          "HC Energie Karlovy Vary +0.5": 1.48860113
+        },
+        "Over/under": {
+          "Over 5": 1.95545855,
+          "Under 5": 1.70254025
+        }
+      },
+      "Rytiri Kladno vs HC Vitkovice Ridera": {
+        "time": "2023-12-22 17:00:00",
+        "Winner": {
+          "Rytiri Kladno": 2.7,
+          "Draw": 3.9,
+          "HC Vitkovice Ridera": 2.25
+        },
+        "Puck line": {
+          "HC Vitkovice Ridera -0.5": 2.14118825,
+          "Rytiri Kladno +0.5": 1.58260227
+        },
+        "Over/under": {
+          "Over 5": 1.85361211,
+          "Under 5": 1.78758518
+        }
+      },
+      "Sparta Prague vs HC Dynamo Pardubice": {
+        "time": "2023-12-22 17:30:00",
+        "Winner": {
+          "Sparta Prague": 2.25,
+          "Draw": 3.95,
+          "HC Dynamo Pardubice": 2.7
+        },
+        "Puck line": {
+          "Sparta Prague -0.5": 2.13969339,
+          "HC Dynamo Pardubice +0.5": 1.58341991
+        },
+        "Over/under": {
+          "Over 5": 1.71272206,
+          "Under 5": 1.94161498
+        }
+      }
+    }
+  },
+  "Finland": {
+    "Finnish SM Liga": {}
+  },
+  "Germany": {
+    "Germany Eishockey Liga": {
+      "Eisbaren Berlin vs Augsburger Panther": {
+        "time": "2023-12-21 18:30:00",
+        "Winner": {
+          "Augsburger Panther": 28.0
+        }
+      },
+      "Kolner Haie vs Grizzlys Wolfsburg": {
+        "time": "2023-12-21 18:30:00",
+        "Winner": {
+          "Kolner Haie": 13.0,
+          "Grizzlys Wolfsburg": 1.005
+        }
+      },
+      "Pinguins Bremerhaven vs EHC Munich": {
+        "time": "2023-12-21 18:30:00",
+        "Winner": {
+          "Pinguins Bremerhaven": 1.90909091,
+          "EHC Munich": 1.86956522
+        }
+      }
+    }
+  },
+  "International": {
+    "World Junior Championship": {
+      "Slovakia U20 vs Czech Republic U20": {
+        "time": "2023-12-26 11:00:00",
+        "Winner": {
+          "Slovakia U20": 4.1,
+          "Draw": 4.7,
+          "Czech Republic U20": 1.625
+        },
+        "Puck line": {
+          "Czech Republic U20 -1.5": 1.89060178,
+          "Slovakia U20 +1.5": 1.75448144
+        },
+        "Over/under": {
+          "Over 6": 1.76120902,
+          "Under 6": 1.88285165
+        }
+      },
+      "Finland U20 vs Canada U20": {
+        "time": "2023-12-26 13:30:00",
+        "Winner": {
+          "Finland U20": 3.25,
+          "Draw": 4.2,
+          "Canada U20": 1.90909091
+        },
+        "Puck line": {
+          "Canada U20 -1.5": 2.34553722,
+          "Finland U20 +1.5": 1.48685722
+        },
+        "Over/under": {
+          "Over 5.5": 1.81734645,
+          "Under 5.5": 1.82266132
+        }
+      },
+      "USA U20 vs Norway U20": {
+        "time": "2023-12-26 16:00:00",
+        "Winner": {
+          "USA U20": 1.005,
+          "Draw": 22.0,
+          "Norway U20": 34.0
+        },
+        "Puck line": {
+          "USA U20 -5.5": 1.78008583,
+          "Norway U20 +5.5": 1.8617452
+        },
+        "Over/under": {
+          "Over 8.5": 1.83090279,
+          "Under 8.5": 1.80485188
+        }
+      },
+      "Sweden U20 vs Latvia U20": {
+        "time": "2023-12-26 18:30:00",
+        "Winner": {
+          "Sweden U20": 1.02564103,
+          "Draw": 16.0,
+          "Latvia U20": 28.0
+        },
+        "Puck line": {
+          "Sweden U20 -4.5": 1.85661425,
+          "Latvia U20 +4.5": 1.78480207
+        },
+        "Over/under": {
+          "Over 6.5": 1.7832228,
+          "Under 6.5": 1.85832614
+        }
+      }
+    }
+  },
+  "Kazakhstan": {
+    "Kazakhstan Hockey Championship": {}
+  },
+  "Latvia": {
+    "Latvia Premjer Liga": {
+      "Tallinn HC Panter vs Kaunas City": {
+        "time": "2023-12-22 16:10:00",
+        "Winner": {
+          "Tallinn HC Panter": 2.4,
+          "Draw": 4.55,
+          "Kaunas City": 2.2
+        },
+        "Puck line": {
+          "Kaunas City -0.5": 2.14802414,
+          "Tallinn HC Panter +0.5": 1.57888842
+        },
+        "Over/under": {
+          "Over 7.5": 1.76376775,
+          "Under 7.5": 1.87993593
+        }
+      },
+      "HS Riga vs Energija Elektrenai": {
+        "time": "2023-12-22 17:00:00",
+        "Winner": {
+          "HS Riga": 1.25,
+          "Draw": 6.25,
+          "Energija Elektrenai": 7.75
+        },
+        "Puck line": {
+          "HS Riga -2.5": 1.57217133,
+          "Energija Elektrenai +2.5": 2.1605827
+        },
+        "Over/under": {
+          "Over 6.5": 1.77861959,
+          "Under 6.5": 1.86335186
+        }
+      }
+    }
+  },
+  "Norway": {
+    "Norway Fjordkraft-ligaen": {
+      "Stjernen vs Sparta Sarpsborg": {
+        "time": "2023-12-22 17:30:00",
+        "Winner": {
+          "Stjernen": 2.8,
+          "Draw": 4.1,
+          "Sparta Sarpsborg": 2.15
+        },
+        "Puck line": {
+          "Sparta Sarpsborg -0.5": 2.04044157,
+          "Stjernen +0.5": 1.64254561
+        },
+        "Over/under": {
+          "Over 5.5": 1.78490888,
+          "Under 5.5": 1.85649858
+        }
+      }
+    }
+  },
+  "Slovakia": {
+    "Slovakia Extraliga": {
+      "MHK Humenne vs HK Spisska Nova Ves": {
+        "time": "2023-12-22 16:00:00",
+        "Winner": {
+          "MHK Humenne": 3.9,
+          "Draw": 4.45,
+          "HK Spisska Nova Ves": 1.68965518
+        },
+        "Puck line": {
+          "HK Spisska Nova Ves -1.5": 2.01031845,
+          "MHK Humenne +1.5": 1.66260031
+        },
+        "Over/under": {
+          "Over 5.5": 1.73562457,
+          "Under 5.5": 1.91299826
+        }
+      },
+      "Banska Bystrica vs Zvolen": {
+        "time": "2023-12-22 16:30:00",
+        "Winner": {
+          "Banska Bystrica": 3.0,
+          "Draw": 4.25,
+          "Zvolen": 2.0
+        },
+        "Puck line": {
+          "Zvolen -0.5": 1.91870178,
+          "Banska Bystrica +0.5": 1.73095623
+        },
+        "Over/under": {
+          "Over 6": 1.82626904,
+          "Under 6": 1.81668061
+        }
+      },
+      "Kosice vs Dukla Michalovce": {
+        "time": "2023-12-22 16:30:00",
+        "Winner": {
+          "Kosice": 2.0,
+          "Draw": 4.1,
+          "Dukla Michalovce": 3.1
+        },
+        "Puck line": {
+          "Kosice -0.5": 1.89970105,
+          "Dukla Michalovce +0.5": 1.74671723
+        },
+        "Over/under": {
+          "Over 5.5": 1.89365308,
+          "Under 5.5": 1.75186185
+        }
+      },
+      "Dukla Trencin vs Slovan Bratislava": {
+        "time": "2023-12-22 17:00:00",
+        "Winner": {
+          "Dukla Trencin": 2.35,
+          "Draw": 4.15,
+          "Slovan Bratislava": 2.5
+        },
+        "Puck line": {
+          "Dukla Trencin -0.5": 2.22718863,
+          "Slovan Bratislava +0.5": 1.53868741
+        },
+        "Over/under": {
+          "Over 5.5": 1.67728382,
+          "Under 5.5": 1.98547042
+        }
+      },
+      "HK Nove Zamky vs HK Nitra": {
+        "time": "2023-12-22 17:00:00",
+        "Winner": {
+          "HK Nove Zamky": 2.6,
+          "Draw": 4.2,
+          "HK Nitra": 2.25
+        },
+        "Puck line": {
+          "HK Nitra -0.5": 2.14887724,
+          "HK Nove Zamky +0.5": 1.57842782
+        },
+        "Over/under": {
+          "Over 6": 1.86631948,
+          "Under 6": 1.77592403
+        }
+      },
+      "Mikulas vs HK Poprad": {
+        "time": "2023-12-22 17:00:00",
+        "Winner": {
+          "Mikulas": 3.4,
+          "Draw": 4.25,
+          "HK Poprad": 1.86956522
+        },
+        "Puck line": {
+          "HK Poprad -0.5": 1.78450715,
+          "Mikulas +0.5": 1.85693348
+        },
+        "Over/under": {
+          "Over 5.5": 1.76843523,
+          "Under 5.5": 1.87930552
+        }
+      }
+    },
+    "Slovakia Liga1": {
+      "AquaCity Pikes vs Dubnica Nad Vahom": {
+        "time": "2023-12-22 14:00:00",
+        "Winner": {
+          "AquaCity Pikes": 2.4,
+          "Draw": 3.95,
+          "Dubnica Nad Vahom": 2.4
+        },
+        "Puck line": {
+          "AquaCity Pikes -0.5": 2.30101683,
+          "Dubnica Nad Vahom +0.5": 1.50531984
+        },
+        "Over/under": {
+          "Over 5.5": 1.81915895,
+          "Under 5.5": 1.82084184
+        }
+      },
+      "MsHK Zilina vs HK 2016 Trebisov": {
+        "time": "2023-12-22 16:30:00",
+        "Winner": {
+          "MsHK Zilina": 1.21052632,
+          "Draw": 6.0,
+          "HK 2016 Trebisov": 9.5
+        },
+        "Puck line": {
+          "MsHK Zilina -2.5": 1.61368379,
+          "HK 2016 Trebisov +2.5": 2.086807
+        },
+        "Over/under": {
+          "Over 6": 1.69747208,
+          "Under 6": 1.96159273
+        }
+      },
+      "Skalica vs HKM Rimavska Sobota": {
+        "time": "2023-12-22 16:30:00",
+        "Winner": {
+          "Skalica": 2.1,
+          "Draw": 3.95,
+          "HKM Rimavska Sobota": 2.75
+        },
+        "Puck line": {
+          "Skalica -0.5": 2.03424591,
+          "HKM Rimavska Sobota +0.5": 1.64658271
+        },
+        "Over/under": {
+          "Over 5.5": 1.84901422,
+          "Under 5.5": 1.79188229
+        }
+      },
+      "HC Presov vs Povazska Bystrica": {
+        "time": "2023-12-22 17:00:00",
+        "Winner": {
+          "HC Presov": 1.625,
+          "Draw": 4.5,
+          "Povazska Bystrica": 3.9
+        },
+        "Puck line": {
+          "HC Presov -1.5": 1.92090996,
+          "Povazska Bystrica +1.5": 1.72916298
+        },
+        "Over/under": {
+          "Over 6": 1.75087212,
+          "Under 6": 1.89481088
+        }
+      },
+      "MSK Ziar nad Hronom vs HC Topolcany": {
+        "time": "2023-12-22 17:00:00",
+        "Winner": {
+          "MSK Ziar nad Hronom": 2.25,
+          "Draw": 4.05,
+          "HC Topolcany": 2.5
+        },
+        "Puck line": {
+          "MSK Ziar nad Hronom -0.5": 2.18203266,
+          "HC Topolcany +0.5": 1.56100523
+        },
+        "Over/under": {
+          "Over 6": 1.95116712,
+          "Under 6": 1.70535744
+        }
+      },
+      "Slovan Bratislava II vs Trnava": {
+        "time": "2023-12-22 17:00:00",
+        "Winner": {
+          "Slovan Bratislava II": 1.8,
+          "Draw": 4.15,
+          "Trnava": 3.3
+        },
+        "Puck line": {
+          "Slovan Bratislava II -0.5": 1.77677895,
+          "Trnava +0.5": 1.86537624
+        },
+        "Over/under": {
+          "Over 5.5": 1.7495125,
+          "Under 5.5": 1.89640582
+        }
+      }
+    }
+  },
+  "Sweden": {
+    "Sweden Damhockeyligan": {}
+  },
+  "Switzerland": {
+    "Swiss Nationalliga": {
+      "Ambri Piotta vs Servette": {
+        "time": "2023-12-21 18:45:00",
+        "Winner": {
+          "Servette": 20.0
+        }
+      },
+      "Davos vs Biel": {
+        "time": "2023-12-21 18:45:00",
+        "Winner": {
+          "Davos": 1.8,
+          "Biel": 2.0
+        }
+      },
+      "Fribourg Gotteron vs Lugano": {
+        "time": "2023-12-21 18:45:00",
+        "Puck line": {
+          "Fribourg Gotteron -2.5": 1.91688509,
+          "Lugano +2.5": 1.80639383
+        },
+        "Over/under": {
+          "Over 3.5": 2.11515079,
+          "Under 3.5": 1.65902366
+        },
+        "Moneyline (3 Way) (Excl OT)": {
+          "Fribourg Gotteron": 1.04,
+          "Draw": 12.0,
+          "Lugano": 36.0
+        }
+      },
+      "Rapperswil vs Kloten Flyers": {
+        "time": "2023-12-21 18:45:00",
+        "Winner": {
+          "Rapperswil": 1.03448276,
+          "Kloten Flyers": 9.5
+        }
+      },
+      "SC Bern vs Ajoie": {
+        "time": "2023-12-21 18:45:00",
+        "Winner": {
+          "SC Bern": 1.46511628,
+          "Ajoie": 2.6
+        }
+      },
+      "Zurich Lions vs Zug": {
+        "time": "2023-12-21 18:45:00",
+        "Puck line": {
+          "Zurich Lions -1.5": 13.05300196,
+          "Zug +1.5": 1.005
+        },
+        "Over/under": {
+          "Over 5.5": 6.59125514,
+          "Under 5.5": 1.07871086
+        },
+        "Moneyline (3 Way) (Excl OT)": {
+          "Zurich Lions": 6.25,
+          "Draw": 1.28571429,
+          "Zug": 7.25
+        }
+      }
+    },
+    "Swiss League": {
+      "Bellinzona Rockets vs Sierre": {
+        "time": "2023-12-21 19:15:00",
+        "Puck line": {
+          "Sierre -4.5": 1.85595956,
+          "Bellinzona Rockets +4.5": 1.86367254
+        },
+        "Over/under": {
+          "Over 8": 2.14322947,
+          "Under 8": 1.61193886
+        },
+        "Moneyline (3 Way) (Excl OT)": {
+          "Bellinzona Rockets": 41.0,
+          "Draw": 38.0
+        }
+      }
+    }
+  },
+  "United States": {
+    "NHL": {
+      "BUF Sabres vs TOR Maple Leafs": {
+        "time": "2023-12-22 00:08:00",
+        "Puck line": {
+          "TOR Maple Leafs -1.5": 2.5,
+          "BUF Sabres +1.5": 1.55555556
+        },
+        "Over/under": {
+          "Over 6.5": 1.67567568,
+          "Under 6.5": 2.24
+        },
+        "Moneyline (3 Way) (Excl OT)": {
+          "BUF Sabres": 2.85,
+          "Draw": 5.0,
+          "TOR Maple Leafs": 1.95238096
+        }
+      },
+      "CBJ Blue Jackets vs WAS Capitals": {
+        "time": "2023-12-22 00:08:00",
+        "Puck line": {
+          "WAS Capitals -1.5": 3.05,
+          "CBJ Blue Jackets +1.5": 1.4
+        },
+        "Over/under": {
+          "Over 6": 1.83333334,
+          "Under 6": 2.0
+        },
+        "Moneyline (3 Way) (Excl OT)": {
+          "CBJ Blue Jackets": 2.55,
+          "Draw": 4.6,
+          "WAS Capitals": 2.2
+        }
+      },
+      "FLA Panthers vs STL Blues": {
+        "time": "2023-12-22 00:08:00",
+        "Puck line": {
+          "FLA Panthers -1.5": 2.14,
+          "STL Blues +1.5": 1.74074075
+        },
+        "Over/under": {
+          "Over 6.5": 1.92592593,
+          "Under 6.5": 1.89285715
+        },
+        "Moneyline (3 Way) (Excl OT)": {
+          "FLA Panthers": 1.64516129,
+          "Draw": 5.0,
+          "STL Blues": 3.8
+        }
+      },
+      "PHI Flyers vs NSH Predators": {
+        "time": "2023-12-22 00:08:00",
+        "Puck line": {
+          "PHI Flyers -1.5": 3.1,
+          "NSH Predators +1.5": 1.3875969
+        },
+        "Over/under": {
+          "Over 5.5": 1.81967214,
+          "Under 5.5": 2.02
+        },
+        "Moneyline (3 Way) (Excl OT)": {
+          "PHI Flyers": 2.15,
+          "Draw": 4.55,
+          "NSH Predators": 2.6
+        }
+      },
+      "PIT Penguins vs CAR Hurricanes": {
+        "time": "2023-12-22 00:08:00",
+        "Puck line": {
+          "CAR Hurricanes -1.5": 2.8,
+          "PIT Penguins +1.5": 1.4587156
+        },
+        "Over/under": {
+          "Over 6.5": 1.90909091,
+          "Under 6.5": 1.90909091
+        },
+        "Moneyline (3 Way) (Excl OT)": {
+          "PIT Penguins": 2.55,
+          "Draw": 4.7,
+          "CAR Hurricanes": 2.15
+        }
+      },
+      "TB Lightning vs VGK Golden Knights": {
+        "time": "2023-12-22 00:08:00",
+        "Puck line": {
+          "TB Lightning -1.5": 3.1,
+          "VGK Golden Knights +1.5": 1.3875969
+        },
+        "Over/under": {
+          "Over 6.5": 1.95238096,
+          "Under 6.5": 1.86956522
+        },
+        "Moneyline (3 Way) (Excl OT)": {
+          "TB Lightning": 2.2,
+          "Draw": 4.65,
+          "VGK Golden Knights": 2.55
+        }
+      },
+      "NJ Devils vs EDM Oilers": {
+        "time": "2023-12-22 00:38:00",
+        "Puck line": {
+          "NJ Devils -1.5": 3.1,
+          "EDM Oilers +1.5": 1.3875969
+        },
+        "Over/under": {
+          "Over 7": 1.92592593,
+          "Under 7": 1.89285715
+        },
+        "Moneyline (3 Way) (Excl OT)": {
+          "NJ Devils": 2.35,
+          "Draw": 4.75,
+          "EDM Oilers": 2.25
+        }
+      },
+      "DAL Stars vs VAN Canucks": {
+        "time": "2023-12-22 01:08:00",
+        "Puck line": {
+          "DAL Stars -1.5": 2.7,
+          "VAN Canucks +1.5": 1.48780488
+        },
+        "Over/under": {
+          "Over 6.5": 2.0,
+          "Under 6.5": 1.83333334
+        },
+        "Moneyline (3 Way) (Excl OT)": {
+          "DAL Stars": 2.0,
+          "Draw": 4.65,
+          "VAN Canucks": 2.9
+        }
+      },
+      "MIN Wild vs MTL Canadiens": {
+        "time": "2023-12-22 01:08:00",
+        "Puck line": {
+          "MIN Wild -1.5": 2.42,
+          "MTL Canadiens +1.5": 1.5882353
+        },
+        "Over/under": {
+          "Over 6": 1.89285715,
+          "Under 6": 1.92592593
+        },
+        "Moneyline (3 Way) (Excl OT)": {
+          "MIN Wild": 1.83333334,
+          "Draw": 4.7,
+          "MTL Canadiens": 3.25
+        }
+      },
+      "COL Avalanche vs OTT Senators": {
+        "time": "2023-12-22 02:08:00",
+        "Puck line": {
+          "COL Avalanche -1.5": 2.36,
+          "OTT Senators +1.5": 1.61728396
+        },
+        "Over/under": {
+          "Over 6.5": 1.70422536,
+          "Under 6.5": 2.2
+        },
+        "Moneyline (3 Way) (Excl OT)": {
+          "COL Avalanche": 1.83333334,
+          "Draw": 5.0,
+          "OTT Senators": 3.1
+        }
+      },
+      "ANA Ducks vs CGY Flames": {
+        "time": "2023-12-22 03:08:00",
+        "Puck line": {
+          "CGY Flames -1.5": 2.3,
+          "ANA Ducks +1.5": 1.6451613
+        },
+        "Over/under": {
+          "Over 6": 1.8,
+          "Under 6": 2.05
+        },
+        "Moneyline (3 Way) (Excl OT)": {
+          "ANA Ducks": 3.25,
+          "Draw": 4.75,
+          "CGY Flames": 1.8
+        }
+      },
+      "SJ Sharks vs ARI Coyotes": {
+        "time": "2023-12-22 03:38:00",
+        "Puck line": {
+          "ARI Coyotes -1.5": 2.6,
+          "SJ Sharks +1.5": 1.52083334
+        },
+        "Over/under": {
+          "Over 6": 1.84745763,
+          "Under 6": 1.98039216
+        },
+        "Moneyline (3 Way) (Excl OT)": {
+          "SJ Sharks": 3.0,
+          "Draw": 4.6,
+          "ARI Coyotes": 1.95238096
+        }
+      },
+      "DET Red Wings vs PHI Flyers": {
+        "time": "2023-12-23 00:10:00",
+        "Puck line": {
+          "DET Red Wings -1.5": 2.8,
+          "PHI Flyers +1.5": 1.4587156
+        },
+        "Over/under": {
+          "Over 6": 1.81967214,
+          "Under 6": 2.02
+        },
+        "Moneyline (3 Way) (Excl OT)": {
+          "DET Red Wings": 2.0,
+          "Draw": 4.6,
+          "PHI Flyers": 2.9
+        }
+      },
+      "NY Rangers vs EDM Oilers": {
+        "time": "2023-12-23 00:30:00",
+        "Puck line": {
+          "NY Rangers -1.5": 2.7,
+          "EDM Oilers +1.5": 1.48780488
+        },
+        "Over/under": {
+          "Over 6.5": 1.86956522,
+          "Under 6.5": 1.95238096
+        },
+        "Moneyline (3 Way) (Excl OT)": {
+          "NY Rangers": 2.0,
+          "Draw": 4.6,
+          "EDM Oilers": 2.9
+        }
+      },
+      "WPG Jets vs BOS Bruins": {
+        "time": "2023-12-23 01:00:00",
+        "Puck line": {
+          "BOS Bruins -1.5": 2.95,
+          "WPG Jets +1.5": 1.42016807
+        },
+        "Over/under": {
+          "Over 5.5": 1.83333334,
+          "Under 5.5": 2.0
+        },
+        "Moneyline (3 Way) (Excl OT)": {
+          "WPG Jets": 2.7,
+          "Draw": 4.4,
+          "BOS Bruins": 2.1
+        }
+      },
+      "CHI Blackhawks vs MTL Canadiens": {
+        "time": "2023-12-23 01:30:00",
+        "Puck line": {
+          "CHI Blackhawks -1.5": 3.05,
+          "MTL Canadiens +1.5": 1.4
+        },
+        "Over/under": {
+          "Over 6.5": 1.95238096,
+          "Under 6.5": 1.86956522
+        },
+        "Moneyline (3 Way) (Excl OT)": {
+          "CHI Blackhawks": 2.15,
+          "Draw": 4.5,
+          "MTL Canadiens": 2.6
+        }
+      }
+    },
+    "AHL": {
+      "Belleville Senators vs W-B/Scranton Penguins": {
+        "time": "2023-12-22 00:00:00",
+        "Winner": {
+          "Belleville Senators": 2.15,
+          "Draw": 3.95,
+          "W-B/Scranton Penguins": 2.6
+        },
+        "Puck line": {
+          "Belleville Senators -0.5": 2.2,
+          "W-B/Scranton Penguins +0.5": 1.65789474
+        },
+        "Over/under": {
+          "Over 5.5": 1.76923077,
+          "Under 5.5": 2.0
+        }
+      },
+      "Charlotte Checkers vs Lehigh Valley Phantoms": {
+        "time": "2023-12-22 00:00:00",
+        "Winner": {
+          "Charlotte Checkers": 2.3,
+          "Draw": 3.9,
+          "Lehigh Valley Phantoms": 2.4
+        },
+        "Puck line": {
+          "Charlotte Checkers -0.5": 2.35,
+          "Lehigh Valley Phantoms +0.5": 1.57471265
+        },
+        "Over/under": {
+          "Over 5.5": 1.90909091,
+          "Under 5.5": 1.83333334
+        }
+      },
+      "Abbotsford Canucks vs Ontario Reign": {
+        "time": "2023-12-22 03:00:00",
+        "Winner": {
+          "Abbotsford Canucks": 2.5,
+          "Draw": 3.9,
+          "Ontario Reign": 2.2
+        },
+        "Puck line": {
+          "Ontario Reign -0.5": 2.24,
+          "Abbotsford Canucks +0.5": 1.6329114
+        },
+        "Over/under": {
+          "Over 5.5": 1.83333334,
+          "Under 5.5": 1.90909091
+        }
+      },
+      "Hartford Wolf Pack vs Bridgeport Islanders": {
+        "time": "2023-12-23 00:00:00",
+        "Winner": {
+          "Hartford Wolf Pack": 1.95238096,
+          "Draw": 3.9,
+          "Bridgeport Islanders": 2.85
+        },
+        "Puck line": {
+          "Hartford Wolf Pack -0.5": 2.0,
+          "Bridgeport Islanders +0.5": 1.76923077
+        },
+        "Over/under": {
+          "Over 5.5": 1.86956522,
+          "Under 5.5": 1.86956522
+        }
+      },
+      "Syracuse Crunch vs Cleveland Monsters": {
+        "time": "2023-12-23 00:00:00",
+        "Winner": {
+          "Syracuse Crunch": 2.05,
+          "Draw": 3.95,
+          "Cleveland Monsters": 2.65
+        },
+        "Puck line": {
+          "Syracuse Crunch -0.5": 2.14,
+          "Cleveland Monsters +0.5": 1.68493151
+        },
+        "Over/under": {
+          "Over 6": 2.0,
+          "Under 6": 1.76923077
+        }
+      },
+      "Rochester Americans vs Providence Bruins": {
+        "time": "2023-12-23 00:05:00",
+        "Winner": {
+          "Rochester Americans": 2.1,
+          "Draw": 3.95,
+          "Providence Bruins": 2.65
+        },
+        "Puck line": {
+          "Rochester Americans -0.5": 2.14,
+          "Providence Bruins +0.5": 1.68493151
+        },
+        "Over/under": {
+          "Over 5.5": 1.74074075,
+          "Under 5.5": 2.05
+        }
+      },
+      "Springfield Thunderbirds vs Hershey Bears": {
+        "time": "2023-12-23 00:05:00",
+        "Winner": {
+          "Springfield Thunderbirds": 2.15,
+          "Draw": 3.8,
+          "Hershey Bears": 2.55
+        },
+        "Puck line": {
+          "Springfield Thunderbirds -0.5": 2.24,
+          "Hershey Bears +0.5": 1.6329114
+        },
+        "Over/under": {
+          "Over 5": 1.76923077,
+          "Under 5": 2.0
+        }
+      },
+      "Iowa Wild vs Manitoba Moose": {
+        "time": "2023-12-23 01:00:00",
+        "Winner": {
+          "Iowa Wild": 2.25,
+          "Draw": 3.9,
+          "Manitoba Moose": 2.4
+        },
+        "Puck line": {
+          "Iowa Wild -0.5": 2.3,
+          "Manitoba Moose +0.5": 1.60240964
+        },
+        "Over/under": {
+          "Over 5.5": 1.8,
+          "Under 5.5": 1.95238096
+        }
+      }
+    }
+  }
+}

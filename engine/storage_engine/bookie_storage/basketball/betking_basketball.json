@@ -1,0 +1,2797 @@
+{
+  "USA": {
+    "NBA": {
+      "Indiana Pacers - Charlotte Hornets": {
+        "Moneyline": {
+          "1": 1.17,
+          "2": 5.1
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.58,
+          "2 AH": 2.4
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 2.15,
+          "Under": 1.71
+        },
+        "1X2 - Regular Time": {
+          "1": 1.2,
+          "X": 19.0,
+          "2": 5.4
+        }
+      },
+      "Orlando Magic - Miami Heat": {
+        "Moneyline": {
+          "1": 1.47,
+          "2": 2.7
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.62,
+          "2 AH": 2.3
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 2.27,
+          "Under": 1.64
+        },
+        "1X2 - Regular Time": {
+          "1": 1.52,
+          "X": 17.0,
+          "2": 2.82
+        }
+      },
+      "Philadelphia 76ers - Minnesota Timberwolves": {
+        "Moneyline": {
+          "1": 1.6,
+          "2": 2.35
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.68,
+          "2 AH": 2.2
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 2.28,
+          "Under": 1.63
+        },
+        "1X2 - Regular Time": {
+          "1": 1.65,
+          "X": 17.5,
+          "2": 2.43
+        }
+      },
+      "Brooklyn Nets - New York Knicks": {
+        "Moneyline": {
+          "1": 1.93,
+          "2": 1.88
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.59,
+          "2 AH": 2.38
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 2.22,
+          "Under": 1.67
+        },
+        "1X2 - Regular Time": {
+          "1": 2.0,
+          "X": 17.5,
+          "2": 1.95
+        }
+      },
+      "Toronto Raptors - Denver Nuggets": {
+        "Moneyline": {
+          "1": 2.35,
+          "2": 1.6
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.67,
+          "2 AH": 2.2
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 2.22,
+          "Under": 1.67
+        },
+        "1X2 - Regular Time": {
+          "1": 2.43,
+          "X": 17.5,
+          "2": 1.65
+        }
+      },
+      "Chicago Bulls - Los Angeles Lakers": {
+        "Moneyline": {
+          "1": 2.3,
+          "2": 1.65
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.65,
+          "2 AH": 2.25
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 2.28,
+          "Under": 1.63
+        },
+        "1X2 - Regular Time": {
+          "1": 2.4,
+          "X": 17.5,
+          "2": 1.68
+        }
+      },
+      "Houston Rockets - Atlanta Hawks": {
+        "Moneyline": {
+          "1": 1.68,
+          "2": 2.2
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.76,
+          "2 AH": 2.07
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 2.2,
+          "Under": 1.68
+        },
+        "1X2 - Regular Time": {
+          "1": 1.73,
+          "X": 17.5,
+          "2": 2.28
+        }
+      },
+      "Dallas Mavericks - LA Clippers": {
+        "Moneyline": {
+          "1": 2.12,
+          "2": 1.73
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.63,
+          "2 AH": 2.28
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 2.25,
+          "Under": 1.65
+        },
+        "1X2 - Regular Time": {
+          "1": 2.2,
+          "X": 17.5,
+          "2": 1.79
+        }
+      },
+      "Sacramento Kings - Boston Celtics": {
+        "Moneyline": {
+          "1": 1.7,
+          "2": 2.15
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.79,
+          "2 AH": 2.03
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 2.23,
+          "Under": 1.66
+        },
+        "1X2 - Regular Time": {
+          "1": 1.76,
+          "X": 17.5,
+          "2": 2.25
+        }
+      },
+      "Detroit Pistons - Utah Jazz": {
+        "Moneyline": {
+          "1": 2.02,
+          "2": 1.8
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.63,
+          "2 AH": 2.28
+        }
+      },
+      "Chicago Bulls - San Antonio Spurs": {
+        "Moneyline": {
+          "1": 1.69,
+          "2": 2.18
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.77,
+          "2 AH": 2.05
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 2.2,
+          "Under": 1.68
+        },
+        "1X2 - Regular Time": {
+          "1": 1.74,
+          "X": 17.5,
+          "2": 2.28
+        }
+      },
+      "Memphis Grizzlies - Indiana Pacers": {
+        "Moneyline": {
+          "1": 1.54,
+          "2": 2.48
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.62,
+          "2 AH": 2.3
+        }
+      },
+      "Milwaukee Bucks - Orlando Magic": {
+        "Moneyline": {
+          "1": 1.27,
+          "2": 3.8
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.62,
+          "2 AH": 2.3
+        }
+      },
+      "Portland Trail Blazers - Washington Wizards": {
+        "Moneyline": {
+          "1": 1.63,
+          "2": 2.3
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.71,
+          "2 AH": 2.15
+        }
+      },
+      "New York Knicks - Milwaukee Bucks": {
+        "Moneyline": {
+          "1": 2.23,
+          "2": 1.66
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.69,
+          "2 AH": 2.18
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 2.23,
+          "Under": 1.66
+        },
+        "1X2 - Regular Time": {
+          "1": 2.3,
+          "X": 17.5,
+          "2": 1.72
+        }
+      },
+      "Denver Nuggets - Golden State Warriors": {
+        "Moneyline": {
+          "1": 1.48,
+          "2": 2.48
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.91,
+          "2 AH": 1.8
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.85,
+          "Under": 1.86
+        },
+        "1X2 - Regular Time": {
+          "1": 1.49,
+          "X": 17.0,
+          "2": 2.57
+        }
+      },
+      "Los Angeles Lakers - Boston Celtics": {
+        "Moneyline": {
+          "1": 1.96,
+          "2": 1.75
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.85,
+          "2 AH": 1.85
+        }
+      },
+      "Miami Heat - Philadelphia 76ers": {
+        "Moneyline": {
+          "1": 1.75,
+          "2": 1.97
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.84,
+          "2 AH": 1.86
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.85,
+          "Under": 1.85
+        },
+        "1X2 - Regular Time": {
+          "1": 1.77,
+          "X": 17.0,
+          "2": 2.0
+        }
+      }
+    },
+    "NCAA": {
+      "Dayton Flyers - Oakland Golden Grizzlies": {
+        "Moneyline": {
+          "1": 1.1,
+          "2": 6.3
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.91,
+          "2 AH": 1.83
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.89,
+          "Under": 1.85
+        },
+        "1X2 - Regular Time": {
+          "1": 1.1,
+          "X": 19.5,
+          "2": 7.1
+        }
+      },
+      "Delaware Fightin` Blue Hens - Rider Broncs": {
+        "Moneyline": {
+          "1": 1.19,
+          "2": 4.3
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.93,
+          "2 AH": 1.81
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.9,
+          "Under": 1.84
+        },
+        "1X2 - Regular Time": {
+          "1": 1.21,
+          "X": 17.5,
+          "2": 4.65
+        }
+      },
+      "Duke Blue Devils - Baylor Bears": {
+        "Moneyline": {
+          "1": 1.62,
+          "2": 2.2
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.84,
+          "2 AH": 1.9
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.84,
+          "Under": 1.89
+        },
+        "1X2 - Regular Time": {
+          "1": 1.67,
+          "X": 15.5,
+          "2": 2.28
+        }
+      },
+      "East Carolina Pirates - Delaware State Hornets": {
+        "Moneyline": {
+          "1": 1.11,
+          "2": 5.9
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.85,
+          "2 AH": 1.88
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.88,
+          "Under": 1.85
+        },
+        "1X2 - Regular Time": {
+          "1": 1.12,
+          "X": 19.5,
+          "2": 6.5
+        }
+      },
+      "Georgia Bulldogs - Mount St. Mary's Mountaineers": {
+        "Moneyline": {
+          "1": 1.11,
+          "2": 6.0
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.81,
+          "2 AH": 1.93
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.87,
+          "Under": 1.87
+        },
+        "1X2 - Regular Time": {
+          "1": 1.11,
+          "X": 19.5,
+          "2": 6.7
+        }
+      },
+      "North Carolina State Wolfpack - Saint Louis Billikens": {
+        "Moneyline": {
+          "1": 1.11,
+          "2": 5.8
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.82,
+          "2 AH": 1.92
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.89,
+          "Under": 1.85
+        },
+        "1X2 - Regular Time": {
+          "1": 1.12,
+          "X": 19.5,
+          "2": 6.4
+        }
+      },
+      "Pittsburgh Panthers - Purdue Fort Wayne Mastodons": {
+        "Moneyline": {
+          "1": 1.07,
+          "2": 7.2
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.94,
+          "2 AH": 1.8
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.87,
+          "Under": 1.87
+        },
+        "1X2 - Regular Time": {
+          "1": 1.08,
+          "X": 21.0,
+          "2": 8.1
+        }
+      },
+      "SE Louisiana Lions - Grambling St Tigers": {
+        "Moneyline": {
+          "1": 1.4,
+          "2": 2.82
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.91,
+          "2 AH": 1.83
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.87,
+          "Under": 1.86
+        },
+        "1X2 - Regular Time": {
+          "1": 1.43,
+          "X": 15.5,
+          "2": 2.97
+        }
+      },
+      "Seton Hall Pirates - Connecticut Huskies": {
+        "Moneyline": {
+          "1": 3.65,
+          "2": 1.29
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.87,
+          "2 AH": 1.87
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.83,
+          "Under": 1.91
+        },
+        "1X2 - Regular Time": {
+          "1": 3.9,
+          "X": 16.5,
+          "2": 1.28
+        }
+      },
+      "St. Francis (PA) Red Flash - Robert Morris Colonials": {
+        "Moneyline": {
+          "1": 2.85,
+          "2": 1.39
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.84,
+          "2 AH": 1.9
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.83,
+          "Under": 1.91
+        },
+        "1X2 - Regular Time": {
+          "1": 3.0,
+          "X": 15.5,
+          "2": 1.42
+        }
+      },
+      "St. John's Red Storm - Xavier Musketeers": {
+        "Moneyline": {
+          "1": 1.43,
+          "2": 2.68
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.8,
+          "2 AH": 1.94
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.88,
+          "Under": 1.85
+        },
+        "1X2 - Regular Time": {
+          "1": 1.46,
+          "X": 16.0,
+          "2": 2.82
+        }
+      },
+      "Toledo Rockets - Vermont Catamounts": {
+        "Moneyline": {
+          "1": 1.35,
+          "2": 3.05
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.93,
+          "2 AH": 1.81
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.87,
+          "Under": 1.87
+        },
+        "1X2 - Regular Time": {
+          "1": 1.37,
+          "X": 16.0,
+          "2": 3.25
+        }
+      },
+      "West Virginia Mountaineers - Radford Highlanders": {
+        "Moneyline": {
+          "1": 1.31,
+          "2": 3.25
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.87,
+          "2 AH": 1.87
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.85,
+          "Under": 1.88
+        },
+        "1X2 - Regular Time": {
+          "1": 1.33,
+          "X": 16.0,
+          "2": 3.5
+        }
+      },
+      "Wyoming Cowboys - South Dakota State Jackrabbits": {
+        "Moneyline": {
+          "1": 2.48,
+          "2": 1.5
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.82,
+          "2 AH": 1.92
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.85,
+          "Under": 1.88
+        },
+        "1X2 - Regular Time": {
+          "1": 2.6,
+          "X": 15.5,
+          "2": 1.53
+        }
+      },
+      "Belmont Bruins - Arkansas State Red Wolves": {
+        "Moneyline": {
+          "1": 1.43,
+          "2": 2.68
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.8,
+          "2 AH": 1.94
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.84,
+          "Under": 1.9
+        },
+        "1X2 - Regular Time": {
+          "1": 1.46,
+          "X": 16.0,
+          "2": 2.82
+        }
+      },
+      "East Tennessee State Buccaneers - Kansas City Roos": {
+        "Moneyline": {
+          "1": 1.46,
+          "2": 2.6
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.87,
+          "2 AH": 1.87
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.87,
+          "Under": 1.86
+        },
+        "1X2 - Regular Time": {
+          "1": 1.49,
+          "X": 15.5,
+          "2": 2.72
+        }
+      },
+      "Nebraska Cornhuskers - North Dakota Fighting Hawks": {
+        "Moneyline": {
+          "1": 1.01,
+          "2": 12.0
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.82,
+          "2 AH": 1.92
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.84,
+          "Under": 1.89
+        },
+        "1X2 - Regular Time": {
+          "1": 1.01,
+          "X": 24.5,
+          "2": 14.5
+        }
+      },
+      "Chicago State Cougars - Bethune-Cookman Wildcats": {
+        "Moneyline": {
+          "1": 1.26,
+          "2": 3.6
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.88,
+          "2 AH": 1.85
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.91,
+          "Under": 1.83
+        },
+        "1X2 - Regular Time": {
+          "1": 1.28,
+          "X": 16.5,
+          "2": 3.85
+        }
+      },
+      "Grand Canyon Antelopes - Sam Houston State Bearkats": {
+        "Moneyline": {
+          "1": 1.05,
+          "2": 8.8
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.92,
+          "2 AH": 1.82
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.85,
+          "Under": 1.88
+        },
+        "1X2 - Regular Time": {
+          "1": 1.05,
+          "X": 22.0,
+          "2": 10.0
+        }
+      },
+      "Iowa Hawkeyes - Maryland Baltimore": {
+        "Moneyline": {
+          "2": 23.5
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.86,
+          "2 AH": 1.88
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.87,
+          "Under": 1.86
+        },
+        "1X2 - Regular Time": {
+          "X": 30.0,
+          "2": 33.0
+        }
+      },
+      "Rice Owls - Prairie View A&M Panthers": {
+        "Moneyline": {
+          "1": 1.2,
+          "2": 4.2
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.93,
+          "2 AH": 1.81
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.88,
+          "Under": 1.85
+        },
+        "1X2 - Regular Time": {
+          "1": 1.21,
+          "X": 17.5,
+          "2": 4.55
+        }
+      },
+      "Utah Valley State Wolverines - Liberty Flames": {
+        "Moneyline": {
+          "1": 2.3,
+          "2": 1.57
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.82,
+          "2 AH": 1.92
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.85,
+          "Under": 1.88
+        },
+        "1X2 - Regular Time": {
+          "1": 2.42,
+          "X": 15.0,
+          "2": 1.61
+        }
+      },
+      "Arizona State Sun Devils - Northwestern Wildcats": {
+        "Moneyline": {
+          "1": 2.43,
+          "2": 1.52
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.91,
+          "2 AH": 1.83
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.86,
+          "Under": 1.88
+        },
+        "1X2 - Regular Time": {
+          "1": 2.55,
+          "X": 15.5,
+          "2": 1.55
+        }
+      },
+      "Creighton Bluejays - Villanova Wildcats": {
+        "Moneyline": {
+          "1": 1.18,
+          "2": 4.45
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.88,
+          "2 AH": 1.85
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.85,
+          "Under": 1.88
+        },
+        "1X2 - Regular Time": {
+          "1": 1.19,
+          "X": 17.5,
+          "2": 4.85
+        }
+      },
+      "Gonzaga Bulldogs - Jackson State Tigers": {
+        "Moneyline": {
+          "2": 25.0
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.93,
+          "2 AH": 1.81
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.9,
+          "Under": 1.84
+        },
+        "1X2 - Regular Time": {
+          "X": 30.0,
+          "2": 37.0
+        }
+      },
+      "New Mexico Lobos - UC Irvine Anteaters": {
+        "Moneyline": {
+          "1": 1.22,
+          "2": 4.3
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.88,
+          "2 AH": 1.86
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.87,
+          "Under": 1.86
+        },
+        "1X2 - Regular Time": {
+          "1": 1.21,
+          "X": 17.5,
+          "2": 4.65
+        }
+      },
+      "Oklahoma Sooners - North Carolina Tar Heels": {
+        "Moneyline": {
+          "1": 2.3,
+          "2": 1.57
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.85,
+          "2 AH": 1.89
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.91,
+          "Under": 1.83
+        },
+        "1X2 - Regular Time": {
+          "1": 2.4,
+          "X": 16.0,
+          "2": 1.61
+        }
+      },
+      "Utah Utes - Bellarmine Knights": {
+        "Moneyline": {
+          "2": 16.5
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.86,
+          "2 AH": 1.88
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.92,
+          "Under": 1.83
+        },
+        "1X2 - Regular Time": {
+          "X": 27.0,
+          "2": 21.5
+        }
+      },
+      "UTEP Miners - Norfolk State Spartans": {
+        "Moneyline": {
+          "1": 1.32,
+          "2": 3.2
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.91,
+          "2 AH": 1.83
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.88,
+          "Under": 1.85
+        },
+        "1X2 - Regular Time": {
+          "1": 1.35,
+          "X": 15.5,
+          "2": 3.4
+        }
+      },
+      "Cal State Fullerton Titans - Pacific Tigers": {
+        "Moneyline": {
+          "1": 1.09,
+          "2": 6.5
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.88,
+          "2 AH": 1.85
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.87,
+          "Under": 1.87
+        },
+        "1X2 - Regular Time": {
+          "1": 1.1,
+          "X": 20.0,
+          "2": 7.2
+        }
+      },
+      "San Francisco Dons - Northern Arizona Lumberjacks": {
+        "Moneyline": {
+          "1": 1.02,
+          "2": 11.5
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.81,
+          "2 AH": 1.93
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.91,
+          "Under": 1.83
+        },
+        "1X2 - Regular Time": {
+          "1": 1.01,
+          "X": 24.0,
+          "2": 13.75
+        }
+      },
+      "San Jose State Spartans - Santa Clara Broncos": {
+        "Moneyline": {
+          "1": 2.53,
+          "2": 1.48
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.85,
+          "2 AH": 1.89
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.92,
+          "Under": 1.82
+        },
+        "1X2 - Regular Time": {
+          "1": 2.65,
+          "X": 15.5,
+          "2": 1.51
+        }
+      },
+      "Seattle University Redhawks - Louisiana Tech Bulldogs": {
+        "Moneyline": {
+          "1": 1.72,
+          "2": 2.05
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.84,
+          "2 AH": 1.9
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.85,
+          "Under": 1.89
+        },
+        "1X2 - Regular Time": {
+          "1": 1.77,
+          "X": 15.0,
+          "2": 2.13
+        }
+      },
+      "UC Santa Barbara Gauchos - Howard Bison": {
+        "Moneyline": {
+          "1": 1.2,
+          "2": 4.2
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.92,
+          "2 AH": 1.82
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.84,
+          "Under": 1.89
+        },
+        "1X2 - Regular Time": {
+          "1": 1.21,
+          "X": 17.5,
+          "2": 4.55
+        }
+      },
+      "Arizona Wildcats - Alabama Crimson Tide": {
+        "Moneyline": {
+          "1": 1.35,
+          "2": 3.2
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.81,
+          "2 AH": 1.93
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.89,
+          "Under": 1.84
+        },
+        "1X2 - Regular Time": {
+          "1": 1.34,
+          "X": 16.5,
+          "2": 3.4
+        }
+      }
+    }
+  },
+  "Euroleague": {
+    "Euroleague ": {
+      "Maccabi Tel-Aviv - KK Crvena zvezda Belgrade": {
+        "Moneyline": {
+          "1": 1.51,
+          "2": 2.58
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.77,
+          "2 AH": 2.02
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.96,
+          "Under": 1.82
+        },
+        "1X2 - Regular Time": {
+          "1": 1.55,
+          "X": 16.5,
+          "2": 2.68
+        }
+      },
+      "Valencia Basket - Virtus Bologna": {
+        "Moneyline": {
+          "1": 1.78,
+          "2": 2.03
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.89,
+          "2 AH": 1.89
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 2.05,
+          "Under": 1.74
+        },
+        "1X2 - Regular Time": {
+          "1": 1.84,
+          "X": 15.5,
+          "2": 2.1
+        }
+      },
+      "Real Madrid - KK Partizan Belgrade": {
+        "Moneyline": {
+          "1": 1.28,
+          "2": 3.95
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.76,
+          "2 AH": 2.03
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.95,
+          "Under": 1.83
+        },
+        "1X2 - Regular Time": {
+          "1": 1.28,
+          "X": 17.5,
+          "2": 4.15
+        }
+      }
+    }
+  },
+  "Eurocup": {
+    "Eurocup Women ": {
+      "Besiktas JK - BK Zabiny Brno": {
+        "Moneyline": {
+          "1": 1.18,
+          "2": 4.3
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.87,
+          "2 AH": 1.83
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.82,
+          "Under": 1.89
+        },
+        "1X2 - Regular Time": {
+          "1": 1.18,
+          "X": 17.5,
+          "2": 4.65
+        }
+      },
+      "Umana Venezia - Elfic Fribourg": {
+        "Moneyline": {
+          "2": 12.25
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.85,
+          "2 AH": 1.86
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.87,
+          "Under": 1.84
+        },
+        "1X2 - Regular Time": {
+          "X": 25.0,
+          "2": 15.5
+        }
+      },
+      "CB Estudiantes - Kayseri Basketbol": {
+        "Moneyline": {
+          "1": 1.37,
+          "2": 3.0
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.86,
+          "2 AH": 1.84
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.87,
+          "Under": 1.83
+        },
+        "1X2 - Regular Time": {
+          "1": 1.35,
+          "X": 15.5,
+          "2": 3.1
+        }
+      },
+      "BC Namur Capitale - Dinamo Sassari": {
+        "Moneyline": {
+          "1": 3.3,
+          "2": 1.28
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.9,
+          "2 AH": 1.8
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.85,
+          "Under": 1.85
+        },
+        "1X2 - Regular Time": {
+          "1": 3.55,
+          "X": 16.0,
+          "2": 1.29
+        }
+      },
+      "Caledonia Gladiators - Peac-Pecs": {
+        "Moneyline": {
+          "1": 3.75,
+          "2": 1.23
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.87,
+          "2 AH": 1.83
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.86,
+          "Under": 1.85
+        },
+        "1X2 - Regular Time": {
+          "1": 4.05,
+          "X": 16.0,
+          "2": 1.23
+        }
+      }
+    }
+  },
+  "Champions League": {},
+  "International": {
+    "Liga ABA": {
+      "KK Cedevita Olimpija Ljubljana - KK Cibona": {
+        "Moneyline": {
+          "1": 1.39,
+          "2": 2.7
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.83,
+          "2 AH": 1.83
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.87,
+          "Under": 1.8
+        },
+        "1X2 - Regular Time": {
+          "1": 1.41,
+          "X": 16.0,
+          "2": 2.87
+        }
+      },
+      "KK Mornar Bar - KK FMP Belgrade": {
+        "Moneyline": {
+          "1": 2.15,
+          "2": 1.6
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.87,
+          "2 AH": 1.8
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.83,
+          "Under": 1.84
+        },
+        "1X2 - Regular Time": {
+          "1": 2.23,
+          "X": 16.0,
+          "2": 1.64
+        }
+      },
+      "KK Buducnost Volifr - KK Studentski centar Podgorica": {
+        "Moneyline": {
+          "1": 1.18,
+          "2": 4.1
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.82,
+          "2 AH": 1.85
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.87,
+          "Under": 1.8
+        },
+        "1X2 - Regular Time": {
+          "1": 1.19,
+          "X": 18.0,
+          "2": 4.5
+        }
+      },
+      "KK Krka Novo Mesto - KK Borac Cacak": {
+        "Moneyline": {
+          "1": 1.92,
+          "2": 1.75
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.8,
+          "2 AH": 1.87
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.84,
+          "Under": 1.83
+        },
+        "1X2 - Regular Time": {
+          "1": 1.99,
+          "X": 15.5,
+          "2": 1.81
+        }
+      },
+      "KK Zadar - KK Partizan Belgrade": {
+        "Moneyline": {
+          "1": 4.35,
+          "2": 1.16
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.8,
+          "2 AH": 1.87
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.87,
+          "Under": 1.8
+        },
+        "1X2 - Regular Time": {
+          "1": 4.8,
+          "X": 18.0,
+          "2": 1.17
+        }
+      },
+      "KK Crvena zvezda Belgrade - Kk Split": {
+        "Moneyline": {
+          "2": 12.0
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.81,
+          "2 AH": 1.86
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.85,
+          "Under": 1.82
+        },
+        "1X2 - Regular Time": {
+          "X": 26.0,
+          "2": 16.5
+        }
+      },
+      "KK Mega Basket Belgrade - Igokea Aleksandrovac": {
+        "Moneyline": {
+          "1": 1.5,
+          "2": 2.35
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.78,
+          "2 AH": 1.9
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.81,
+          "Under": 1.86
+        },
+        "1X2 - Regular Time": {
+          "1": 1.53,
+          "X": 16.0,
+          "2": 2.47
+        }
+      }
+    }
+  },
+  "Australia": {
+    "NBL": {
+      "New Zealand Breakers - Sydney Kings": {
+        "Moneyline": {
+          "1": 2.07,
+          "2": 1.7
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.94,
+          "2 AH": 1.8
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.94,
+          "Under": 1.8
+        },
+        "1X2 - Regular Time": {
+          "1": 2.13,
+          "X": 16.0,
+          "2": 1.75
+        }
+      },
+      "Cairns Taipans - SE Melbourne Phoenix": {
+        "Moneyline": {
+          "1": 1.55,
+          "2": 2.35
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.95,
+          "2 AH": 1.79
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.87,
+          "Under": 1.87
+        },
+        "1X2 - Regular Time": {
+          "1": 1.59,
+          "X": 16.5,
+          "2": 2.43
+        }
+      },
+      "Illawarra Hawks - Tasmania Jackjumpers": {
+        "Moneyline": {
+          "1": 2.65,
+          "2": 1.44
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.95,
+          "2 AH": 1.79
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.88,
+          "Under": 1.86
+        },
+        "1X2 - Regular Time": {
+          "1": 2.77,
+          "X": 16.5,
+          "2": 1.47
+        }
+      },
+      "Melbourne United - Perth Wildcats": {
+        "Moneyline": {
+          "1": 1.34,
+          "2": 3.05
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.86,
+          "2 AH": 1.88
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.91,
+          "Under": 1.83
+        },
+        "1X2 - Regular Time": {
+          "1": 1.37,
+          "X": 16.5,
+          "2": 3.25
+        }
+      },
+      "Adelaide 36Ers - Brisbane Bullets": {
+        "Moneyline": {
+          "1": 2.03,
+          "2": 1.72
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.8,
+          "2 AH": 1.95
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.89,
+          "Under": 1.84
+        },
+        "1X2 - Regular Time": {
+          "1": 2.1,
+          "X": 16.0,
+          "2": 1.77
+        }
+      }
+    },
+    "WNBL": {
+      "Canberra Capitals - Adelaide Lightning": {
+        "Moneyline": {
+          "1": 2.3,
+          "2": 1.55
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.85,
+          "2 AH": 1.86
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.86,
+          "Under": 1.84
+        }
+      },
+      "Perth Lynx - Southside Flyers": {
+        "Moneyline": {
+          "1": 1.62,
+          "2": 2.15
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.83,
+          "2 AH": 1.87
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.84,
+          "Under": 1.87
+        }
+      }
+    }
+  },
+  "China": {
+    "CBA": {
+      "Fujian Sturgeons - Shenzhen Leopards": {
+        "Moneyline": {
+          "1": 3.15,
+          "2": 1.36
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.93,
+          "2 AH": 1.81
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.84,
+          "Under": 1.9
+        },
+        "1X2 - Regular Time": {
+          "1": 3.35,
+          "X": 17.0,
+          "2": 1.35
+        }
+      }
+    },
+    "WCBA": {
+      "Daqing Rural Commercial Bank - Inner Mongolia BC": {
+        "Moneyline": {
+          "1": 24.0
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.85,
+          "2 AH": 1.82
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.84,
+          "Under": 1.83
+        },
+        "1X2 - Regular Time": {
+          "1": 52.0,
+          "X": 32.0
+        }
+      },
+      "Tianjin Zhongxin - Xinjiang Magic Deer": {
+        "Moneyline": {
+          "1": 15.0
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.87,
+          "2 AH": 1.81
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.86,
+          "Under": 1.81
+        },
+        "1X2 - Regular Time": {
+          "1": 23.0,
+          "X": 27.0
+        }
+      }
+    }
+  },
+  "Germany": {
+    "BBL": {
+      "Ulm Basketball - MLP Academics Heidelberg": {
+        "Moneyline": {
+          "1": 1.06,
+          "2": 7.8
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.88,
+          "2 AH": 1.86
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.85,
+          "Under": 1.89
+        },
+        "1X2 - Regular Time": {
+          "1": 1.06,
+          "X": 22.0,
+          "2": 8.8
+        }
+      },
+      "Tigers Tubingen - Brose Bamberg": {
+        "Moneyline": {
+          "1": 2.08,
+          "2": 1.69
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.84,
+          "2 AH": 1.9
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.87,
+          "Under": 1.87
+        },
+        "1X2 - Regular Time": {
+          "1": 2.17,
+          "X": 16.0,
+          "2": 1.73
+        }
+      }
+    },
+    "PRO A": {
+      "Medi Bayreuth - SC Rasta Vechta II": {
+        "Moneyline": {
+          "1": 1.06,
+          "2": 7.5
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.78,
+          "2 AH": 1.93
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.88,
+          "Under": 1.82
+        },
+        "1X2 - Regular Time": {
+          "1": 1.04,
+          "X": 22.0,
+          "2": 8.8
+        }
+      },
+      "Skyliners Frankfurt - Phoenix Hagen": {
+        "Moneyline": {
+          "1": 1.39,
+          "2": 2.77
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.85,
+          "2 AH": 1.85
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.87,
+          "Under": 1.83
+        },
+        "1X2 - Regular Time": {
+          "1": 1.4,
+          "X": 16.0,
+          "2": 2.9
+        }
+      },
+      "Gartenzaun24 Baskets Paderborn - Desden Titans": {
+        "Moneyline": {
+          "1": 3.55,
+          "2": 1.25
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.91,
+          "2 AH": 1.8
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.88,
+          "Under": 1.83
+        },
+        "1X2 - Regular Time": {
+          "1": 3.8,
+          "X": 17.0,
+          "2": 1.25
+        }
+      },
+      "TBB Trier - Artland Dragons": {
+        "Moneyline": {
+          "1": 1.18,
+          "2": 4.35
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.8,
+          "2 AH": 1.91
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.82,
+          "Under": 1.88
+        },
+        "1X2 - Regular Time": {
+          "1": 1.17,
+          "X": 18.0,
+          "2": 4.7
+        }
+      }
+    }
+  },
+  "Greece": {
+    "Basket League": {
+      "BC Olympiakos Piraeus - Apollon Patras": {
+        "Moneyline": {
+          "2": 34.0
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.84,
+          "2 AH": 1.9
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.89,
+          "Under": 1.85
+        },
+        "1X2 - Regular Time": {
+          "X": 32.0,
+          "2": 60.0
+        }
+      },
+      "PAOK BC - AS Karditsas": {
+        "Moneyline": {
+          "1": 1.15,
+          "2": 5.1
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.83,
+          "2 AH": 1.91
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.84,
+          "Under": 1.9
+        },
+        "1X2 - Regular Time": {
+          "1": 1.15,
+          "X": 18.5,
+          "2": 5.5
+        }
+      },
+      "BC Maroussi Athens - BC Kolossos Rhodes": {
+        "Moneyline": {
+          "1": 1.95,
+          "2": 1.79
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.83,
+          "2 AH": 1.91
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.86,
+          "Under": 1.88
+        },
+        "1X2 - Regular Time": {
+          "1": 2.02,
+          "X": 16.0,
+          "2": 1.84
+        }
+      },
+      "GS Lavriou - BC Aris Thessaloniki": {
+        "Moneyline": {
+          "1": 3.05,
+          "2": 1.35
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.82,
+          "2 AH": 1.92
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.87,
+          "Under": 1.86
+        },
+        "1X2 - Regular Time": {
+          "1": 3.2,
+          "X": 16.0,
+          "2": 1.38
+        }
+      }
+    }
+  },
+  "Italy": {
+    "Serie A2": {
+      "Basket Torino - Luiss Roma": {
+        "Moneyline": {
+          "1": 1.11,
+          "2": 5.7
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.86,
+          "2 AH": 1.84
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.87,
+          "Under": 1.83
+        },
+        "1X2 - Regular Time": {
+          "1": 1.1,
+          "X": 19.5,
+          "2": 6.3
+        }
+      }
+    }
+  },
+  "Spain": {
+    "ACB ": {
+      "Bilbao Basket - Basquet Girona": {
+        "Moneyline": {
+          "1": 1.41,
+          "2": 2.77
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.87,
+          "2 AH": 1.87
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.87,
+          "Under": 1.87
+        },
+        "1X2 - Regular Time": {
+          "1": 1.43,
+          "X": 16.0,
+          "2": 2.92
+        }
+      },
+      "BC Andorra - CB Gran Canaria": {
+        "Moneyline": {
+          "1": 2.52,
+          "2": 1.49
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.87,
+          "2 AH": 1.87
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.86,
+          "Under": 1.87
+        },
+        "1X2 - Regular Time": {
+          "1": 2.63,
+          "X": 16.0,
+          "2": 1.52
+        }
+      },
+      "CB 1939 Canarias - Basket Zaragoza 2002": {
+        "Moneyline": {
+          "1": 1.22,
+          "2": 4.0
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.81,
+          "2 AH": 1.93
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.87,
+          "Under": 1.87
+        },
+        "1X2 - Regular Time": {
+          "1": 1.23,
+          "X": 17.5,
+          "2": 4.3
+        }
+      },
+      "UCAM Murcia - CB Malaga": {
+        "Moneyline": {
+          "1": 1.99,
+          "2": 1.76
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.86,
+          "2 AH": 1.88
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.84,
+          "Under": 1.89
+        },
+        "1X2 - Regular Time": {
+          "1": 2.05,
+          "X": 15.5,
+          "2": 1.81
+        }
+      },
+      "Valencia Basket - GRANADA": {
+        "Moneyline": {
+          "1": 1.17,
+          "2": 4.7
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.87,
+          "2 AH": 1.87
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.87,
+          "Under": 1.87
+        },
+        "1X2 - Regular Time": {
+          "1": 1.18,
+          "X": 18.5,
+          "2": 5.1
+        }
+      },
+      "Club Joventut Badalona - Real Madrid": {
+        "Moneyline": {
+          "1": 3.8,
+          "2": 1.24
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.87,
+          "2 AH": 1.87
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.87,
+          "Under": 1.87
+        },
+        "1X2 - Regular Time": {
+          "1": 4.05,
+          "X": 17.5,
+          "2": 1.26
+        }
+      },
+      "CB Breogan - Obradoiro CAB": {
+        "Moneyline": {
+          "1": 1.65,
+          "2": 2.15
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.87,
+          "2 AH": 1.87
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.87,
+          "Under": 1.87
+        },
+        "1X2 - Regular Time": {
+          "1": 1.69,
+          "X": 15.5,
+          "2": 2.23
+        }
+      }
+    },
+    "LEB Oro": {
+      "CB Clavijo - Baloncesto Fuenlabrada": {
+        "Moneyline": {
+          "1": 2.5,
+          "2": 1.47
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.83,
+          "2 AH": 1.87
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.84,
+          "Under": 1.87
+        },
+        "1X2 - Regular Time": {
+          "1": 2.6,
+          "X": 15.5,
+          "2": 1.48
+        }
+      },
+      "Caceres Ciudad del Baloncesto - Real Betis": {
+        "Moneyline": {
+          "1": 2.63,
+          "2": 1.43
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.92,
+          "2 AH": 1.79
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.85,
+          "Under": 1.86
+        },
+        "1X2 - Regular Time": {
+          "1": 2.75,
+          "X": 16.0,
+          "2": 1.44
+        }
+      },
+      "Cb Tizona - AB Castello": {
+        "Moneyline": {
+          "1": 1.2,
+          "2": 4.1
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.84,
+          "2 AH": 1.87
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.86,
+          "Under": 1.84
+        },
+        "1X2 - Regular Time": {
+          "1": 1.19,
+          "X": 18.0,
+          "2": 4.45
+        }
+      }
+    }
+  },
+  "Turkey": {
+    "TBSL": {
+      "Darussafaka - Fenerbahce Istanbul": {
+        "Moneyline": {
+          "1": 6.1,
+          "2": 1.1
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.89,
+          "2 AH": 1.85
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.84,
+          "Under": 1.9
+        },
+        "1X2 - Regular Time": {
+          "1": 7.0,
+          "X": 21.5,
+          "2": 1.11
+        }
+      }
+    }
+  },
+  "Argentina": {
+    "LNB": {
+      "CA San Lorenzo de Almagro - Zarate Basket": {
+        "Moneyline": {
+          "1": 1.14,
+          "2": 4.9
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.85,
+          "2 AH": 1.86
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.86,
+          "Under": 1.85
+        },
+        "1X2 - Regular Time": {
+          "1": 1.14,
+          "X": 18.5,
+          "2": 5.4
+        }
+      },
+      "Ferro Carril Oeste - San Martin Corrientes": {
+        "Moneyline": {
+          "1": 2.3,
+          "2": 1.55
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.85,
+          "2 AH": 1.86
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.83,
+          "Under": 1.88
+        },
+        "1X2 - Regular Time": {
+          "1": 2.38,
+          "X": 15.5,
+          "2": 1.57
+        }
+      },
+      "Argentino Junin - IA Central Cordoba": {
+        "Moneyline": {
+          "1": 4.35,
+          "2": 1.18
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.89,
+          "2 AH": 1.82
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.87,
+          "Under": 1.84
+        },
+        "1X2 - Regular Time": {
+          "1": 4.75,
+          "X": 18.0,
+          "2": 1.17
+        }
+      },
+      "CA Platense - Obras Sanitarias": {
+        "Moneyline": {
+          "1": 1.53,
+          "2": 2.35
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.82,
+          "2 AH": 1.89
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.86,
+          "Under": 1.85
+        },
+        "1X2 - Regular Time": {
+          "1": 1.55,
+          "X": 16.0,
+          "2": 2.43
+        }
+      }
+    }
+  },
+  "Brazil": {
+    "NBB": {
+      "Cerrado Basquete - Sao Paulo FC": {
+        "Moneyline": {
+          "1": 3.2,
+          "2": 1.3
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.88,
+          "2 AH": 1.82
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.83,
+          "Under": 1.87
+        },
+        "1X2 - Regular Time": {
+          "1": 3.4,
+          "X": 16.0,
+          "2": 1.31
+        }
+      },
+      "EC Uniao Corinthians - SC Corinthians Paulista": {
+        "Moneyline": {
+          "1": 2.47,
+          "2": 1.48
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.83,
+          "2 AH": 1.88
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.83,
+          "Under": 1.87
+        },
+        "1X2 - Regular Time": {
+          "1": 2.57,
+          "X": 15.5,
+          "2": 1.5
+        }
+      },
+      "Caxias Do Sul - EC Pinheiros SP": {
+        "Moneyline": {
+          "1": 2.13,
+          "2": 1.63
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.85,
+          "2 AH": 1.85
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.84,
+          "Under": 1.87
+        },
+        "1X2 - Regular Time": {
+          "1": 2.2,
+          "X": 15.5,
+          "2": 1.66
+        }
+      },
+      "Mogi das Cruzes - Sesi/Franca BC SP": {
+        "Moneyline": {
+          "1": 6.3,
+          "2": 1.08
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.83,
+          "2 AH": 1.87
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.86,
+          "Under": 1.84
+        },
+        "1X2 - Regular Time": {
+          "1": 7.2,
+          "X": 20.5,
+          "2": 1.07
+        }
+      },
+      "Flamengo RJ - Fortaleza Basquete Cearense": {
+        "Moneyline": {
+          "1": 1.13,
+          "2": 5.0
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.91,
+          "2 AH": 1.8
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.86,
+          "Under": 1.84
+        },
+        "1X2 - Regular Time": {
+          "1": 1.13,
+          "X": 18.5,
+          "2": 5.5
+        }
+      }
+    }
+  },
+  "England": {
+    "BBL": {
+      "Sheffield Sharks - Bristol Flyers": {
+        "Moneyline": {
+          "1": 1.49,
+          "2": 2.38
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.77,
+          "2 AH": 1.9
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.85,
+          "Under": 1.82
+        },
+        "1X2 - Regular Time": {
+          "1": 1.52,
+          "X": 15.5,
+          "2": 2.5
+        }
+      },
+      "Manchester Giants - Leicester Riders": {
+        "Moneyline": {
+          "1": 2.05,
+          "2": 1.66
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.8,
+          "2 AH": 1.87
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.83,
+          "Under": 1.83
+        },
+        "1X2 - Regular Time": {
+          "1": 2.12,
+          "X": 16.0,
+          "2": 1.7
+        }
+      }
+    }
+  },
+  "Lithuania": {
+    "LKL": {
+      "BC Wolves - BC Lietkabelis Panevezys": {
+        "Moneyline": {
+          "1": 1.54,
+          "2": 2.25
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.83,
+          "2 AH": 1.83
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.83,
+          "Under": 1.83
+        },
+        "1X2 - Regular Time": {
+          "1": 1.57,
+          "X": 16.0,
+          "2": 2.37
+        }
+      }
+    },
+    "NKL": {
+      "BC Silute - BC Jurbarkas-Karys": {
+        "Moneyline": {
+          "1": 2.15,
+          "2": 1.6
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.87,
+          "2 AH": 1.8
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.8,
+          "Under": 1.87
+        },
+        "1X2 - Regular Time": {
+          "1": 2.25,
+          "X": 15.5,
+          "2": 1.63
+        }
+      },
+      "BC Zalgiris Kaunas II - Vytis Sakiai": {
+        "Moneyline": {
+          "1": 1.54,
+          "2": 2.27
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.84,
+          "2 AH": 1.83
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.81,
+          "Under": 1.86
+        },
+        "1X2 - Regular Time": {
+          "1": 1.57,
+          "X": 15.5,
+          "2": 2.37
+        }
+      },
+      "KK Vilkaviskio Perlas - Suduva Mantinga Marijampole": {
+        "Moneyline": {
+          "1": 4.7,
+          "2": 1.14
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.89,
+          "2 AH": 1.78
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.87,
+          "Under": 1.8
+        },
+        "1X2 - Regular Time": {
+          "1": 5.3,
+          "X": 18.5,
+          "2": 1.14
+        }
+      },
+      "Palangos Kursiai - Atletas Kaunas": {
+        "Moneyline": {
+          "1": 1.18,
+          "2": 4.1
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.86,
+          "2 AH": 1.81
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.86,
+          "Under": 1.81
+        },
+        "1X2 - Regular Time": {
+          "1": 1.18,
+          "X": 17.5,
+          "2": 4.55
+        }
+      },
+      "Kretingos Kretinga - BC Telsiai": {
+        "Moneyline": {
+          "1": 4.5,
+          "2": 1.15
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.8,
+          "2 AH": 1.87
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.84,
+          "Under": 1.83
+        },
+        "1X2 - Regular Time": {
+          "1": 5.0,
+          "X": 18.0,
+          "2": 1.16
+        }
+      },
+      "Vilniaus Stekas - Delikatesas Joniskis": {
+        "Moneyline": {
+          "1": 1.27,
+          "2": 3.3
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.86,
+          "2 AH": 1.81
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.87,
+          "Under": 1.8
+        },
+        "1X2 - Regular Time": {
+          "1": 1.28,
+          "X": 16.5,
+          "2": 3.6
+        }
+      },
+      "Vilnius Rytas-2 - Neptunas-Akvaservis Klaipeda": {
+        "Moneyline": {
+          "1": 1.55,
+          "2": 2.25
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.83,
+          "2 AH": 1.83
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.83,
+          "Under": 1.83
+        },
+        "1X2 - Regular Time": {
+          "1": 1.58,
+          "X": 16.0,
+          "2": 2.35
+        }
+      }
+    }
+  },
+  "Austria": {
+    "Superliga": {
+      "BBC Nord Dragonz - Traiskirchen Lions": {
+        "Moneyline": {
+          "1": 8.2,
+          "2": 1.03
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.89,
+          "2 AH": 1.79
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.83,
+          "Under": 1.84
+        },
+        "1X2 - Regular Time": {
+          "1": 10.0,
+          "X": 22.5,
+          "2": 1.02
+        }
+      },
+      "BC Vienna - Swans Gmunden": {
+        "Moneyline": {
+          "1": 1.56,
+          "2": 2.23
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.85,
+          "2 AH": 1.82
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.86,
+          "Under": 1.81
+        },
+        "1X2 - Regular Time": {
+          "1": 1.59,
+          "X": 16.0,
+          "2": 2.33
+        }
+      },
+      "UBSC Graz - Flyers Wels": {
+        "Moneyline": {
+          "1": 1.91,
+          "2": 1.76
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.79,
+          "2 AH": 1.88
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.81,
+          "Under": 1.86
+        },
+        "1X2 - Regular Time": {
+          "1": 1.98,
+          "X": 15.5,
+          "2": 1.82
+        }
+      },
+      "Vienna Timberwolves - SKN St. Polten Basketball": {
+        "Moneyline": {
+          "1": 3.95,
+          "2": 1.2
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.78,
+          "2 AH": 1.89
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.8,
+          "Under": 1.87
+        },
+        "1X2 - Regular Time": {
+          "1": 4.35,
+          "X": 17.5,
+          "2": 1.2
+        }
+      },
+      "Kapfenberg Bulls - Oberwart Gunners": {
+        "Moneyline": {
+          "1": 1.33,
+          "2": 2.97
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.86,
+          "2 AH": 1.81
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.85,
+          "Under": 1.82
+        },
+        "1X2 - Regular Time": {
+          "1": 1.34,
+          "X": 16.0,
+          "2": 3.2
+        }
+      }
+    }
+  },
+  "Cyprus": {
+    "Basket League": {
+      "APOP Paphos - BC Apollon Limassol": {
+        "Moneyline": {
+          "1": 2.28,
+          "2": 1.54
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.83,
+          "2 AH": 1.83
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.86,
+          "Under": 1.81
+        },
+        "1X2 - Regular Time": {
+          "1": 2.38,
+          "X": 15.5,
+          "2": 1.57
+        }
+      },
+      "Keravnos Strovolou Nicosia - Paeek": {
+        "Moneyline": {
+          "1": 1.02,
+          "2": 9.4
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.88,
+          "2 AH": 1.79
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.83,
+          "Under": 1.84
+        },
+        "1X2 - Regular Time": {
+          "1": 1.01,
+          "X": 23.5,
+          "2": 11.75
+        }
+      }
+    }
+  },
+  "Denmark": {
+    "Basketligaen": {
+      "BK Amager - Team Fog Naestved": {
+        "Moneyline": {
+          "1": 23.0
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.84,
+          "2 AH": 1.83
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.85,
+          "Under": 1.82
+        },
+        "1X2 - Regular Time": {
+          "1": 48.0,
+          "X": 31.0
+        }
+      }
+    }
+  },
+  "Finland": {
+    "Korisliigan": {
+      "Kauhajoki Karhu Basket - KTP Basket Kotka": {
+        "Moneyline": {
+          "1": 1.39,
+          "2": 2.68
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.83,
+          "2 AH": 1.83
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.81,
+          "Under": 1.86
+        },
+        "1X2 - Regular Time": {
+          "1": 1.41,
+          "X": 16.0,
+          "2": 2.85
+        }
+      }
+    }
+  },
+  "Hungary": {
+    "NB I": {
+      "Soproni Sordogok - Ose Lions": {
+        "Moneyline": {
+          "1": 1.51,
+          "2": 2.33
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.8,
+          "2 AH": 1.88
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.85,
+          "Under": 1.82
+        },
+        "1X2 - Regular Time": {
+          "1": 1.54,
+          "X": 16.0,
+          "2": 2.43
+        }
+      }
+    }
+  },
+  "Iran": {
+    "Super League": {
+      "Mahram Tehran - Padafand Raad Havaei Dezful": {
+        "Moneyline": {
+          "2": 15.0
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.83,
+          "2 AH": 1.88
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.89,
+          "Under": 1.81
+        },
+        "1X2 - Regular Time": {
+          "X": 27.0,
+          "2": 21.0
+        }
+      },
+      "Zob Ahan Isfahan - Palayesh Naft Abadan": {
+        "Moneyline": {
+          "1": 1.12,
+          "2": 5.2
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.85,
+          "2 AH": 1.85
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.84,
+          "Under": 1.86
+        },
+        "1X2 - Regular Time": {
+          "1": 1.12,
+          "X": 19.0,
+          "2": 5.8
+        }
+      }
+    }
+  },
+  "Israel": {
+    "Super League": {
+      "Hapoel Beer Sheva - Hapoel Eilat": {
+        "Moneyline": {
+          "1": 1.57,
+          "2": 2.32
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.86,
+          "2 AH": 1.88
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.86,
+          "Under": 1.87
+        },
+        "1X2 - Regular Time": {
+          "1": 1.6,
+          "X": 16.0,
+          "2": 2.4
+        }
+      },
+      "Elitzur Kiryat Atta - Hapoel Galil Elyon": {
+        "Moneyline": {
+          "1": 1.33,
+          "2": 3.12
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.86,
+          "2 AH": 1.88
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.83,
+          "Under": 1.91
+        },
+        "1X2 - Regular Time": {
+          "1": 1.34,
+          "X": 17.0,
+          "2": 3.25
+        }
+      },
+      "Maccabi Tel-Aviv - Hapoel Haifa BC": {
+        "Moneyline": {
+          "1": 1.02,
+          "2": 11.0
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.86,
+          "2 AH": 1.87
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.89,
+          "Under": 1.85
+        },
+        "1X2 - Regular Time": {
+          "1": 1.02,
+          "X": 24.5,
+          "2": 13.25
+        }
+      },
+      "Hapoel Tel-Aviv - Hapoel Jerusalem": {
+        "Moneyline": {
+          "1": 1.18,
+          "2": 4.5
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.92,
+          "2 AH": 1.82
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.84,
+          "Under": 1.9
+        },
+        "1X2 - Regular Time": {
+          "1": 1.19,
+          "X": 18.0,
+          "2": 4.85
+        }
+      }
+    }
+  },
+  "Lebanon": {},
+  "Philippines": {
+    "PBA - Commissioner's Cup": {
+      "Road Warriors - Blackwater Bossing": {
+        "Moneyline": {
+          "1": 1.76,
+          "2": 1.95
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.86,
+          "2 AH": 1.84
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.82,
+          "Under": 1.88
+        },
+        "1X2 - Regular Time": {
+          "1": 1.79,
+          "X": 16.5,
+          "2": 1.99
+        }
+      }
+    }
+  },
+  "Poland": {
+    "PLK": {
+      "Basket Zielona Gora - Spojnia Stargard": {
+        "Moneyline": {
+          "1": 2.1,
+          "2": 1.65
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.84,
+          "2 AH": 1.86
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.85,
+          "Under": 1.85
+        },
+        "1X2 - Regular Time": {
+          "1": 2.17,
+          "X": 15.5,
+          "2": 1.68
+        }
+      },
+      "Dziki Warszawa - Energa Czarni Slupsk": {
+        "Moneyline": {
+          "1": 1.67,
+          "2": 2.08
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.9,
+          "2 AH": 1.81
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.81,
+          "Under": 1.89
+        }
+      },
+      "GTK Gliwice - PTG Sokol Lancut": {
+        "Moneyline": {
+          "1": 1.33,
+          "2": 3.05
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.85,
+          "2 AH": 1.85
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.86,
+          "Under": 1.85
+        }
+      },
+      "Wilki Morskie Szczecin - Twarde Pierniki Torun": {
+        "Moneyline": {
+          "1": 1.17,
+          "2": 4.45
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.89,
+          "2 AH": 1.82
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.86,
+          "Under": 1.85
+        }
+      },
+      "Slask Wroclaw - Trefl Sopot": {
+        "Moneyline": {
+          "1": 2.12,
+          "2": 1.65
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.84,
+          "2 AH": 1.86
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.88,
+          "Under": 1.82
+        }
+      },
+      "MKS Start Lublin - Stal Ostrow Wielkopolski": {
+        "Moneyline": {
+          "1": 2.45,
+          "2": 1.49
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.84,
+          "2 AH": 1.87
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.89,
+          "Under": 1.82
+        }
+      }
+    }
+  },
+  "Portugal": {
+    "LPB": {
+      "AD Galomar - Ovarense Basquetebol": {
+        "Moneyline": {
+          "1": 1.73,
+          "2": 1.95
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.85,
+          "2 AH": 1.82
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.84,
+          "Under": 1.83
+        },
+        "1X2 - Regular Time": {
+          "1": 1.78,
+          "X": 15.5,
+          "2": 2.02
+        }
+      }
+    }
+  },
+  "South Korea": {
+    "KBL": {
+      "Daegu Pegasus - Dongbu Promy": {
+        "Moneyline": {
+          "1": 3.4,
+          "2": 1.29
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.86,
+          "2 AH": 1.88
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.92,
+          "Under": 1.82
+        },
+        "1X2 - Regular Time": {
+          "1": 3.6,
+          "X": 17.0,
+          "2": 1.31
+        }
+      },
+      "Goyang Carrot Jumpers - Seoul SK Knights": {
+        "Moneyline": {
+          "1": 3.5,
+          "2": 1.28
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.87,
+          "2 AH": 1.87
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.87,
+          "Under": 1.87
+        },
+        "1X2 - Regular Time": {
+          "1": 3.7,
+          "X": 16.5,
+          "2": 1.3
+        }
+      }
+    },
+    "WKBL": {
+      "Bucheon Hana 1Q - Incheon Shinhan Bank S-Birds": {
+        "Moneyline": {
+          "1": 1.27,
+          "2": 3.45
+        },
+        "Handicap (Incl. Overtime)": {
+          "1 AH": 1.92,
+          "2 AH": 1.79
+        },
+        "Total (Incl. Overtime)": {
+          "Over": 1.91,
+          "Under": 1.8
+        },
+        "1X2 - Regular Time": {
+          "1": 1.27,
+          "X": 16.0,
+          "2": 3.65
+        }
+      }
+    }
+  },
+  "Switzerland": {}
+}

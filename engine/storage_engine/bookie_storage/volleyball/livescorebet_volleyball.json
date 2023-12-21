@@ -1,0 +1,186 @@
+{
+  "Austria": {
+    "Austria Cup": {}
+  },
+  "Brazil": {
+    "Brazil Superliga": {
+      "Farma Conde Voley vs Azulim/Gabarito/MonteCarmelo": {
+        "time": "2023-12-22 00:00:00",
+        "Winner": {
+          "Farma Conde Voley": 1.06666667,
+          "Azulim/Gabarito/MonteCarmelo": 8.0
+        }
+      },
+      "Sesi SP vs BMG Montes Claros": {
+        "time": "2023-12-22 19:00:00",
+        "Winner": {
+          "Sesi SP": 1.08333334,
+          "BMG Montes Claros": 6.75
+        }
+      }
+    },
+    "Brazil Superliga Women": {
+      "Brasilia [W] vs Pinheiros [W]": {
+        "time": "2023-12-21 21:30:00",
+        "Winner": {
+          "Brasilia [W]": 3.0,
+          "Pinheiros [W]": 1.34482759
+        }
+      }
+    }
+  },
+  "Bulgaria": {
+    "Bulgaria Super League": {
+      "Neftohimic 2010 Burgas vs Beroe": {
+        "time": "2023-12-22 16:30:00",
+        "Winner": {
+          "Neftohimic 2010 Burgas": 1.12121213,
+          "Beroe": 5.25
+        }
+      }
+    }
+  },
+  "China": {
+    "China CVL": {}
+  },
+  "Czech Republic": {
+    "Czech Extraliga Women": {}
+  },
+  "Europe": {
+    "Champions League": {
+      "Noliko Maaseik vs Arcada Galati": {
+        "time": "2023-12-21 19:30:00",
+        "Winner": {
+          "Noliko Maaseik": 1.64516129,
+          "Arcada Galati": 2.2
+        }
+      }
+    },
+    "CEV Challenge Cup": {},
+    "CEV Cup": {},
+    "Baltic League": {}
+  },
+  "Finland": {
+    "Finland Mestaruusliiga Women": {}
+  },
+  "Greece": {
+    "Greece A1": {
+      "AS Athlos Orestiadas vs AO Kifisias": {
+        "time": "2023-12-23 14:30:00",
+        "Winner": {
+          "AS Athlos Orestiadas": 1.42553192,
+          "AO Kifisias": 2.7
+        }
+      },
+      "Pigasos Polichnis vs AO Kalamata 80": {
+        "time": "2023-12-23 18:00:00",
+        "Winner": {
+          "Pigasos Polichnis": 1.60606061,
+          "AO Kalamata 80": 2.25
+        }
+      },
+      "Milon vs Olympiacos Piraeus": {
+        "time": "2023-12-23 18:30:00",
+        "Winner": {
+          "Milon": 3.75,
+          "Olympiacos Piraeus": 1.23529412
+        }
+      }
+    }
+  },
+  "Israel": {
+    "Israel Premier League Women": {
+      "Hapoel Ironi Kiryat Ata [W] vs Hapoel Rehovot [W]": {
+        "time": "2023-12-22 11:30:00",
+        "Winner": {
+          "Hapoel Ironi Kiryat Ata [W]": 1.86956522,
+          "Hapoel Rehovot [W]": 1.86956522
+        }
+      }
+    }
+  },
+  "Kazakhstan": {
+    "Kazakhstan National League Women": {
+      "Irtysh Kazchrome [W] vs Berel BKO [W]": {
+        "time": "2023-12-22 05:00:00",
+        "Winner": {
+          "Irtysh Kazchrome [W]": 8.25,
+          "Berel BKO [W]": 1.03448276
+        }
+      },
+      "Almaty [W] vs Karaganda [W]": {
+        "time": "2023-12-22 07:30:00",
+        "Winner": {
+          "Almaty [W]": 1.02777778,
+          "Karaganda [W]": 8.75
+        }
+      },
+      "Turan Turkestan [W] vs Aikarakoz [W]": {
+        "time": "2023-12-22 10:00:00",
+        "Winner": {
+          "Turan Turkestan [W]": 1.02,
+          "Aikarakoz [W]": 9.5
+        }
+      }
+    }
+  },
+  "Poland": {
+    "Poland PLS": {
+      "Slepsk Suwalki vs ZAKSA Kedzierzyn-Kozle": {
+        "time": "2023-12-22 16:30:00",
+        "Winner": {
+          "Slepsk Suwalki": 3.65,
+          "ZAKSA Kedzierzyn-Kozle": 1.2631579
+        }
+      },
+      "LUK Lublin vs Norwid Czestochowa": {
+        "time": "2023-12-22 19:30:00",
+        "Winner": {
+          "LUK Lublin": 1.25,
+          "Norwid Czestochowa": 3.9
+        }
+      },
+      "Trefl Gdansk vs AZS Olsztyn": {
+        "time": "2023-12-23 16:30:00",
+        "Winner": {
+          "Trefl Gdansk": 1.5882353,
+          "AZS Olsztyn": 2.35
+        }
+      },
+      "Cerrad Czarni Radom vs PGE Skra Belchatow": {
+        "time": "2023-12-23 19:30:00",
+        "Winner": {
+          "Cerrad Czarni Radom": 4.05,
+          "PGE Skra Belchatow": 1.22222223
+        }
+      }
+    },
+    "Poland Cup Women": {}
+  },
+  "Serbia": {
+    "Serbia Superliga Women": {}
+  },
+  "South Korea": {
+    "Korea V League": {
+      "Samsung Bluefangs vs Korean Air Jumbos": {
+        "time": "2023-12-22 10:00:00",
+        "Winner": {
+          "Samsung Bluefangs": 2.0,
+          "Korean Air Jumbos": 1.76923077
+        }
+      }
+    },
+    "Korea V League Women": {
+      "AI Peppers Gwangju [W] vs Expressway Co [W]": {
+        "time": "2023-12-22 10:00:00",
+        "Winner": {
+          "AI Peppers Gwangju [W]": 2.5,
+          "Expressway Co [W]": 1.48780488
+        }
+      }
+    }
+  },
+  "Spain": {
+    "Spain Superliga Women": {}
+  }
+}

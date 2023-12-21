@@ -1,0 +1,392 @@
+{
+  "Czech Republic": {
+    "UTR Pro Series Olomouc Women": {
+      "Izabela Heinzova vs Julie Pastikova": {
+        "time": "2023-12-22 07:00:00",
+        "Winner": {
+          "Izabela Heinzova": 4.9,
+          "Julie Pastikova": 1.13333334
+        }
+      },
+      "Natali Jaiani vs Natalie Augustinova": {
+        "time": "2023-12-22 07:00:00",
+        "Winner": {
+          "Natali Jaiani": 4.05,
+          "Natalie Augustinova": 1.19047619
+        }
+      },
+      "Viktoriia Dema vs Linda Sevcikova": {
+        "time": "2023-12-22 07:00:00",
+        "Winner": {
+          "Viktoriia Dema": 1.32258065,
+          "Linda Sevcikova": 3.05
+        }
+      },
+      "Darja Vidmanova vs Katerina Mandelikova": {
+        "time": "2023-12-22 08:00:00",
+        "Winner": {
+          "Darja Vidmanova": 1.25,
+          "Katerina Mandelikova": 3.55
+        }
+      },
+      "Ema Mravcova vs Jana Denisenko": {
+        "time": "2023-12-22 08:00:00",
+        "Winner": {
+          "Ema Mravcova": 1.16666667,
+          "Jana Denisenko": 4.35
+        }
+      },
+      "Vendula Valdmannova vs Lucie Urbanova": {
+        "time": "2023-12-22 08:00:00",
+        "Winner": {
+          "Vendula Valdmannova": 2.1,
+          "Lucie Urbanova": 1.64516129
+        }
+      }
+    }
+  },
+  "Japan": {
+    "ITF M15 Yanagawa": {
+      "Takuya Kumasaka vs Taisei Ichikawa": {
+        "time": "2023-12-22 02:00:00",
+        "Winner": {
+          "Takuya Kumasaka": 1.76923077,
+          "Taisei Ichikawa": 1.95238096
+        },
+        "Winner 1st set": {
+          "Takuya Kumasaka": 1.8,
+          "Taisei Ichikawa": 1.95238096
+        }
+      }
+    },
+    "ITF M15 Yanagawa, Doubles": {
+      "H. Matsuoka / Matsumura vs K. Matsuda / Shiraishi": {
+        "time": "2023-12-22 05:00:00",
+        "Winner": {
+          "H. Matsuoka / Matsumura": 2.55,
+          "K. Matsuda / Shiraishi": 1.45454546
+        }
+      }
+    }
+  },
+  "New Zealand": {
+    "ITF M15 Papamoa": {
+      "Matthew Dellavedova vs Jack Loutit": {
+        "time": "2023-12-21 23:30:00",
+        "Winner": {
+          "Matthew Dellavedova": 1.48780488,
+          "Jack Loutit": 2.45
+        },
+        "Winner 1st set": {
+          "Matthew Dellavedova": 1.54054055,
+          "Jack Loutit": 2.3
+        }
+      },
+      "Corban Crowther vs Jacob Bradshaw": {
+        "time": "2023-12-22 02:00:00",
+        "Winner": {
+          "Corban Crowther": 2.6,
+          "Jacob Bradshaw": 1.43478261
+        },
+        "Winner 1st set": {
+          "Corban Crowther": 2.45,
+          "Jacob Bradshaw": 1.48780488
+        }
+      }
+    },
+    "ITF M15 Papamoa, Doubles": {
+      "Daniell / F. Reynolds vs Falck / Stoupe": {
+        "time": "2023-12-22 03:30:00",
+        "Winner": {
+          "Daniell / F. Reynolds": 1.1,
+          "Falck / Stoupe": 5.75
+        }
+      }
+    },
+    "ITF W25 Papamoa": {
+      "Petra Hule vs Talia Gibson": {
+        "time": "2023-12-21 22:00:00",
+        "Winner": {
+          "Petra Hule": 3.5,
+          "Talia Gibson": 1.25
+        },
+        "Winner 1st set": {
+          "Petra Hule": 3.05,
+          "Talia Gibson": 1.31746032
+        }
+      },
+      "Valentina Ivanov vs Ivana Popovic": {
+        "time": "2023-12-21 22:00:00",
+        "Winner": {
+          "Valentina Ivanov": 2.7,
+          "Ivana Popovic": 1.4
+        },
+        "Winner 1st set": {
+          "Valentina Ivanov": 2.5,
+          "Ivana Popovic": 1.45454546
+        }
+      }
+    },
+    "ITF W25 Papamoa, Doubles": {
+      "Bayerlova / Parnaby vs Mi. Mushika / Hik. Sato": {
+        "time": "2023-12-21 23:30:00",
+        "Winner": {
+          "Bayerlova / Parnaby": 1.32786886,
+          "Mi. Mushika / Hik. Sato": 3.0
+        }
+      }
+    }
+  },
+  "Tunisia": {
+    "ITF M15 Monastir": {
+      "Alexander Donski vs Maximus Jones": {
+        "time": "2023-12-22 08:30:00",
+        "Winner": {
+          "Alexander Donski": 1.83333334,
+          "Maximus Jones": 1.90909091
+        },
+        "Winner 1st set": {
+          "Alexander Donski": 1.83333334,
+          "Maximus Jones": 1.86956522
+        }
+      },
+      "Samir Banerjee vs Stefanos Sakellaridis": {
+        "time": "2023-12-22 08:30:00",
+        "Winner": {
+          "Samir Banerjee": 1.44444445,
+          "Stefanos Sakellaridis": 2.55
+        },
+        "Winner 1st set": {
+          "Samir Banerjee": 1.5,
+          "Stefanos Sakellaridis": 2.4
+        }
+      },
+      "Jelle Sels vs Michael Zhu": {
+        "time": "2023-12-22 10:00:00",
+        "Winner 1st set": {
+          "Jelle Sels": 1.23529412,
+          "Michael Zhu": 3.5
+        }
+      },
+      "Tomasz Berkieta vs Perry Gregg": {
+        "time": "2023-12-22 10:00:00",
+        "Winner": {
+          "Tomasz Berkieta": 2.4,
+          "Perry Gregg": 1.46511628
+        },
+        "Winner 1st set": {
+          "Tomasz Berkieta": 2.3,
+          "Perry Gregg": 1.51282052
+        }
+      }
+    },
+    "ITF W15 Monastir": {
+      "Daria Khomutsianskaya vs Lara Pfeifer": {
+        "time": "2023-12-22 08:30:00",
+        "Winner": {
+          "Daria Khomutsianskaya": 1.17391305,
+          "Lara Pfeifer": 4.25
+        },
+        "Winner 1st set": {
+          "Daria Khomutsianskaya": 1.23529412,
+          "Lara Pfeifer": 3.6
+        }
+      },
+      "Darja Suvirdjonkova vs Stephanie Judith Visscher": {
+        "time": "2023-12-22 08:30:00",
+        "Winner": {
+          "Darja Suvirdjonkova": 6.5,
+          "Stephanie Judith Visscher": 1.07142858
+        },
+        "Winner 1st set": {
+          "Darja Suvirdjonkova": 5.0,
+          "Stephanie Judith Visscher": 1.12903226
+        }
+      },
+      "Marie Villet vs Malwina Rowinska": {
+        "time": "2023-12-22 08:30:00",
+        "Winner": {
+          "Marie Villet": 1.5,
+          "Malwina Rowinska": 2.4
+        },
+        "Winner 1st set": {
+          "Marie Villet": 1.54054055,
+          "Malwina Rowinska": 2.3
+        }
+      },
+      "Selina Dal vs Zixuan Zeng": {
+        "time": "2023-12-22 08:30:00",
+        "Winner": {
+          "Selina Dal": 1.2,
+          "Zixuan Zeng": 3.95
+        },
+        "Winner 1st set": {
+          "Selina Dal": 1.25974026,
+          "Zixuan Zeng": 3.4
+        }
+      },
+      "Tess Sugnaux vs Milana Zhabrailova": {
+        "time": "2023-12-22 08:30:00",
+        "Winner": {
+          "Tess Sugnaux": 2.45,
+          "Milana Zhabrailova": 1.48780488
+        },
+        "Winner 1st set": {
+          "Tess Sugnaux": 2.35,
+          "Milana Zhabrailova": 1.54054055
+        }
+      },
+      "Adesuwa Osabuohien vs Jiaqi Wang": {
+        "time": "2023-12-22 10:00:00",
+        "Winner": {
+          "Adesuwa Osabuohien": 7.0,
+          "Jiaqi Wang": 1.04347827
+        },
+        "Winner 1st set": {
+          "Adesuwa Osabuohien": 5.5,
+          "Jiaqi Wang": 1.0909091
+        }
+      },
+      "Alyssa Reguer vs Nina Radovanovic": {
+        "time": "2023-12-22 10:00:00",
+        "Winner": {
+          "Alyssa Reguer": 7.0,
+          "Nina Radovanovic": 1.04545455
+        },
+        "Winner 1st set": {
+          "Alyssa Reguer": 5.5,
+          "Nina Radovanovic": 1.1
+        }
+      },
+      "Tilwith Di Girolami vs Romane Longueville": {
+        "time": "2023-12-22 10:00:00",
+        "Winner": {
+          "Tilwith Di Girolami": 1.0909091,
+          "Romane Longueville": 5.75
+        },
+        "Winner 1st set": {
+          "Tilwith Di Girolami": 1.14285715,
+          "Romane Longueville": 4.45
+        }
+      }
+    },
+    "ITF W15 Monastir, Doubles": {
+      "Bechri / Zhabrailova vs Stevic / Villet": {
+        "time": "2023-12-22 11:30:00",
+        "Winner": {
+          "Bechri / Zhabrailova": 1.36363637,
+          "Stevic / Villet": 2.75
+        }
+      },
+      "G.F. Andrews / M. Lewis vs S. Dal / Visscher": {
+        "time": "2023-12-22 11:30:00",
+        "Winner": {
+          "G.F. Andrews / M. Lewis": 7.0,
+          "S. Dal / Visscher": 1.04761905
+        }
+      },
+      "Heni / Rassil vs Khomutsianskaya / Sagandikova": {
+        "time": "2023-12-22 11:30:00",
+        "Winner": {
+          "Heni / Rassil": 4.4,
+          "Khomutsianskaya / Sagandikova": 1.14814815
+        }
+      },
+      "Safi / Saner vs Avataneo / Odorizzi": {
+        "time": "2023-12-22 11:30:00",
+        "Winner": {
+          "Safi / Saner": 1.83333334,
+          "Avataneo / Odorizzi": 1.83333334
+        }
+      }
+    }
+  },
+  "Turkey": {
+    "ITF M15 Antalya": {
+      "Federico Campana vs Samuele Pieri": {
+        "time": "2023-12-22 07:00:00",
+        "Winner": {
+          "Federico Campana": 2.65,
+          "Samuele Pieri": 1.42553192
+        },
+        "Winner 1st set": {
+          "Federico Campana": 2.45,
+          "Samuele Pieri": 1.47619048
+        }
+      },
+      "Max Alcala Gurri vs Corentin Denolly": {
+        "time": "2023-12-22 07:00:00",
+        "Winner": {
+          "Max Alcala Gurri": 2.75,
+          "Corentin Denolly": 1.38461539
+        },
+        "Winner 1st set": {
+          "Max Alcala Gurri": 2.55,
+          "Corentin Denolly": 1.44444445
+        }
+      }
+    },
+    "ITF M15 Antalya, Doubles": {},
+    "ITF W15 Antalya, Doubles": {
+      "Aragosa / Parentini Vallega Montebruno vs Bartha / Yoruk": {
+        "time": "2023-12-22 09:30:00",
+        "Winner": {
+          "Aragosa / Parentini Vallega Montebruno": 3.75,
+          "Bartha / Yoruk": 1.2
+        }
+      },
+      "Safta / R. Zolotareva vs Kumru / Lachinova": {
+        "time": "2023-12-22 09:30:00",
+        "Winner": {
+          "Safta / R. Zolotareva": 1.33333334,
+          "Kumru / Lachinova": 2.9
+        }
+      }
+    }
+  },
+  "United States": {
+    "UTR Pro Series Boca Raton Women": {
+      "Lauren Anzalotta Kynoch vs Malkia Ngounoue": {
+        "time": "2023-12-21 20:00:00",
+        "Winner": {
+          "Lauren Anzalotta Kynoch": 1.66666667,
+          "Malkia Ngounoue": 2.1
+        },
+        "Winner 1st set": {
+          "Lauren Anzalotta Kynoch": 1.13333334,
+          "Malkia Ngounoue": 4.85
+        }
+      },
+      "Caroline Driscoll vs Alana Wolfberg": {
+        "time": "2023-12-21 22:05:00",
+        "Winner": {
+          "Caroline Driscoll": 3.8,
+          "Alana Wolfberg": 1.21052632
+        }
+      }
+    },
+    "UTR Pro Series Newport Beach": {
+      "Sean Hill vs Pawit Sornlaksup": {
+        "time": "2023-12-22 17:00:00",
+        "Winner": {
+          "Sean Hill": 2.2,
+          "Pawit Sornlaksup": 1.57142858
+        }
+      },
+      "Alexander Kotzen vs Sema Pankin": {
+        "time": "2023-12-22 19:00:00",
+        "Winner": {
+          "Alexander Kotzen": 1.25641026,
+          "Sema Pankin": 3.3
+        }
+      },
+      "Markos Kalovelonis vs Boris Kozlov": {
+        "time": "2023-12-22 19:00:00",
+        "Winner": {
+          "Markos Kalovelonis": 2.7,
+          "Boris Kozlov": 1.3773585
+        }
+      }
+    }
+  }
+}

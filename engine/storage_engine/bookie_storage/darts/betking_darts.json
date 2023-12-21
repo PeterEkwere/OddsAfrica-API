@@ -1,0 +1,574 @@
+{
+  "PDC Darts": {
+    "PDC World Championship": {
+      "Mansell, Mickey - Zong, Xiaochen": {
+        "1-2": {
+          "1": 1.13,
+          "2": 5.1
+        },
+        "1X2 Most 180s": {
+          "1": 1.72,
+          "X": 5.0,
+          "2": 3.0
+        },
+        "Total Sets 3.5": {
+          "Over": 1.72,
+          "Under": 2.0
+        },
+        "Asian Handicap 180S": {
+          "1": 1.73,
+          "2": 1.99
+        },
+        "Total 180S": {
+          "Over": 1.63,
+          "Under": 2.13
+        },
+        "Set Handicap -2.5": {
+          "1": 2.25,
+          "2": 1.57
+        }
+      },
+      "Woodhouse, Luke - Van Peer, Berry": {
+        "1-2": {
+          "1": 1.33,
+          "2": 3.05
+        },
+        "1X2 Most 180s": {
+          "1": 1.83,
+          "X": 6.0,
+          "2": 2.37
+        },
+        "Total Sets 3.5": {
+          "Over": 1.44,
+          "Under": 2.59
+        },
+        "Asian Handicap 180S": {
+          "1": 1.84,
+          "2": 1.87
+        },
+        "Total 180S": {
+          "Over": 1.76,
+          "Under": 1.96
+        },
+        "Set Handicap -1.5": {
+          "1": 1.72,
+          "2": 2.0
+        }
+      },
+      "Razma, Madars - de Decker, Mike": {
+        "1-2": {
+          "1": 2.25,
+          "2": 1.57
+        },
+        "1X2 Most 180s": {
+          "1": 7.0,
+          "X": 7.5,
+          "2": 1.22
+        },
+        "Total Sets 4.5": {
+          "Over": 2.62,
+          "Under": 1.43
+        },
+        "Asian Handicap 180S": {
+          "1": 1.88,
+          "2": 1.82
+        },
+        "Total 180S": {
+          "Over": 2.08,
+          "Under": 1.66
+        },
+        "Set Handicap 1.5": {
+          "1": 1.57,
+          "2": 2.26
+        }
+      },
+      "Cross, Rob - Tricole, Thibault": {
+        "1-2": {
+          "1": 1.06,
+          "2": 7.1
+        },
+        "1X2 Most 180s": {
+          "1": 1.4,
+          "X": 5.5,
+          "2": 4.5
+        },
+        "Total Sets 3.5": {
+          "Over": 2.1,
+          "Under": 1.66
+        },
+        "Asian Handicap 180S": {
+          "1": 1.81,
+          "2": 1.9
+        },
+        "Total 180S": {
+          "Over": 1.69,
+          "Under": 2.05
+        },
+        "Set Handicap -2.5": {
+          "1": 1.72,
+          "2": 2.0
+        }
+      },
+      "Gilding, Andrew - Littler, Luke": {
+        "1-2": {
+          "1": 3.75,
+          "2": 1.23
+        },
+        "Asian Handicap 180S": {
+          "1": 1.78,
+          "2": 1.93
+        },
+        "Total 180S": {
+          "Over": 1.71,
+          "Under": 2.02
+        }
+      },
+      "Noppert, Danny - Williams, Scott": {
+        "1-2": {
+          "1": 1.3,
+          "2": 3.2
+        },
+        "1X2 Most 180s": {
+          "1": 2.2,
+          "X": 6.0,
+          "2": 2.1
+        },
+        "Total Sets 3.5": {
+          "Over": 1.44,
+          "Under": 2.59
+        },
+        "Asian Handicap 180S": {
+          "1": 2.13,
+          "2": 1.63
+        },
+        "Total 180S": {
+          "Over": 1.98,
+          "Under": 1.74
+        },
+        "Set Handicap -1.5": {
+          "1": 1.72,
+          "2": 2.01
+        }
+      },
+      "Clemens, Gabriel - Leung, Man Lok": {
+        "1-2": {
+          "1": 1.31,
+          "2": 3.15
+        },
+        "1X2 Most 180s": {
+          "1": 2.0,
+          "X": 6.5,
+          "2": 2.2
+        },
+        "Total Sets 3.5": {
+          "Over": 1.44,
+          "Under": 2.6
+        },
+        "Asian Handicap 180S": {
+          "1": 1.68,
+          "2": 2.07
+        },
+        "Total 180S": {
+          "Over": 1.96,
+          "Under": 1.75
+        },
+        "Set Handicap -1.5": {
+          "1": 1.85,
+          "2": 1.85
+        }
+      },
+      "Heta, Damon - Lukeman, Martin": {
+        "1-2": {
+          "1": 1.38,
+          "2": 2.82
+        },
+        "1X2 Most 180s": {
+          "1": 1.44,
+          "X": 7.0,
+          "2": 3.75
+        },
+        "Total Sets 3.5": {
+          "Over": 1.4,
+          "Under": 2.75
+        },
+        "Asian Handicap 180S": {
+          "1": 1.74,
+          "2": 1.98
+        },
+        "Total 180S": {
+          "Over": 1.76,
+          "Under": 1.95
+        },
+        "Set Handicap -1.5": {
+          "1": 1.85,
+          "2": 1.85
+        }
+      },
+      "de Sousa, Jose - de Graaf, Jeffrey": {
+        "1-2": {
+          "1": 1.39,
+          "2": 2.77
+        },
+        "1X2 Most 180s": {
+          "1": 1.61,
+          "X": 6.5,
+          "2": 3.25
+        },
+        "Total Sets 3.5": {
+          "Over": 1.4,
+          "Under": 2.73
+        },
+        "Asian Handicap 180S": {
+          "1": 1.99,
+          "2": 1.73
+        },
+        "Total 180S": {
+          "Over": 1.93,
+          "Under": 1.78
+        },
+        "Set Handicap -1.5": {
+          "1": 1.9,
+          "2": 1.81
+        }
+      },
+      "Ratajski, Krzysztof - Hughes, Jamie": {
+        "1-2": {
+          "1": 1.26,
+          "2": 3.5
+        },
+        "1X2 Most 180s": {
+          "1": 2.37,
+          "X": 5.0,
+          "2": 2.1
+        },
+        "Total Sets 3.5": {
+          "Over": 1.5,
+          "Under": 2.42
+        },
+        "Asian Handicap 180S": {
+          "1": 1.62,
+          "2": 2.15
+        },
+        "Total 180S": {
+          "Over": 1.8,
+          "Under": 1.9
+        },
+        "Set Handicap -1.5": {
+          "1": 1.66,
+          "2": 2.1
+        }
+      },
+      "van Duijvenbode, Dirk - Krcmar, Boris": {
+        "1-2": {
+          "1": 2.05,
+          "2": 1.69
+        },
+        "1X2 Most 180s": {
+          "1": 2.0,
+          "X": 5.5,
+          "2": 2.5
+        },
+        "Total Sets 4.5": {
+          "Over": 2.62,
+          "Under": 1.43
+        },
+        "Asian Handicap 180S": {
+          "1": 1.94,
+          "2": 1.77
+        },
+        "Total 180S": {
+          "Over": 1.76,
+          "Under": 1.95
+        },
+        "Set Handicap 1.5": {
+          "1": 1.44,
+          "2": 2.59
+        }
+      },
+      "van den Bergh, Dimitri - Hempel, Florian": {
+        "1-2": {
+          "1": 1.42,
+          "2": 2.67
+        },
+        "1X2 Most 180s": {
+          "1": 1.53,
+          "X": 6.5,
+          "2": 3.4
+        },
+        "Total Sets 3.5": {
+          "Over": 1.4,
+          "Under": 2.75
+        },
+        "Asian Handicap 180S": {
+          "1": 1.95,
+          "2": 1.76
+        },
+        "Total 180S": {
+          "Over": 1.7,
+          "Under": 2.03
+        },
+        "Set Handicap -1.5": {
+          "1": 1.91,
+          "2": 1.8
+        }
+      },
+      "Schindler, Martin - Wattimena, Jermaine": {
+        "1-2": {
+          "1": 1.52,
+          "2": 2.37
+        },
+        "1X2 Most 180s": {
+          "1": 1.4,
+          "X": 7.0,
+          "2": 4.33
+        },
+        "Total Sets 4.5": {
+          "Over": 2.6,
+          "Under": 1.44
+        },
+        "Asian Handicap 180S": {
+          "1": 1.72,
+          "2": 2.0
+        },
+        "Total 180S": {
+          "Over": 1.86,
+          "Under": 1.84
+        },
+        "Set Handicap -1.5": {
+          "1": 2.2,
+          "2": 1.6
+        }
+      },
+      "van Barneveld, Raymond - Szaganski, Radek": {
+        "1-2": {
+          "1": 1.42,
+          "2": 2.67
+        },
+        "1X2 Most 180s": {
+          "1": 1.28,
+          "X": 6.5,
+          "2": 6.0
+        },
+        "Total Sets 3.5": {
+          "Over": 1.4,
+          "Under": 2.75
+        },
+        "Asian Handicap 180S": {
+          "1": 2.07,
+          "2": 1.68
+        },
+        "Total 180S": {
+          "Over": 1.84,
+          "Under": 1.86
+        },
+        "Set Handicap -1.5": {
+          "1": 1.91,
+          "2": 1.8
+        }
+      },
+      "Dobey, Chris - O\u2019Connor, William": {
+        "1-2": {
+          "1": 1.33,
+          "2": 3.05
+        },
+        "1X2 Most 180s": {
+          "1": 1.6,
+          "X": 6.5,
+          "2": 3.25
+        },
+        "Total Sets 3.5": {
+          "Over": 1.44,
+          "Under": 2.6
+        },
+        "Asian Handicap 180S": {
+          "1": 2.0,
+          "2": 1.72
+        },
+        "Total 180S": {
+          "Over": 1.93,
+          "Under": 1.78
+        },
+        "Set Handicap -1.5": {
+          "1": 1.8,
+          "2": 1.91
+        }
+      },
+      "Huybrechts, Kim - Veenstra, Richard": {
+        "1-2": {
+          "1": 1.73,
+          "2": 1.99
+        },
+        "Asian Handicap 180S": {
+          "1": 2.08,
+          "2": 1.67
+        },
+        "Total 180S": {
+          "Over": 2.02,
+          "Under": 1.71
+        }
+      },
+      "Rydz, Callan - Pietreczko, Ricardo": {
+        "1-2": {
+          "1": 2.0,
+          "2": 1.72
+        },
+        "1X2 Most 180s": {
+          "1": 2.5,
+          "X": 6.0,
+          "2": 1.9
+        },
+        "Total Sets 4.5": {
+          "Over": 2.62,
+          "Under": 1.43
+        },
+        "Asian Handicap 180S": {
+          "1": 1.7,
+          "2": 2.03
+        },
+        "Total 180S": {
+          "Over": 1.96,
+          "Under": 1.75
+        },
+        "Set Handicap 1.5": {
+          "1": 1.5,
+          "2": 2.42
+        }
+      },
+      "Clayton, Jonny - Lennon, Steve": {
+        "1-2": {
+          "1": 1.27,
+          "2": 3.4
+        },
+        "1X2 Most 180s": {
+          "1": 1.83,
+          "X": 5.5,
+          "2": 2.5
+        },
+        "Total Sets 3.5": {
+          "Over": 1.5,
+          "Under": 2.42
+        },
+        "Asian Handicap 180S": {
+          "1": 1.83,
+          "2": 1.87
+        },
+        "Total 180S": {
+          "Over": 1.87,
+          "Under": 1.84
+        },
+        "Set Handicap -1.5": {
+          "1": 1.6,
+          "2": 2.2
+        }
+      },
+      "Gurney, Daryl - Beaton, Steve": {
+        "1-2": {
+          "1": 1.37,
+          "2": 2.87
+        },
+        "1X2 Most 180s": {
+          "1": 1.4,
+          "X": 6.5,
+          "2": 4.0
+        },
+        "Total Sets 3.5": {
+          "Over": 1.4,
+          "Under": 2.73
+        },
+        "Asian Handicap 180S": {
+          "1": 1.76,
+          "2": 1.95
+        },
+        "Total 180S": {
+          "Over": 1.67,
+          "Under": 2.07
+        },
+        "Set Handicap -1.5": {
+          "1": 1.83,
+          "2": 1.87
+        }
+      },
+      "Searle, Ryan - Goto, Tomoya": {
+        "1-2": {
+          "1": 1.14,
+          "2": 4.95
+        },
+        "1X2 Most 180s": {
+          "1": 1.66,
+          "X": 6.0,
+          "2": 3.0
+        },
+        "Total Sets 3.5": {
+          "Over": 1.66,
+          "Under": 2.09
+        },
+        "Asian Handicap 180S": {
+          "1": 1.64,
+          "2": 2.12
+        },
+        "Total 180S": {
+          "Over": 1.77,
+          "Under": 1.94
+        },
+        "Set Handicap -2.5": {
+          "1": 2.25,
+          "2": 1.57
+        }
+      },
+      "Bunting, Stephen - Joyce, Ryan": {
+        "1-2": {
+          "1": 1.5,
+          "2": 2.43
+        },
+        "1X2 Most 180s": {
+          "1": 1.6,
+          "X": 6.5,
+          "2": 2.8
+        },
+        "Total Sets 4.5": {
+          "Over": 2.6,
+          "Under": 1.44
+        },
+        "Asian Handicap 180S": {
+          "1": 2.1,
+          "2": 1.66
+        },
+        "Total 180S": {
+          "Over": 1.99,
+          "Under": 1.73
+        },
+        "Set Handicap -1.5": {
+          "1": 2.1,
+          "2": 1.66
+        }
+      },
+      "Aspinall, Nathan - Evans, Ricky": {
+        "1-2": {
+          "1": 1.29,
+          "2": 3.3
+        },
+        "1X2 Most 180s": {
+          "1": 1.57,
+          "X": 7.0,
+          "2": 3.25
+        },
+        "Total Sets 3.5": {
+          "Over": 1.44,
+          "Under": 2.6
+        },
+        "Asian Handicap 180S": {
+          "1": 1.86,
+          "2": 1.84
+        },
+        "Total 180S": {
+          "Over": 1.76,
+          "Under": 1.95
+        },
+        "Set Handicap -1.5": {
+          "1": 1.72,
+          "2": 2.0
+        }
+      }
+    }
+  }
+}

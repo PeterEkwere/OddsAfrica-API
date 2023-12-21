@@ -1,0 +1,312 @@
+{
+  "Champions League": {
+    "Champions League - Men": {
+      "Resovia Rzeszow - Volley Ljubljana": {
+        "1-2": {
+          "1": 1.03,
+          "2": 9.6
+        }
+      },
+      "Trentino Volley - Tours Volley-Ball": {
+        "1-2": {
+          "1": 1.08,
+          "2": 6.4
+        }
+      },
+      "VC Maaseik - CS Arcada Galati": {
+        "1-2": {
+          "1": 1.44,
+          "2": 2.6
+        },
+        "Handicap": {
+          "1 AH": 1.81,
+          "2 AH": 1.89
+        }
+      },
+      "Volley Civitanova - Vk Lvi Praha": {
+        "1-2": {
+          "1": 1.04,
+          "2": 8.2
+        }
+      }
+    }
+  },
+  "Poland": {
+    "Liga Siatkowski": {
+      "Stal Nysa SA - Cuprum Lubin SA": {
+        "1-2": {
+          "1": 1.21,
+          "2": 4.0
+        }
+      }
+    }
+  },
+  "Belgium": {
+    "Ere Divisie, Women": {
+      "Volley Noorderkempen - Antwerp Lvt": {
+        "1-2": {
+          "1": 2.15,
+          "2": 1.62
+        },
+        "Handicap": {
+          "1 AH": 1.88,
+          "2 AH": 1.82
+        }
+      }
+    }
+  },
+  "Brazil": {
+    "Superliga": {
+      "Sada Cruzeiro - Minas": {
+        "1-2": {
+          "1": 1.21,
+          "2": 4.0
+        },
+        "Handicap": {
+          "1 AH": 1.81,
+          "2 AH": 1.9
+        }
+      }
+    },
+    "Superliga, Women": {
+      "Brasilia Volei - EC Pinheiros": {
+        "1-2": {
+          "1": 3.0,
+          "2": 1.34
+        },
+        "Handicap": {
+          "1 AH": 1.84,
+          "2 AH": 1.87
+        }
+      }
+    }
+  },
+  "Bulgaria": {
+    "Super League": {
+      "Deya Volley Burgas - Dobrudja Dobrich": {
+        "1-2": {
+          "1": 1.02,
+          "2": 9.9
+        }
+      }
+    }
+  },
+  "CEV Cup Men": {
+    "CEV Cup": {
+      "PAOK Thessaloniki - Power Volley Milano": {
+        "1-2": {
+          "1": 4.2,
+          "2": 1.19
+        },
+        "Handicap": {
+          "1 AH": 1.86,
+          "2 AH": 1.84
+        }
+      },
+      "OK Partizan Beograd - VC Prometey Dnipro": {
+        "1-2": {
+          "1": 3.5,
+          "2": 1.26
+        },
+        "Handicap": {
+          "1 AH": 1.85,
+          "2 AH": 1.86
+        }
+      },
+      "Scmu Craiova - Warta Zawiercie": {
+        "1-2": {
+          "1": 8.0,
+          "2": 1.05
+        }
+      }
+    }
+  },
+  "Challenge Cup": {
+    "Challenge Cup": {
+      "Mav Elore SC - Cv Teruel": {
+        "1-2": {
+          "1": 2.37,
+          "2": 1.52
+        },
+        "Handicap": {
+          "1 AH": 1.85,
+          "2 AH": 1.86
+        }
+      },
+      "Csa Steaua Bucuresti - TSV Giesen Grizzlys": {
+        "1-2": {
+          "1": 1.48,
+          "2": 2.48
+        },
+        "Handicap": {
+          "1 AH": 1.81,
+          "2 AH": 1.89
+        }
+      },
+      "VV Monza - Panathinaikos": {
+        "1-2": {
+          "1": 1.11,
+          "2": 5.7
+        },
+        "Handicap": {
+          "1 AH": 1.79,
+          "2 AH": 1.92
+        }
+      }
+    }
+  },
+  "Czech Republic": {
+    "Extraliga, Women": {
+      "PVK Olymp Prague - TJ Sokol Sternberk": {
+        "1-2": {
+          "1": 1.07,
+          "2": 6.8
+        }
+      }
+    }
+  },
+  "European Leagues": {
+    "Poland -  Puchar Polski": {
+      "Nosir Nowy Dwor Mazowiecki - Pwsz Tarnow": {
+        "1-2": {
+          "1": 2.72,
+          "2": 1.4
+        },
+        "Handicap": {
+          "1 AH": 1.81,
+          "2 AH": 1.9
+        }
+      }
+    }
+  },
+  "Greece": {
+    "A1": {
+      "Pigasos Polichnis - AO Kalamata 80": {
+        "1-2": {
+          "1": 1.59,
+          "2": 2.22
+        },
+        "Handicap": {
+          "1 AH": 1.79,
+          "2 AH": 1.88
+        }
+      },
+      "PAOK Thessaloniki - Foinikas Syroy": {
+        "1-2": {
+          "1": 1.03,
+          "2": 9.5
+        }
+      },
+      "AONS Milon - Olympiakos": {
+        "1-2": {
+          "1": 3.35,
+          "2": 1.28
+        },
+        "Handicap": {
+          "1 AH": 1.83,
+          "2 AH": 1.83
+        }
+      }
+    },
+    "A1 Women": {
+      "AO Thiras - Olympiacos Piraeus": {
+        "1-2": {
+          "1": 2.63,
+          "2": 1.43
+        },
+        "Handicap": {
+          "1 AH": 1.85,
+          "2 AH": 1.86
+        }
+      },
+      "Ofa Apolonios - Aris Thessaloniki": {
+        "1-2": {
+          "1": 1.53,
+          "2": 2.33
+        },
+        "Handicap": {
+          "1 AH": 1.86,
+          "2 AH": 1.84
+        }
+      },
+      "Asp Thetis - Akadimies Protathliton Pefkon": {
+        "1-2": {
+          "1": 1.32,
+          "2": 3.15
+        },
+        "Handicap": {
+          "1 AH": 1.84,
+          "2 AH": 1.87
+        }
+      },
+      "PAOK - AEK Athens": {
+        "1-2": {
+          "1": 1.92,
+          "2": 1.79
+        }
+      }
+    }
+  },
+  "International": {},
+  "Russia": {
+    "Superliga, Women": {
+      "Zarechie-Odintsovo - Dinamo Metar Chelyabinsk": {
+        "1-2": {
+          "1": 3.1,
+          "2": 1.32
+        },
+        "Handicap": {
+          "1 AH": 1.84,
+          "2 AH": 1.86
+        }
+      }
+    }
+  },
+  "Serbia": {
+    "Superliga, Women": {
+      "Klek Md Zrenjanin - Zok Ub": {
+        "1-2": {
+          "1": 13.75
+        }
+      }
+    }
+  },
+  "Slovakia": {},
+  "South Korea": {
+    "V League": {
+      "Ansan Volleyball Team - Suwon Vixtorm": {
+        "1-2": {
+          "1": 1.89,
+          "2": 1.82
+        }
+      }
+    },
+    "V League, Women": {
+      "Daejeon Pro VC - Seoul KIXX": {
+        "1-2": {
+          "1": 2.48,
+          "2": 1.47
+        },
+        "Handicap": {
+          "1 AH": 1.85,
+          "2 AH": 1.82
+        }
+      }
+    }
+  },
+  "Spain ": {
+    "Superliga, Women": {
+      "Feel Volley Alcobendas - Cv Emeve": {
+        "1-2": {
+          "1": 2.35,
+          "2": 1.52
+        },
+        "Handicap": {
+          "1 AH": 1.86,
+          "2 AH": 1.85
+        }
+      }
+    }
+  },
+  "Switzerland": {}
+}
