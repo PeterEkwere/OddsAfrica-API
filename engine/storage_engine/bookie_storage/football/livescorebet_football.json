@@ -23,23 +23,23 @@
         },
         "Total goals": {
           "Over 1.5": 1.08333334,
-          "Over 2.5": 1.3508772,
-          "Over 3.5": 1.95238096,
+          "Over 2.5": 1.34482759,
+          "Over 3.5": 1.90909091,
           "Over 4.5": 3.0,
-          "Over 5.5": 5.0,
+          "Over 5.5": 4.95,
           "Over 6.5": 8.25,
           "Under 1.5": 5.5,
-          "Under 2.5": 2.7,
+          "Under 2.5": 2.75,
           "Under 3.5": 1.71428572,
-          "Under 4.5": 1.28571429,
+          "Under 4.5": 1.28985508,
           "Under 5.5": 1.1,
-          "Under 6.5": 1.01075269
+          "Under 6.5": 1.01149426
         },
         "Total Goals - 1st Half": {
           "Over 1.5": 2.0,
           "Over 2.5": 4.05,
           "Over 3.5": 8.75,
-          "Over 0.5": 1.18181819,
+          "Over 0.5": 1.19047619,
           "Under 1.5": 1.66666667,
           "Under 2.5": 1.16,
           "Under 3.5": 1.005,
@@ -215,22 +215,22 @@
       "Western United [W] vs Perth Glory [W]": {
         "time": "2023-12-22 06:00:00",
         "1X2": {
-          "Western United [W]": 1.90909091,
-          "Draw": 3.45,
-          "Perth Glory [W]": 2.8
+          "Western United [W]": 1.86956522,
+          "Draw": 3.5,
+          "Perth Glory [W]": 2.85
         },
         "Both Teams to Score": {
           "Yes": 1.42553192,
           "No": 2.2
         },
         "Double Chance": {
-          "Western United [W] or Tie": 1.28571429,
-          "Tie or Perth Glory [W]": 1.64516129,
+          "Western United [W] or Tie": 1.29411765,
+          "Tie or Perth Glory [W]": 1.66666667,
           "Western United [W] or Perth Glory [W]": 1.2
         },
         "Draw No Bet": {
-          "Western United [W]": 1.46511628,
-          "Perth Glory [W]": 2.1
+          "Western United [W]": 1.43478261,
+          "Perth Glory [W]": 2.15
         },
         "Over/under 1st Half": {
           "Over 1": 1.44748211,
@@ -241,15 +241,15 @@
           "Under 1.5": 1.43246836
         },
         "Total goals": {
-          "Over 1.5": 1.11111112,
+          "Over 1.5": 1.1,
           "Over 2.5": 1.48780488,
-          "Over 3.5": 2.35,
-          "Over 4.5": 3.85,
-          "Over 5.5": 6.25,
+          "Over 3.5": 2.3,
+          "Over 4.5": 3.75,
+          "Over 5.5": 6.0,
           "Under 1.5": 3.9,
           "Under 2.5": 2.05,
-          "Under 3.5": 1.36363637,
-          "Under 4.5": 1.11111112,
+          "Under 3.5": 1.37037037,
+          "Under 4.5": 1.11428572,
           "Under 5.5": 1.005
         }
       },
@@ -507,31 +507,30 @@
       "Gent vs Oud Heverlee": {
         "time": "2023-12-21 19:45:00",
         "1X2": {
-          "Gent": 1.0909091,
-          "Draw": 7.75,
-          "Oud Heverlee": 19.0
+          "Gent": 1.08333334,
+          "Draw": 8.0,
+          "Oud Heverlee": 22.0
         },
         "Both Teams to Score": {
-          "Yes": 2.4,
-          "No": 1.48780488
+          "Yes": 2.6,
+          "No": 1.4
         },
         "Double Chance": {
-          "Gent or Tie": 1.005,
-          "Tie or Oud Heverlee": 6.75,
+          "Tie or Oud Heverlee": 7.0,
           "Gent or Oud Heverlee": 1.0625
         },
         "Draw No Bet": {
-          "Oud Heverlee": 15.0
+          "Oud Heverlee": 16.0
         },
         "Total goals": {
-          "Over 1.5": 1.1,
-          "Over 2.5": 1.5882353,
-          "Over 3.5": 2.85,
-          "Over 4.5": 5.75,
-          "Under 1.5": 5.5,
-          "Under 2.5": 2.15,
-          "Under 3.5": 1.33898306,
-          "Under 4.5": 1.08333334
+          "Over 1.5": 1.19047619,
+          "Over 2.5": 2.0,
+          "Over 3.5": 4.15,
+          "Over 4.5": 8.75,
+          "Under 1.5": 4.05,
+          "Under 2.5": 1.68965518,
+          "Under 3.5": 1.16666667,
+          "Under 4.5": 1.01694916
         }
       },
       "RWD Molenbeek vs Club Brugge": {
@@ -4126,26 +4125,26 @@
       "Derby vs Lincoln City": {
         "time": "2023-12-21 19:45:00",
         "1X2": {
-          "Derby": 1.86956522,
-          "Draw": 2.45,
-          "Lincoln City": 6.5
+          "Derby": 2.05,
+          "Draw": 2.2,
+          "Lincoln City": 7.0
         },
         "Double Chance": {
-          "Derby or Tie": 1.0909091,
-          "Tie or Lincoln City": 1.83333334,
-          "Derby or Lincoln City": 1.48780488
+          "Derby or Tie": 1.08333334,
+          "Tie or Lincoln City": 1.71428572,
+          "Derby or Lincoln City": 1.625
         },
         "Draw No Bet": {
-          "Derby": 1.18181819,
-          "Lincoln City": 4.2
+          "Derby": 1.19047619,
+          "Lincoln City": 4.1
         },
         "Total goals": {
-          "Over 2.5": 1.28169015,
-          "Over 3.5": 2.4,
-          "Over 4.5": 5.5,
-          "Under 2.5": 3.25,
-          "Under 3.5": 1.48780488,
-          "Under 4.5": 1.1
+          "Over 2.5": 1.4,
+          "Over 3.5": 2.9,
+          "Over 4.5": 7.0,
+          "Under 2.5": 2.7,
+          "Under 3.5": 1.32786886,
+          "Under 4.5": 1.04761905
         }
       },
       "Cambridge Utd vs Exeter": {
@@ -6284,23 +6283,29 @@
     "Champions League Women": {
       "Barcelona [W] vs FC Rosengard [W]": {
         "time": "2023-12-21 20:00:00",
+        "1X2": {
+          "Draw": 32.0
+        },
         "Both Teams to Score": {
-          "Yes": 6.75,
-          "No": 1.04347827
+          "Yes": 4.4,
+          "No": 1.13333334
+        },
+        "Double Chance": {
+          "Tie or FC Rosengard [W]": 32.0
         },
         "Total goals": {
-          "Over 3.5": 1.05882353,
-          "Over 4.5": 1.29411765,
-          "Over 5.5": 1.83333334,
+          "Over 3.5": 1.0625,
+          "Over 4.5": 1.30303031,
+          "Over 5.5": 1.86956522,
           "Over 6.5": 3.0,
           "Over 7.5": 5.0,
           "Over 8.5": 8.5,
           "Under 3.5": 6.0,
-          "Under 4.5": 3.0,
-          "Under 5.5": 1.8,
+          "Under 4.5": 2.95,
+          "Under 5.5": 1.76923077,
           "Under 6.5": 1.28985508,
           "Under 7.5": 1.1,
-          "Under 8.5": 1.00666667
+          "Under 8.5": 1.005
         }
       }
     },
@@ -9082,40 +9087,40 @@
       "Tzeirey Umm al-Fahm vs Maccabi Nujeidat Ahmed": {
         "time": "2023-12-22 11:00:00",
         "1X2": {
-          "Tzeirey Umm al-Fahm": 1.74074075,
-          "Draw": 3.1,
-          "Maccabi Nujeidat Ahmed": 3.7
+          "Tzeirey Umm al-Fahm": 1.8,
+          "Draw": 3.05,
+          "Maccabi Nujeidat Ahmed": 3.5
         },
         "Both Teams to Score": {
           "Yes": 1.74074075,
           "No": 1.74074075
         },
         "Double Chance": {
-          "Tzeirey Umm al-Fahm or Tie": 1.18181819,
-          "Tie or Maccabi Nujeidat Ahmed": 1.83333334,
-          "Tzeirey Umm al-Fahm or Maccabi Nujeidat Ahmed": 1.25
+          "Tzeirey Umm al-Fahm or Tie": 1.2,
+          "Tie or Maccabi Nujeidat Ahmed": 1.74074075,
+          "Tzeirey Umm al-Fahm or Maccabi Nujeidat Ahmed": 1.25641026
         },
         "Draw No Bet": {
-          "Tzeirey Umm al-Fahm": 1.27397261,
-          "Maccabi Nujeidat Ahmed": 2.65
+          "Tzeirey Umm al-Fahm": 1.30769231,
+          "Maccabi Nujeidat Ahmed": 2.55
         },
         "Over/under 1st Half": {
-          "Over 1": 1.82689562,
+          "Over 1": 1.83916761,
           "Over 1.25": 2.29484898,
-          "Over 0.75": 1.48233773,
-          "Under 1": 1.62492229,
+          "Over 0.75": 1.49525443,
+          "Under 1": 1.61533545,
           "Under 1.25": 1.37545495,
-          "Under 0.75": 2.04842225
+          "Under 0.75": 2.02425793
         },
         "Total goals": {
           "Over 1.5": 1.25,
-          "Over 2.5": 1.90909091,
-          "Over 3.5": 3.3,
+          "Over 2.5": 1.95238096,
+          "Over 3.5": 3.35,
           "Over 4.5": 5.75,
           "Under 1.5": 2.8,
           "Under 2.5": 1.57142858,
-          "Under 3.5": 1.16666667,
-          "Under 4.5": 1.015625
+          "Under 3.5": 1.16,
+          "Under 4.5": 1.01612904
         }
       }
     },
@@ -12113,49 +12118,7 @@
         }
       }
     },
-    "Netherlands Cup": {
-      "Katwijk vs Almere City": {
-        "time": "2023-12-21 19:00:00",
-        "1X2": {
-          "Katwijk": 27.0,
-          "Draw": 7.5,
-          "Almere City": 1.06666667
-        },
-        "Double Chance": {
-          "Katwijk or Tie": 7.0,
-          "Katwijk or Almere City": 1.0625
-        },
-        "Draw No Bet": {
-          "Katwijk": 16.0
-        },
-        "Total goals": {
-          "Over 3.5": 4.9,
-          "Under 3.5": 1.11764706
-        }
-      },
-      "Vitesse vs Heerenveen": {
-        "time": "2023-12-21 19:00:00",
-        "1X2": {
-          "Vitesse": 1.005,
-          "Draw": 16.0,
-          "Heerenveen": 31.0
-        },
-        "Both Teams to Score": {
-          "Yes": 12.0
-        },
-        "Double Chance": {
-          "Tie or Heerenveen": 16.0,
-          "Vitesse or Heerenveen": 1.005
-        },
-        "Draw No Bet": {
-          "Heerenveen": 18.0
-        },
-        "Total goals": {
-          "Over 1.5": 10.25,
-          "Under 1.5": 1.005
-        }
-      }
-    }
+    "Netherlands Cup": {}
   },
   "Northern Ireland": {
     "Northern Ireland - Premier": {
@@ -12586,37 +12549,33 @@
       "Benfica vs AVS Futebol SAD": {
         "time": "2023-12-21 20:15:00",
         "1X2": {
-          "Benfica": 1.15384616,
-          "Draw": 6.5,
+          "Benfica": 1.19047619,
+          "Draw": 5.5,
           "AVS Futebol SAD": 14.0
         },
         "Double Chance": {
           "Benfica or Tie": 1.005,
-          "Tie or AVS Futebol SAD": 4.95,
-          "Benfica or AVS Futebol SAD": 1.1
+          "Tie or AVS Futebol SAD": 4.35,
+          "Benfica or AVS Futebol SAD": 1.13333334
         },
         "Draw No Bet": {
           "AVS Futebol SAD": 9.5
         },
         "Total goals": {
-          "Over 2.5": 1.01538462,
-          "Over 3.5": 1.25,
-          "Over 4.5": 1.83333334,
-          "Over 5.5": 3.15,
-          "Over 6.5": 6.0,
-          "Over 7.5": 10.25,
-          "Under 2.5": 9.75,
-          "Under 3.5": 3.4,
-          "Under 4.5": 1.83333334,
-          "Under 5.5": 1.28169015,
-          "Under 6.5": 1.08333334,
-          "Under 7.5": 1.005
+          "Over 2.5": 1.0625,
+          "Over 3.5": 1.44444445,
+          "Over 4.5": 2.45,
+          "Over 5.5": 4.75,
+          "Over 6.5": 9.25,
+          "Under 2.5": 7.0,
+          "Under 3.5": 2.5,
+          "Under 4.5": 1.45454546,
+          "Under 5.5": 1.12903226,
+          "Under 6.5": 1.01075269
         },
         "Total Goals - 1st Half": {
-          "Over 2.5": 1.86956522,
-          "Over 3.5": 5.5,
-          "Under 2.5": 1.8,
-          "Under 3.5": 1.0909091
+          "Over 2.5": 4.7,
+          "Under 2.5": 1.13793104
         }
       },
       "Nacional Madeira vs Braga": {
@@ -14292,73 +14251,73 @@
       "Alaves vs Real Madrid": {
         "time": "2023-12-21 20:30:00",
         "1X2": {
-          "Alaves": 6.0,
-          "Draw": 3.4,
-          "Real Madrid": 1.625
+          "Alaves": 5.5,
+          "Draw": 3.1,
+          "Real Madrid": 1.74074075
         },
         "Both Teams to Score": {
-          "Yes": 2.3,
-          "No": 1.54054055
+          "Yes": 2.45,
+          "No": 1.48780488
         },
         "Double Chance": {
-          "Alaves or Tie": 2.25,
-          "Tie or Real Madrid": 1.125,
-          "Alaves or Real Madrid": 1.30303031
+          "Alaves or Tie": 2.05,
+          "Tie or Real Madrid": 1.15384616,
+          "Alaves or Real Madrid": 1.33898306
         },
         "Draw No Bet": {
-          "Alaves": 4.1,
-          "Real Madrid": 1.19047619
+          "Alaves": 3.65,
+          "Real Madrid": 1.23529412
         },
         "Total goals": {
-          "Over 1.5": 1.41666667,
-          "Over 2.5": 2.4,
-          "Over 3.5": 4.65,
-          "Over 4.5": 9.0,
-          "Over 0.5": 1.05,
-          "Under 1.5": 2.65,
-          "Under 2.5": 1.51282052,
-          "Under 3.5": 1.14814815,
-          "Under 4.5": 1.025,
-          "Under 0.5": 8.0
+          "Over 1.5": 1.54054055,
+          "Over 2.5": 2.8,
+          "Over 3.5": 5.75,
+          "Over 4.5": 11.0,
+          "Over 0.5": 1.0909091,
+          "Under 1.5": 2.3,
+          "Under 2.5": 1.37037037,
+          "Under 3.5": 1.1,
+          "Under 4.5": 1.005,
+          "Under 0.5": 6.5
         },
         "Total Goals - 1st Half": {
-          "Over 1.5": 4.7,
-          "Over 0.5": 1.71428572,
-          "Under 1.5": 1.14285715,
-          "Under 0.5": 2.05
+          "Over 1.5": 7.5,
+          "Over 0.5": 2.25,
+          "Under 1.5": 1.05,
+          "Under 0.5": 1.60606061
         }
       },
       "Mallorca vs Osasuna": {
         "time": "2023-12-21 20:30:00",
         "1X2": {
-          "Mallorca": 2.2,
-          "Draw": 2.7,
-          "Osasuna": 3.9
+          "Mallorca": 2.35,
+          "Draw": 2.35,
+          "Osasuna": 4.25
         },
         "Double Chance": {
-          "Mallorca or Tie": 1.25,
-          "Tie or Osasuna": 1.625,
-          "Mallorca or Osasuna": 1.43478261
+          "Mallorca or Tie": 1.21052632,
+          "Tie or Osasuna": 1.55555556,
+          "Mallorca or Osasuna": 1.55555556
         },
         "Draw No Bet": {
-          "Mallorca": 1.44444445,
-          "Osasuna": 2.55
+          "Mallorca": 1.43478261,
+          "Osasuna": 2.6
         },
         "Total goals": {
-          "Over 2.5": 1.16666667,
-          "Over 3.5": 1.86956522,
-          "Over 4.5": 3.65,
-          "Over 5.5": 7.75,
-          "Under 2.5": 4.55,
-          "Under 3.5": 1.83333334,
-          "Under 4.5": 1.23529412,
-          "Under 5.5": 1.04347827
+          "Over 2.5": 1.27777778,
+          "Over 3.5": 2.4,
+          "Over 4.5": 5.25,
+          "Over 5.5": 12.0,
+          "Under 2.5": 3.4,
+          "Under 3.5": 1.51282052,
+          "Under 4.5": 1.11428572,
+          "Under 5.5": 1.005
         },
         "Total Goals - 1st Half": {
-          "Over 2.5": 2.15,
-          "Over 3.5": 6.75,
-          "Under 2.5": 1.66666667,
-          "Under 3.5": 1.07142858
+          "Over 2.5": 3.05,
+          "Over 3.5": 11.0,
+          "Under 2.5": 1.34482759,
+          "Under 3.5": 1.005
         }
       },
       "Atletico Madrid vs Sevilla": {
@@ -14817,77 +14776,75 @@
       "SD Amorebieta vs Alcorcon": {
         "time": "2023-12-21 20:30:00",
         "1X2": {
-          "SD Amorebieta": 2.35,
-          "Draw": 2.7,
+          "SD Amorebieta": 2.55,
+          "Draw": 2.45,
           "Alcorcon": 3.4
         },
         "Both Teams to Score": {
-          "Yes": 2.45,
-          "No": 1.45454546
+          "Yes": 3.0,
+          "No": 1.3125
         },
         "Double Chance": {
           "SD Amorebieta or Tie": 1.28571429,
-          "Tie or Alcorcon": 1.54054055,
-          "SD Amorebieta or Alcorcon": 1.40816327
+          "Tie or Alcorcon": 1.46511628,
+          "SD Amorebieta or Alcorcon": 1.5
         },
         "Draw No Bet": {
-          "SD Amorebieta": 1.55555556,
-          "Alcorcon": 2.25
+          "SD Amorebieta": 1.625,
+          "Alcorcon": 2.15
         },
         "Total goals": {
-          "Over 1.5": 1.68965518,
-          "Over 2.5": 3.15,
-          "Over 3.5": 6.75,
-          "Over 0.5": 1.1,
-          "Under 1.5": 2.0,
-          "Under 2.5": 1.28169015,
-          "Under 3.5": 1.05263158,
-          "Under 0.5": 5.5
+          "Over 1.5": 2.0,
+          "Over 2.5": 4.15,
+          "Over 3.5": 9.0,
+          "Over 0.5": 1.17391305,
+          "Under 1.5": 1.68965518,
+          "Under 2.5": 1.16666667,
+          "Under 3.5": 1.0120482,
+          "Under 0.5": 4.3
         },
         "Total Goals - 1st Half": {
-          "Over 1.5": 6.0,
-          "Over 0.5": 1.95238096,
-          "Under 1.5": 1.07692308,
-          "Under 0.5": 1.76923077
+          "Over 1.5": 10.25,
+          "Over 0.5": 2.75,
+          "Under 1.5": 1.005,
+          "Under 0.5": 1.39215687
         }
       },
       "Valladolid vs Racing De Ferrol": {
         "time": "2023-12-21 20:30:00",
         "1X2": {
-          "Valladolid": 1.95238096,
-          "Draw": 2.95,
-          "Racing De Ferrol": 4.2
+          "Valladolid": 2.15,
+          "Draw": 2.7,
+          "Racing De Ferrol": 3.9
         },
         "Both Teams to Score": {
-          "Yes": 2.25,
-          "No": 1.54054055
+          "Yes": 2.6,
+          "No": 1.40816327
         },
         "Double Chance": {
-          "Valladolid or Tie": 1.2,
-          "Tie or Racing De Ferrol": 1.8,
-          "Valladolid or Racing De Ferrol": 1.3508772
+          "Valladolid or Tie": 1.23529412,
+          "Tie or Racing De Ferrol": 1.64516129,
+          "Valladolid or Racing De Ferrol": 1.39215687
         },
         "Draw No Bet": {
-          "Valladolid": 1.3508772,
-          "Racing De Ferrol": 2.9
+          "Valladolid": 1.43478261,
+          "Racing De Ferrol": 2.6
         },
         "Total goals": {
-          "Over 1.5": 1.52631579,
-          "Over 2.5": 2.7,
-          "Over 3.5": 5.5,
-          "Over 4.5": 10.25,
-          "Over 0.5": 1.07142858,
-          "Under 1.5": 2.3,
-          "Under 2.5": 1.3773585,
-          "Under 3.5": 1.1,
-          "Under 4.5": 1.005,
-          "Under 0.5": 6.5
+          "Over 1.5": 1.71428572,
+          "Over 2.5": 3.3,
+          "Over 3.5": 6.75,
+          "Over 0.5": 1.11111112,
+          "Under 1.5": 1.95238096,
+          "Under 2.5": 1.25974026,
+          "Under 3.5": 1.05,
+          "Under 0.5": 5.5
         },
         "Total Goals - 1st Half": {
-          "Over 1.5": 5.5,
-          "Over 0.5": 1.86956522,
-          "Under 1.5": 1.0909091,
-          "Under 0.5": 1.83333334
+          "Over 1.5": 8.75,
+          "Over 0.5": 2.45,
+          "Under 1.5": 1.01694916,
+          "Under 0.5": 1.48780488
         }
       }
     }

@@ -12,6 +12,7 @@ from utils.parser.bookies_parsers.betnaija_parser import extract_bet9ja
 from utils.parser.bookies_parsers.bet22_parser import extract_22bet
 from utils.parser.bookies_parsers.betking_parser import extract_betking
 from utils.parser.bookies_parsers.LSB_parser import extract_LSB
+from utils.parser.bookies_parsers.sportybet_parser import extract_Sportybet
 
 
 class Parse:
@@ -58,6 +59,9 @@ class Parse:
             if bookie_name == "livescorebet":
                 clean_data, league = extract_LSB(data)
                 return clean_data, league
+            if bookie_name == "sportybet":
+                clean_data, league = extract_Sportybet(data)
+                return  clean_data, league
         except Exception as e:
             print(f"Error cleaning Data: {e}")
             return None         

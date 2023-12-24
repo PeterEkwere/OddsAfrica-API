@@ -8,12 +8,12 @@
           "Zarate Basket": 5.5
         },
         "Spread": {
-          "San Lorenzo de Almagro -11.5": 1.90909091,
-          "Zarate Basket +11.5": 1.90909091
+          "San Lorenzo de Almagro -11.5": 1.88495576,
+          "Zarate Basket +11.5": 1.93457944
         },
         "Over/under": {
-          "Over 147.5": 1.86956522,
-          "Under 147.5": 1.86956522
+          "Over 150": 1.87719299,
+          "Under 150": 1.86206897
         }
       },
       "Argentino de Junin vs Instituto Atletico Central Cordoba": {
@@ -458,41 +458,19 @@
   },
   "Europe": {
     "Euroleague": {
-      "Maccabi Tel-Aviv vs Crvena Zvezda": {
-        "time": "2023-12-21 19:05:00",
-        "Spread": {
-          "Crvena Zvezda -10.5": 1.84000001,
-          "Maccabi Tel-Aviv +10.5": 1.84000001
-        },
-        "Over/under": {
-          "Over 189.5": 1.84000001,
-          "Under 189.5": 1.84000001
-        }
-      },
       "Valencia Basket Club vs Virtus Bologna": {
         "time": "2023-12-21 19:30:00",
         "Money line": {
-          "Valencia Basket Club": 1.48780488,
-          "Virtus Bologna": 2.5
+          "Valencia Basket Club": 1.23529412,
+          "Virtus Bologna": 3.8
         },
         "Spread": {
-          "Valencia Basket Club -3.5": 1.84000001,
-          "Virtus Bologna +3.5": 1.84000001
+          "Valencia Basket Club -5.5": 1.84000001,
+          "Virtus Bologna +5.5": 1.84000001
         },
         "Over/under": {
-          "Over 154.5": 1.84000001,
-          "Under 154.5": 1.84000001
-        }
-      },
-      "Real Madrid vs KK Partizan Nis Belgrade": {
-        "time": "2023-12-21 19:45:00",
-        "Spread": {
-          "Real Madrid -16.5": 1.84000001,
-          "KK Partizan Nis Belgrade +16.5": 1.84000001
-        },
-        "Over/under": {
-          "Over 170.5": 1.84000001,
-          "Under 170.5": 1.84000001
+          "Over 150.5": 1.84000001,
+          "Under 150.5": 1.84000001
         }
       },
       "Anadolu Efes vs Baskonia": {
@@ -725,23 +703,27 @@
       "Belfius Namur Capitale [W] vs Dinamo Sassari [W]": {
         "time": "2023-12-21 19:30:00",
         "Spread": {
-          "Dinamo Sassari [W] -15.5": 1.71411936,
-          "Belfius Namur Capitale [W] +15.5": 1.98583474
+          "Dinamo Sassari [W] -11.5": 1.71411936,
+          "Belfius Namur Capitale [W] +11.5": 1.98583474
         },
         "Over/under": {
-          "Over 126.5": 1.84000001,
-          "Under 126.5": 1.84000001
+          "Over 128.5": 1.84000001,
+          "Under 128.5": 1.84000001
         }
       },
       "Caledonia Gladiators [W] vs PEAC-Pecs [W]": {
         "time": "2023-12-21 19:30:00",
+        "Money line": {
+          "Caledonia Gladiators [W]": 9.75,
+          "PEAC-Pecs [W]": 1.01587302
+        },
         "Spread": {
-          "PEAC-Pecs [W] -12.5": 1.84000001,
-          "Caledonia Gladiators [W] +12.5": 1.84000001
+          "PEAC-Pecs [W] -8.5": 1.71411936,
+          "Caledonia Gladiators [W] +8.5": 1.98583474
         },
         "Over/under": {
-          "Over 114.5": 1.84000001,
-          "Under 114.5": 1.84000001
+          "Over 121.5": 1.98583474,
+          "Under 121.5": 1.71411936
         }
       }
     },
@@ -1576,17 +1558,6 @@
       }
     },
     "Italy - A2 Women": {
-      "Alpo Basket ASD [W] vs Rhodigium [W]": {
-        "time": "2023-12-21 19:30:00",
-        "Spread": {
-          "Alpo Basket ASD [W] -29.5": 1.74074075,
-          "Rhodigium [W] +29.5": 2.05
-        },
-        "Over/under": {
-          "Over 139.5": 2.05,
-          "Under 139.5": 1.74074075
-        }
-      },
       "Costa Masnaga [W] vs OMC Cignoli Broni [W]": {
         "time": "2023-12-21 20:00:00",
         "Money line": {
@@ -2406,22 +2377,15 @@
       }
     },
     "Spain - LEB League": {
-      "CB Clavijo vs Fuenlabrada": {
-        "time": "2023-12-21 19:00:00",
-        "Money line": {
-          "CB Clavijo": 5.75,
-          "Fuenlabrada": 1.1
-        }
-      },
       "Caceres Patrimonio de la Humanidad vs Real Betis": {
         "time": "2023-12-21 19:30:00",
         "Money line": {
-          "Caceres Patrimonio de la Humanidad": 1.38461539,
-          "Real Betis": 2.8
+          "Caceres Patrimonio de la Humanidad": 1.42553192,
+          "Real Betis": 2.65
         },
         "Spread": {
-          "Caceres Patrimonio de la Humanidad -4.5": 1.84000001,
-          "Real Betis +4.5": 1.84000001
+          "Caceres Patrimonio de la Humanidad -3.5": 1.84000001,
+          "Real Betis +3.5": 1.84000001
         },
         "Over/under": {
           "Over 137.5": 1.84000001,
@@ -2431,16 +2395,16 @@
       "CB Tizona vs Tau Castello": {
         "time": "2023-12-21 20:00:00",
         "Money line": {
-          "CB Tizona": 1.55555556,
-          "Tau Castello": 2.25
+          "CB Tizona": 1.60606061,
+          "Tau Castello": 2.2
         },
         "Spread": {
-          "CB Tizona -3.5": 1.84000001,
-          "Tau Castello +3.5": 1.84000001
+          "CB Tizona -2.5": 1.84000001,
+          "Tau Castello +2.5": 1.84000001
         },
         "Over/under": {
-          "Over 159.5": 1.84000001,
-          "Under 159.5": 1.84000001
+          "Over 161.5": 1.84000001,
+          "Under 161.5": 1.84000001
         }
       },
       "Gipuzkoa Basket vs San Pablo Burgos": {
@@ -2501,8 +2465,8 @@
           "RC Celta Zorka [W] +15.5": 1.81300814
         },
         "Over/under": {
-          "Over 133": 1.83333334,
-          "Under 133": 1.83333334
+          "Over 132": 1.82644629,
+          "Under 132": 1.84033614
         }
       },
       "Bembibre [W] vs Barcelona [W]": {
@@ -2878,82 +2842,64 @@
       }
     },
     "NCAAB": {
-      "Lafayette vs Quinnipiac": {
-        "time": "2023-12-21 19:00:00",
-        "Spread": {
-          "Quinnipiac -14.5": 1.76923077,
-          "Lafayette +14.5": 2.0
-        }
-      },
-      "Texas Tech vs UT Arlington": {
-        "time": "2023-12-21 19:00:00",
-        "Money line": {
-          "Texas Tech": 1.002,
-          "UT Arlington": 36.0
-        },
-        "Spread": {
-          "Texas Tech -10.5": 1.8,
-          "UT Arlington +10.5": 1.95238096
-        }
-      },
       "Little Rock vs Jacksonville State": {
         "time": "2023-12-21 20:00:00",
         "Money line": {
-          "Little Rock": 2.14,
-          "Jacksonville State": 1.68493151
+          "Little Rock": 2.0,
+          "Jacksonville State": 1.76923077
         },
         "Spread": {
-          "Jacksonville State -2.5": 1.95238096,
-          "Little Rock +2.5": 1.8
+          "Jacksonville State -1.5": 1.86956522,
+          "Little Rock +1.5": 1.86956522
         },
         "Over/under": {
-          "Over 140.5": 1.86956522,
-          "Under 140.5": 1.86956522
+          "Over 140.5": 1.90909091,
+          "Under 140.5": 1.83333334
         }
       },
       "Temple vs Nevada": {
         "time": "2023-12-21 20:00:00",
         "Money line": {
-          "Temple": 6.2,
-          "Nevada": 1.11764706
+          "Temple": 6.7,
+          "Nevada": 1.10416667
         },
         "Spread": {
           "Nevada -10.5": 1.86956522,
           "Temple +10.5": 1.86956522
         },
         "Over/under": {
-          "Over 138.5": 1.90909091,
-          "Under 138.5": 1.83333334
+          "Over 139.5": 1.83333334,
+          "Under 139.5": 1.90909091
         }
       },
       "Wake Forest vs Presbyterian": {
         "time": "2023-12-21 20:00:00",
         "Money line": {
-          "Wake Forest": 1.11764706,
-          "Presbyterian": 6.2
+          "Wake Forest": 1.04761905,
+          "Presbyterian": 11.0
         },
         "Spread": {
-          "Wake Forest -11.5": 1.86956522,
-          "Presbyterian +11.5": 1.86956522
+          "Wake Forest -13.5": 1.83333334,
+          "Presbyterian +13.5": 1.90909091
         },
         "Over/under": {
-          "Over 150.5": 1.83333334,
-          "Under 150.5": 1.90909091
+          "Over 155.5": 1.90909091,
+          "Under 155.5": 1.83333334
         }
       },
       "Air Force vs Northern Colorado": {
         "time": "2023-12-21 21:00:00",
         "Money line": {
-          "Air Force": 1.29411765,
-          "Northern Colorado": 3.7
+          "Air Force": 1.28985508,
+          "Northern Colorado": 3.5
         },
         "Spread": {
-          "Air Force -7": 1.86956522,
-          "Northern Colorado +7": 1.95238096
+          "Air Force -8.5": 1.90909091,
+          "Northern Colorado +8.5": 1.83333334
         },
         "Over/under": {
-          "Over 138.5": 1.90090091,
-          "Under 138.5": 1.9174312
+          "Over 137.5": 1.90909091,
+          "Under 137.5": 1.83333334
         }
       },
       "Old Dominion vs TCU": {
@@ -2967,8 +2913,8 @@
           "Old Dominion +14": 1.9174312
         },
         "Over/under": {
-          "Over 147.5": 1.97087379,
-          "Under 147.5": 1.85470086
+          "Over 147.5": 1.94339623,
+          "Under 147.5": 1.87719299
         }
       },
       "Syracuse vs Niagara": {
@@ -2978,8 +2924,8 @@
           "Niagara": 11.0
         },
         "Spread": {
-          "Syracuse -17": 1.9174312,
-          "Niagara +17": 1.90090091
+          "Syracuse -16": 1.86956522,
+          "Niagara +16": 1.95238096
         },
         "Over/under": {
           "Over 147": 1.95238096,
@@ -2997,8 +2943,8 @@
           "American +18.5": 1.90090091
         },
         "Over/under": {
-          "Over 140": 1.94339623,
-          "Under 140": 1.87719299
+          "Over 139": 1.94339623,
+          "Under 139": 1.87719299
         }
       },
       "Boston College vs Lehigh": {
@@ -3436,6 +3382,83 @@
           "Washington State": 1.74074075,
           "Boise State": 2.14
         }
+      },
+      "Bryant vs Drexel": {
+        "time": "2023-12-22 16:00:00",
+        "Spread": {
+          "Drexel -2.5": 1.90909091,
+          "Bryant +2.5": 1.90909091
+        },
+        "Over/under": {
+          "Over 131.5": 1.90909091,
+          "Under 131.5": 1.90909091
+        }
+      },
+      "Boston University vs UMass Lowell": {
+        "time": "2023-12-22 17:00:00",
+        "Spread": {
+          "UMass Lowell -5": 1.90909091,
+          "Boston University +5": 1.90909091
+        },
+        "Over/under": {
+          "Over 137.5": 1.90909091,
+          "Under 137.5": 1.90909091
+        }
+      },
+      "Miami OH vs Vermont": {
+        "time": "2023-12-22 18:00:00",
+        "Spread": {
+          "Vermont -4": 1.90909091,
+          "Miami OH +4": 1.90909091
+        },
+        "Over/under": {
+          "Over 140.5": 1.90909091,
+          "Under 140.5": 1.90909091
+        }
+      },
+      "Morgan State vs James Madison": {
+        "time": "2023-12-22 18:00:00",
+        "Spread": {
+          "James Madison -19.5": 1.90909091,
+          "Morgan State +19.5": 1.90909091
+        },
+        "Over/under": {
+          "Over 166.5": 1.90909091,
+          "Under 166.5": 1.90909091
+        }
+      },
+      "Milwaukee vs Chattanooga": {
+        "time": "2023-12-22 19:00:00",
+        "Spread": {
+          "Chattanooga -1": 1.90909091,
+          "Milwaukee +1": 1.90909091
+        },
+        "Over/under": {
+          "Over 151.5": 1.90909091,
+          "Under 151.5": 1.90909091
+        }
+      },
+      "Robert Morris vs Cornell": {
+        "time": "2023-12-22 19:00:00",
+        "Spread": {
+          "Cornell -9": 1.90909091,
+          "Robert Morris +9": 1.90909091
+        },
+        "Over/under": {
+          "Over 163": 1.90909091,
+          "Under 163": 1.90909091
+        }
+      },
+      "Tulane vs George Mason": {
+        "time": "2023-12-22 19:00:00",
+        "Spread": {
+          "Tulane -2": 1.90909091,
+          "George Mason +2": 1.90909091
+        },
+        "Over/under": {
+          "Over 159": 1.90909091,
+          "Under 159": 1.90909091
+        }
       }
     }
   },
@@ -3455,8 +3478,8 @@
           "Hebraica Macabi": 1.76923077
         },
         "Spread": {
-          "Hebraica Macabi -2": 1.92592593,
-          "Defensor Sporting +2": 1.89285715
+          "Hebraica Macabi -2": 1.94339623,
+          "Defensor Sporting +2": 1.87719299
         },
         "Over/under": {
           "Over 161": 1.85470086,

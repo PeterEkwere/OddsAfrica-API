@@ -1,0 +1,287 @@
+{
+  "Brazil": {
+    "Superliga": {}
+  },
+  "China": {
+    "China Volleyball League": {},
+    "China National Volleyball Championship, Women": {}
+  },
+  "France": {
+    "Ligue A Women": {}
+  },
+  "Germany": {
+    "1st Bundesliga": {
+      "SWD Powervolleys Duren vs VC Bitterfeld-Wolfen": {
+        "Winner": {
+          "Home": 1.05,
+          "Away": 8.8
+        }
+      }
+    },
+    "1st Bundesliga Women": {}
+  },
+  "Greece": {
+    "Volley League, Women": {
+      "PAOK vs AEK Athens": {
+        "Winner": {
+          "Home": 2.3,
+          "Away": 1.58
+        },
+        "Point handicap": {
+          "Home (+1.5)": 1.86,
+          "Away (-1.5)": 1.81,
+          "Home (+2.5)": 2.05,
+          "Away (-2.5)": 1.68,
+          "Home (+3.5)": 1.84,
+          "Away (-3.5)": 1.83,
+          "Home (+4.5)": 1.9,
+          "Away (-4.5)": 1.82,
+          "Home (+6.5)": 1.73,
+          "Away (-6.5)": 2.0
+        }
+      }
+    },
+    "A1": {}
+  },
+  "Hungary": {
+    "Extraliga, Women": {}
+  },
+  "Italy": {
+    "SuperLega": {
+      "Volley Civitanova vs Volley Verona": {
+        "Winner": {
+          "Home": 1.23,
+          "Away": 3.9
+        },
+        "Total points": {
+          "Over 177.5": 1.84,
+          "Under 177.5": 1.83
+        },
+        "Point handicap": {
+          "Home (-11.5)": 1.82,
+          "Away (+11.5)": 1.85,
+          "Home (-13.5)": 2.15,
+          "Away (+13.5)": 1.6,
+          "Home (-9.5)": 1.6,
+          "Away (+9.5)": 2.15
+        }
+      },
+      "Modena Volley vs Gas Sales Piacenza": {
+        "Winner": {
+          "Home": 2.4,
+          "Away": 1.54
+        },
+        "Total points": {
+          "Over 183.5": 1.85,
+          "Under 183.5": 1.82
+        },
+        "Point handicap": {
+          "Home (+3.5)": 2.05,
+          "Away (-3.5)": 1.67,
+          "Home (+5.5)": 1.86,
+          "Away (-5.5)": 1.81,
+          "Home (+7.5)": 1.68,
+          "Away (-7.5)": 2.0
+        }
+      },
+      "Pallavolo Padova vs Trentino Volley": {
+        "Winner": {
+          "Home": 5.2,
+          "Away": 1.14
+        },
+        "Total points": {
+          "Over 171.5": 1.83,
+          "Under 171.5": 1.84
+        },
+        "Point handicap": {
+          "Home (+11.5)": 2.25,
+          "Away (-11.5)": 1.55,
+          "Home (+12.5)": 2.1,
+          "Away (-12.5)": 1.63,
+          "Home (+13.5)": 1.87,
+          "Away (-13.5)": 1.8,
+          "Home (+14.5)": 1.77,
+          "Away (-14.5)": 1.91,
+          "Home (+15.5)": 1.6,
+          "Away (-15.5)": 2.15,
+          "Home (+16.5)": 1.51,
+          "Away (-16.5)": 2.35
+        }
+      },
+      "Perugia Umbria Volley vs Power Volley Milano": {
+        "Winner": {
+          "Home": 1.21,
+          "Away": 4.1
+        },
+        "Total points": {
+          "Over 175.5": 1.82,
+          "Under 175.5": 1.85
+        },
+        "Point handicap": {
+          "Home (-10.5)": 1.62,
+          "Away (+10.5)": 2.1,
+          "Home (-12.5)": 1.87,
+          "Away (+12.5)": 1.8,
+          "Home (-14.5)": 2.25,
+          "Away (+14.5)": 1.55
+        }
+      },
+      "Taranto Volley vs Saturnia Volley": {
+        "Winner": {
+          "Home": 1.41,
+          "Away": 2.75
+        },
+        "Total points": {
+          "Over 182.5": 1.85,
+          "Under 182.5": 1.82
+        },
+        "Point handicap": {
+          "Home (-5.5)": 1.63,
+          "Away (+5.5)": 2.1,
+          "Home (-7.5)": 1.8,
+          "Away (+7.5)": 1.87,
+          "Home (-9.5)": 2.05,
+          "Away (+9.5)": 1.67
+        }
+      },
+      "TOP Volley Cisterna vs VV Monza": {
+        "Winner": {
+          "Home": 3.3,
+          "Away": 1.31
+        },
+        "Total points": {
+          "Over 180.5": 1.84,
+          "Under 180.5": 1.83
+        },
+        "Point handicap": {
+          "Home (+10.5)": 1.78,
+          "Away (-10.5)": 1.9,
+          "Home (+11.5)": 1.6,
+          "Away (-11.5)": 2.15,
+          "Home (+12.5)": 1.56,
+          "Away (-12.5)": 2.2,
+          "Home (+4.5)": 2.1,
+          "Away (-4.5)": 1.64,
+          "Home (+6.5)": 2.1,
+          "Away (-6.5)": 1.63,
+          "Home (+7.5)": 2.05,
+          "Away (-7.5)": 1.67,
+          "Home (+8.5)": 2.05,
+          "Away (-8.5)": 1.67,
+          "Home (+9.5)": 1.81,
+          "Away (-9.5)": 1.86
+        }
+      }
+    },
+    "Serie A1 Women": {},
+    "Serie A2, Women": {}
+  },
+  "Japan": {
+    "V League": {},
+    "V League, Women": {}
+  },
+  "Poland": {
+    "1. Liga": {},
+    "Liga Siatkowki, Women": {},
+    "Liga Siatkowki": {}
+  },
+  "Republic of Korea": {
+    "V League, Women": {
+      "Gimcheon Hi-Pass vs Seoul KIXX": {
+        "Winner": {
+          "Home": 2.55,
+          "Away": 1.48
+        },
+        "Point handicap": {
+          "Home (+5.5)": 2.0,
+          "Away (-5.5)": 1.71,
+          "Home (+7.5)": 1.83,
+          "Away (-7.5)": 1.87,
+          "Home (+9.5)": 1.65,
+          "Away (-9.5)": 2.1
+        }
+      }
+    },
+    "V League": {
+      "Incheon Jumbos vs Ansan Volleyball Team": {
+        "Winner": {
+          "Home": 1.32,
+          "Away": 3.2
+        },
+        "Point handicap": {
+          "Home (-11.5)": 2.15,
+          "Away (+11.5)": 1.64,
+          "Home (-7.5)": 1.63,
+          "Away (+7.5)": 2.15,
+          "Home (-9.5)": 1.83,
+          "Away (+9.5)": 1.87
+        }
+      }
+    }
+  },
+  "Romania": {
+    "Division A1": {}
+  },
+  "Russia": {
+    "Pro League": {}
+  },
+  "Serbia": {
+    "Superliga": {},
+    "Superliga, Women": {}
+  },
+  "Slovenia": {
+    "1. DOL": {}
+  },
+  "Turkiye": {
+    "Efeler Ligi": {
+      "Develi Bld vs Akkus Bld": {
+        "Winner": {
+          "Home": 1.37,
+          "Away": 2.95
+        },
+        "Point handicap": {
+          "Home (-10.5)": 2.1,
+          "Away (+10.5)": 1.67,
+          "Home (-12.5)": 2.55,
+          "Away (+12.5)": 1.48,
+          "Home (-4.5)": 1.53,
+          "Away (+4.5)": 2.4,
+          "Home (-6.5)": 1.65,
+          "Away (+6.5)": 2.15,
+          "Home (-8.5)": 1.84,
+          "Away (+8.5)": 1.9
+        }
+      },
+      "Halkbank Ankara vs Fenerbahce SK Istanbul": {
+        "Winner": {
+          "Home": 1.39,
+          "Away": 2.85
+        },
+        "Point handicap": {
+          "Home (-10.5)": 2.15,
+          "Away (+10.5)": 1.65,
+          "Home (-11.5)": 2.1,
+          "Away (+11.5)": 1.68,
+          "Home (-12.5)": 2.6,
+          "Away (+12.5)": 1.47,
+          "Home (-13.5)": 2.55,
+          "Away (+13.5)": 1.48,
+          "Home (-14.5)": 2.75,
+          "Away (+14.5)": 1.42,
+          "Home (-4.5)": 1.55,
+          "Away (+4.5)": 2.35,
+          "Home (-5.5)": 1.49,
+          "Away (+5.5)": 2.5,
+          "Home (-6.5)": 1.68,
+          "Away (+6.5)": 2.1,
+          "Home (-7.5)": 1.62,
+          "Away (+7.5)": 2.2,
+          "Home (-8.5)": 1.87,
+          "Away (+8.5)": 1.87,
+          "Home (-9.5)": 1.82,
+          "Away (+9.5)": 1.93
+        }
+      }
+    }
+  }
+}

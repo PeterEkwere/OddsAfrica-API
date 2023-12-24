@@ -204,28 +204,7 @@
     "Finnish SM Liga": {}
   },
   "Germany": {
-    "Germany Eishockey Liga": {
-      "Eisbaren Berlin vs Augsburger Panther": {
-        "time": "2023-12-21 18:30:00",
-        "Winner": {
-          "Augsburger Panther": 28.0
-        }
-      },
-      "Kolner Haie vs Grizzlys Wolfsburg": {
-        "time": "2023-12-21 18:30:00",
-        "Winner": {
-          "Kolner Haie": 13.0,
-          "Grizzlys Wolfsburg": 1.005
-        }
-      },
-      "Pinguins Bremerhaven vs EHC Munich": {
-        "time": "2023-12-21 18:30:00",
-        "Winner": {
-          "Pinguins Bremerhaven": 1.90909091,
-          "EHC Munich": 1.86956522
-        }
-      }
-    }
+    "Germany Eishockey Liga": {}
   },
   "International": {
     "World Junior Championship": {
@@ -339,16 +318,16 @@
       "Stjernen vs Sparta Sarpsborg": {
         "time": "2023-12-22 17:30:00",
         "Winner": {
-          "Stjernen": 2.8,
+          "Stjernen": 2.75,
           "Draw": 4.1,
-          "Sparta Sarpsborg": 2.15
+          "Sparta Sarpsborg": 2.2
         },
         "Puck line": {
-          "Sparta Sarpsborg -0.5": 2.04044157,
-          "Stjernen +0.5": 1.64254561
+          "Sparta Sarpsborg -0.5": 2.07813811,
+          "Stjernen +0.5": 1.61890591
         },
         "Over/under": {
-          "Over 5.5": 1.78490888,
+          "Over 5.5": 1.77990566,
           "Under 5.5": 1.85649858
         }
       }
@@ -557,63 +536,33 @@
   },
   "Switzerland": {
     "Swiss Nationalliga": {
-      "Ambri Piotta vs Servette": {
-        "time": "2023-12-21 18:45:00",
-        "Winner": {
-          "Servette": 20.0
-        }
-      },
-      "Davos vs Biel": {
-        "time": "2023-12-21 18:45:00",
-        "Winner": {
-          "Davos": 1.8,
-          "Biel": 2.0
-        }
-      },
       "Fribourg Gotteron vs Lugano": {
         "time": "2023-12-21 18:45:00",
         "Puck line": {
-          "Fribourg Gotteron -2.5": 1.91688509,
-          "Lugano +2.5": 1.80639383
+          "Fribourg Gotteron -3.5": 3.13209791,
+          "Lugano +3.5": 1.32276183
         },
         "Over/under": {
-          "Over 3.5": 2.11515079,
-          "Under 3.5": 1.65902366
+          "Over 3.5": 1.63657043,
+          "Under 3.5": 2.0944617
         },
         "Moneyline (3 Way) (Excl OT)": {
-          "Fribourg Gotteron": 1.04,
-          "Draw": 12.0,
-          "Lugano": 36.0
-        }
-      },
-      "Rapperswil vs Kloten Flyers": {
-        "time": "2023-12-21 18:45:00",
-        "Winner": {
-          "Rapperswil": 1.03448276,
-          "Kloten Flyers": 9.5
+          "Draw": 40.0,
+          "Lugano": 48.0
         }
       },
       "SC Bern vs Ajoie": {
         "time": "2023-12-21 18:45:00",
         "Winner": {
-          "SC Bern": 1.46511628,
-          "Ajoie": 2.6
+          "SC Bern": 1.64516129,
+          "Ajoie": 2.2
         }
       },
       "Zurich Lions vs Zug": {
         "time": "2023-12-21 18:45:00",
-        "Puck line": {
-          "Zurich Lions -1.5": 13.05300196,
-          "Zug +1.5": 1.005
-        },
-        "Over/under": {
-          "Over 5.5": 6.59125514,
-          "Under 5.5": 1.07871086
-        },
-        "Moneyline (3 Way) (Excl OT)": {
-          "Zurich Lions": 6.25,
-          "Draw": 1.28571429,
-          "Zug": 7.25
+        "Winner": {
+          "Zurich Lions": 1.8,
+          "Zug": 1.95238096
         }
       }
     },
@@ -621,16 +570,16 @@
       "Bellinzona Rockets vs Sierre": {
         "time": "2023-12-21 19:15:00",
         "Puck line": {
-          "Sierre -4.5": 1.85595956,
-          "Bellinzona Rockets +4.5": 1.86367254
+          "Sierre -4.5": 2.11277985,
+          "Bellinzona Rockets +4.5": 1.66124344
         },
         "Over/under": {
-          "Over 8": 2.14322947,
-          "Under 8": 1.61193886
+          "Over 7.5": 2.06371943,
+          "Under 7.5": 1.66004164
         },
         "Moneyline (3 Way) (Excl OT)": {
-          "Bellinzona Rockets": 41.0,
-          "Draw": 38.0
+          "Bellinzona Rockets": 42.0,
+          "Draw": 39.0
         }
       }
     }
@@ -676,13 +625,13 @@
           "STL Blues +1.5": 1.74074075
         },
         "Over/under": {
-          "Over 6.5": 1.92592593,
-          "Under 6.5": 1.89285715
+          "Over 6.5": 1.90909091,
+          "Under 6.5": 1.90909091
         },
         "Moneyline (3 Way) (Excl OT)": {
-          "FLA Panthers": 1.64516129,
+          "FLA Panthers": 1.66666667,
           "Draw": 5.0,
-          "STL Blues": 3.8
+          "STL Blues": 3.7
         }
       },
       "PHI Flyers vs NSH Predators": {
@@ -932,7 +881,7 @@
         "Winner": {
           "Abbotsford Canucks": 2.5,
           "Draw": 3.9,
-          "Ontario Reign": 2.2
+          "Ontario Reign": 2.25
         },
         "Puck line": {
           "Ontario Reign -0.5": 2.24,
