@@ -3,6 +3,7 @@
     This Module contains all the functions for merrybet data parsing and cleaning
     Author: Peter Ekwere
 """
+from utils.logger.log import log_error, log_exception
 import sys
 import json
 from datetime import datetime
@@ -30,7 +31,12 @@ def extract_merrybet(json_data):
                 market = markets["gameName"]
                 if market not in result_dict.get(league, {}).get(gamename, {}):
                     result_dict.setdefault(league, {}).setdefault(gamename, {}).setdefault(market, {})
-                home_team, away_team = split_team_names(gamename)
+                try:
+                    home_team, away_team = split_team_names(gamename)
+                except ValueError as e:
+                    # Handle the case where split_team_names returns more than two values
+                    log_exception(f"Error splitting team names In Merrybet home_team and away_team now set to None: {e}")
+                    home_team = away_team = None
                 for outcomes in markets["outcomes"]:
                     outcome_name = outcomes["outcomeName"]
                     odds = outcomes["outcomeOdds"]
