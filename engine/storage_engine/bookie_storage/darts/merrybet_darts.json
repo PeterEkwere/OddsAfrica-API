@@ -1,27 +1,7 @@
 {
   "international": [
-    {
-      "WDF World Championship": {
-        "Andy Baetens - Chris Landman": {
-          "Winner": {
-            "Andy Baetens": 1.21,
-            "Chris Landman": 3.79
-          },
-          "time": 1702238400000
-        }
-      }
-    },
-    {
-      "WDF World Championship, Women": {
-        "Beau Greaves - Aileen De Graaf": {
-          "Winner": {
-            "Beau Greaves": 1.03,
-            "Aileen De Graaf": 8.2
-          },
-          "time": 1702233900000
-        }
-      }
-    },
+    null,
+    null,
     null
   ]
 }

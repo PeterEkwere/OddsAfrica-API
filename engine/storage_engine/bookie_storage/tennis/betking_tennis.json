@@ -1,554 +1,73 @@
 {
   "ITF Men": {
-    "Antalya": {
-      "Snitari, Ilya - Woerner, Paul": {
-        "1-2": {
-          "1": 1.11,
-          "2": 5.6
-        }
-      },
-      "Alcala Gurri, Max - Iamachkine, Pedro": {
-        "1-2": {
-          "1": 1.1,
-          "2": 5.8
-        }
-      },
-      "Mikovic, Milos - Campana, Federico": {
-        "1-2": {
-          "1": 2.97,
-          "2": 1.34
-        }
-      },
-      "Pampanin, Pietro - Denolly, Corentin": {
-        "1-2": {
-          "1": 8.4,
-          "2": 1.04
-        }
-      },
-      "Pieri, Samuele - Nesterov, Petr": {
-        "1-2": {
-          "1": 2.38,
-          "2": 1.52
-        }
-      }
-    },
-    "Antalya, Doubles": {
-      "Pham H / Yilmaz K - Andreescu S A / Schinteie G C": {
-        "1-2": {
-          "1": 5.6,
-          "2": 1.11
-        }
-      }
-    },
     "M15 Monastir": {
-      "Donski, Alexander - Fantini, Luca": {
+      "Mu, Tao - Taguchi, Ryotaro": {
         "1-2": {
-          "1": 1.46,
-          "2": 2.52
+          "1": 1.48,
+          "2": 2.48
         }
       },
-      "Kumar, Omni - El Amine, Hamza": {
+      "Simakin, Ilia - Duhan, Chirag": {
         "1-2": {
-          "1": 1.04,
-          "2": 8.7
-        }
-      },
-      "Roe Flannelly, Josh - Berkieta, Tomasz": {
-        "1-2": {
-          "1": 12.5
-        }
-      },
-      "Zhu, Michael - Mu, Tao": {
-        "1-2": {
-          "1": 2.23,
-          "2": 1.58
-        }
-      },
-      "Bittoun Kouzmine, Constantin - Visker, Niels": {
-        "1-2": {
-          "1": 2.0,
-          "2": 1.71
-        }
-      },
-      "Meduri, Andrea - Pereira, Tiago": {
-        "1-2": {
-          "1": 5.4,
-          "2": 1.12
-        }
-      },
-      "Banerjee, Samir - Makhlouf, Mohamed Nazim": {
-        "1-2": {
-          "1": 1.26,
-          "2": 3.5
-        }
-      },
-      "Tammaro, Mariano - Bourgois, Cesar": {
-        "1-2": {
-          "1": 1.49,
-          "2": 2.43
-        }
-      },
-      "Bidan, Fadi - Sels, Jelle": {
-        "1-2": {
-          "1": 9.5,
-          "2": 1.03
-        }
-      },
-      "Cozbinov, Alexander - Elamin, Ammar": {
-        "1-2": {
-          "1": 1.05,
-          "2": 7.9
-        }
-      },
-      "Groom, Miles - Sakellaridis, Stefanos": {
-        "1-2": {
-          "1": 7.4,
-          "2": 1.06
-        }
-      },
-      "Lobanov, Aleksandr - Tessa, Louis": {
-        "1-2": {
-          "1": 4.65,
-          "2": 1.16
-        }
-      }
-    },
-    "Papamoa": {
-      "Bradshaw, Jacob - Shepp, Anton": {
-        "1-2": {
-          "1": 1.29,
-          "2": 3.3
-        }
-      },
-      "Adams, Harrison - Crowther, Corban": {
-        "1-2": {
-          "1": 1.22,
-          "2": 3.85
-        }
-      }
-    },
-    "Papamoa, Doubles": {
-      "Charlton J / Hudd E - Daniell M / Reynolds F": {
-        "1-2": {
-          "1": 4.2,
-          "2": 1.19
-        }
-      },
-      "Falck R / Stoupe G - Birrell C / Bouzige M": {
-        "1-2": {
-          "1": 1.63,
-          "2": 2.15
-        }
-      }
-    },
-    "Yanagawa": {
-      "Isomura, Kokoro - Morita, Kosuke": {
-        "1-2": {
-          "1": 1.05,
-          "2": 7.8
-        }
-      },
-      "Muto, Shu - Yamasaki, Jumpei": {
-        "1-2": {
-          "1": 3.9,
-          "2": 1.22
-        }
-      },
-      "Shin, Sanhui - Suzuki, Ko": {
-        "1-2": {
-          "1": 1.26,
-          "2": 3.5
-        }
-      },
-      "Sueoka, Yamato - Kawachi, Kazuma": {
-        "1-2": {
-          "1": 1.6,
-          "2": 2.18
-        }
-      },
-      "Kumasaka, Takuya - Tomida, Yuta": {
-        "1-2": {
-          "1": 1.14,
-          "2": 4.85
-        }
-      },
-      "Ogura, Kosuke - Shiraishi, Hikaru": {
-        "1-2": {
-          "1": 5.8,
-          "2": 1.1
-        }
-      },
-      "Watanabe, Seita - Matsuoka, Shu": {
-        "1-2": {
-          "1": 1.21,
-          "2": 4.0
-        }
-      },
-      "Xiao, Linang - Imamura, Masamichi": {
-        "1-2": {
-          "1": 1.38,
-          "2": 2.82
-        }
-      },
-      "Ichikawa, Taisei - Kawahashi, Yuta": {
-        "1-2": {
-          "1": 2.52,
-          "2": 1.46
+          "1": 1.09,
+          "2": 6.0
         }
       }
     },
     "Yanagawa, Doubles": {
-      "Dong B / Zhang C - Saitoh K / Tanuma R": {
+      "Kusuhara Y / Shiraishi H - Haliak M / Lee D": {
         "1-2": {
-          "1": 2.92,
-          "2": 1.35
+          "1": 3.0,
+          "2": 1.34
         }
       },
-      "Kono Y / Masabayashi T - Hara Friend J D / Miyoshi K": {
+      "Fu H-L / Lin P C - Kawachi K / Sueoka Y": {
         "1-2": {
-          "1": 2.0,
-          "2": 1.72
+          "1": 3.5,
+          "2": 1.26
         }
       },
-      "Noguchi M / Yoshimura D - Katayama S / Watanabe S": {
-        "1-2": {
-          "1": 4.15,
-          "2": 1.19
-        }
-      },
-      "Oba K / Uchida M - Trongcharoenchaikul W / Xiao L": {
-        "1-2": {
-          "1": 15.5
-        }
-      },
-      "Isomura K / Sueoka Y - Chikami S / Imamura M": {
-        "1-2": {
-          "1": 1.85,
-          "2": 1.86
-        }
-      },
-      "Kawahashi Y / Sumizawa D - Matsuda K / Shiraishi H": {
-        "1-2": {
-          "1": 1.66,
-          "2": 2.1
-        }
-      },
-      "Nakagawa S / Ogura K - Kawachi K / Nishiwaki K": {
-        "1-2": {
-          "1": 1.31,
-          "2": 3.15
-        }
-      },
-      "Castelnuovo L / Wang A - Shin S / Shin W": {
-        "1-2": {
-          "1": 1.23,
-          "2": 3.75
-        }
-      }
-    }
-  },
-  "ITF Women": {
-    "Antalya ": {
-      "Lopata, Anastasiya - Safiullina, Milana": {
-        "1-2": {
-          "1": 1.17,
-          "2": 4.35
-        }
-      },
-      "Safta, Anastasia - Juric, Noka": {
-        "1-2": {
-          "1": 1.33,
-          "2": 3.05
-        }
-      },
-      "Uyar, Melis Ayda - Traversi, Costanza": {
-        "1-2": {
-          "1": 9.7,
-          "2": 1.02
-        }
-      },
-      "Zolotareva, Rada - Bartha, Panna": {
-        "1-2": {
-          "1": 1.6,
-          "2": 2.2
-        }
-      },
-      "Elmas, Leyla Nilufer - Tsygourova, Katerina": {
-        "1-2": {
-          "1": 7.5,
-          "2": 1.06
-        }
-      },
-      "Glushkova, Denislava - Hageman, Madelief": {
-        "1-2": {
-          "1": 1.06,
-          "2": 7.2
-        }
-      },
-      "Ivanova, Ekaterina - de Koning, Rikke": {
-        "1-2": {
-          "1": 1.57,
-          "2": 2.27
-        }
-      }
-    },
-    "Antalya, Doubles": {
-      "Gemovic E / Lazar S - Bartha P / Yoruk I": {
-        "1-2": {
-          "1": 2.27,
-          "2": 1.57
-        }
-      },
-      "Kumru A / Lachinova A - Traversi C / Tsygourova K": {
-        "1-2": {
-          "1": 2.63,
-          "2": 1.43
-        }
-      },
-      "Lopata A / Rustemova Z - Aragosa A / Parentini Vallega Montebruno G": {
-        "1-2": {
-          "1": 1.17,
-          "2": 4.35
-        }
-      },
-      "Safta A / Zolotareva R - Grekul E / Nikolenko T": {
-        "1-2": {
-          "1": 1.12,
-          "2": 5.2
-        }
-      }
-    },
-    "Monastir": {
-      "Karunaratne, Adithya - Dal, Selina": {
-        "1-2": {
-          "1": 1.25,
-          "2": 3.55
-        }
-      },
-      "Sagandikova, Aruzhan - Di Girolami, Tilwith": {
-        "1-2": {
-          "1": 1.57,
-          "2": 2.27
-        }
-      },
-      "Sugnaux, Tess - Konishi Camargo Silva, Julia": {
-        "1-2": {
-          "1": 1.03,
-          "2": 8.9
-        }
-      },
-      "Zeng, Zixuan - Saner, Julita": {
-        "1-2": {
-          "1": 1.85,
-          "2": 1.85
-        }
-      },
-      "Bechri, Chiraz - Osabuohien, Adesuwa": {
-        "1-2": {
-          "1": 1.16,
-          "2": 4.65
-        }
-      },
-      "PoPa Teiusanu, Vanessa Ioana Georgiana - Wang, Jiaqi": {
-        "1-2": {
-          "1": 5.6,
-          "2": 1.11
-        }
-      },
-      "Safi, Meshkatolzahra - Longueville, Romane": {
-        "1-2": {
-          "1": 2.18,
-          "2": 1.6
-        }
-      },
-      "Stevic, Helena - Zhabrailova , Milana": {
-        "1-2": {
-          "1": 4.9,
-          "2": 1.14
-        }
-      },
-      "Bandurowska, Xenia - Suvirdjonkova, Darja": {
+      "Katayama S / Nakagawa S - Liu S / Zhang C": {
         "1-2": {
           "1": 1.52,
           "2": 2.35
         }
       },
-      "Fity, Carla - Pfeifer, Lara": {
+      "Matsuda K / Matsuoka H - Hara Friend J D / Miyoshi K": {
         "1-2": {
-          "1": 15.5
+          "1": 2.72,
+          "2": 1.4
         }
       },
-      "Khomutsianskaya, Daria - Nyangon, Beverley": {
+      "Hashimoto K / Tani S - Fukuda S / Yoshimura D": {
         "1-2": {
-          "1": 1.03,
-          "2": 9.3
+          "1": 6.2,
+          "2": 1.09
         }
       },
-      "Niangadou, Coumba Ben Mamadou - Visscher, Stephanie Judith": {
+      "Shin S / Shin W - Saitoh K / Yamanaka T": {
         "1-2": {
-          "1": 15.5
-        }
-      },
-      "Avataneo, Sofia - Radovanovic, Nina": {
-        "1-2": {
-          "1": 9.1,
-          "2": 1.03
-        }
-      },
-      "Bougouffa , Hanna - Rowinska, Malwina": {
-        "1-2": {
-          "1": 1.97,
-          "2": 1.75
-        }
-      },
-      "Reguer, Alyssa - Lazarenko, Kateryna": {
-        "1-2": {
-          "1": 5.4,
-          "2": 1.12
-        }
-      },
-      "Villet, Marie - Giraldi Requena, Ana": {
-        "1-2": {
-          "1": 1.81,
-          "2": 1.9
-        }
-      }
-    },
-    "Nairobi": {
-      "Nguyen Tan, Lucie - Nahimana, Sada": {
-        "1-2": {
-          "1": 3.85,
-          "2": 1.22
-        }
-      },
-      "Papadakis, Lena - Lene, Emma": {
-        "1-2": {
-          "1": 1.44,
-          "2": 2.58
-        }
-      },
-      "Strakhova, Valeriya - Ostlund, Fanny": {
-        "1-2": {
-          "1": 1.16,
-          "2": 4.55
-        }
-      },
-      "Tona, Miriana - Okutoyi, Angella": {
-        "1-2": {
-          "1": 1.56,
-          "2": 2.28
-        }
-      }
-    },
-    "Nairobi, Doubles": {
-      "Nahimana S / Okutoyi A - Herazo Gonzalez M F / Laskutova K": {
-        "1-2": {
-          "1": 2.67,
-          "2": 1.42
-        }
-      },
-      "Ostlund F / Strakhova V - Aney J / Papadakis L": {
-        "1-2": {
-          "1": 1.72,
-          "2": 2.0
-        }
-      }
-    },
-    "Papamoa": {
-      "Joint, Maya - Hule, Petra": {
-        "1-2": {
-          "1": 1.43,
-          "2": 2.63
-        }
-      }
-    },
-    "Papamoa, Doubles": {
-      "Bayerlova M / Parnaby A - Ogata H / Sato H": {
-        "1-2": {
-          "1": 1.26,
-          "2": 3.5
-        }
-      },
-      "Ivanov V / Mushika MA - Mushika Mi / Sato HIK": {
-        "1-2": {
-          "1": 1.6,
-          "2": 2.18
-        }
-      }
-    },
-    "Solapur": {
-      "Chaudhari, Vaidehi - Baszak, Weronika": {
-        "1-2": {
-          "1": 1.2,
-          "2": 4.1
-        }
-      },
-      "Marcinkevica, Diana - Kazionova, Ekaterina": {
-        "1-2": {
-          "1": 1.08,
-          "2": 6.4
-        }
-      },
-      "Sawant, Madhurima - Yamalapalli, Sahaja": {
-        "1-2": {
-          "1": 10.5,
-          "2": 1.01
-        }
-      },
-      "Timofeeva, Maria - Abe, Hiromi": {
-        "1-2": {
-          "1": 1.07,
-          "2": 6.8
-        }
-      },
-      "Adkar, Vaishnavi - Sakellaridi, Sapfo": {
-        "1-2": {
-          "1": 5.1,
-          "2": 1.13
-        }
-      },
-      "Daria Kudashova - Bhosale, Rutuja": {
-        "1-2": {
-          "1": 1.86,
-          "2": 1.85
-        }
-      },
-      "Van de Peer, Vicky - Imamura, Saki": {
-        "1-2": {
-          "1": 2.1,
-          "2": 1.65
-        }
-      }
-    },
-    "Solapur, Doubles": {
-      "Kazionova E / Yashina E - Desai Z / Yadlapalli P": {
-        "1-2": {
-          "1": 1.65,
-          "2": 2.1
-        }
-      },
-      "Marcinkevica D / Sakellaridi S - Kozaki F / Matsuda M": {
-        "1-2": {
-          "1": 1.43,
-          "2": 2.63
+          "1": 2.18,
+          "2": 1.6
         }
       }
     }
   },
+  "ITF Women": {},
   "Exhibition": {
     "Exhibition Games": {
       "Djokovic, Novak - Alcaraz, Carlos": {
         "1-2": {
-          "1": 1.46,
-          "2": 2.52
+          "1": 1.5,
+          "2": 2.43
         }
       }
     },
     "Exhibition Games, Women": {
       "Sabalenka, Aryna - Jabeur, Ons": {
         "1-2": {
-          "1": 1.46,
-          "2": 2.52
+          "1": 1.48,
+          "2": 2.47
         }
       }
     }

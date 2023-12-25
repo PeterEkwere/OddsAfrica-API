@@ -3,6 +3,7 @@
     This module houses the class for merrybet
     Author: Peter Ekwere
 """
+from utils.logger.log import log_exception, log_error, log_success
 from utils.scraper import Scraper
 from utils.parser.scrub import Parse
 from engine.storage_engine.vault import Vault
@@ -55,7 +56,7 @@ class merrybet:
                     response = Scraper.Get_games(self, url)
                     games.append(Parse.clean(self, response, self.bookie_name))
                 except Exception as e:
-                    print(f"Error getting games for {country}, URL: {url}, Error: {e}")
+                    log_exception(f"Error getting games for {country}, URL: {url}, Error: {e}")
             all_leagues[country] = games    
         Vault.save_games(self, all_leagues, self.bookie_name, Sport)
-        return games
+        log_success(f"Successfully Scraped and Saved {self.bookie_name} {Sport}")

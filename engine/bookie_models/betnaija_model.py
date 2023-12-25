@@ -4,6 +4,7 @@
     Author: Peter Ekwere
 """
 import requests
+from utils.logger.log import log_exception, log_success
 from utils.parser.scrub import Parse
 from engine.storage_engine.vault import Vault
 from utils.library.url_library.betnaija_url import FOOTBALL, VOLLEYBALL, BASKETBALL, ICEHOCKEY, DARTS, TENNIS, ESOCCER
@@ -54,13 +55,13 @@ class bet9ja:
             for league_id in league_ids:
                 try:
                     league_games = bet9ja.get_league_games(league_id, bet9ja.headers)
-                    print(f"Scraping {country} {Sport}")
+                    log_success(f"Scraping {country} {Sport}")
                     games.append(Parse.clean(self, league_games, self.bookie_name))
                 except Exception as e:
-                    print(f"Error getting games for {country}, league id: {league_id}, Error: {e}")
+                    log_exception(f"Error getting games for {country}, league id: {league_id}, Error: {e}")
             all_leagues[country] = games  
         Vault.save_games(self, all_leagues, self.bookie_name, Sport)
-        return games
+        log_success(f"Successfully Scraped and Saved {self.bookie_name} {Sport}")
     
     
     

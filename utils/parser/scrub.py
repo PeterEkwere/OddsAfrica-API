@@ -5,6 +5,7 @@
 """
 import sys
 sys.path.append("..")
+from utils.logger.log import log_error, log_exception, log_success
 from utils.parser.bookies_parsers.xbet_parser import extract
 from utils.parser.bookies_parsers.merrybet_parser import extract_merrybet
 from utils.parser.bookies_parsers.nairabet_parser import extract_nairabet
@@ -13,6 +14,7 @@ from utils.parser.bookies_parsers.bet22_parser import extract_22bet
 from utils.parser.bookies_parsers.betking_parser import extract_betking
 from utils.parser.bookies_parsers.LSB_parser import extract_LSB
 from utils.parser.bookies_parsers.sportybet_parser import extract_Sportybet
+from utils.parser.bookies_parsers.betpawa_parser import extract_betpawa
 
 
 class Parse:
@@ -61,8 +63,11 @@ class Parse:
                 return clean_data, league
             if bookie_name == "sportybet":
                 clean_data, league = extract_Sportybet(data)
-                return  clean_data, league
+                return clean_data, league
+            if bookie_name == "betpawa":
+                clean_data = extract_betpawa(data)
+                return clean_data
         except Exception as e:
-            print(f"Error cleaning Data: {e}")
+            log_exception(f"Error cleaning {bookie_name} Data: {e}")
             return None         
     

@@ -3,16 +3,8 @@
     This Module will contain a bookie class for sportybet
     Author: Peter Ekwere
 """
+from utils.logger.log import log_error, log_success, log_exception
 import time
-import csv
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.common.action_chains import ActionChains
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import NoSuchElementException
-from bs4 import BeautifulSoup
 import requests
 from utils.scraper import Scraper
 from utils.parser.scrub import Parse
@@ -70,13 +62,12 @@ class SportyBet:
                     league_games = SportyBet.get_league_games(sport_id, league_id, SportyBet.headers)
                     result_dict, league = Parse.clean(self, league_games, self.bookie_name)     
                     league_dict[league] = result_dict
-                    print(f"Scraped {league}")
+                    log_success(f"Scraped {league}")
             except Exception as e:
-                print(f"Error getting games for {country}, league: {leagues}, Error: {e}")
-            all_leagues[country] = league_dict
-            print(f"Scraped {country}") 
+                log_exception(f"Error getting games for {country}, league: {league_id}, Error: {e}")
+            all_leagues[country] = league_dict 
         Vault.save_games(self, all_leagues, self.bookie_name, Sport)
-        print(f"Saved {Sport}")
+        log_success(f"Successfully Scraped and Saved {self.bookie_name} {Sport}")
                 
                 
     

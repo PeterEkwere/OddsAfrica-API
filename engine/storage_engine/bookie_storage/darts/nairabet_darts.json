@@ -2,1739 +2,1447 @@
   "World": [
     {
       "PDC World Darts Championship": {
-        "Kevin Doets vs Stowe Buntz": {
+        "Scott Williams vs Martin Schindler": {
           "Match Winner": {
-            "Kevin Doets": "1.70",
-            "Stowe Buntz": "2.10"
+            "Scott Williams": "2.30",
+            "Martin Schindler": "1.57"
           },
-          "time": "2023-12-15 19:00:00",
-          "Match Total Sets (O/U)": {
-            "Under 4.5 Sets": "1.50",
-            "Over 4.5 Sets": "2.50"
+          "time": "2023-12-27 12:30:00",
+          "Handicap 2.5": {
+            "Scott Williams +2.5": "1.33",
+            "Martin Schindler -2.5": "3.20"
           },
-          "Handicap -1.5": {
-            "Kevin Doets -1.5": "2.50",
-            "Stowe Buntz +1.5": "1.50"
-          },
-          "Handicap -0.5": {
-            "Kevin Doets -0.5": "1.70",
-            "Stowe Buntz +0.5": "2.10"
+          "Handicap 1.5": {
+            "Scott Williams +1.5": "1.73",
+            "Martin Schindler -1.5": "2.05"
           },
           "Handicap 0.5": {
-            "Kevin Doets +0.5": "1.70",
-            "Stowe Buntz -0.5": "2.10"
+            "Scott Williams +0.5": "2.30",
+            "Martin Schindler -0.5": "1.57"
           },
           "Match 180s (O/E/U)": {
-            "Over 7": "2.62",
-            "Exactly 7": "6.00",
-            "Under 7": "1.83"
+            "Over 14": "2.50",
+            "Exactly 14": "8.50",
+            "Under 14": "1.75"
           },
           "Match 180s (O/U)": {
-            "Over 6.5": "1.91",
-            "Under 6.5": "1.83"
+            "Over 13.5": "2.00",
+            "Under 13.5": "1.75"
           },
-          "Kevin Doets Total 180s": {
-            "Under 4.5": "1.61",
-            "Over 4.5": "2.20"
+          "Scott Williams Total 180s": {
+            "Under 6.5": "1.83",
+            "Over 6.5": "1.91"
           },
-          "Stowe Buntz Total 180s": {
-            "Over 2.5": "2.20",
-            "Under 2.5": "1.61"
+          "Martin Schindler Total 180s": {
+            "Under 6.5": "1.83",
+            "Over 6.5": "1.91"
           },
           "180s Match Bet": {
-            "Kevin Doets": "1.40",
-            "Tie": "6.50",
-            "Stowe Buntz": "4.50"
+            "Scott Williams": "2.05",
+            "Tie": "8.00",
+            "Martin Schindler": "2.05"
           },
           "Highest Match Checkout (O/B/U)": {
-            "Over 130": "2.40",
-            "120 - 130 Inc": "4.00",
-            "Under 120": "2.38"
+            "Over 140": "2.20",
+            "130 - 140 Inc": "5.00",
+            "Under 130": "2.30"
           },
           "Correct Score": {
-            "Kevin Doets 3-0": "5.50",
-            "Kevin Doets 3-1": "4.33",
-            "Kevin Doets 3-2": "4.75",
-            "Stowe Buntz 3-0": "8.00",
-            "Stowe Buntz 3-1": "5.50",
-            "Stowe Buntz 3-2": "5.25"
+            "Scott Williams 4-0": "15.00",
+            "Scott Williams 4-1": "8.50",
+            "Scott Williams 4-2": "7.00",
+            "Scott Williams 4-3": "7.00",
+            "Martin Schindler 4-0": "7.50",
+            "Martin Schindler 4-1": "5.50",
+            "Martin Schindler 4-2": "5.25",
+            "Martin Schindler 4-3": "5.50"
           },
           "Highest Match Checkout (O/U)": {
-            "Over 120.5": "1.67",
-            "Under 120.5": "2.10"
+            "Over 130.5": "1.67",
+            "Under 130.5": "2.10"
           },
-          "Kevin Doets Highest Checkout (O/U)": {
-            "Under 110.5": "1.91",
-            "Over 110.5": "1.83"
+          "Scott Williams Highest Checkout (O/U)": {
+            "Under 120.5": "1.91",
+            "Over 120.5": "1.83"
           },
-          "Stowe Buntz Highest Checkout (O/U)": {
-            "Over 110.5": "1.91",
-            "Under 110.5": "1.85"
+          "Martin Schindler Highest Checkout (O/U)": {
+            "Over 120.5": "1.73",
+            "Under 120.5": "2.05"
           },
-          "Kevin Doets Highest Checkout (O/B/U)": {
-            "Under 110": "1.95",
-            "Over 120": "2.40",
+          "Scott Williams Highest Checkout (O/B/U)": {
+            "Under 120": "2.05",
+            "Over 130": "2.75",
+            "120 - 130 Inc": "4.20"
+          },
+          "Martin Schindler Highest Checkout (O/B/U)": {
+            "Under 120": "2.25",
+            "Over 130": "2.50",
+            "120 - 130 Inc": "4.00"
+          },
+          "Checkout Matchbet": {
+            "Scott Williams": "1.95",
+            "Martin Schindler": "1.80"
+          },
+          "Win Match, High Checkout and Most 180s": {
+            "Scott Williams": "7.00",
+            "Martin Schindler": "4.50"
+          },
+          "Match Total Sets (O/U)": {
+            "Under 5.5 Sets": "2.15",
+            "Over 5.5 Sets": "1.67"
+          }
+        },
+        "Dave Chisnall vs Gabriel Clemens": {
+          "Match Winner": {
+            "Dave Chisnall": "1.57",
+            "Gabriel Clemens": "2.30"
+          },
+          "time": "2023-12-27 13:30:00",
+          "Handicap -2.5": {
+            "Dave Chisnall -2.5": "3.10",
+            "Gabriel Clemens +2.5": "1.33"
+          },
+          "Handicap -1.5": {
+            "Dave Chisnall -1.5": "2.05",
+            "Gabriel Clemens +1.5": "1.73"
+          },
+          "Handicap -0.5": {
+            "Dave Chisnall -0.5": "1.57",
+            "Gabriel Clemens +0.5": "2.30"
+          },
+          "Match 180s (O/E/U)": {
+            "Over 14": "1.75",
+            "Exactly 14": "8.50",
+            "Under 14": "2.50"
+          },
+          "Match 180s (O/U)": {
+            "Over 15.5": "2.05",
+            "Under 15.5": "1.70"
+          },
+          "Dave Chisnall Total 180s": {
+            "Under 8.5": "1.67",
+            "Over 8.5": "2.10"
+          },
+          "Gabriel Clemens Total 180s": {
+            "Over 7.5": "2.25",
+            "Under 7.5": "1.57"
+          },
+          "180s Match Bet": {
+            "Dave Chisnall": "1.70",
+            "Tie": "8.50",
+            "Gabriel Clemens": "2.60"
+          },
+          "Highest Match Checkout (O/B/U)": {
+            "Over 140": "2.38",
+            "130 - 140 Inc": "5.00",
+            "Under 130": "2.15"
+          },
+          "Correct Score": {
+            "Dave Chisnall 4-0": "7.00",
+            "Dave Chisnall 4-1": "5.25",
+            "Dave Chisnall 4-2": "5.50",
+            "Dave Chisnall 4-3": "6.00",
+            "Gabriel Clemens 4-0": "13.00",
+            "Gabriel Clemens 4-1": "8.00",
+            "Gabriel Clemens 4-2": "7.00",
+            "Gabriel Clemens 4-3": "7.50"
+          },
+          "Highest Match Checkout (O/U)": {
+            "Over 130.5": "1.75",
+            "Under 130.5": "1.95"
+          },
+          "Dave Chisnall Highest Checkout (O/U)": {
+            "Over 120.5": "1.80",
+            "Under 120.5": "1.95"
+          },
+          "Gabriel Clemens Highest Checkout (O/U)": {
+            "Under 120.5": "1.80",
+            "Over 120.5": "2.00"
+          },
+          "Dave Chisnall Highest Checkout (O/B/U)": {
+            "Under 120": "2.15",
+            "Over 130": "2.62",
+            "120 - 130 Inc": "4.20"
+          },
+          "Gabriel Clemens Highest Checkout (O/B/U)": {
+            "Under 110": "2.50",
+            "Over 120": "2.00",
+            "110 - 120 Inc": "5.50"
+          },
+          "Checkout Matchbet": {
+            "Dave Chisnall": "1.75",
+            "Gabriel Clemens": "2.00"
+          },
+          "Win Match, High Checkout and Most 180s": {
+            "Dave Chisnall": "3.50",
+            "Gabriel Clemens": "8.00"
+          },
+          "Match Total Sets (O/U)": {
+            "Under 5.5 Sets": "2.05",
+            "Over 5.5 Sets": "1.75"
+          }
+        },
+        "Rob Cross vs Jeffrey de Graaf": {
+          "Match Winner": {
+            "Rob Cross": "1.17",
+            "Jeffrey de Graaf": "4.75"
+          },
+          "time": "2023-12-27 14:30:00",
+          "Handicap -3.5": {
+            "Rob Cross -3.5": "3.60",
+            "Jeffrey de Graaf +3.5": "1.25"
+          },
+          "Handicap -2.5": {
+            "Rob Cross -2.5": "1.85",
+            "Jeffrey de Graaf +2.5": "1.91"
+          },
+          "Handicap -1.5": {
+            "Rob Cross -1.5": "1.36",
+            "Jeffrey de Graaf +1.5": "3.00"
+          },
+          "Match 180s (O/E/U)": {
+            "Over 10": "2.30",
+            "Exactly 10": "7.00",
+            "Under 10": "1.95"
+          },
+          "Match 180s (O/U)": {
+            "Over 9.5": "1.80",
+            "Under 9.5": "1.95"
+          },
+          "Rob Cross Total 180s": {
+            "Under 5.5": "1.75",
+            "Over 5.5": "2.00"
+          },
+          "Jeffrey de Graaf Total 180s": {
+            "Under 4.5": "1.70",
+            "Over 4.5": "2.10"
+          },
+          "180s Match Bet": {
+            "Rob Cross": "1.67",
+            "Tie": "7.00",
+            "Jeffrey de Graaf": "2.88"
+          },
+          "Highest Match Checkout (O/B/U)": {
+            "Over 140": "2.30",
+            "130 - 140 Inc": "5.00",
+            "Under 130": "2.20"
+          },
+          "Correct Score": {
+            "Rob Cross 4-0": "3.60",
+            "Rob Cross 4-1": "3.60",
+            "Rob Cross 4-2": "4.75",
+            "Rob Cross 4-3": "6.50",
+            "Jeffrey de Graaf 4-0": "34.00",
+            "Jeffrey de Graaf 4-1": "19.00",
+            "Jeffrey de Graaf 4-2": "13.00",
+            "Jeffrey de Graaf 4-3": "13.00"
+          },
+          "Highest Match Checkout (O/U)": {
+            "Over 130.5": "1.73",
+            "Under 130.5": "2.00"
+          },
+          "Rob Cross Highest Checkout (O/U)": {
+            "Over 130.5": "2.25",
+            "Under 130.5": "1.61"
+          },
+          "Jeffrey de Graaf Highest Checkout (O/U)": {
+            "Over 110.5": "2.00",
+            "Under 110.5": "1.75"
+          },
+          "Rob Cross Highest Checkout (O/B/U)": {
+            "Under 120": "2.50",
+            "Over 130": "2.25",
+            "120 - 130 Inc": "4.00"
+          },
+          "Jeffrey de Graaf Highest Checkout (O/B/U)": {
+            "Under 100": "2.20",
+            "Over 110": "2.00",
+            "100 - 110 Inc": "7.50"
+          },
+          "Checkout Matchbet": {
+            "Rob Cross": "1.40",
+            "Jeffrey de Graaf": "2.80"
+          },
+          "Win Match, High Checkout and Most 180s": {
+            "Rob Cross": "2.05",
+            "Jeffrey de Graaf": "17.00"
+          },
+          "Match Total Sets (O/U)": {
+            "Under 5.5 Sets": "1.67",
+            "Over 5.5 Sets": "2.15"
+          }
+        },
+        "Matt Campbell vs Luke Littler": {
+          "Match Winner": {
+            "Matt Campbell": "3.40",
+            "Luke Littler": "1.28"
+          },
+          "time": "2023-12-27 19:00:00",
+          "Handicap 3.5": {
+            "Matt Campbell +3.5": "1.18",
+            "Luke Littler -3.5": "4.75"
+          },
+          "Handicap 2.5": {
+            "Matt Campbell +2.5": "1.61",
+            "Luke Littler -2.5": "2.20"
+          },
+          "Handicap 1.5": {
+            "Matt Campbell +1.5": "2.30",
+            "Luke Littler -1.5": "1.57"
+          },
+          "Match 180s (O/E/U)": {
+            "Over 12": "2.40",
+            "Exactly 12": "8.00",
+            "Under 12": "1.83"
+          },
+          "Match 180s (O/U)": {
+            "Over 11.5": "1.91",
+            "Under 11.5": "1.83"
+          },
+          "Matt Campbell Total 180s": {
+            "Under 3.5": "1.80",
+            "Over 3.5": "1.95"
+          },
+          "Luke Littler Total 180s": {
+            "Over 7.5": "1.80",
+            "Under 7.5": "1.95"
+          },
+          "180s Match Bet": {
+            "Matt Campbell": "7.50",
+            "Tie": "12.00",
+            "Luke Littler": "1.14"
+          },
+          "Highest Match Checkout (O/B/U)": {
+            "Over 140": "2.30",
+            "130 - 140 Inc": "5.00",
+            "Under 130": "2.20"
+          },
+          "Correct Score": {
+            "Matt Campbell 4-0": "21.00",
+            "Matt Campbell 4-1": "13.00",
+            "Matt Campbell 4-2": "10.00",
+            "Matt Campbell 4-3": "10.00",
+            "Luke Littler 4-0": "4.75",
+            "Luke Littler 4-1": "4.00",
+            "Luke Littler 4-2": "4.75",
+            "Luke Littler 4-3": "6.00"
+          },
+          "Highest Match Checkout (O/U)": {
+            "Over 130.5": "1.73",
+            "Under 130.5": "2.00"
+          },
+          "Matt Campbell Highest Checkout (O/U)": {
+            "Under 120.5": "1.73",
+            "Over 120.5": "2.05"
+          },
+          "Luke Littler Highest Checkout (O/U)": {
+            "Over 120.5": "1.75",
+            "Under 120.5": "2.00"
+          },
+          "Matt Campbell Highest Checkout (O/B/U)": {
+            "Under 110": "2.30",
+            "Over 120": "2.05",
             "110 - 120 Inc": "6.00"
           },
-          "Stowe Buntz Highest Checkout (O/B/U)": {
+          "Luke Littler Highest Checkout (O/B/U)": {
+            "Under 120": "2.20",
+            "Over 130": "2.50",
+            "120 - 130 Inc": "4.20"
+          },
+          "Checkout Matchbet": {
+            "Matt Campbell": "2.15",
+            "Luke Littler": "1.67"
+          },
+          "Win Match, High Checkout and Most 180s": {
+            "Matt Campbell": "21.00",
+            "Luke Littler": "1.85"
+          },
+          "Match Total Sets (O/U)": {
+            "Under 5.5 Sets": "1.85",
+            "Over 5.5 Sets": "1.91"
+          },
+          "Handicap 0.5": {}
+        },
+        "Michael van Gerwen vs Richard Veenstra": {
+          "Match Winner": {
+            "Michael van Gerwen": "1.10",
+            "Richard Veenstra": "6.00"
+          },
+          "time": "2023-12-27 20:00:00",
+          "Handicap -3.5": {
+            "Michael van Gerwen -3.5": "3.00",
+            "Richard Veenstra +3.5": "1.36"
+          },
+          "Handicap -2.5": {
+            "Michael van Gerwen -2.5": "1.67",
+            "Richard Veenstra +2.5": "2.15"
+          },
+          "Handicap -1.5": {
+            "Michael van Gerwen -1.5": "1.25",
+            "Richard Veenstra +1.5": "3.75"
+          },
+          "Match 180s (O/E/U)": {
+            "Over 11": "2.40",
+            "Exactly 11": "7.50",
+            "Under 11": "1.85"
+          },
+          "Match 180s (O/U)": {
+            "Over 10.5": "1.85",
+            "Under 10.5": "1.85"
+          },
+          "Michael van Gerwen Total 180s": {
+            "Under 6.5": "1.61",
+            "Over 6.5": "2.15"
+          },
+          "Richard Veenstra Total 180s": {
+            "Over 4.5": "2.00",
+            "Under 4.5": "1.75"
+          },
+          "180s Match Bet": {
+            "Michael van Gerwen": "1.53",
+            "Tie": "7.50",
+            "Richard Veenstra": "3.30"
+          },
+          "Highest Match Checkout (O/B/U)": {
+            "Over 140": "2.25",
+            "130 - 140 Inc": "5.00",
+            "Under 130": "2.25"
+          },
+          "Correct Score": {
+            "Michael van Gerwen 4-0": "3.00",
+            "Michael van Gerwen 4-1": "3.30",
+            "Michael van Gerwen 4-2": "4.75",
+            "Michael van Gerwen 4-3": "7.00",
+            "Richard Veenstra 4-0": "41.00",
+            "Richard Veenstra 4-1": "26.00",
+            "Richard Veenstra 4-2": "19.00",
+            "Richard Veenstra 4-3": "17.00"
+          },
+          "Highest Match Checkout (O/U)": {
+            "Over 130.5": "1.67",
+            "Under 130.5": "2.10"
+          },
+          "Michael van Gerwen Highest Checkout (O/U)": {
+            "Over 130.5": "2.20",
+            "Under 130.5": "1.67"
+          },
+          "Richard Veenstra Highest Checkout (O/U)": {
+            "Over 110.5": "1.75",
+            "Under 110.5": "2.00"
+          },
+          "Michael van Gerwen Highest Checkout (O/B/U)": {
+            "Under 120": "2.62",
+            "Over 130": "2.20",
+            "120 - 130 Inc": "4.00"
+          },
+          "Richard Veenstra Highest Checkout (O/B/U)": {
+            "Under 110": "2.05",
+            "Over 120": "2.30",
+            "110 - 120 Inc": "6.00"
+          },
+          "Checkout Matchbet": {
+            "Michael van Gerwen": "1.44",
+            "Richard Veenstra": "2.62"
+          },
+          "Win Match, High Checkout and Most 180s": {
+            "Michael van Gerwen": "2.00",
+            "Richard Veenstra": "21.00"
+          },
+          "Match Total Sets (O/U)": {
+            "Under 5.5 Sets": "1.57",
+            "Over 5.5 Sets": "2.40"
+          }
+        },
+        "Michael Smith vs Madars Razma": {
+          "Match Winner": {
+            "Michael Smith": "1.13",
+            "Madars Razma": "5.25"
+          },
+          "time": "2023-12-27 21:00:00",
+          "Handicap -3.5": {
+            "Michael Smith -3.5": "3.30",
+            "Madars Razma +3.5": "1.30"
+          },
+          "Handicap -2.5": {
+            "Michael Smith -2.5": "1.75",
+            "Madars Razma +2.5": "2.00"
+          },
+          "Handicap -1.5": {
+            "Michael Smith -1.5": "1.30",
+            "Madars Razma +1.5": "3.30"
+          },
+          "Match 180s (O/E/U)": {
+            "Over 9": "1.73",
+            "Exactly 9": "7.00",
+            "Under 9": "2.70"
+          },
+          "Match 180s (O/U)": {
+            "Over 10.5": "2.10",
+            "Under 10.5": "1.67"
+          },
+          "Michael Smith Total 180s": {
+            "Under 7.5": "1.60",
+            "Over 7.5": "2.20"
+          },
+          "Madars Razma Total 180s": {
+            "Under 2.5": "2.15",
+            "Over 2.5": "1.61"
+          },
+          "180s Match Bet": {
+            "Michael Smith": "1.13",
+            "Tie": "12.00",
+            "Madars Razma": "8.00"
+          },
+          "Highest Match Checkout (O/B/U)": {
+            "Over 140": "2.40",
+            "130 - 140 Inc": "5.25",
+            "Under 130": "2.05"
+          },
+          "Correct Score": {
+            "Michael Smith 4-0": "3.30",
+            "Michael Smith 4-1": "3.50",
+            "Michael Smith 4-2": "4.75",
+            "Michael Smith 4-3": "6.50",
+            "Madars Razma 4-0": "34.00",
+            "Madars Razma 4-1": "21.00",
+            "Madars Razma 4-2": "16.00",
+            "Madars Razma 4-3": "15.00"
+          },
+          "Highest Match Checkout (O/U)": {
+            "Over 130.5": "1.80",
+            "Under 130.5": "1.91"
+          },
+          "Michael Smith Highest Checkout (O/U)": {
+            "Over 120.5": "1.61",
+            "Under 120.5": "2.20"
+          },
+          "Madars Razma Highest Checkout (O/U)": {
+            "Under 110.5": "1.85",
+            "Over 110.5": "1.91"
+          },
+          "Michael Smith Highest Checkout (O/B/U)": {
+            "Under 120": "2.40",
+            "Over 130": "2.38",
+            "120 - 130 Inc": "4.00"
+          },
+          "Madars Razma Highest Checkout (O/B/U)": {
             "Under 100": "2.38",
             "Over 110": "1.91",
             "100 - 110 Inc": "7.00"
           },
           "Checkout Matchbet": {
-            "Kevin Doets": "1.83",
-            "Stowe Buntz": "1.91"
+            "Michael Smith": "1.44",
+            "Madars Razma": "2.62"
           },
           "Win Match, High Checkout and Most 180s": {
-            "Kevin Doets": "3.25",
-            "Stowe Buntz": "11.00"
-          }
-        },
-        "Cameron Menzies vs Rusty J Rodriguez": {
-          "Match Winner": {
-            "Cameron Menzies": "1.57",
-            "Rusty J Rodriguez": "2.30"
-          },
-          "time": "2023-12-15 19:50:00",
-          "Handicap -2.5": {
-            "Cameron Menzies -2.5": "4.50",
-            "Rusty J Rodriguez +2.5": "1.20"
-          },
-          "Handicap -1.5": {
-            "Cameron Menzies -1.5": "2.20",
-            "Rusty J Rodriguez +1.5": "1.61"
-          },
-          "Handicap -0.5": {
-            "Cameron Menzies -0.5": "1.57",
-            "Rusty J Rodriguez +0.5": "2.30"
-          },
-          "Match 180s (O/E/U)": {
-            "Over 8": "1.75",
-            "Exactly 8": "6.50",
-            "Under 8": "2.75"
-          },
-          "Match 180s (O/U)": {
-            "Over 9.5": "2.15",
-            "Under 9.5": "1.61"
-          },
-          "Cameron Menzies Total 180s": {
-            "Under 4.5": "1.91",
-            "Over 4.5": "1.83"
-          },
-          "Rusty J Rodriguez Total 180s": {
-            "Over 4.5": "2.15",
-            "Under 4.5": "1.67"
-          },
-          "180s Match Bet": {
-            "Cameron Menzies": "1.91",
-            "Tie": "6.50",
-            "Rusty J Rodriguez": "2.40"
-          },
-          "Highest Match Checkout (O/B/U)": {
-            "Over 130": "2.40",
-            "120 - 130 Inc": "4.00",
-            "Under 120": "2.38"
-          },
-          "Correct Score": {
-            "Cameron Menzies 3-0": "4.50",
-            "Cameron Menzies 3-1": "4.20",
-            "Cameron Menzies 3-2": "5.25",
-            "Rusty J Rodriguez 3-0": "7.50",
-            "Rusty J Rodriguez 3-1": "6.00",
-            "Rusty J Rodriguez 3-2": "6.00"
-          },
-          "Highest Match Checkout (O/U)": {
-            "Over 120.5": "1.67",
-            "Under 120.5": "2.10"
-          },
-          "Cameron Menzies Highest Checkout (O/U)": {
-            "Over 110.5": "1.95",
-            "Under 110.5": "1.83"
-          },
-          "Rusty J Rodriguez Highest Checkout (O/U)": {
-            "Over 110.5": "2.05",
-            "Under 110.5": "1.75"
-          },
-          "Cameron Menzies Highest Checkout (O/B/U)": {
-            "Under 100": "2.30",
-            "Over 110": "1.95",
-            "100 - 110 Inc": "7.00"
-          },
-          "Rusty J Rodriguez Highest Checkout (O/B/U)": {
-            "Under 100": "2.15",
-            "Over 110": "2.05",
-            "100 - 110 Inc": "7.50"
-          },
-          "Checkout Matchbet": {
-            "Cameron Menzies": "1.80",
-            "Rusty J Rodriguez": "1.95"
-          },
-          "Win Match, High Checkout and Most 180s": {
-            "Cameron Menzies": "4.00",
-            "Rusty J Rodriguez": "7.50"
+            "Michael Smith": "1.61",
+            "Madars Razma": "26.00"
           },
           "Match Total Sets (O/U)": {
-            "Under 3.5 Sets": "2.88",
-            "Over 3.5 Sets": "1.40"
+            "Under 5.5 Sets": "1.61",
+            "Over 5.5 Sets": "2.25"
           }
         },
-        "Simon Whitlock vs Paulo Nebrida": {
+        "Florian Hempel vs Stephen Bunting": {
           "Match Winner": {
-            "Simon Whitlock": "1.02",
-            "Paulo Nebrida": "11.00"
+            "Florian Hempel": "4.00",
+            "Stephen Bunting": "1.22"
           },
-          "time": "2023-12-15 20:40:00",
-          "Handicap -2.5": {
-            "Simon Whitlock -2.5": "1.40",
-            "Paulo Nebrida +2.5": "2.88"
+          "time": "2023-12-28 12:30:00",
+          "Handicap 3.5": {
+            "Florian Hempel +3.5": "1.22",
+            "Stephen Bunting -3.5": "4.00"
           },
-          "Handicap -1.5": {
-            "Simon Whitlock -1.5": "1.10",
-            "Paulo Nebrida +1.5": "6.00"
+          "Handicap 2.5": {
+            "Florian Hempel +2.5": "1.73",
+            "Stephen Bunting -2.5": "2.05"
+          },
+          "Handicap 1.5": {
+            "Florian Hempel +1.5": "2.62",
+            "Stephen Bunting -1.5": "1.44"
           },
           "Match 180s (O/E/U)": {
-            "Over 5": "2.50",
-            "Exactly 5": "5.25",
-            "Under 5": "2.00"
+            "Over 12": "2.25",
+            "Exactly 12": "8.00",
+            "Under 12": "1.91"
           },
           "Match 180s (O/U)": {
-            "Over 4.5": "1.75",
-            "Under 4.5": "2.00"
+            "Over 11.5": "1.80",
+            "Under 11.5": "1.91"
           },
-          "Simon Whitlock Total 180s": {
-            "Over 3.5": "2.00",
-            "Under 3.5": "1.75"
+          "Florian Hempel Total 180s": {
+            "Over 4.5": "1.85",
+            "Under 4.5": "1.85"
           },
-          "Paulo Nebrida Total 180s": {
-            "Over 1.5": "2.40",
-            "Under 1.5": "1.53"
+          "Stephen Bunting Total 180s": {
+            "Over 7.5": "2.15",
+            "Under 7.5": "1.61"
           },
           "180s Match Bet": {
-            "Simon Whitlock": "1.25",
-            "Tie": "7.00",
-            "Paulo Nebrida": "7.00"
+            "Florian Hempel": "4.00",
+            "Tie": "9.00",
+            "Stephen Bunting": "1.36"
           },
           "Highest Match Checkout (O/B/U)": {
-            "Over 120": "2.00",
-            "110 - 120 Inc": "5.50",
-            "Under 110": "2.50"
+            "Over 140": "2.25",
+            "130 - 140 Inc": "5.00",
+            "Under 130": "2.25"
           },
           "Correct Score": {
-            "Simon Whitlock 3-0": "1.40",
-            "Simon Whitlock 3-1": "4.50",
-            "Simon Whitlock 3-2": "11.00",
-            "Paulo Nebrida 3-0": "26.00",
-            "Paulo Nebrida 3-1": "34.00",
-            "Paulo Nebrida 3-2": "41.00"
+            "Florian Hempel 4-0": "26.00",
+            "Florian Hempel 4-1": "16.00",
+            "Florian Hempel 4-2": "12.00",
+            "Florian Hempel 4-3": "11.00",
+            "Stephen Bunting 4-0": "4.00",
+            "Stephen Bunting 4-1": "3.80",
+            "Stephen Bunting 4-2": "4.75",
+            "Stephen Bunting 4-3": "6.00"
           },
           "Highest Match Checkout (O/U)": {
-            "Over 120.5": "2.00",
-            "Under 120.5": "1.75"
+            "Over 130.5": "1.70",
+            "Under 130.5": "2.05"
           },
-          "Simon Whitlock Highest Checkout (O/U)": {
-            "Under 120.5": "1.67",
-            "Over 120.5": "2.15"
+          "Florian Hempel Highest Checkout (O/U)": {
+            "Over 110.5": "1.70",
+            "Under 110.5": "2.10"
           },
-          "Paulo Nebrida Highest Checkout (O/U)": {
-            "Over 80.5": "2.30",
-            "Under 80.5": "1.57"
+          "Stephen Bunting Highest Checkout (O/U)": {
+            "Under 130.5": "1.61",
+            "Over 130.5": "2.25"
           },
-          "Simon Whitlock Highest Checkout (O/B/U)": {
+          "Florian Hempel Highest Checkout (O/B/U)": {
+            "Under 110": "2.15",
+            "Over 120": "2.20",
+            "110 - 120 Inc": "6.00"
+          },
+          "Stephen Bunting Highest Checkout (O/B/U)": {
+            "Under 120": "2.50",
+            "Over 130": "2.25",
+            "120 - 130 Inc": "4.00"
+          },
+          "Checkout Matchbet": {
+            "Florian Hempel": "2.40",
+            "Stephen Bunting": "1.53"
+          },
+          "Win Match, High Checkout and Most 180s": {
+            "Florian Hempel": "17.00",
+            "Stephen Bunting": "1.91"
+          },
+          "Match Total Sets (O/U)": {
+            "Under 5.5 Sets": "1.75",
+            "Over 5.5 Sets": "2.05"
+          }
+        },
+        "Joe Cullen vs Ryan Searle": {
+          "Match Winner": {
+            "Joe Cullen": "1.95",
+            "Ryan Searle": "1.80"
+          },
+          "time": "2023-12-28 13:30:00",
+          "Handicap -1.5": {
+            "Joe Cullen -1.5": "2.80",
+            "Ryan Searle +1.5": "1.40"
+          },
+          "Handicap -0.5": {
+            "Joe Cullen -0.5": "1.95",
+            "Ryan Searle +0.5": "1.80"
+          },
+          "Handicap 0.5": {
+            "Joe Cullen +0.5": "1.95",
+            "Ryan Searle -0.5": "1.80"
+          },
+          "Match 180s (O/E/U)": {
+            "Over 15": "2.50",
+            "Exactly 15": "8.50",
+            "Under 15": "1.75"
+          },
+          "Match 180s (O/U)": {
+            "Over 14.5": "2.00",
+            "Under 14.5": "1.75"
+          },
+          "Joe Cullen Total 180s": {
+            "Under 7.5": "1.91",
+            "Over 7.5": "1.85"
+          },
+          "Ryan Searle Total 180s": {
+            "Over 6.5": "1.95",
+            "Under 6.5": "1.80"
+          },
+          "180s Match Bet": {
+            "Joe Cullen": "1.67",
+            "Tie": "8.50",
+            "Ryan Searle": "2.70"
+          },
+          "Highest Match Checkout (O/B/U)": {
+            "Over 140": "2.15",
+            "130 - 140 Inc": "5.00",
+            "Under 130": "2.38"
+          },
+          "Correct Score": {
+            "Joe Cullen 4-0": "13.00",
+            "Joe Cullen 4-1": "7.00",
+            "Joe Cullen 4-2": "6.00",
+            "Joe Cullen 4-3": "6.00",
+            "Ryan Searle 4-0": "11.00",
+            "Ryan Searle 4-1": "6.50",
+            "Ryan Searle 4-2": "5.50",
+            "Ryan Searle 4-3": "5.50"
+          },
+          "Highest Match Checkout (O/U)": {
+            "Over 140.5": "2.15",
+            "Under 140.5": "1.67"
+          },
+          "Joe Cullen Highest Checkout (O/U)": {
+            "Under 120.5": "2.00",
+            "Over 120.5": "1.75"
+          },
+          "Ryan Searle Highest Checkout (O/U)": {
+            "Under 120.5": "1.91",
+            "Over 120.5": "1.83"
+          },
+          "Joe Cullen Highest Checkout (O/B/U)": {
+            "Under 120": "2.20",
+            "Over 130": "2.50",
+            "120 - 130 Inc": "4.20"
+          },
+          "Ryan Searle Highest Checkout (O/B/U)": {
+            "Under 120": "2.10",
+            "Over 130": "2.75",
+            "120 - 130 Inc": "4.00"
+          },
+          "Checkout Matchbet": {
+            "Joe Cullen": "1.83",
+            "Ryan Searle": "1.91"
+          },
+          "Win Match, High Checkout and Most 180s": {
+            "Joe Cullen": "4.33",
+            "Ryan Searle": "6.50"
+          },
+          "Match Total Sets (O/U)": {
+            "Under 5.5 Sets": "2.40",
+            "Over 5.5 Sets": "1.57"
+          }
+        },
+        "Ross Smith vs Chris Dobey": {
+          "Match Winner": {
+            "Ross Smith": "1.91",
+            "Chris Dobey": "1.83"
+          },
+          "time": "2023-12-28 14:30:00",
+          "Handicap -1.5": {
+            "Ross Smith -1.5": "2.62",
+            "Chris Dobey +1.5": "1.44"
+          },
+          "Handicap -0.5": {
+            "Ross Smith -0.5": "1.91",
+            "Chris Dobey +0.5": "1.83"
+          },
+          "Handicap 0.5": {
+            "Ross Smith +0.5": "1.91",
+            "Chris Dobey -0.5": "1.83"
+          },
+          "Match 180s (O/E/U)": {
+            "Over 17": "2.30",
+            "Exactly 17": "9.50",
+            "Under 17": "1.80"
+          },
+          "Match 180s (O/U)": {
+            "Over 16.5": "1.95",
+            "Under 16.5": "1.80"
+          },
+          "Ross Smith Total 180s": {
+            "Under 8.5": "1.83",
+            "Over 8.5": "1.91"
+          },
+          "Chris Dobey Total 180s": {
+            "Under 7.5": "1.95",
+            "Over 7.5": "1.80"
+          },
+          "180s Match Bet": {
+            "Ross Smith": "1.83",
+            "Tie": "9.00",
+            "Chris Dobey": "2.30"
+          },
+          "Highest Match Checkout (O/B/U)": {
+            "Over 140": "2.05",
+            "130 - 140 Inc": "5.00",
+            "Under 130": "2.50"
+          },
+          "Correct Score": {
+            "Ross Smith 4-0": "11.00",
+            "Ross Smith 4-1": "6.50",
+            "Ross Smith 4-2": "6.00",
+            "Ross Smith 4-3": "6.00",
+            "Chris Dobey 4-0": "10.00",
+            "Chris Dobey 4-1": "6.50",
+            "Chris Dobey 4-2": "6.00",
+            "Chris Dobey 4-3": "6.00"
+          },
+          "Highest Match Checkout (O/U)": {
+            "Over 140.5": "2.05",
+            "Under 140.5": "1.73"
+          },
+          "Ross Smith Highest Checkout (O/U)": {
+            "Under 120.5": "2.05",
+            "Over 120.5": "1.73"
+          },
+          "Chris Dobey Highest Checkout (O/U)": {
+            "Over 120.5": "1.61",
+            "Under 120.5": "2.20"
+          },
+          "Ross Smith Highest Checkout (O/B/U)": {
+            "Under 120": "2.20",
+            "Over 130": "2.50",
+            "120 - 130 Inc": "4.20"
+          },
+          "Chris Dobey Highest Checkout (O/B/U)": {
+            "Under 120": "2.40",
+            "Over 130": "2.30",
+            "120 - 130 Inc": "4.20"
+          },
+          "Checkout Matchbet": {
+            "Ross Smith": "1.95",
+            "Chris Dobey": "1.80"
+          },
+          "Win Match, High Checkout and Most 180s": {
+            "Ross Smith": "5.25",
+            "Chris Dobey": "6.00"
+          },
+          "Match Total Sets (O/U)": {
+            "Under 5.5 Sets": "2.25",
+            "Over 5.5 Sets": "1.61"
+          }
+        },
+        "Gerwyn Price vs Brendan Dolan": {
+          "Match Winner": {
+            "Gerwyn Price": "1.12",
+            "Brendan Dolan": "5.50"
+          },
+          "time": "2023-12-28 19:00:00",
+          "Handicap -3.5": {
+            "Gerwyn Price -3.5": "2.88",
+            "Brendan Dolan +3.5": "1.40"
+          },
+          "Handicap -2.5": {
+            "Gerwyn Price -2.5": "1.61",
+            "Brendan Dolan +2.5": "2.20"
+          },
+          "Handicap -1.5": {
+            "Gerwyn Price -1.5": "1.28",
+            "Brendan Dolan +1.5": "3.40"
+          },
+          "Match 180s (O/E/U)": {
+            "Over 11": "2.50",
+            "Exactly 11": "7.50",
+            "Under 11": "1.80"
+          },
+          "Match 180s (O/U)": {
+            "Over 10.5": "1.95",
+            "Under 10.5": "1.80"
+          },
+          "Gerwyn Price Total 180s": {
+            "Over 7.5": "2.15",
+            "Under 7.5": "1.61"
+          },
+          "Brendan Dolan Total 180s": {
+            "Under 3.5": "1.61",
+            "Over 3.5": "2.20"
+          },
+          "180s Match Bet": {
+            "Gerwyn Price": "1.17",
+            "Tie": "11.00",
+            "Brendan Dolan": "7.00"
+          },
+          "Highest Match Checkout (O/B/U)": {
+            "Over 140": "2.30",
+            "130 - 140 Inc": "5.00",
+            "Under 130": "2.20"
+          },
+          "Correct Score": {
+            "Gerwyn Price 4-0": "2.88",
+            "Gerwyn Price 4-1": "3.50",
+            "Gerwyn Price 4-2": "5.25",
+            "Gerwyn Price 4-3": "7.50",
+            "Brendan Dolan 4-0": "29.00",
+            "Brendan Dolan 4-1": "21.00",
+            "Brendan Dolan 4-2": "17.00",
+            "Brendan Dolan 4-3": "17.00"
+          },
+          "Highest Match Checkout (O/U)": {
+            "Over 130.5": "1.73",
+            "Under 130.5": "2.00"
+          },
+          "Gerwyn Price Highest Checkout (O/U)": {
+            "Over 120.5": "1.70",
+            "Under 120.5": "2.10"
+          },
+          "Brendan Dolan Highest Checkout (O/U)": {
+            "Under 110.5": "1.95",
+            "Over 110.5": "1.80"
+          },
+          "Gerwyn Price Highest Checkout (O/B/U)": {
+            "Under 120": "2.25",
+            "Over 130": "2.50",
+            "120 - 130 Inc": "4.00"
+          },
+          "Brendan Dolan Highest Checkout (O/B/U)": {
+            "Under 110": "2.05",
+            "Over 120": "2.30",
+            "110 - 120 Inc": "6.00"
+          },
+          "Checkout Matchbet": {
+            "Gerwyn Price": "1.53",
+            "Brendan Dolan": "2.40"
+          },
+          "Win Match, High Checkout and Most 180s": {
+            "Gerwyn Price": "1.57",
+            "Brendan Dolan": "23.00"
+          },
+          "Match Total Sets (O/U)": {
+            "Under 5.5 Sets": "1.50",
+            "Over 5.5 Sets": "2.50"
+          }
+        },
+        "Luke Humphries vs Ricardo Pietreczko": {
+          "Match Winner": {
+            "Luke Humphries": "1.15",
+            "Ricardo Pietreczko": "5.00"
+          },
+          "time": "2023-12-28 20:00:00",
+          "Handicap -3.5": {
+            "Luke Humphries -3.5": "3.40",
+            "Ricardo Pietreczko +3.5": "1.30"
+          },
+          "Handicap -2.5": {
+            "Luke Humphries -2.5": "1.80",
+            "Ricardo Pietreczko +2.5": "1.95"
+          },
+          "Handicap -1.5": {
+            "Luke Humphries -1.5": "1.36",
+            "Ricardo Pietreczko +1.5": "3.00"
+          },
+          "Match 180s (O/E/U)": {
+            "Over 12": "1.80",
+            "Exactly 12": "8.00",
+            "Under 12": "2.40"
+          },
+          "Match 180s (O/U)": {
+            "Over 13.5": "2.10",
+            "Under 13.5": "1.67"
+          },
+          "Luke Humphries Total 180s": {
+            "Under 8.5": "1.60",
+            "Over 8.5": "2.20"
+          },
+          "Ricardo Pietreczko Total 180s": {
+            "Under 5.5": "1.53",
+            "Over 5.5": "2.38"
+          },
+          "180s Match Bet": {
+            "Luke Humphries": "1.30",
+            "Tie": "10.00",
+            "Ricardo Pietreczko": "4.50"
+          },
+          "Highest Match Checkout (O/B/U)": {
+            "Over 140": "2.20",
+            "130 - 140 Inc": "5.00",
+            "Under 130": "2.30"
+          },
+          "Correct Score": {
+            "Luke Humphries 4-0": "3.40",
+            "Luke Humphries 4-1": "3.60",
+            "Luke Humphries 4-2": "4.75",
+            "Luke Humphries 4-3": "6.50",
+            "Ricardo Pietreczko 4-0": "29.00",
+            "Ricardo Pietreczko 4-1": "19.00",
+            "Ricardo Pietreczko 4-2": "15.00",
+            "Ricardo Pietreczko 4-3": "15.00"
+          },
+          "Highest Match Checkout (O/U)": {
+            "Over 130.5": "1.67",
+            "Under 130.5": "2.10"
+          },
+          "Luke Humphries Highest Checkout (O/U)": {
+            "Over 130.5": "2.15",
+            "Under 130.5": "1.67"
+          },
+          "Ricardo Pietreczko Highest Checkout (O/U)": {
+            "Under 110.5": "2.15",
+            "Over 110.5": "1.67"
+          },
+          "Luke Humphries Highest Checkout (O/B/U)": {
+            "Under 120": "2.70",
+            "Over 130": "2.15",
+            "120 - 130 Inc": "4.00"
+          },
+          "Ricardo Pietreczko Highest Checkout (O/B/U)": {
             "Under 110": "2.20",
             "Over 120": "2.15",
             "110 - 120 Inc": "6.00"
           },
-          "Paulo Nebrida Highest Checkout (O/B/U)": {
-            "Under 70": "1.91",
-            "Over 80": "2.30",
-            "70 - 80 Inc": "7.50"
-          },
           "Checkout Matchbet": {
-            "Simon Whitlock": "1.20",
-            "Paulo Nebrida": "4.20"
+            "Luke Humphries": "1.50",
+            "Ricardo Pietreczko": "2.50"
           },
           "Win Match, High Checkout and Most 180s": {
-            "Simon Whitlock": "1.30",
-            "Paulo Nebrida": "29.00"
+            "Luke Humphries": "1.85",
+            "Ricardo Pietreczko": "21.00"
           },
           "Match Total Sets (O/U)": {
-            "Under 3.5 Sets": "1.36",
-            "Over 3.5 Sets": "3.10"
+            "Under 5.5 Sets": "1.61",
+            "Over 5.5 Sets": "2.25"
           }
         },
-        "Lee Evans vs Sandro Eric Sosing": {
+        "Ricky Evans vs Daryl Gurney": {
           "Match Winner": {
-            "Lee Evans": "1.20",
-            "Sandro Eric Sosing": "4.20"
+            "Ricky Evans": "2.20",
+            "Daryl Gurney": "1.61"
           },
-          "time": "2023-12-16 12:30:00",
-          "Handicap -2.5": {
-            "Lee Evans -2.5": "2.50",
-            "Sandro Eric Sosing +2.5": "1.50"
-          },
-          "Handicap -1.5": {
-            "Lee Evans -1.5": "1.50",
-            "Sandro Eric Sosing +1.5": "2.50"
-          },
-          "Handicap -0.5": {},
-          "Match 180s (O/E/U)": {
-            "Over 6": "2.60",
-            "Exactly 6": "5.50",
-            "Under 6": "1.91"
-          },
-          "Match 180s (O/U)": {
-            "Over 5.5": "1.85",
-            "Under 5.5": "1.91"
-          },
-          "Lee Evans Total 180s": {
-            "Under 3.5": "2.00",
-            "Over 3.5": "1.75"
-          },
-          "Sandro Eric Sosing Total 180s": {
-            "Under 1.5": "2.05",
-            "Over 1.5": "1.73"
-          },
-          "180s Match Bet": {
-            "Lee Evans": "1.33",
-            "Tie": "6.50",
-            "Sandro Eric Sosing": "5.25"
-          },
-          "Highest Match Checkout (O/B/U)": {
-            "Over 120": "1.95",
-            "110 - 120 Inc": "5.50",
-            "Under 110": "2.50"
-          },
-          "Correct Score": {
-            "Lee Evans 3-0": "2.50",
-            "Lee Evans 3-1": "3.40",
-            "Lee Evans 3-2": "5.50",
-            "Sandro Eric Sosing 3-0": "15.00",
-            "Sandro Eric Sosing 3-1": "11.00",
-            "Sandro Eric Sosing 3-2": "10.00"
-          },
-          "Highest Match Checkout (O/U)": {
-            "Over 120.5": "1.95",
-            "Under 120.5": "1.75"
-          },
-          "Lee Evans Highest Checkout (O/U)": {
-            "Under 110.5": "2.10",
-            "Over 110.5": "1.70"
-          },
-          "Sandro Eric Sosing Highest Checkout (O/U)": {
-            "Over 80.5": "1.91",
-            "Under 80.5": "1.83"
-          },
-          "Lee Evans Highest Checkout (O/B/U)": {
-            "Under 110": "2.15",
-            "Over 120": "2.20",
-            "110 - 120 Inc": "6.00"
-          },
-          "Sandro Eric Sosing Highest Checkout (O/B/U)": {
-            "Under 70": "2.40",
-            "Over 80": "1.91",
-            "70 - 80 Inc": "6.50"
-          },
-          "Checkout Matchbet": {
-            "Lee Evans": "1.25",
-            "Sandro Eric Sosing": "3.60"
-          },
-          "Win Match, High Checkout and Most 180s": {
-            "Lee Evans": "1.53",
-            "Sandro Eric Sosing": "23.00"
-          },
-          "Match Total Sets (O/U)": {
-            "Under 3.5 Sets": "2.25",
-            "Over 3.5 Sets": "1.61"
-          }
-        },
-        "Jules van Dongen vs Darren Penhall": {
-          "Match Winner": {
-            "Jules van Dongen": "1.40",
-            "Darren Penhall": "2.75"
-          },
-          "time": "2023-12-16 14:10:00",
-          "Handicap -2.5": {
-            "Jules van Dongen -2.5": "3.80",
-            "Darren Penhall +2.5": "1.25"
-          },
-          "Handicap -1.5": {
-            "Jules van Dongen -1.5": "1.95",
-            "Darren Penhall +1.5": "1.80"
-          },
-          "Handicap -0.5": {
-            "Jules van Dongen -0.5": "1.40",
-            "Darren Penhall +0.5": "2.75"
-          },
-          "Match 180s (O/E/U)": {
-            "Over 7": "2.40",
-            "Exactly 7": "6.00",
-            "Under 7": "1.95"
-          },
-          "Match 180s (O/U)": {
-            "Over 6.5": "1.75",
-            "Under 6.5": "1.95"
-          },
-          "Jules van Dongen Total 180s": {
-            "Under 3.5": "1.91",
-            "Over 3.5": "1.83"
-          },
-          "Darren Penhall Total 180s": {
-            "Under 2.5": "2.25",
-            "Over 2.5": "1.60"
-          },
-          "180s Match Bet": {
-            "Jules van Dongen": "1.83",
-            "Tie": "5.50",
-            "Darren Penhall": "2.75"
-          },
-          "Highest Match Checkout (O/B/U)": {
-            "Over 130": "2.50",
-            "120 - 130 Inc": "4.00",
-            "Under 120": "2.25"
-          },
-          "Correct Score": {
-            "Jules van Dongen 3-0": "3.80",
-            "Jules van Dongen 3-1": "3.80",
-            "Jules van Dongen 3-2": "5.00",
-            "Darren Penhall 3-0": "10.00",
-            "Darren Penhall 3-1": "7.00",
-            "Darren Penhall 3-2": "6.50"
-          },
-          "Highest Match Checkout (O/U)": {
-            "Over 120.5": "1.70",
-            "Under 120.5": "2.05"
-          },
-          "Jules van Dongen Highest Checkout (O/U)": {
-            "Over 110.5": "1.83",
-            "Under 110.5": "1.91"
-          },
-          "Darren Penhall Highest Checkout (O/U)": {
-            "Under 100.5": "2.00",
-            "Over 100.5": "1.75"
-          },
-          "Jules van Dongen Highest Checkout (O/B/U)": {
-            "Under 110": "1.95",
-            "Over 120": "2.40",
-            "110 - 120 Inc": "6.00"
-          },
-          "Darren Penhall Highest Checkout (O/B/U)": {
-            "Under 100": "2.05",
-            "Over 110": "2.15",
-            "100 - 110 Inc": "7.50"
-          },
-          "Checkout Matchbet": {
-            "Jules van Dongen": "1.70",
-            "Darren Penhall": "2.10"
-          },
-          "Win Match, High Checkout and Most 180s": {
-            "Jules van Dongen": "3.25",
-            "Darren Penhall": "10.00"
-          },
-          "Match Total Sets (O/U)": {
-            "Under 3.5 Sets": "2.88",
-            "Over 3.5 Sets": "1.40"
-          }
-        },
-        "Jamie Hughes vs David Cameron": {
-          "Match Winner": {
-            "Jamie Hughes": "1.61",
-            "David Cameron": "2.20"
-          },
-          "time": "2023-12-16 19:00:00",
-          "Handicap -2.5": {},
-          "Handicap -1.5": {
-            "Jamie Hughes -1.5": "2.30",
-            "David Cameron +1.5": "1.57"
-          },
-          "Handicap -0.5": {
-            "Jamie Hughes -0.5": "1.61",
-            "David Cameron +0.5": "2.20"
-          },
-          "Match 180s (O/E/U)": {
-            "Over 7": "3.20",
-            "Exactly 7": "6.00",
-            "Under 7": "1.61"
-          },
-          "Match 180s (O/U)": {
-            "Over 6.5": "2.15",
-            "Under 6.5": "1.61"
-          },
-          "Jamie Hughes Total 180s": {
-            "Under 3.5": "1.73",
-            "Over 3.5": "2.05"
-          },
-          "David Cameron Total 180s": {
-            "Over 2.5": "1.91",
-            "Under 2.5": "1.85"
-          },
-          "180s Match Bet": {
-            "Jamie Hughes": "1.73",
-            "Tie": "5.50",
-            "David Cameron": "3.00"
-          },
-          "Highest Match Checkout (O/B/U)": {
-            "Over 130": "2.30",
-            "120 - 130 Inc": "4.00",
-            "Under 120": "2.50"
-          },
-          "Correct Score": {
-            "Jamie Hughes 3-0": "5.00",
-            "Jamie Hughes 3-1": "4.33",
-            "Jamie Hughes 3-2": "5.00",
-            "David Cameron 3-0": "8.00",
-            "David Cameron 3-1": "5.50",
-            "David Cameron 3-2": "5.50"
-          },
-          "Highest Match Checkout (O/U)": {
-            "Over 120.5": "1.57",
-            "Under 120.5": "2.25"
-          },
-          "Jamie Hughes Highest Checkout (O/U)": {
-            "Under 110.5": "2.05",
-            "Over 110.5": "1.73"
-          },
-          "David Cameron Highest Checkout (O/U)": {
-            "Over 110.5": "2.05",
-            "Under 110.5": "1.75"
-          },
-          "Jamie Hughes Highest Checkout (O/B/U)": {
-            "Under 110": "2.10",
-            "Over 120": "2.25",
-            "110 - 120 Inc": "6.00"
-          },
-          "David Cameron Highest Checkout (O/B/U)": {
-            "Under 100": "2.20",
-            "Over 110": "2.05",
-            "100 - 110 Inc": "7.00"
-          },
-          "Checkout Matchbet": {
-            "Jamie Hughes": "1.67",
-            "David Cameron": "2.15"
-          },
-          "Win Match, High Checkout and Most 180s": {
-            "Jamie Hughes": "3.50",
-            "David Cameron": "9.50"
-          },
-          "Match Total Sets (O/U)": {
-            "Under 4.5 Sets": "1.44",
-            "Over 4.5 Sets": "2.70"
-          },
-          "Handicap 0.5": {
-            "Jamie Hughes +0.5": "1.61",
-            "David Cameron -0.5": "2.20"
-          }
-        },
-        "Keane Barry vs Reynaldo Rivera": {
-          "Match Winner": {
-            "Keane Barry": "1.20",
-            "Reynaldo Rivera": "4.20"
-          },
-          "time": "2023-12-16 19:50:00",
-          "Handicap -2.5": {
-            "Keane Barry -2.5": "2.50",
-            "Reynaldo Rivera +2.5": "1.50"
-          },
-          "Handicap -1.5": {
-            "Keane Barry -1.5": "1.50",
-            "Reynaldo Rivera +1.5": "2.50"
-          },
-          "Match 180s (O/E/U)": {
-            "Over 5": "2.62",
-            "Exactly 5": "5.00",
-            "Under 5": "1.95"
-          },
-          "Match 180s (O/U)": {
-            "Over 4.5": "1.80",
-            "Under 4.5": "1.95"
-          },
-          "Keane Barry Total 180s": {
-            "Over 2.5": "1.80",
-            "Under 2.5": "1.95"
-          },
-          "Reynaldo Rivera Total 180s": {
-            "Over 1.5": "1.60",
-            "Under 1.5": "2.25"
-          },
-          "180s Match Bet": {
-            "Keane Barry": "1.75",
-            "Tie": "5.00",
-            "Reynaldo Rivera": "3.10"
-          },
-          "Highest Match Checkout (O/B/U)": {
-            "Over 130": "2.30",
-            "120 - 130 Inc": "4.00",
-            "Under 120": "2.50"
-          },
-          "Correct Score": {
-            "Keane Barry 3-0": "2.50",
-            "Keane Barry 3-1": "3.50",
-            "Keane Barry 3-2": "5.50",
-            "Reynaldo Rivera 3-0": "15.00",
-            "Reynaldo Rivera 3-1": "11.00",
-            "Reynaldo Rivera 3-2": "11.00"
-          },
-          "Highest Match Checkout (O/U)": {
-            "Over 120.5": "1.60",
-            "Under 120.5": "2.20"
-          },
-          "Keane Barry Highest Checkout (O/U)": {
-            "Under 120.5": "1.83",
-            "Over 120.5": "1.91"
-          },
-          "Reynaldo Rivera Highest Checkout (O/U)": {
-            "Over 90.5": "1.75",
-            "Under 90.5": "2.00"
-          },
-          "Keane Barry Highest Checkout (O/B/U)": {
-            "Under 110": "2.50",
-            "Over 120": "1.91",
-            "110 - 120 Inc": "6.00"
-          },
-          "Reynaldo Rivera Highest Checkout (O/B/U)": {
-            "Under 90": "2.10",
-            "Over 100": "2.10",
-            "90 - 100 Inc": "7.50"
-          },
-          "Checkout Matchbet": {
-            "Keane Barry": "1.36",
-            "Reynaldo Rivera": "3.00"
-          },
-          "Win Match, High Checkout and Most 180s": {
-            "Keane Barry": "2.20",
-            "Reynaldo Rivera": "17.00"
-          },
-          "Match Total Sets (O/U)": {
-            "Under 3.5 Sets": "2.20",
-            "Over 3.5 Sets": "1.67"
-          },
-          "Handicap -0.5": {}
-        },
-        "Scott Williams vs Haruki Muramatsu": {
-          "Match Winner": {
-            "Scott Williams": "1.30",
-            "Haruki Muramatsu": "3.30"
-          },
-          "time": "2023-12-16 20:40:00",
-          "Handicap -2.5": {
-            "Scott Williams -2.5": "3.20",
-            "Haruki Muramatsu +2.5": "1.33"
-          },
-          "Handicap -1.5": {
-            "Scott Williams -1.5": "1.70",
-            "Haruki Muramatsu +1.5": "2.10"
-          },
-          "Handicap -0.5": {
-            "Scott Williams -0.5": "1.30",
-            "Haruki Muramatsu +0.5": "3.30"
-          },
-          "Match 180s (O/E/U)": {
-            "Over 7": "2.62",
-            "Exactly 7": "6.00",
-            "Under 7": "1.83"
-          },
-          "Match 180s (O/U)": {
-            "Over 6.5": "1.91",
-            "Under 6.5": "1.83"
-          },
-          "Scott Williams Total 180s": {
-            "Under 4.5": "1.83",
-            "Over 4.5": "1.91"
-          },
-          "Haruki Muramatsu Total 180s": {
-            "Over 1.5": "1.67",
-            "Under 1.5": "2.15"
-          },
-          "180s Match Bet": {
-            "Scott Williams": "1.22",
-            "Tie": "8.00",
-            "Haruki Muramatsu": "7.00"
-          },
-          "Highest Match Checkout (O/B/U)": {
-            "Over 130": "2.50",
-            "120 - 130 Inc": "4.00",
-            "Under 120": "2.30"
-          },
-          "Correct Score": {
-            "Scott Williams 3-0": "3.20",
-            "Scott Williams 3-1": "3.60",
-            "Scott Williams 3-2": "5.00",
-            "Haruki Muramatsu 3-0": "12.00",
-            "Haruki Muramatsu 3-1": "8.50",
-            "Haruki Muramatsu 3-2": "8.00"
-          },
-          "Highest Match Checkout (O/U)": {
-            "Over 120.5": "1.70",
-            "Under 120.5": "2.05"
-          },
-          "Scott Williams Highest Checkout (O/U)": {
-            "Under 110.5": "1.91",
-            "Over 110.5": "1.83"
-          },
-          "Haruki Muramatsu Highest Checkout (O/U)": {
-            "Under 100.5": "1.83",
-            "Over 100.5": "1.95"
-          },
-          "Scott Williams Highest Checkout (O/B/U)": {
-            "Under 110": "1.95",
-            "Over 120": "2.40",
-            "110 - 120 Inc": "6.00"
-          },
-          "Haruki Muramatsu Highest Checkout (O/B/U)": {
-            "Under 90": "2.30",
-            "Over 100": "1.95",
-            "90 - 100 Inc": "7.00"
-          },
-          "Checkout Matchbet": {
-            "Scott Williams": "1.60",
-            "Haruki Muramatsu": "2.25"
-          },
-          "Win Match, High Checkout and Most 180s": {
-            "Scott Williams": "1.91",
-            "Haruki Muramatsu": "19.00"
-          },
-          "Match Total Sets (O/U)": {
-            "Under 3.5 Sets": "2.50",
-            "Over 3.5 Sets": "1.50"
-          }
-        },
-        "Ricky Evans vs Simon Adams": {
-          "Match Winner": {
-            "Ricky Evans": "1.12",
-            "Simon Adams": "5.50"
-          },
-          "time": "2023-12-17 12:30:00",
-          "Handicap -2.5": {
-            "Ricky Evans -2.5": "2.10",
-            "Simon Adams +2.5": "1.73"
-          },
-          "Handicap -1.5": {
-            "Ricky Evans -1.5": "1.33",
-            "Simon Adams +1.5": "3.10"
-          },
-          "Match 180s (O/E/U)": {
-            "Over 6": "2.70",
-            "Exactly 6": "5.50",
-            "Under 6": "1.83"
-          },
-          "Match 180s (O/U)": {
-            "Over 5.5": "1.91",
-            "Under 5.5": "1.83"
-          },
-          "Ricky Evans Total 180s": {
-            "Over 3.5": "2.15",
-            "Under 3.5": "1.67"
-          },
-          "Simon Adams Total 180s": {
-            "Under 2.5": "1.50",
-            "Over 2.5": "2.40"
-          },
-          "180s Match Bet": {
-            "Ricky Evans": "1.60",
-            "Tie": "5.50",
-            "Simon Adams": "3.60"
-          },
-          "Highest Match Checkout (O/B/U)": {
-            "Over 120": "1.91",
-            "110 - 120 Inc": "5.50",
-            "Under 110": "2.60"
-          },
-          "Correct Score": {
-            "Ricky Evans 3-0": "2.10",
-            "Ricky Evans 3-1": "3.40",
-            "Ricky Evans 3-2": "6.00",
-            "Simon Adams 3-0": "19.00",
-            "Simon Adams 3-1": "15.00",
-            "Simon Adams 3-2": "15.00"
-          },
-          "Highest Match Checkout (O/U)": {
-            "Over 120.5": "1.91",
-            "Under 120.5": "1.83"
-          },
-          "Ricky Evans Highest Checkout (O/U)": {
-            "Over 110.5": "1.70",
-            "Under 110.5": "2.10"
-          },
-          "Simon Adams Highest Checkout (O/U)": {
-            "Under 80.5": "2.00",
-            "Over 80.5": "1.75"
-          },
-          "Ricky Evans Highest Checkout (O/B/U)": {
-            "Under 110": "2.15",
-            "Over 120": "2.20",
-            "110 - 120 Inc": "6.00"
-          },
-          "Simon Adams Highest Checkout (O/B/U)": {
-            "Under 80": "2.05",
-            "Over 90": "2.15",
-            "80 - 90 Inc": "7.00"
-          },
-          "Checkout Matchbet": {
-            "Ricky Evans": "1.33",
-            "Simon Adams": "3.20"
-          },
-          "Win Match, High Checkout and Most 180s": {
-            "Ricky Evans": "1.83",
-            "Simon Adams": "21.00"
-          },
-          "Match Total Sets (O/U)": {
-            "Under 3.5 Sets": "1.91",
-            "Over 3.5 Sets": "1.85"
-          }
-        },
-        "Jim Williams vs Norman Madhoo": {
-          "Match Winner": {
-            "Norman Madhoo": "21.00"
-          },
-          "time": "2023-12-17 13:20:00",
-          "Handicap -2.5": {
-            "Jim Williams -2.5": "1.13",
-            "Norman Madhoo +2.5": "5.25"
-          },
-          "Handicap -1.5": {
-            "Norman Madhoo +1.5": "13.00"
-          },
-          "Match 180s (O/E/U)": {
-            "Over 3": "2.05",
-            "Exactly 3": "4.00",
-            "Under 3": "2.80"
-          },
-          "Match 180s (O/U)": {
-            "Over 3.5": "2.05",
-            "Under 3.5": "1.73"
-          },
-          "Jim Williams Total 180s": {
-            "Over 2.5": "1.95",
-            "Under 2.5": "1.75"
-          },
-          "Norman Madhoo Total 180s": {
-            "Under 0.5": "2.20",
-            "Over 0.5": "1.61"
-          },
-          "180s Match Bet": {
-            "Jim Williams": "1.30",
-            "Tie": "5.25",
-            "Norman Madhoo": "7.50"
-          },
-          "Highest Match Checkout (O/B/U)": {
-            "Over 120": "2.15",
-            "110 - 120 Inc": "6.00",
-            "Under 110": "2.20"
-          },
-          "Correct Score": {
-            "Jim Williams 3-0": "1.13",
-            "Jim Williams 3-1": "6.00",
-            "Jim Williams 3-2": "23.00",
-            "Norman Madhoo 3-0": "101.00",
-            "Norman Madhoo 3-1": "101.00",
-            "Norman Madhoo 3-2": "126.00"
-          },
-          "Highest Match Checkout (O/U)": {
-            "Over 110.5": "1.67",
-            "Under 110.5": "2.10"
-          },
-          "Jim Williams Highest Checkout (O/U)": {
-            "Under 110.5": "2.05",
-            "Over 110.5": "1.73"
-          },
-          "Norman Madhoo Highest Checkout (O/U)": {
-            "Over 80.5": "4.50",
-            "Under 80.5": "1.18"
-          },
-          "Jim Williams Highest Checkout (O/B/U)": {
-            "Under 110": "2.10",
-            "Over 120": "2.25",
-            "110 - 120 Inc": "6.00"
-          },
-          "Norman Madhoo Highest Checkout (O/B/U)": {
-            "Under 70": "1.25",
-            "Over 80": "4.50",
-            "70 - 80 Inc": "17.00"
-          },
-          "Checkout Matchbet": {
-            "Jim Williams": "1.08",
-            "Norman Madhoo": "7.00"
-          },
-          "Win Match, High Checkout and Most 180s": {
-            "Jim Williams": "1.30",
-            "Norman Madhoo": "29.00"
-          },
-          "Match Total Sets (O/U)": {
-            "Under 3.5 Sets": "1.14",
-            "Over 3.5 Sets": "5.50"
-          }
-        },
-        "Matt Campbell vs Lourence Ilagan": {
-          "Match Winner": {
-            "Matt Campbell": "1.50",
-            "Lourence Ilagan": "2.50"
-          },
-          "time": "2023-12-17 14:10:00",
-          "Handicap -2.5": {
-            "Matt Campbell -2.5": "4.20",
-            "Lourence Ilagan +2.5": "1.22"
-          },
-          "Handicap -1.5": {
-            "Matt Campbell -1.5": "2.05",
-            "Lourence Ilagan +1.5": "1.73"
-          },
-          "Handicap -0.5": {
-            "Matt Campbell -0.5": "1.50",
-            "Lourence Ilagan +0.5": "2.50"
-          },
-          "Match 180s (O/E/U)": {
-            "Over 5": "2.88",
-            "Exactly 5": "5.00",
-            "Under 5": "1.83"
-          },
-          "Match 180s (O/U)": {
-            "Over 4.5": "1.91",
-            "Under 4.5": "1.83"
-          },
-          "Matt Campbell Total 180s": {
-            "Under 1.5": "2.40",
-            "Over 1.5": "1.50"
-          },
-          "Lourence Ilagan Total 180s": {
-            "Over 2.5": "2.10",
-            "Under 2.5": "1.70"
-          },
-          "180s Match Bet": {
-            "Matt Campbell": "2.62",
-            "Tie": "4.75",
-            "Lourence Ilagan": "2.00"
-          },
-          "Highest Match Checkout (O/B/U)": {
-            "Over 130": "2.30",
-            "120 - 130 Inc": "4.00",
-            "Under 120": "2.50"
-          },
-          "Correct Score": {
-            "Matt Campbell 3-0": "4.20",
-            "Matt Campbell 3-1": "4.00",
-            "Matt Campbell 3-2": "5.00",
-            "Lourence Ilagan 3-0": "8.50",
-            "Lourence Ilagan 3-1": "6.50",
-            "Lourence Ilagan 3-2": "6.00"
-          },
-          "Highest Match Checkout (O/U)": {
-            "Over 120.5": "1.60",
-            "Under 120.5": "2.20"
-          },
-          "Matt Campbell Highest Checkout (O/U)": {
-            "Over 110.5": "1.75",
-            "Under 110.5": "2.00"
-          },
-          "Lourence Ilagan Highest Checkout (O/U)": {
-            "Under 110.5": "1.73",
-            "Over 110.5": "2.10"
-          },
-          "Matt Campbell Highest Checkout (O/B/U)": {
-            "Under 110": "2.10",
-            "Over 120": "2.25",
-            "110 - 120 Inc": "6.00"
-          },
-          "Lourence Ilagan Highest Checkout (O/B/U)": {
-            "Under 100": "2.10",
-            "Over 110": "2.10",
-            "100 - 110 Inc": "7.00"
-          },
-          "Checkout Matchbet": {
-            "Matt Campbell": "1.67",
-            "Lourence Ilagan": "2.15"
-          },
-          "Win Match, High Checkout and Most 180s": {
-            "Matt Campbell": "4.75",
-            "Lourence Ilagan": "7.50"
-          },
-          "Match Total Sets (O/U)": {
-            "Under 4.5 Sets": "1.40",
-            "Over 4.5 Sets": "2.88"
-          }
-        },
-        "Dylan Slevin vs Florian Hempel": {
-          "Match Winner": {
-            "Dylan Slevin": "2.20",
-            "Florian Hempel": "1.61"
-          },
-          "time": "2023-12-17 19:00:00",
-          "Handicap -1.5": {
-            "Dylan Slevin -1.5": "3.40",
-            "Florian Hempel +1.5": "1.28"
-          },
-          "Handicap -0.5": {
-            "Dylan Slevin -0.5": "2.20",
-            "Florian Hempel +0.5": "1.61"
-          },
-          "Handicap 0.5": {
-            "Dylan Slevin +0.5": "2.20",
-            "Florian Hempel -0.5": "1.61"
-          },
-          "Match 180s (O/E/U)": {
-            "Over 6": "1.73",
-            "Exactly 6": "6.00",
-            "Under 6": "2.88"
-          },
-          "Match 180s (O/U)": {
-            "Over 7.5": "2.20",
-            "Under 7.5": "1.60"
-          },
-          "Dylan Slevin Total 180s": {
-            "Under 3.5": "1.75",
-            "Over 3.5": "2.00"
-          },
-          "Florian Hempel Total 180s": {
-            "Over 3.5": "2.00",
-            "Under 3.5": "1.75"
-          },
-          "180s Match Bet": {
-            "Dylan Slevin": "2.20",
-            "Tie": "5.50",
-            "Florian Hempel": "2.20"
-          },
-          "Highest Match Checkout (O/B/U)": {
-            "Over 130": "2.50",
-            "120 - 130 Inc": "4.00",
-            "Under 120": "2.25"
-          },
-          "Correct Score": {
-            "Dylan Slevin 3-0": "8.00",
-            "Dylan Slevin 3-1": "5.50",
-            "Dylan Slevin 3-2": "5.50",
-            "Florian Hempel 3-0": "5.25",
-            "Florian Hempel 3-1": "4.33",
-            "Florian Hempel 3-2": "4.75"
-          },
-          "Highest Match Checkout (O/U)": {
-            "Over 120.5": "1.70",
-            "Under 120.5": "2.05"
-          },
-          "Dylan Slevin Highest Checkout (O/U)": {
-            "Under 100.5": "2.05",
-            "Over 100.5": "1.73"
-          },
-          "Florian Hempel Highest Checkout (O/U)": {
-            "Over 110.5": "1.83",
-            "Under 110.5": "1.91"
-          },
-          "Dylan Slevin Highest Checkout (O/B/U)": {
-            "Under 100": "2.10",
-            "Over 110": "2.10",
-            "100 - 110 Inc": "7.00"
-          },
-          "Florian Hempel Highest Checkout (O/B/U)": {
-            "Under 110": "1.95",
-            "Over 120": "2.40",
-            "110 - 120 Inc": "6.00"
-          },
-          "Checkout Matchbet": {
-            "Dylan Slevin": "2.05",
-            "Florian Hempel": "1.73"
-          },
-          "Win Match, High Checkout and Most 180s": {
-            "Dylan Slevin": "6.50",
-            "Florian Hempel": "4.33"
-          },
-          "Match Total Sets (O/U)": {
-            "Under 4.5 Sets": "1.44",
-            "Over 4.5 Sets": "2.70"
-          }
-        },
-        "Niels Zonneveld vs Darren Webster": {
-          "Match Winner": {
-            "Niels Zonneveld": "1.33",
-            "Darren Webster": "3.20"
-          },
-          "time": "2023-12-17 19:50:00",
-          "Handicap -2.5": {
-            "Niels Zonneveld -2.5": "3.20",
-            "Darren Webster +2.5": "1.33"
-          },
-          "Handicap -1.5": {
-            "Niels Zonneveld -1.5": "1.73",
-            "Darren Webster +1.5": "2.05"
-          },
-          "Handicap -0.5": {
-            "Niels Zonneveld -0.5": "1.33",
-            "Darren Webster +0.5": "3.20"
-          },
-          "Match 180s (O/E/U)": {
-            "Over 5": "1.70",
-            "Exactly 5": "5.50",
-            "Under 5": "3.10"
-          },
-          "Match 180s (O/U)": {
-            "Over 6.5": "2.20",
-            "Under 6.5": "1.60"
-          },
-          "Niels Zonneveld Total 180s": {
-            "Over 3.5": "1.75",
-            "Under 3.5": "2.00"
-          },
-          "Darren Webster Total 180s": {
-            "Under 2.5": "1.53",
-            "Over 2.5": "2.38"
-          },
-          "180s Match Bet": {
-            "Niels Zonneveld": "1.44",
-            "Tie": "6.00",
-            "Darren Webster": "4.33"
-          },
-          "Highest Match Checkout (O/B/U)": {
-            "Over 130": "2.50",
-            "120 - 130 Inc": "4.00",
-            "Under 120": "2.25"
-          },
-          "Correct Score": {
-            "Niels Zonneveld 3-0": "3.20",
-            "Niels Zonneveld 3-1": "3.60",
-            "Niels Zonneveld 3-2": "5.00",
-            "Darren Webster 3-0": "11.00",
-            "Darren Webster 3-1": "8.50",
-            "Darren Webster 3-2": "8.00"
-          },
-          "Highest Match Checkout (O/U)": {
-            "Over 120.5": "1.70",
-            "Under 120.5": "2.05"
-          },
-          "Niels Zonneveld Highest Checkout (O/U)": {
-            "Under 110.5": "1.91",
-            "Over 110.5": "1.83"
-          },
-          "Darren Webster Highest Checkout (O/U)": {
-            "Under 100.5": "1.83",
-            "Over 100.5": "1.95"
-          },
-          "Niels Zonneveld Highest Checkout (O/B/U)": {
-            "Under 110": "1.95",
-            "Over 120": "2.40",
-            "110 - 120 Inc": "6.00"
-          },
-          "Darren Webster Highest Checkout (O/B/U)": {
-            "Under 90": "2.30",
-            "Over 100": "1.95",
-            "90 - 100 Inc": "7.00"
-          },
-          "Checkout Matchbet": {
-            "Niels Zonneveld": "1.60",
-            "Darren Webster": "2.25"
-          },
-          "Win Match, High Checkout and Most 180s": {
-            "Niels Zonneveld": "2.30",
-            "Darren Webster": "15.00"
-          },
-          "Match Total Sets (O/U)": {
-            "Under 3.5 Sets": "2.60",
-            "Over 3.5 Sets": "1.50"
-          }
-        },
-        "Jermaine Wattimena vs Fallon Sherrock": {
-          "Match Winner": {
-            "Jermaine Wattimena": "1.44",
-            "Fallon Sherrock": "2.62"
-          },
-          "time": "2023-12-17 20:40:00",
-          "Handicap -2.5": {
-            "Jermaine Wattimena -2.5": "3.80",
-            "Fallon Sherrock +2.5": "1.25"
-          },
-          "Handicap -1.5": {
-            "Jermaine Wattimena -1.5": "1.95",
-            "Fallon Sherrock +1.5": "1.80"
-          },
-          "Handicap -0.5": {
-            "Jermaine Wattimena -0.5": "1.44",
-            "Fallon Sherrock +0.5": "2.62"
-          },
-          "Match 180s (O/E/U)": {
-            "Over 6": "2.50",
-            "Exactly 6": "5.50",
-            "Under 6": "2.00"
-          },
-          "Match 180s (O/U)": {
-            "Over 5.5": "1.75",
-            "Under 5.5": "2.00"
-          },
-          "Jermaine Wattimena Total 180s": {
-            "Over 2.5": "1.80",
-            "Under 2.5": "1.95"
-          },
-          "Fallon Sherrock Total 180s": {
-            "Over 2.5": "1.60",
-            "Under 2.5": "2.25"
-          },
-          "180s Match Bet": {
-            "Jermaine Wattimena": "2.50",
-            "Tie": "5.25",
-            "Fallon Sherrock": "2.00"
-          },
-          "Highest Match Checkout (O/B/U)": {
-            "Over 130": "2.50",
-            "120 - 130 Inc": "4.00",
-            "Under 120": "2.30"
-          },
-          "Correct Score": {
-            "Jermaine Wattimena 3-0": "3.80",
-            "Jermaine Wattimena 3-1": "3.80",
-            "Jermaine Wattimena 3-2": "5.00",
-            "Fallon Sherrock 3-0": "9.50",
-            "Fallon Sherrock 3-1": "7.00",
-            "Fallon Sherrock 3-2": "7.00"
-          },
-          "Highest Match Checkout (O/U)": {
-            "Over 120.5": "1.70",
-            "Under 120.5": "2.05"
-          },
-          "Jermaine Wattimena Highest Checkout (O/U)": {
-            "Over 110.5": "1.95",
-            "Under 110.5": "1.80"
-          },
-          "Fallon Sherrock Highest Checkout (O/U)": {
-            "Under 100.5": "2.00",
-            "Over 100.5": "1.75"
-          },
-          "Jermaine Wattimena Highest Checkout (O/B/U)": {
-            "Under 100": "2.30",
-            "Over 110": "1.95",
-            "100 - 110 Inc": "7.00"
-          },
-          "Fallon Sherrock Highest Checkout (O/B/U)": {
-            "Under 100": "2.10",
-            "Over 110": "2.10",
-            "100 - 110 Inc": "7.50"
-          },
-          "Checkout Matchbet": {
-            "Jermaine Wattimena": "1.75",
-            "Fallon Sherrock": "2.00"
-          },
-          "Win Match, High Checkout and Most 180s": {
-            "Jermaine Wattimena": "4.75",
-            "Fallon Sherrock": "7.50"
-          },
-          "Match Total Sets (O/U)": {
-            "Under 3.5 Sets": "2.75",
-            "Over 3.5 Sets": "1.44"
-          }
-        },
-        "Mario Vandenbogaerde vs Thibault Tricole": {
-          "Match Winner": {
-            "Mario Vandenbogaerde": "1.53",
-            "Thibault Tricole": "2.40"
-          },
-          "time": "2023-12-18 19:00:00",
-          "Handicap -2.5": {
-            "Mario Vandenbogaerde -2.5": "4.75",
-            "Thibault Tricole +2.5": "1.18"
-          },
-          "Handicap -1.5": {
-            "Mario Vandenbogaerde -1.5": "2.20",
-            "Thibault Tricole +1.5": "1.61"
-          },
-          "Handicap -0.5": {
-            "Mario Vandenbogaerde -0.5": "1.53",
-            "Thibault Tricole +0.5": "2.40"
-          },
-          "Match 180s (O/E/U)": {
-            "Over 6": "2.60",
-            "Exactly 6": "5.50",
-            "Under 6": "1.91"
-          },
-          "Match 180s (O/U)": {
-            "Over 5.5": "1.85",
-            "Under 5.5": "1.91"
-          },
-          "Mario Vandenbogaerde Total 180s": {
-            "Over 3.5": "2.00",
-            "Under 3.5": "1.75"
-          },
-          "Thibault Tricole Total 180s": {
-            "Over 2.5": "2.50",
-            "Under 2.5": "1.50"
-          },
-          "180s Match Bet": {
-            "Mario Vandenbogaerde": "1.53",
-            "Tie": "5.50",
-            "Thibault Tricole": "4.00"
-          },
-          "Highest Match Checkout (O/B/U)": {
-            "Over 130": "2.50",
-            "120 - 130 Inc": "4.00",
-            "Under 120": "2.25"
-          },
-          "Correct Score": {
-            "Mario Vandenbogaerde 3-0": "4.75",
-            "Mario Vandenbogaerde 3-1": "4.00",
-            "Mario Vandenbogaerde 3-2": "4.50",
-            "Thibault Tricole 3-0": "10.00",
-            "Thibault Tricole 3-1": "6.00",
-            "Thibault Tricole 3-2": "5.50"
-          },
-          "Highest Match Checkout (O/U)": {
-            "Over 120.5": "1.70",
-            "Under 120.5": "2.05"
-          },
-          "Mario Vandenbogaerde Highest Checkout (O/U)": {
-            "Over 110.5": "1.85",
-            "Under 110.5": "1.91"
-          },
-          "Thibault Tricole Highest Checkout (O/U)": {
-            "Over 100.5": "1.80",
-            "Under 100.5": "1.95"
-          },
-          "Mario Vandenbogaerde Highest Checkout (O/B/U)": {
-            "Under 110": "1.95",
-            "Over 120": "2.40",
-            "110 - 120 Inc": "6.00"
-          },
-          "Thibault Tricole Highest Checkout (O/B/U)": {
-            "Under 100": "2.00",
-            "Over 110": "2.20",
-            "100 - 110 Inc": "7.50"
-          },
-          "Checkout Matchbet": {
-            "Mario Vandenbogaerde": "1.70",
-            "Thibault Tricole": "2.10"
-          },
-          "Win Match, High Checkout and Most 180s": {
-            "Mario Vandenbogaerde": "2.88",
-            "Thibault Tricole": "12.00"
-          },
-          "Match Total Sets (O/U)": {
-            "Under 4.5 Sets": "1.50",
-            "Over 4.5 Sets": "2.62"
-          }
-        },
-        "Gian van Veen vs Man Lok Leung": {
-          "Match Winner": {
-            "Gian van Veen": "1.03",
-            "Man Lok Leung": "10.00"
-          },
-          "time": "2023-12-18 19:50:00",
-          "Handicap -2.5": {
-            "Gian van Veen -2.5": "1.44",
-            "Man Lok Leung +2.5": "2.62"
-          },
-          "Handicap -1.5": {
-            "Gian van Veen -1.5": "1.12",
-            "Man Lok Leung +1.5": "5.50"
-          },
-          "Match 180s (O/E/U)": {
-            "Over 4": "1.61",
-            "Exactly 4": "5.25",
-            "Under 4": "3.50"
-          },
-          "Match 180s (O/U)": {
-            "Over 5.5": "2.25",
-            "Under 5.5": "1.57"
-          },
-          "Gian van Veen Total 180s": {
-            "Over 4.5": "2.50",
-            "Under 4.5": "1.44"
-          },
-          "Man Lok Leung Total 180s": {
-            "Over 1.5": "2.75",
-            "Under 1.5": "1.40"
-          },
-          "180s Match Bet": {
-            "Gian van Veen": "1.15",
-            "Tie": "8.00",
-            "Man Lok Leung": "10.00"
-          },
-          "Highest Match Checkout (O/B/U)": {
-            "Over 130": "2.62",
-            "120 - 130 Inc": "4.20",
-            "Under 120": "2.10"
-          },
-          "Correct Score": {
-            "Gian van Veen 3-0": "1.44",
-            "Gian van Veen 3-1": "4.33",
-            "Gian van Veen 3-2": "10.00",
-            "Man Lok Leung 3-0": "29.00",
-            "Man Lok Leung 3-1": "29.00",
-            "Man Lok Leung 3-2": "41.00"
-          },
-          "Highest Match Checkout (O/U)": {
-            "Over 120.5": "1.80",
-            "Under 120.5": "1.91"
-          },
-          "Gian van Veen Highest Checkout (O/U)": {
-            "Over 120.5": "2.00",
-            "Under 120.5": "1.80"
-          },
-          "Man Lok Leung Highest Checkout (O/U)": {
-            "Over 80.5": "2.05",
-            "Under 80.5": "1.75"
-          },
-          "Gian van Veen Highest Checkout (O/B/U)": {
-            "Under 110": "2.40",
-            "Over 120": "2.00",
-            "110 - 120 Inc": "6.00"
-          },
-          "Man Lok Leung Highest Checkout (O/B/U)": {
-            "Under 70": "2.20",
-            "Over 80": "2.05",
-            "70 - 80 Inc": "7.00"
-          },
-          "Checkout Matchbet": {
-            "Gian van Veen": "1.22",
-            "Man Lok Leung": "4.00"
-          },
-          "Win Match, High Checkout and Most 180s": {
-            "Gian van Veen": "1.22",
-            "Man Lok Leung": "29.00"
-          },
-          "Match Total Sets (O/U)": {
-            "Under 3.5 Sets": "1.40",
-            "Over 3.5 Sets": "2.88"
-          }
-        },
-        "Ian White vs Tomoya Goto": {
-          "Match Winner": {
-            "Ian White": "1.14",
-            "Tomoya Goto": "5.25"
-          },
-          "time": "2023-12-19 12:30:00",
-          "Handicap -2.5": {
-            "Ian White -2.5": "2.15",
-            "Tomoya Goto +2.5": "1.70"
-          },
-          "Handicap -1.5": {
-            "Ian White -1.5": "1.36",
-            "Tomoya Goto +1.5": "3.00"
-          },
-          "Match 180s (O/E/U)": {
-            "Over 6": "3.30",
-            "Exactly 6": "6.00",
-            "Under 6": "1.61"
-          },
-          "Match 180s (O/U)": {
-            "Over 5.5": "2.15",
-            "Under 5.5": "1.61"
-          },
-          "Ian White Total 180s": {
-            "Under 3.5": "1.57",
-            "Over 3.5": "2.30"
-          },
-          "Tomoya Goto Total 180s": {
-            "Over 1.5": "1.67",
-            "Under 1.5": "2.15"
-          },
-          "180s Match Bet": {
-            "Ian White": "1.50",
-            "Tie": "5.50",
-            "Tomoya Goto": "4.20"
-          },
-          "Highest Match Checkout (O/B/U)": {
-            "Over 120": "1.91",
-            "110 - 120 Inc": "5.50",
-            "Under 110": "2.60"
-          },
-          "Correct Score": {
-            "Ian White 3-0": "2.15",
-            "Ian White 3-1": "3.60",
-            "Ian White 3-2": "6.00",
-            "Tomoya Goto 3-0": "17.00",
-            "Tomoya Goto 3-1": "13.00",
-            "Tomoya Goto 3-2": "13.00"
-          },
-          "Highest Match Checkout (O/U)": {
-            "Over 120.5": "1.91",
-            "Under 120.5": "1.83"
-          },
-          "Ian White Highest Checkout (O/U)": {
-            "Over 110.5": "1.80",
-            "Under 110.5": "1.95"
-          },
-          "Tomoya Goto Highest Checkout (O/U)": {
-            "Under 90.5": "1.95",
-            "Over 90.5": "1.80"
-          },
-          "Ian White Highest Checkout (O/B/U)": {
-            "Under 110": "1.95",
-            "Over 120": "2.40",
-            "110 - 120 Inc": "6.00"
-          },
-          "Tomoya Goto Highest Checkout (O/B/U)": {
-            "Under 90": "2.00",
-            "Over 100": "2.20",
-            "90 - 100 Inc": "7.50"
-          },
-          "Checkout Matchbet": {
-            "Ian White": "1.44",
-            "Tomoya Goto": "2.60"
-          },
-          "Win Match, High Checkout and Most 180s": {
-            "Ian White": "1.95",
-            "Tomoya Goto": "19.00"
-          },
-          "Match Total Sets (O/U)": {
-            "Under 3.5 Sets": "1.91",
-            "Over 3.5 Sets": "1.85"
-          }
-        },
-        "Ritchie Edhouse vs Jeffrey de Graaf": {
-          "Match Winner": {
-            "Ritchie Edhouse": "1.33",
-            "Jeffrey de Graaf": "3.10"
-          },
-          "time": "2023-12-19 13:20:00",
-          "Handicap -2.5": {
-            "Ritchie Edhouse -2.5": "3.40",
-            "Jeffrey de Graaf +2.5": "1.30"
-          },
-          "Handicap -1.5": {
-            "Ritchie Edhouse -1.5": "1.80",
-            "Jeffrey de Graaf +1.5": "1.95"
-          },
-          "Handicap -0.5": {
-            "Ritchie Edhouse -0.5": "1.33",
-            "Jeffrey de Graaf +0.5": "3.10"
-          },
-          "Match 180s (O/E/U)": {
-            "Over 6": "1.70",
-            "Exactly 6": "6.00",
-            "Under 6": "3.00"
-          },
-          "Match 180s (O/U)": {
-            "Over 7.5": "2.15",
-            "Under 7.5": "1.61"
-          },
-          "Ritchie Edhouse Total 180s": {
-            "Over 3.5": "2.00",
-            "Under 3.5": "1.75"
-          },
-          "Jeffrey de Graaf Total 180s": {
-            "Over 3.5": "2.00",
-            "Under 3.5": "1.75"
-          },
-          "180s Match Bet": {
-            "Ritchie Edhouse": "2.20",
-            "Tie": "5.50",
-            "Jeffrey de Graaf": "2.20"
-          },
-          "Highest Match Checkout (O/B/U)": {
-            "Over 130": "2.40",
-            "120 - 130 Inc": "4.00",
-            "Under 120": "2.38"
-          },
-          "Correct Score": {
-            "Ritchie Edhouse 3-0": "3.40",
-            "Ritchie Edhouse 3-1": "3.60",
-            "Ritchie Edhouse 3-2": "5.00",
-            "Jeffrey de Graaf 3-0": "11.00",
-            "Jeffrey de Graaf 3-1": "8.00",
-            "Jeffrey de Graaf 3-2": "7.50"
-          },
-          "Highest Match Checkout (O/U)": {
-            "Over 120.5": "1.61",
-            "Under 120.5": "2.15"
-          },
-          "Ritchie Edhouse Highest Checkout (O/U)": {
-            "Under 110.5": "2.00",
-            "Over 110.5": "1.75"
-          },
-          "Jeffrey de Graaf Highest Checkout (O/U)": {
-            "Under 100.5": "1.95",
-            "Over 100.5": "1.80"
-          },
-          "Ritchie Edhouse Highest Checkout (O/B/U)": {
-            "Under 110": "2.10",
-            "Over 120": "2.25",
-            "110 - 120 Inc": "6.00"
-          },
-          "Jeffrey de Graaf Highest Checkout (O/B/U)": {
-            "Under 100": "2.00",
-            "Over 110": "2.20",
-            "100 - 110 Inc": "7.50"
-          },
-          "Checkout Matchbet": {
-            "Ritchie Edhouse": "1.61",
-            "Jeffrey de Graaf": "2.20"
-          },
-          "Win Match, High Checkout and Most 180s": {
-            "Ritchie Edhouse": "3.50",
-            "Jeffrey de Graaf": "9.50"
-          },
-          "Match Total Sets (O/U)": {
-            "Under 3.5 Sets": "2.70",
-            "Over 3.5 Sets": "1.44"
-          }
-        },
-        "Keegan Brown vs Boris Krcmar": {
-          "Match Winner": {
-            "Keegan Brown": "2.30",
-            "Boris Krcmar": "1.57"
-          },
-          "time": "2023-12-19 14:10:00",
+          "time": "2023-12-28 21:00:00",
           "Handicap -1.5": {},
           "Handicap -0.5": {},
           "Handicap 0.5": {
-            "Keegan Brown +0.5": "2.30",
-            "Boris Krcmar -0.5": "1.57"
+            "Ricky Evans +0.5": "2.20",
+            "Daryl Gurney -0.5": "1.61"
           },
           "Match 180s (O/E/U)": {
-            "Over 5": "1.75",
-            "Exactly 5": "5.50",
-            "Under 5": "3.00"
+            "Over 13": "2.25",
+            "Exactly 13": "8.00",
+            "Under 13": "1.91"
           },
           "Match 180s (O/U)": {
-            "Over 6.5": "2.30",
-            "Under 6.5": "1.53"
+            "Over 12.5": "1.80",
+            "Under 12.5": "1.91"
           },
-          "Keegan Brown Total 180s": {
-            "Over 2.5": "1.57",
-            "Under 2.5": "2.30"
+          "Ricky Evans Total 180s": {
+            "Over 5.5": "1.75",
+            "Under 5.5": "2.00"
           },
-          "Boris Krcmar Total 180s": {
-            "Under 2.5": "2.00",
-            "Over 2.5": "1.75"
+          "Daryl Gurney Total 180s": {
+            "Under 6.5": "1.95",
+            "Over 6.5": "1.80"
           },
           "180s Match Bet": {
-            "Keegan Brown": "2.00",
-            "Tie": "5.25",
-            "Boris Krcmar": "2.50"
+            "Ricky Evans": "2.50",
+            "Tie": "8.00",
+            "Daryl Gurney": "1.75"
           },
           "Highest Match Checkout (O/B/U)": {
-            "Over 130": "2.38",
-            "120 - 130 Inc": "4.00",
-            "Under 120": "2.38"
+            "Over 140": "2.15",
+            "130 - 140 Inc": "5.00",
+            "Under 130": "2.38"
           },
           "Correct Score": {
-            "Keegan Brown 3-0": "8.50",
-            "Keegan Brown 3-1": "6.00",
-            "Keegan Brown 3-2": "6.00",
-            "Boris Krcmar 3-0": "4.75",
-            "Boris Krcmar 3-1": "4.00",
-            "Boris Krcmar 3-2": "4.75"
+            "Ricky Evans 4-0": "13.00",
+            "Ricky Evans 4-1": "8.00",
+            "Ricky Evans 4-2": "7.00",
+            "Ricky Evans 4-3": "7.00",
+            "Daryl Gurney 4-0": "8.00",
+            "Daryl Gurney 4-1": "5.50",
+            "Daryl Gurney 4-2": "5.25",
+            "Daryl Gurney 4-3": "5.50"
           },
           "Highest Match Checkout (O/U)": {
-            "Over 120.5": "1.61",
+            "Over 140.5": "2.15",
+            "Under 140.5": "1.67"
+          },
+          "Ricky Evans Highest Checkout (O/U)": {
+            "Under 120.5": "1.91",
+            "Over 120.5": "1.85"
+          },
+          "Daryl Gurney Highest Checkout (O/U)": {
+            "Over 120.5": "1.67",
             "Under 120.5": "2.15"
           },
-          "Keegan Brown Highest Checkout (O/U)": {
-            "Over 110.5": "1.95",
-            "Under 110.5": "1.80"
+          "Ricky Evans Highest Checkout (O/B/U)": {
+            "Under 120": "2.05",
+            "Over 130": "2.75",
+            "120 - 130 Inc": "4.20"
           },
-          "Boris Krcmar Highest Checkout (O/U)": {
-            "Under 110.5": "1.83",
-            "Over 110.5": "1.95"
-          },
-          "Keegan Brown Highest Checkout (O/B/U)": {
-            "Under 100": "2.25",
-            "Over 110": "1.95",
-            "100 - 110 Inc": "7.50"
-          },
-          "Boris Krcmar Highest Checkout (O/B/U)": {
-            "Under 100": "2.30",
-            "Over 110": "1.95",
-            "100 - 110 Inc": "7.00"
+          "Daryl Gurney Highest Checkout (O/B/U)": {
+            "Under 120": "2.38",
+            "Over 130": "2.38",
+            "120 - 130 Inc": "4.00"
           },
           "Checkout Matchbet": {
-            "Keegan Brown": "1.91",
-            "Boris Krcmar": "1.85"
+            "Ricky Evans": "2.05",
+            "Daryl Gurney": "1.73"
           },
           "Win Match, High Checkout and Most 180s": {
-            "Keegan Brown": "6.00",
-            "Boris Krcmar": "5.25"
+            "Ricky Evans": "8.00",
+            "Daryl Gurney": "3.50"
           },
           "Match Total Sets (O/U)": {
-            "Under 4.5 Sets": "1.44",
-            "Over 4.5 Sets": "2.70"
+            "Under 5.5 Sets": "2.15",
+            "Over 5.5 Sets": "1.67"
           },
           "Handicap 2.5": {
-            "Keegan Brown +2.5": "1.20",
-            "Boris Krcmar -2.5": "4.75"
+            "Ricky Evans +2.5": "1.30",
+            "Daryl Gurney -2.5": "3.30"
           },
           "Handicap 1.5": {
-            "Keegan Brown +1.5": "1.61",
-            "Boris Krcmar -1.5": "2.20"
+            "Ricky Evans +1.5": "1.67",
+            "Daryl Gurney -1.5": "2.15"
           }
         },
-        "Steve Beaton vs Wessel Nijman": {
+        "Damon Heta vs Berry van Peer": {
           "Match Winner": {
-            "Steve Beaton": "2.30",
-            "Wessel Nijman": "1.57"
+            "Damon Heta": "1.28",
+            "Berry van Peer": "3.40"
           },
-          "time": "2023-12-19 19:00:00",
-          "Handicap 2.5": {
-            "Steve Beaton +2.5": "1.20",
-            "Wessel Nijman -2.5": "4.50"
+          "time": "2023-12-29 12:30:00",
+          "Handicap -3.5": {
+            "Damon Heta -3.5": "4.50",
+            "Berry van Peer +3.5": "1.20"
           },
-          "Handicap 1.5": {
-            "Steve Beaton +1.5": "1.61",
-            "Wessel Nijman -1.5": "2.20"
+          "Handicap -2.5": {
+            "Damon Heta -2.5": "2.20",
+            "Berry van Peer +2.5": "1.61"
           },
-          "Handicap 0.5": {
-            "Steve Beaton +0.5": "2.30",
-            "Wessel Nijman -0.5": "1.57"
+          "Handicap -1.5": {
+            "Damon Heta -1.5": "1.57",
+            "Berry van Peer +1.5": "2.30"
           },
           "Match 180s (O/E/U)": {
-            "Over 8": "2.40",
-            "Exactly 8": "6.50",
-            "Under 8": "1.91"
+            "Over 12": "2.30",
+            "Exactly 12": "8.00",
+            "Under 12": "1.91"
           },
           "Match 180s (O/U)": {
-            "Over 7.5": "1.85",
-            "Under 7.5": "1.91"
+            "Over 11.5": "1.85",
+            "Under 11.5": "1.91"
           },
-          "Steve Beaton Total 180s": {
-            "Under 2.5": "2.10",
-            "Over 2.5": "1.67"
+          "Damon Heta Total 180s": {
+            "Under 7.5": "1.57",
+            "Over 7.5": "2.25"
           },
-          "Wessel Nijman Total 180s": {
-            "Under 4.5": "1.91",
-            "Over 4.5": "1.83"
+          "Berry van Peer Total 180s": {
+            "Under 4.5": "1.85",
+            "Over 4.5": "1.85"
           },
           "180s Match Bet": {
-            "Steve Beaton": "4.00",
-            "Tie": "7.00",
-            "Wessel Nijman": "1.44"
+            "Damon Heta": "1.40",
+            "Tie": "9.00",
+            "Berry van Peer": "3.80"
           },
           "Highest Match Checkout (O/B/U)": {
-            "Over 130": "2.38",
-            "120 - 130 Inc": "4.00",
-            "Under 120": "2.38"
+            "Over 140": "2.25",
+            "130 - 140 Inc": "5.00",
+            "Under 130": "2.25"
           },
           "Correct Score": {
-            "Steve Beaton 3-0": "7.50",
-            "Steve Beaton 3-1": "6.00",
-            "Steve Beaton 3-2": "6.00",
-            "Wessel Nijman 3-0": "4.50",
-            "Wessel Nijman 3-1": "4.20",
-            "Wessel Nijman 3-2": "5.25"
+            "Damon Heta 4-0": "4.50",
+            "Damon Heta 4-1": "4.00",
+            "Damon Heta 4-2": "5.00",
+            "Damon Heta 4-3": "6.00",
+            "Berry van Peer 4-0": "21.00",
+            "Berry van Peer 4-1": "13.00",
+            "Berry van Peer 4-2": "10.00",
+            "Berry van Peer 4-3": "10.00"
           },
           "Highest Match Checkout (O/U)": {
-            "Over 120.5": "1.61",
-            "Under 120.5": "2.15"
+            "Over 130.5": "1.67",
+            "Under 130.5": "2.10"
           },
-          "Steve Beaton Highest Checkout (O/U)": {
-            "Over 110.5": "2.05",
-            "Under 110.5": "1.73"
+          "Damon Heta Highest Checkout (O/U)": {
+            "Under 120.5": "2.10",
+            "Over 120.5": "1.70"
           },
-          "Wessel Nijman Highest Checkout (O/U)": {
-            "Under 110.5": "1.91",
-            "Over 110.5": "1.85"
+          "Berry van Peer Highest Checkout (O/U)": {
+            "Under 120.5": "1.73",
+            "Over 120.5": "2.05"
           },
-          "Steve Beaton Highest Checkout (O/B/U)": {
-            "Under 100": "2.15",
-            "Over 110": "2.05",
-            "100 - 110 Inc": "7.50"
+          "Damon Heta Highest Checkout (O/B/U)": {
+            "Under 120": "2.30",
+            "Over 130": "2.40",
+            "120 - 130 Inc": "4.20"
           },
-          "Wessel Nijman Highest Checkout (O/B/U)": {
-            "Under 110": "1.95",
-            "Over 120": "2.40",
+          "Berry van Peer Highest Checkout (O/B/U)": {
+            "Under 110": "2.30",
+            "Over 120": "2.05",
             "110 - 120 Inc": "6.00"
           },
           "Checkout Matchbet": {
-            "Steve Beaton": "2.00",
-            "Wessel Nijman": "1.75"
+            "Damon Heta": "1.61",
+            "Berry van Peer": "2.20"
           },
           "Win Match, High Checkout and Most 180s": {
-            "Steve Beaton": "11.00",
-            "Wessel Nijman": "2.88"
+            "Damon Heta": "2.25",
+            "Berry van Peer": "15.00"
           },
           "Match Total Sets (O/U)": {
-            "Under 4.5 Sets": "1.40",
-            "Over 4.5 Sets": "2.88"
+            "Under 5.5 Sets": "1.80",
+            "Over 5.5 Sets": "2.00"
+          }
+        },
+        "Jonny Clayton vs Krzysztof Ratajski": {
+          "Match Winner": {
+            "Jonny Clayton": "1.73",
+            "Krzysztof Ratajski": "2.05"
+          },
+          "time": "2023-12-29 13:30:00",
+          "Handicap -1.5": {
+            "Jonny Clayton -1.5": "2.30",
+            "Krzysztof Ratajski +1.5": "1.57"
+          },
+          "Handicap -0.5": {
+            "Jonny Clayton -0.5": "1.73",
+            "Krzysztof Ratajski +0.5": "2.05"
+          },
+          "Handicap 0.5": {
+            "Jonny Clayton +0.5": "1.73",
+            "Krzysztof Ratajski -0.5": "2.05"
+          },
+          "Match 180s (O/E/U)": {
+            "Over 10": "2.38",
+            "Exactly 10": "7.00",
+            "Under 10": "1.91"
+          },
+          "Match 180s (O/U)": {
+            "Over 9.5": "1.85",
+            "Under 9.5": "1.91"
+          },
+          "Jonny Clayton Total 180s": {
+            "Over 5.5": "2.15",
+            "Under 5.5": "1.67"
+          },
+          "Krzysztof Ratajski Total 180s": {
+            "Over 4.5": "1.95",
+            "Under 4.5": "1.80"
+          },
+          "180s Match Bet": {
+            "Jonny Clayton": "1.80",
+            "Tie": "7.00",
+            "Krzysztof Ratajski": "2.60"
+          },
+          "Highest Match Checkout (O/B/U)": {
+            "Over 140": "2.10",
+            "130 - 140 Inc": "5.00",
+            "Under 130": "2.40"
+          },
+          "Correct Score": {
+            "Jonny Clayton 4-0": "9.00",
+            "Jonny Clayton 4-1": "6.00",
+            "Jonny Clayton 4-2": "5.50",
+            "Jonny Clayton 4-3": "6.00",
+            "Krzysztof Ratajski 4-0": "12.00",
+            "Krzysztof Ratajski 4-1": "7.00",
+            "Krzysztof Ratajski 4-2": "6.50",
+            "Krzysztof Ratajski 4-3": "6.50"
+          },
+          "Highest Match Checkout (O/U)": {
+            "Over 140.5": "2.10",
+            "Under 140.5": "1.70"
+          },
+          "Jonny Clayton Highest Checkout (O/U)": {
+            "Over 120.5": "1.61",
+            "Under 120.5": "2.20"
+          },
+          "Krzysztof Ratajski Highest Checkout (O/U)": {
+            "Over 120.5": "1.80",
+            "Under 120.5": "1.95"
+          },
+          "Jonny Clayton Highest Checkout (O/B/U)": {
+            "Under 120": "2.40",
+            "Over 130": "2.30",
+            "120 - 130 Inc": "4.20"
+          },
+          "Krzysztof Ratajski Highest Checkout (O/B/U)": {
+            "Under 120": "2.15",
+            "Over 130": "2.60",
+            "120 - 130 Inc": "4.20"
+          },
+          "Checkout Matchbet": {
+            "Jonny Clayton": "1.75",
+            "Krzysztof Ratajski": "2.00"
+          },
+          "Win Match, High Checkout and Most 180s": {
+            "Jonny Clayton": "4.33",
+            "Krzysztof Ratajski": "8.00"
+          },
+          "Match Total Sets (O/U)": {
+            "Under 5.5 Sets": "2.25",
+            "Over 5.5 Sets": "1.61"
+          }
+        },
+        "Jim Williams vs Raymond van Barneveld": {
+          "Match Winner": {
+            "Jim Williams": "1.95",
+            "Raymond van Barneveld": "1.80"
+          },
+          "time": "2023-12-29 14:30:00",
+          "Handicap -1.5": {
+            "Jim Williams -1.5": "2.80",
+            "Raymond van Barneveld +1.5": "1.40"
+          },
+          "Handicap -0.5": {
+            "Jim Williams -0.5": "1.95",
+            "Raymond van Barneveld +0.5": "1.80"
+          },
+          "Handicap 0.5": {
+            "Jim Williams +0.5": "1.95",
+            "Raymond van Barneveld -0.5": "1.80"
+          },
+          "Match 180s (O/E/U)": {
+            "Over 12": "2.40",
+            "Exactly 12": "7.50",
+            "Under 12": "1.85"
+          },
+          "Match 180s (O/U)": {
+            "Over 11.5": "1.85",
+            "Under 11.5": "1.85"
+          },
+          "Jim Williams Total 180s": {
+            "Under 5.5": "1.95",
+            "Over 5.5": "1.80"
+          },
+          "Raymond van Barneveld Total 180s": {
+            "Under 5.5": "1.95",
+            "Over 5.5": "1.80"
+          },
+          "180s Match Bet": {
+            "Jim Williams": "2.10",
+            "Tie": "7.50",
+            "Raymond van Barneveld": "2.10"
+          },
+          "Highest Match Checkout (O/B/U)": {
+            "Over 140": "2.25",
+            "130 - 140 Inc": "5.00",
+            "Under 130": "2.25"
+          },
+          "Correct Score": {
+            "Jim Williams 4-0": "13.00",
+            "Jim Williams 4-1": "7.00",
+            "Jim Williams 4-2": "6.00",
+            "Jim Williams 4-3": "6.00",
+            "Raymond van Barneveld 4-0": "11.00",
+            "Raymond van Barneveld 4-1": "6.50",
+            "Raymond van Barneveld 4-2": "5.50",
+            "Raymond van Barneveld 4-3": "5.50"
+          },
+          "Highest Match Checkout (O/U)": {
+            "Over 130.5": "1.67",
+            "Under 130.5": "2.10"
+          },
+          "Jim Williams Highest Checkout (O/U)": {
+            "Under 120.5": "1.80",
+            "Over 120.5": "2.00"
+          },
+          "Raymond van Barneveld Highest Checkout (O/U)": {
+            "Under 120.5": "2.00",
+            "Over 120.5": "1.75"
+          },
+          "Jim Williams Highest Checkout (O/B/U)": {
+            "Under 110": "2.50",
+            "Over 120": "2.00",
+            "110 - 120 Inc": "5.50"
+          },
+          "Raymond van Barneveld Highest Checkout (O/B/U)": {
+            "Under 120": "2.20",
+            "Over 130": "2.50",
+            "120 - 130 Inc": "4.20"
+          },
+          "Checkout Matchbet": {
+            "Jim Williams": "2.05",
+            "Raymond van Barneveld": "1.73"
+          },
+          "Win Match, High Checkout and Most 180s": {
+            "Jim Williams": "6.00",
+            "Raymond van Barneveld": "5.00"
+          },
+          "Match Total Sets (O/U)": {
+            "Under 5.5 Sets": "2.40",
+            "Over 5.5 Sets": "1.57"
+          }
+        },
+        "Boris Krcmar vs Gary Anderson": {
+          "Match Winner": {
+            "Boris Krcmar": "4.20",
+            "Gary Anderson": "1.20"
+          },
+          "time": "2023-12-29 19:00:00",
+          "Handicap 3.5": {
+            "Boris Krcmar +3.5": "1.28",
+            "Gary Anderson -3.5": "3.50"
+          },
+          "Handicap 2.5": {
+            "Boris Krcmar +2.5": "1.85",
+            "Gary Anderson -2.5": "1.91"
+          },
+          "Handicap 1.5": {
+            "Boris Krcmar +1.5": "2.80",
+            "Gary Anderson -1.5": "1.40"
+          },
+          "Match 180s (O/E/U)": {
+            "Over 11": "2.40",
+            "Exactly 11": "7.50",
+            "Under 11": "1.85"
+          },
+          "Match 180s (O/U)": {
+            "Over 10.5": "1.85",
+            "Under 10.5": "1.85"
+          },
+          "Boris Krcmar Total 180s": {
+            "Under 3.5": "2.05",
+            "Over 3.5": "1.73"
+          },
+          "Gary Anderson Total 180s": {
+            "Over 6.5": "1.85",
+            "Under 6.5": "1.85"
+          },
+          "180s Match Bet": {
+            "Boris Krcmar": "4.75",
+            "Tie": "9.00",
+            "Gary Anderson": "1.30"
+          },
+          "Highest Match Checkout (O/B/U)": {
+            "Over 140": "2.40",
+            "130 - 140 Inc": "5.00",
+            "Under 130": "2.10"
+          },
+          "Correct Score": {
+            "Boris Krcmar 4-0": "23.00",
+            "Boris Krcmar 4-1": "16.00",
+            "Boris Krcmar 4-2": "13.00",
+            "Boris Krcmar 4-3": "13.00",
+            "Gary Anderson 4-0": "3.50",
+            "Gary Anderson 4-1": "3.80",
+            "Gary Anderson 4-2": "4.75",
+            "Gary Anderson 4-3": "6.50"
+          },
+          "Highest Match Checkout (O/U)": {
+            "Over 130.5": "1.75",
+            "Under 130.5": "1.95"
+          },
+          "Boris Krcmar Highest Checkout (O/U)": {
+            "Over 110.5": "1.75",
+            "Under 110.5": "2.00"
+          },
+          "Gary Anderson Highest Checkout (O/U)": {
+            "Under 120.5": "2.05",
+            "Over 120.5": "1.73"
+          },
+          "Boris Krcmar Highest Checkout (O/B/U)": {
+            "Under 110": "2.10",
+            "Over 120": "2.25",
+            "110 - 120 Inc": "6.00"
+          },
+          "Gary Anderson Highest Checkout (O/B/U)": {
+            "Under 120": "2.25",
+            "Over 130": "2.50",
+            "120 - 130 Inc": "4.00"
+          },
+          "Checkout Matchbet": {
+            "Boris Krcmar": "2.30",
+            "Gary Anderson": "1.57"
+          },
+          "Win Match, High Checkout and Most 180s": {
+            "Boris Krcmar": "19.00",
+            "Gary Anderson": "1.85"
+          },
+          "Match Total Sets (O/U)": {
+            "Under 5.5 Sets": "1.67",
+            "Over 5.5 Sets": "2.20"
           }
         }
       }

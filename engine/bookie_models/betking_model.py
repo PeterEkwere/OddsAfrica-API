@@ -4,6 +4,7 @@
     Author: Peter Ekwere
 """
 import requests
+from utils.logger.log import log_exception, log_success
 from utils.parser.scrub import Parse
 from engine.storage_engine.vault import Vault
 from utils.library.url_library.betking_urls import FOOTBALL, VOLLEYBALL, BASKETBALL, ICEHOCKEY, DARTS, TENNIS
@@ -60,13 +61,12 @@ class betking:
                             league_games.append(a_league_game)
                         result_dict, league = Parse.clean(self, league_games, self.bookie_name)
                         league_dict[league] = result_dict
-                    print(f"Scraped {league}")
+                        log_success(f"Scraped {league}")
                 except Exception as e:
-                    print(f"Error getting games for {country}, league id: {league_id}, game id: {game_id}, Error: {e}")
+                    log_exception(f"Error getting games for {country}, league id: {league_id}, Error: {e}")
             all_leagues[country] = league_dict
-            print(f"Finished scraping {country}")
         Vault.save_games(self, all_leagues, self.bookie_name, Sport)
-        return games
+        log_success(f"Successfully Scraped and Saved {self.bookie_name} {Sport}")
     
     
     

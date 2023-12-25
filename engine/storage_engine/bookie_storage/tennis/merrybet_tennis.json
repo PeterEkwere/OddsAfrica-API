@@ -3,38 +3,8 @@
   "UTR": [],
   "WTA": [],
   "ITF": [
-    {
-      "Itf Chile F1, Men Singles": {
-        " Nicolas Kicker - Facundo Mena": {
-          "Winner": {
-            " Nicolas Kicker": 1.54,
-            "Facundo Mena": 2.25
-          },
-          "time": 1702216800000
-        }
-      }
-    },
-    {
-      "Itf United Arab Emirates 01A, Women Singles": {
-        "Anastasia Tikhonova - Arianne Hartono": {
-          "Winner": {
-            "Anastasia Tikhonova": 1.61,
-            "Arianne Hartono": 2.1
-          },
-          "time": 1702204200000
-        }
-      }
-    },
-    {
-      "ITF Turkiye 28A, Women Doubles": {
-        "Rivkin N / Tsygourova K - Aikawa M / Mettraux M": {
-          "Winner": {
-            "Rivkin N / Tsygourova K": 2.4,
-            "Aikawa M / Mettraux M": 1.48
-          },
-          "time": 1702198800000
-        }
-      }
-    }
+    null,
+    null,
+    null
   ]
 }

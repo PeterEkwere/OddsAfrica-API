@@ -3,6 +3,7 @@
     This module houses the class for nairabet
     Author: Peter Ekwere
 """
+from utils.logger.log import log_exception, log_error, log_success
 import requests
 from utils.parser.scrub import Parse
 from engine.storage_engine.vault import Vault
@@ -54,13 +55,12 @@ class livescorebet:
                     league_json = livescorebet.get_league_games(league_id, livescorebet.headers)
                     result_dict, league = Parse.clean(self, league_json, self.bookie_name)
                     league_dict[league] = result_dict
-                    print(f"Scraped {league}")
+                    log_success(f"Scraped {league}")
                 except Exception as e:
-                    print(f"Error getting games for {country}, league id: {league_id}, Error: {e}")
+                    log_exception(f"Error getting games for {country}, league id: {league_id}, Error: {e}")
             all_leagues[country] = league_dict
-            print(f"Finished scraping {country}")
         Vault.save_games(self, all_leagues, self.bookie_name, Sport)
-    
+        log_success(f"Successfully Scraped and Saved {self.bookie_name} {Sport}")
     
     def get_league_games(league_id, headers):
         """ Every league returned from the livescorebet API has an id 

@@ -3,6 +3,7 @@
     This module houses the class for nairabet
     Author: Peter Ekwere
 """
+from utils.logger.log import log_error, log_success, log_exception
 import requests
 from utils.parser.scrub import Parse
 from engine.storage_engine.vault import Vault
@@ -58,17 +59,17 @@ class nairabet:
                         games_count += 1
                         a_league_game = nairabet.get_markets_for_game(game_id, nairabet.headers)
                         league_games.append(a_league_game)
-                    print(f"Scraping {country} {Sport}")
+                    log_success(f"Scraping {country} {Sport}")
                     games.append(Parse.clean(self, league_games, self.bookie_name))
                 except Exception as e:
-                    print(f"Error getting games for {country}, league id: {league_id}, game id: {game_id}, Error: {e}")
+                    log_exception(f"Error getting games for {country}, league id: {league_id}, game id: {game_id}, Error: {e}")
             all_leagues[country] = games 
         if Sport == 'soccer':
             Sport = 'football'
         elif Sport == 'ice_hockey':
             Sport = "icehockey"   
         Vault.save_games(self, all_leagues, self.bookie_name, Sport)
-        return games
+        log_success(f"Successfully Scraped and Saved {self.bookie_name} {Sport}")
     
     
     

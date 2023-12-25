@@ -4,7 +4,9 @@
     Author: Peter Ekwere 
 """
 import requests
+import codecs
 from retrying import retry
+from utils.logger.log import log_error
 
     
 
@@ -36,5 +38,5 @@ class Scraper:
             data = Scraper.make_request(self, url)
             return data
         except Exception as e:
-            print(f"Error making request: {e}")
+            log_error(f"Error making request: {e}")
             return None

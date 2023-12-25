@@ -16,8 +16,8 @@
     "Exhibition Games": {
       "Djokovic, Novak vs Alcaraz, Carlos": {
         "Winner": {
-          "Home": 1.52,
-          "Away": 2.35
+          "Home": 1.51,
+          "Away": 2.4
         }
       }
     },
@@ -54,22 +54,22 @@
     "United Cup": {
       "Davidovich Fokina, Alejandro vs Seyboth Wild, Thiago": {
         "Winner": {
-          "Home": 1.35,
-          "Away": 3.05
+          "Home": 1.36,
+          "Away": 3.0
         },
         "Set handicap -1.5": {
-          "Home (-1.5)": 1.97,
-          "Away (+1.5)": 1.75
+          "Home (-1.5)": 1.99,
+          "Away (+1.5)": 1.73
         },
         "Set handicap 1.5": {
           "Home (+1.5)": 1.15,
-          "Away (-1.5)": 4.8
+          "Away (-1.5)": 4.75
         }
       },
       "Spain vs Brazil": {
         "Winner": {
-          "Home": 2.45,
-          "Away": 1.51
+          "Home": 2.35,
+          "Away": 1.56
         }
       },
       "Sorribes Tormo, Sara vs Haddad Maia, Beatriz": {
@@ -86,6 +86,12 @@
           "Away (-1.5)": 1.79
         }
       },
+      "Great Britain vs Australia": {
+        "Winner": {
+          "Home": 2.45,
+          "Away": 1.52
+        }
+      },
       "Norrie, Cameron vs de Minaur, Alex": {
         "Winner": {
           "Home": 2.45,
@@ -93,7 +99,7 @@
         },
         "Set handicap -1.5": {
           "Home (-1.5)": 3.9,
-          "Away (+1.5)": 1.21
+          "Away (+1.5)": 1.22
         },
         "Set handicap 1.5": {
           "Home (+1.5)": 1.58,
@@ -103,15 +109,21 @@
       "Boulter, Katie vs Tomljanovic, Ajla": {
         "Winner": {
           "Home": 2.15,
-          "Away": 1.66
+          "Away": 1.64
         },
         "Set handicap -1.5": {
-          "Home (-1.5)": 3.25,
-          "Away (+1.5)": 1.3
+          "Home (-1.5)": 3.4,
+          "Away (+1.5)": 1.27
         },
         "Set handicap 1.5": {
-          "Home (+1.5)": 1.48,
-          "Away (-1.5)": 2.45
+          "Home (+1.5)": 1.51,
+          "Away (-1.5)": 2.4
+        }
+      },
+      "Netherlands vs Norway": {
+        "Winner": {
+          "Home": 1.19,
+          "Away": 4.15
         }
       },
       "Rus, Arantxa vs Helgo, Malene": {
@@ -120,32 +132,32 @@
           "Away": 6.2
         },
         "Set handicap -1.5": {
-          "Home (-1.5)": 1.28,
-          "Away (+1.5)": 3.35
+          "Home (-1.5)": 1.33,
+          "Away (+1.5)": 3.05
         },
         "Set handicap 1.5": {
-          "Home (+1.5)": 1.02,
-          "Away (-1.5)": 9.9
+          "Home (+1.5)": 1.03,
+          "Away (-1.5)": 9.5
         }
       },
       "Griekspoor, Tallon vs Ruud, Casper": {
         "Winner": {
           "Home": 2.45,
-          "Away": 1.5
+          "Away": 1.52
         },
         "Set handicap -1.5": {
-          "Home (-1.5)": 3.9,
-          "Away (+1.5)": 1.21
+          "Home (-1.5)": 3.85,
+          "Away (+1.5)": 1.22
         },
         "Set handicap 1.5": {
-          "Home (+1.5)": 1.58,
+          "Home (+1.5)": 1.57,
           "Away (-1.5)": 2.25
         }
       },
       "Czech Republic vs China": {
         "Winner": {
-          "Home": 1.51,
-          "Away": 2.45
+          "Home": 1.6,
+          "Away": 2.25
         }
       },
       "Lehecka, Jiri vs Zhang, Zhizhen": {
@@ -164,22 +176,16 @@
       },
       "Vondrousova, Marketa vs Zheng, Qinwen": {
         "Winner": {
-          "Home": 1.87,
-          "Away": 1.87
+          "Home": 1.91,
+          "Away": 1.83
         },
         "Set handicap -1.5": {
           "Home (-1.5)": 2.9,
-          "Away (+1.5)": 1.37
+          "Away (+1.5)": 1.36
         },
         "Set handicap 1.5": {
-          "Home (+1.5)": 1.37,
-          "Away (-1.5)": 2.85
-        }
-      },
-      "Italy vs Germany": {
-        "Winner": {
-          "Home": 2.55,
-          "Away": 1.48
+          "Home (+1.5)": 1.39,
+          "Away (-1.5)": 2.75
         }
       },
       "Paolini, Jasmine vs Kerber, Angelique": {
@@ -212,16 +218,16 @@
       },
       "Swiatek, Iga vs Haddad Maia, Beatriz": {
         "Winner": {
-          "Home": 1.17,
-          "Away": 4.7
+          "Home": 1.16,
+          "Away": 4.8
         },
         "Set handicap -1.5": {
-          "Home (-1.5)": 1.52,
+          "Home (-1.5)": 1.5,
           "Away (+1.5)": 2.4
         },
         "Set handicap 1.5": {
           "Home (+1.5)": 1.06,
-          "Away (-1.5)": 7.4
+          "Away (-1.5)": 7.5
         }
       },
       "Hurkacz, Hubert vs Seyboth Wild, Thiago": {
@@ -238,14 +244,20 @@
           "Away (-1.5)": 7.75
         }
       },
+      "Canada vs Chile": {
+        "Winner": {
+          "Home": 1.08,
+          "Away": 7.1
+        }
+      },
       "Fernandez, Leylah Annie vs Seguel, Daniela": {
         "Winner": {
           "Home": 1.02,
-          "Away": 11.0
+          "Away": 11.5
         },
         "Set handicap -1.5": {
-          "Home (-1.5)": 1.15,
-          "Away (+1.5)": 4.75
+          "Home (-1.5)": 1.13,
+          "Away (+1.5)": 5.0
         },
         "Set handicap 1.5": {
           "Home (+1.5)": 1.01,

@@ -23,9 +23,9 @@ def extract_merrybet(json_data):
         for game in data["data"]:
             league = game["category3Name"]
             gamename = game["eventName"]
-            time = game.get("eventStart", None)
-            start_time = datetime.utcfromtimestamp(time)
-            start_time = start_time.strftime("%Y-%m-%d %H:%M:%S")
+            #time = game.get("eventStart", None)
+            #start_time = #datetime.utcfromtimestamp(time)
+            start_time = "" #start_time.strftime("%Y-%m-%d %H:%M:%S")
             for markets in game["eventGames"]:
                 market = markets["gameName"]
                 if market not in result_dict.get(league, {}).get(gamename, {}):
@@ -37,7 +37,10 @@ def extract_merrybet(json_data):
                     
                     outcome_name = outcome_name.replace(f"{home_team} or draw", "1X") \
                                         .replace(f"{home_team} or {away_team}", "12") \
-                                        .replace(f"draw or {away_team}", "X2")
+                                        .replace(f"draw or {away_team}", "X2")\
+                                        .replace(f"{home_team}", "1")\
+                                        .replace(f"{away_team}", "2")\
+                                        .replace(f"draw", "X")
                     if "time" not in result_dict[league][gamename]:
                         result_dict[league][gamename]["time"] = start_time
                     if outcome_name not in result_dict[league][gamename][market]:
