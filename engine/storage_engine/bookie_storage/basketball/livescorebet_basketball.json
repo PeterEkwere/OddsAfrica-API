@@ -4,34 +4,49 @@
   },
   "Australia": {
     "Australia - NBL": {
-      "Cairns Taipans vs Perth Wildcats": {
-        "time": "2023-12-26 08:30:00",
+      "Brisbane Bullets vs New Zealand Breakers": {
+        "time": "2023-12-27 08:30:00",
         "Money line": {
-          "Cairns Taipans": 1.84745763,
-          "Perth Wildcats": 1.98039216
+          "1": 2.2,
+          "2": 1.70422536
         },
         "Spread": {
-          "Cairns Taipans -1": 1.92592593,
-          "Perth Wildcats +1": 1.89285715
+          "2 -3": 1.92592593,
+          "1 +3": 1.89285715
         },
         "Over/under": {
           "Over 178": 1.89285715,
           "Under 178": 1.92592593
         }
       },
-      "Brisbane Bullets vs New Zealand Breakers": {
-        "time": "2023-12-27 08:30:00",
+      "Adelaide 36ers vs Perth Wildcats": {
+        "time": "2023-12-28 08:30:00",
         "Money line": {
-          "Brisbane Bullets": 2.2,
-          "New Zealand Breakers": 1.70422536
+          "1": 2.64,
+          "2": 1.50505051
         },
         "Spread": {
-          "New Zealand Breakers -3": 1.92592593,
-          "Brisbane Bullets +3": 1.89285715
+          "2 -4.5": 1.90909091,
+          "1 +4.5": 1.90909091
         },
         "Over/under": {
-          "Over 178": 1.89285715,
-          "Under 178": 1.92592593
+          "Over 181": 1.90909091,
+          "Under 181": 1.90909091
+        }
+      },
+      "Sydney Kings vs Cairns Taipans": {
+        "time": "2023-12-29 08:30:00",
+        "Money line": {
+          "1": 1.3773585,
+          "2": 3.15
+        },
+        "Spread": {
+          "1 -6": 1.92592593,
+          "2 +6": 1.89285715
+        },
+        "Over/under": {
+          "Over 183.5": 1.89285715,
+          "Under 183.5": 1.92592593
         }
       }
     },
@@ -39,16 +54,61 @@
       "Perth Lynx [W] vs Canberra Capitals [W]": {
         "time": "2023-12-27 10:30:00",
         "Money line": {
-          "Perth Lynx [W]": 1.25,
-          "Canberra Capitals [W]": 3.7
+          "1": 1.27027027,
+          "2": 3.5
         },
         "Spread": {
-          "Perth Lynx [W] -8.5": 1.86956522,
-          "Canberra Capitals [W] +8.5": 1.86956522
+          "1 -8": 1.90090091,
+          "2 +8": 1.84033614
         },
         "Over/under": {
-          "Over 162.5": 1.87719299,
-          "Under 162.5": 1.86206897
+          "Over 162": 1.86956522,
+          "Under 162": 1.86956522
+        }
+      },
+      "Sydney Uni Flames [W] vs Townsville Fire [W]": {
+        "time": "2023-12-29 06:00:00",
+        "Money line": {
+          "1": 3.4,
+          "2": 1.28571429
+        },
+        "Spread": {
+          "2 -7.5": 1.86206897,
+          "1 +7.5": 1.87719299
+        },
+        "Over/under": {
+          "Over 145": 1.86956522,
+          "Under 145": 1.86956522
+        }
+      },
+      "Melbourne Boomers [W] vs Bendigo Spirit [W]": {
+        "time": "2023-12-30 06:00:00",
+        "Money line": {
+          "1": 1.4,
+          "2": 2.8
+        },
+        "Spread": {
+          "1 -5.5": 1.86956522,
+          "2 +5.5": 1.86956522
+        },
+        "Over/under": {
+          "Over 148.5": 1.86956522,
+          "Under 148.5": 1.86956522
+        }
+      },
+      "Adelaide Link Lightning [W] vs Southside Flyers [W]": {
+        "time": "2023-12-30 08:30:00",
+        "Money line": {
+          "1": 2.45,
+          "2": 1.5
+        },
+        "Spread": {
+          "2 -4": 1.87719299,
+          "1 +4": 1.86206897
+        },
+        "Over/under": {
+          "Over 152.5": 1.86956522,
+          "Under 152.5": 1.86956522
         }
       }
     }
@@ -58,57 +118,57 @@
       "SKN St. Polten vs BBC Nord": {
         "time": "2023-12-26 15:00:00",
         "Money line": {
-          "SKN St. Polten": 1.03125,
-          "BBC Nord": 9.5
+          "1": 1.01923077,
+          "2": 10.75
         },
         "Spread": {
-          "SKN St. Polten -22": 1.86956522,
-          "BBC Nord +22": 1.86956522
+          "1 -22.5": 1.84033614,
+          "2 +22.5": 1.90090091
         },
         "Over/under": {
-          "Over 165.5": 1.86206897,
-          "Under 165.5": 1.87719299
+          "Over 162": 1.86956522,
+          "Under 162": 1.86956522
         }
       },
       "Arkadia Traiskirchen Lions vs Hallmann Vienna": {
         "time": "2023-12-26 16:30:00",
         "Money line": {
-          "Arkadia Traiskirchen Lions": 1.66666667,
-          "Hallmann Vienna": 2.15
+          "1": 1.74074075,
+          "2": 2.0
         },
         "Spread": {
-          "Arkadia Traiskirchen Lions -3.5": 1.86206897,
-          "Hallmann Vienna +3.5": 1.87719299
+          "1 -2.5": 1.84033614,
+          "2 +2.5": 1.90090091
         },
         "Over/under": {
-          "Over 156.5": 1.85470086,
-          "Under 156.5": 1.88495576
+          "Over 154.5": 1.86956522,
+          "Under 154.5": 1.86956522
         }
       },
       "Furstenfeld Panthers vs Kapfenberg Bulls": {
         "time": "2023-12-26 16:30:00",
         "Money line": {
-          "Furstenfeld Panthers": 9.25,
-          "Kapfenberg Bulls": 1.03571429
+          "1": 9.0,
+          "2": 1.03846154
         },
         "Spread": {
-          "Kapfenberg Bulls -19.5": 1.86206897,
-          "Furstenfeld Panthers +19.5": 1.87719299
+          "2 -18.5": 1.84033614,
+          "1 +18.5": 1.90090091
         },
         "Over/under": {
-          "Over 168": 1.85470086,
-          "Under 168": 1.88495576
+          "Over 168": 1.86956522,
+          "Under 168": 1.86956522
         }
       },
       "Oberwart Gunners vs UBSC Graz": {
         "time": "2023-12-26 16:30:00",
         "Money line": {
-          "Oberwart Gunners": 1.5,
-          "UBSC Graz": 2.45
+          "1": 1.5,
+          "2": 2.45
         },
         "Spread": {
-          "Oberwart Gunners -4": 1.85470086,
-          "UBSC Graz +4": 1.88495576
+          "1 -4": 1.85470086,
+          "2 +4": 1.88495576
         },
         "Over/under": {
           "Over 154": 1.84745763,
@@ -118,27 +178,27 @@
       "Vienna DC Timberwolves vs Dukes Klosterneuburg": {
         "time": "2023-12-26 16:30:00",
         "Money line": {
-          "Vienna DC Timberwolves": 5.0,
-          "Dukes Klosterneuburg": 1.14285715
+          "1": 6.75,
+          "2": 1.0909091
         },
         "Spread": {
-          "Dukes Klosterneuburg -11": 1.89285715,
-          "Vienna DC Timberwolves +11": 1.84745763
+          "2 -14": 1.87719299,
+          "1 +14": 1.86206897
         },
         "Over/under": {
-          "Over 149.5": 1.88495576,
-          "Under 149.5": 1.85470086
+          "Over 154": 1.88495576,
+          "Under 154": 1.85470086
         }
       },
       "Flyers Wels vs Swans Gmunden": {
         "time": "2023-12-26 18:15:00",
         "Money line": {
-          "Flyers Wels": 1.86956522,
-          "Swans Gmunden": 1.86956522
+          "1": 1.86956522,
+          "2": 1.86956522
         },
         "Spread": {
-          "Flyers Wels -1": 1.90090091,
-          "Swans Gmunden +1": 1.84033614
+          "1 -1": 1.90090091,
+          "2 +1": 1.84033614
         },
         "Over/under": {
           "Over 157.5": 1.86206897,
@@ -152,27 +212,27 @@
       "Al Hala vs Isa Town": {
         "time": "2023-12-26 14:30:00",
         "Spread": {
-          "Al Hala -23.5": 1.83333334,
-          "Isa Town +23.5": 1.83333334
+          "1 -26.5": 1.85470086,
+          "2 +26.5": 1.81300814
         },
         "Over/under": {
-          "Over 168.5": 1.82644629,
-          "Under 168.5": 1.84033614
+          "Over 169": 1.82644629,
+          "Under 169": 1.84033614
         }
       },
       "Bahrain Club vs Samaheej": {
         "time": "2023-12-26 16:30:00",
         "Money line": {
-          "Bahrain Club": 5.5,
-          "Samaheej": 1.13888889
+          "1": 7.5,
+          "2": 1.08695653
         },
         "Spread": {
-          "Samaheej -12": 1.83333334,
-          "Bahrain Club +12": 1.83333334
+          "2 -14": 1.81300814,
+          "1 +14": 1.85470086
         },
         "Over/under": {
-          "Over 158.5": 1.84033614,
-          "Under 158.5": 1.82644629
+          "Over 158.5": 1.83333334,
+          "Under 158.5": 1.83333334
         }
       }
     }
@@ -182,12 +242,12 @@
       "CA Paulistano vs Mogi Das Cruzes": {
         "time": "2023-12-27 20:30:00",
         "Money line": {
-          "CA Paulistano": 1.17391305,
-          "Mogi Das Cruzes": 5.25
+          "1": 1.17391305,
+          "2": 5.25
         },
         "Spread": {
-          "CA Paulistano -11": 1.92592593,
-          "Mogi Das Cruzes +11": 1.89285715
+          "1 -11": 1.92592593,
+          "2 +11": 1.89285715
         },
         "Over/under": {
           "Over 148": 1.89285715,
@@ -197,12 +257,12 @@
       "Minas vs Caxias do Sul": {
         "time": "2023-12-27 22:00:00",
         "Money line": {
-          "Minas": 1.11764706,
-          "Caxias do Sul": 6.75
+          "1": 1.11764706,
+          "2": 6.75
         },
         "Spread": {
-          "Minas -13.5": 1.89285715,
-          "Caxias do Sul +13.5": 1.92592593
+          "1 -13.5": 1.89285715,
+          "2 +13.5": 1.92592593
         },
         "Over/under": {
           "Over 156": 1.89285715,
@@ -212,12 +272,12 @@
       "Fortaleza Basquete Cearense vs Cerrado": {
         "time": "2023-12-27 22:30:00",
         "Money line": {
-          "Fortaleza Basquete Cearense": 1.3773585,
-          "Cerrado": 3.15
+          "1": 1.3773585,
+          "2": 3.15
         },
         "Spread": {
-          "Fortaleza Basquete Cearense -6.5": 1.92592593,
-          "Cerrado +6.5": 1.89285715
+          "1 -6.5": 1.92592593,
+          "2 +6.5": 1.89285715
         },
         "Over/under": {
           "Over 149.5": 1.89285715,
@@ -227,12 +287,12 @@
       "Pato Basquete vs Uniao Corinthians": {
         "time": "2023-12-27 22:30:00",
         "Money line": {
-          "Pato Basquete": 1.4587156,
-          "Uniao Corinthians": 2.8
+          "1": 1.4587156,
+          "2": 2.8
         },
         "Spread": {
-          "Pato Basquete -5": 1.89285715,
-          "Uniao Corinthians +5": 1.92592593
+          "1 -5": 1.89285715,
+          "2 +5": 1.92592593
         },
         "Over/under": {
           "Over 152.5": 1.89285715,
@@ -242,12 +302,12 @@
       "Unifacisa vs Uniceub BRB Brasilia": {
         "time": "2023-12-27 22:30:00",
         "Money line": {
-          "Unifacisa": 1.13333334,
-          "Uniceub BRB Brasilia": 6.25
+          "1": 1.13333334,
+          "2": 6.25
         },
         "Spread": {
-          "Unifacisa -13": 1.92592593,
-          "Uniceub BRB Brasilia +13": 1.89285715
+          "1 -13": 1.92592593,
+          "2 +13": 1.89285715
         },
         "Over/under": {
           "Over 160.5": 1.89285715,
@@ -257,27 +317,27 @@
       "Corinthians vs Vasco Da Gama": {
         "time": "2023-12-27 23:00:00",
         "Money line": {
-          "Corinthians": 1.81967214,
-          "Vasco Da Gama": 2.02
+          "1": 1.81967214,
+          "2": 2.02
         },
         "Spread": {
-          "Corinthians -1.5": 1.92592593,
-          "Vasco Da Gama +1.5": 1.89285715
+          "1 -1.5": 1.92592593,
+          "2 +1.5": 1.89285715
         },
         "Over/under": {
-          "Over 151.5": 1.92592593,
-          "Under 151.5": 1.89285715
+          "Over 152.5": 1.90909091,
+          "Under 152.5": 1.90909091
         }
       },
       "Pinheiros vs Flamengo": {
         "time": "2023-12-27 23:00:00",
         "Money line": {
-          "Pinheiros": 4.0,
-          "Flamengo": 1.2631579
+          "1": 4.0,
+          "2": 1.2631579
         },
         "Spread": {
-          "Flamengo -9.5": 1.89285715,
-          "Pinheiros +9.5": 1.92592593
+          "2 -9.5": 1.89285715,
+          "1 +9.5": 1.92592593
         },
         "Over/under": {
           "Over 155": 1.92592593,
@@ -287,16 +347,31 @@
       "Sao Paulo vs Sao Jose": {
         "time": "2023-12-27 23:00:00",
         "Money line": {
-          "Sao Paulo": 1.8,
-          "Sao Jose": 2.05
+          "1": 1.81967214,
+          "2": 2.02
         },
         "Spread": {
-          "Sao Paulo -2.5": 1.95238096,
-          "Sao Jose +2.5": 1.86956522
+          "1 -2": 1.86956522,
+          "2 +2": 1.95238096
         },
         "Over/under": {
           "Over 156": 1.89285715,
           "Under 156": 1.92592593
+        }
+      },
+      "Franca vs Paschoalotto Bauru": {
+        "time": "2023-12-28 23:00:00",
+        "Money line": {
+          "1": 1.1923077,
+          "2": 4.9
+        },
+        "Spread": {
+          "1 -10.5": 1.95238096,
+          "2 +10.5": 1.86956522
+        },
+        "Over/under": {
+          "Over 158": 1.90909091,
+          "Under 158": 1.90909091
         }
       }
     }
@@ -308,32 +383,24 @@
     "China - CBA": {
       "Guangzhou vs Liaoning": {
         "time": "2023-12-26 11:35:00",
-        "Money line": {
-          "Guangzhou": 3.2,
-          "Liaoning": 1.37037038
-        },
         "Spread": {
-          "Liaoning -8": 1.92592593,
-          "Guangzhou +8": 1.89285715
+          "2 -11.5": 1.86000001,
+          "1 +11.5": 1.86000001
         },
         "Over/under": {
-          "Over 192": 1.90909091,
-          "Under 192": 1.90909091
+          "Over 173.5": 1.71411936,
+          "Under 173.5": 1.98583474
         }
       },
       "Sichuan vs Beijing Ducks": {
         "time": "2023-12-26 11:35:00",
-        "Money line": {
-          "Sichuan": 5.25,
-          "Beijing Ducks": 1.17391305
-        },
         "Spread": {
-          "Beijing Ducks -14": 1.90909091,
-          "Sichuan +14": 1.90909091
+          "2 -9.5": 1.73180579,
+          "1 +9.5": 2.00869015
         },
         "Over/under": {
-          "Over 209.5": 1.90909091,
-          "Under 209.5": 1.90909091
+          "Over 215.5": 1.84000001,
+          "Under 215.5": 1.84000001
         }
       }
     }
@@ -347,46 +414,46 @@
       "Horsens vs Bakken Bears": {
         "time": "2023-12-28 18:00:00",
         "Money line": {
-          "Horsens": 3.15,
-          "Bakken Bears": 1.32258065
+          "1": 3.15,
+          "2": 1.32258065
         },
         "Spread": {
-          "Bakken Bears -6.5": 1.84033614,
-          "Horsens +6.5": 1.90090091
+          "2 -6.5": 1.84033614,
+          "1 +6.5": 1.90090091
         },
         "Over/under": {
-          "Over 170": 1.84745763,
-          "Under 170": 1.89285715
+          "Over 171": 1.87719299,
+          "Under 171": 1.86206897
         }
       },
       "Naestved vs BMS Herlev Wolfpack": {
         "time": "2023-12-28 18:15:00",
         "Money line": {
-          "Naestved": 1.01428572,
-          "BMS Herlev Wolfpack": 11.0
+          "1": 1.01428572,
+          "2": 11.0
         },
         "Spread": {
-          "Naestved -24.5": 1.84033614,
-          "BMS Herlev Wolfpack +24.5": 1.90090091
+          "1 -25": 1.90090091,
+          "2 +25": 1.84033614
         },
         "Over/under": {
-          "Over 170": 1.86206897,
-          "Under 170": 1.87719299
+          "Over 170.5": 1.89285715,
+          "Under 170.5": 1.84745763
         }
       },
       "Vaerlose vs BK Amager": {
         "time": "2023-12-28 18:15:00",
         "Money line": {
-          "Vaerlose": 1.04761905,
-          "BK Amager": 8.25
+          "1": 1.05,
+          "2": 8.25
         },
         "Spread": {
-          "Vaerlose -18.5": 1.90090091,
-          "BK Amager +18.5": 1.84033614
+          "1 -18": 1.84745763,
+          "2 +18": 1.89285715
         },
         "Over/under": {
-          "Over 171": 1.86956522,
-          "Under 171": 1.86956522
+          "Over 173.5": 1.89285715,
+          "Under 173.5": 1.84745763
         }
       }
     }
@@ -399,12 +466,12 @@
       "Anadolu Efes vs Fenerbahce": {
         "time": "2023-12-28 17:30:00",
         "Money line": {
-          "Anadolu Efes": 2.35,
-          "Fenerbahce": 1.625
+          "1": 2.35,
+          "2": 1.625
         },
         "Spread": {
-          "Fenerbahce -3.5": 1.93457944,
-          "Anadolu Efes +3.5": 1.88495576
+          "2 -3.5": 1.93457944,
+          "1 +3.5": 1.88495576
         },
         "Over/under": {
           "Over 163.5": 1.90090091,
@@ -414,12 +481,12 @@
       "KK Partizan Nis Belgrade vs Virtus Bologna": {
         "time": "2023-12-28 17:30:00",
         "Money line": {
-          "KK Partizan Nis Belgrade": 1.48780488,
-          "Virtus Bologna": 2.7
+          "1": 1.48780488,
+          "2": 2.7
         },
         "Spread": {
-          "KK Partizan Nis Belgrade -5": 1.92592593,
-          "Virtus Bologna +5": 1.89285715
+          "1 -5": 1.92592593,
+          "2 +5": 1.89285715
         },
         "Over/under": {
           "Over 165": 1.90909091,
@@ -429,12 +496,12 @@
       "Zalgiris Kaunas vs Maccabi Tel-Aviv": {
         "time": "2023-12-28 18:00:00",
         "Money line": {
-          "Zalgiris Kaunas": 1.95238096,
-          "Maccabi Tel-Aviv": 1.90909091
+          "1": 1.83333334,
+          "2": 2.0
         },
         "Spread": {
-          "Maccabi Tel-Aviv -1": 1.94339623,
-          "Zalgiris Kaunas +1": 1.87719299
+          "1 -1.5": 1.94339623,
+          "2 +1.5": 1.87719299
         },
         "Over/under": {
           "Over 164.5": 1.90090091,
@@ -444,27 +511,27 @@
       "Lyon-Villeurbanne vs Real Madrid": {
         "time": "2023-12-28 19:00:00",
         "Money line": {
-          "Lyon-Villeurbanne": 5.0,
-          "Real Madrid": 1.18181819
+          "1": 5.5,
+          "2": 1.16
         },
         "Spread": {
-          "Real Madrid -11": 1.90909091,
-          "Lyon-Villeurbanne +11": 1.90909091
+          "2 -10.5": 1.89285715,
+          "1 +10.5": 1.92592593
         },
         "Over/under": {
-          "Over 162.5": 1.89285715,
-          "Under 162.5": 1.92592593
+          "Over 162.5": 1.90090091,
+          "Under 162.5": 1.9174312
         }
       },
       "Panathinaikos vs Crvena Zvezda": {
         "time": "2023-12-28 19:15:00",
         "Money line": {
-          "Panathinaikos": 1.32258065,
-          "Crvena Zvezda": 3.45
+          "1": 1.32258065,
+          "2": 3.45
         },
         "Spread": {
-          "Panathinaikos -7.5": 1.9174312,
-          "Crvena Zvezda +7.5": 1.90090091
+          "1 -7.5": 1.9174312,
+          "2 +7.5": 1.90090091
         },
         "Over/under": {
           "Over 163": 1.90909091,
@@ -474,12 +541,12 @@
       "FC Bayern Munich vs Valencia Basket Club": {
         "time": "2023-12-28 19:30:00",
         "Money line": {
-          "FC Bayern Munich": 1.5,
-          "Valencia Basket Club": 2.65
+          "1": 1.5,
+          "2": 2.65
         },
         "Spread": {
-          "FC Bayern Munich -4.5": 1.90909091,
-          "Valencia Basket Club +4.5": 1.90909091
+          "1 -4.5": 1.90909091,
+          "2 +4.5": 1.90909091
         },
         "Over/under": {
           "Over 156": 1.9174312,
@@ -489,12 +556,12 @@
       "Milano vs Baskonia": {
         "time": "2023-12-28 19:30:00",
         "Money line": {
-          "Milano": 1.625,
-          "Baskonia": 2.35
+          "1": 1.625,
+          "2": 2.35
         },
         "Spread": {
-          "Milano -3": 1.90090091,
-          "Baskonia +3": 1.9174312
+          "1 -3": 1.90090091,
+          "2 +3": 1.9174312
         },
         "Over/under": {
           "Over 161.5": 1.90909091,
@@ -504,12 +571,12 @@
       "Alba Berlin vs Olympiakos": {
         "time": "2023-12-29 19:00:00",
         "Money line": {
-          "Alba Berlin": 3.3,
-          "Olympiakos": 1.3125
+          "1": 3.3,
+          "2": 1.3125
         },
         "Spread": {
-          "Olympiakos -7": 1.89285715,
-          "Alba Berlin +7": 1.92592593
+          "2 -7": 1.89285715,
+          "1 +7": 1.92592593
         },
         "Over/under": {
           "Over 159.5": 1.90909091,
@@ -519,12 +586,12 @@
       "Monaco vs FC Barcelona": {
         "time": "2023-12-29 20:00:00",
         "Money line": {
-          "Monaco": 1.64516129,
-          "FC Barcelona": 2.2
+          "1": 1.64516129,
+          "2": 2.2
         },
         "Spread": {
-          "Monaco -3": 1.92592593,
-          "FC Barcelona +3": 1.89285715
+          "1 -3": 1.92592593,
+          "2 +3": 1.89285715
         },
         "Over/under": {
           "Over 161.5": 1.89285715,
@@ -536,12 +603,12 @@
       "Cibona Zagreb vs Borac Cacak": {
         "time": "2023-12-28 18:00:00",
         "Money line": {
-          "Cibona Zagreb": 1.68965518,
-          "Borac Cacak": 2.05
+          "1": 1.68965518,
+          "2": 2.05
         },
         "Spread": {
-          "Cibona Zagreb -2.5": 1.93457944,
-          "Borac Cacak +2.5": 1.88495576
+          "1 -2.5": 1.93457944,
+          "2 +2.5": 1.88495576
         },
         "Over/under": {
           "Over 161.5": 1.86956522,
@@ -555,12 +622,12 @@
       "Rigas Zelli vs VEF Riga": {
         "time": "2023-12-27 17:30:00",
         "Money line": {
-          "Rigas Zelli": 3.2,
-          "VEF Riga": 1.33557047
+          "1": 3.2,
+          "2": 1.33557047
         },
         "Spread": {
-          "VEF Riga -7": 1.84033614,
-          "Rigas Zelli +7": 1.82644629
+          "2 -7": 1.84033614,
+          "1 +7": 1.82644629
         },
         "Over/under": {
           "Over 150.5": 1.84745763,
@@ -570,8 +637,8 @@
       "BC Kalev/Cramo vs Latvijas Uni": {
         "time": "2023-12-28 17:00:00",
         "Spread": {
-          "BC Kalev/Cramo -32": 1.85470086,
-          "Latvijas Uni +32": 1.81300814
+          "1 -32": 1.85470086,
+          "2 +32": 1.81300814
         },
         "Over/under": {
           "Over 154": 1.81967214,
@@ -585,12 +652,12 @@
       "BC Nokia vs Kataja Basket": {
         "time": "2023-12-28 16:30:00",
         "Money line": {
-          "BC Nokia": 1.51282052,
-          "Kataja Basket": 2.45
+          "1": 1.51282052,
+          "2": 2.45
         },
         "Spread": {
-          "BC Nokia -4": 1.85470086,
-          "Kataja Basket +4": 1.88495576
+          "1 -4": 1.85470086,
+          "2 +4": 1.88495576
         },
         "Over/under": {
           "Over 167": 1.86956522,
@@ -600,27 +667,27 @@
       "KTP-Basket vs Nilan Bisons": {
         "time": "2023-12-28 16:30:00",
         "Money line": {
-          "KTP-Basket": 1.33333334,
-          "Nilan Bisons": 3.05
+          "1": 1.32786886,
+          "2": 3.1
         },
         "Spread": {
-          "KTP-Basket -6.5": 1.86206897,
-          "Nilan Bisons +6.5": 1.87719299
+          "1 -7": 1.90090091,
+          "2 +7": 1.84033614
         },
         "Over/under": {
-          "Over 175": 1.87719299,
-          "Under 175": 1.86206897
+          "Over 176": 1.88495576,
+          "Under 176": 1.85470086
         }
       },
       "Kauhajoki vs Kouvot": {
         "time": "2023-12-28 16:30:00",
         "Money line": {
-          "Kauhajoki": 1.28571429,
-          "Kouvot": 3.4
+          "1": 1.28571429,
+          "2": 3.4
         },
         "Spread": {
-          "Kauhajoki -8": 1.87719299,
-          "Kouvot +8": 1.86206897
+          "1 -8": 1.87719299,
+          "2 +8": 1.86206897
         },
         "Over/under": {
           "Over 175": 1.88495576,
@@ -630,27 +697,27 @@
       "Kobrat vs Lahti Basketball": {
         "time": "2023-12-28 16:30:00",
         "Money line": {
-          "Kobrat": 1.17391305,
-          "Lahti Basketball": 4.5
+          "1": 1.17391305,
+          "2": 4.5
         },
         "Spread": {
-          "Kobrat -10.5": 1.84745763,
-          "Lahti Basketball +10.5": 1.89285715
+          "1 -10.5": 1.84033614,
+          "2 +10.5": 1.90090091
         },
         "Over/under": {
-          "Over 176.5": 1.88495576,
-          "Under 176.5": 1.85470086
+          "Over 176": 1.85470086,
+          "Under 176": 1.88495576
         }
       },
       "Pyrinto Tampere vs Helsinki Seagulls": {
         "time": "2023-12-28 16:30:00",
         "Money line": {
-          "Pyrinto Tampere": 8.0,
-          "Helsinki Seagulls": 1.05263158
+          "1": 8.0,
+          "2": 1.05263158
         },
         "Spread": {
-          "Helsinki Seagulls -19.5": 1.85470086,
-          "Pyrinto Tampere +19.5": 1.88495576
+          "2 -19.5": 1.85470086,
+          "1 +19.5": 1.88495576
         },
         "Over/under": {
           "Over 173": 1.89285715,
@@ -660,12 +727,12 @@
       "Salon Vilpas vs Korihait": {
         "time": "2023-12-28 16:30:00",
         "Money line": {
-          "Salon Vilpas": 1.44444445,
-          "Korihait": 2.65
+          "1": 1.44444445,
+          "2": 2.65
         },
         "Spread": {
-          "Salon Vilpas -4": 1.89285715,
-          "Korihait +4": 1.84745763
+          "1 -4": 1.89285715,
+          "2 +4": 1.84745763
         },
         "Over/under": {
           "Over 172.5": 1.86206897,
@@ -679,61 +746,76 @@
       "Strasbourg vs Chalon Sur Saone": {
         "time": "2023-12-26 16:30:00",
         "Money line": {
-          "Strasbourg": 1.3773585,
-          "Chalon Sur Saone": 3.15
+          "1": 1.37037038,
+          "2": 3.2
         },
         "Spread": {
-          "Strasbourg -6.5": 1.95238096,
-          "Chalon Sur Saone +6.5": 1.86956522
+          "1 -6.5": 1.95238096,
+          "2 +6.5": 1.86956522
         },
         "Over/under": {
-          "Over 158.5": 1.92592593,
-          "Under 158.5": 1.89285715
+          "Over 158": 1.92592593,
+          "Under 158": 1.89285715
         }
       },
       "Boulogne-Levallois vs Monaco": {
         "time": "2023-12-26 19:00:00",
         "Money line": {
-          "Boulogne-Levallois": 7.25,
-          "Monaco": 1.10526316
+          "1": 6.75,
+          "2": 1.11764706
         },
         "Spread": {
-          "Monaco -13": 1.89285715,
-          "Boulogne-Levallois +13": 1.92592593
+          "2 -12.5": 1.86956522,
+          "1 +12.5": 1.95238096
         },
         "Over/under": {
-          "Over 164": 1.92592593,
-          "Under 164": 1.89285715
+          "Over 163": 1.89285715,
+          "Under 163": 1.92592593
         }
       },
       "Le Portel vs Limoges": {
         "time": "2023-12-27 17:30:00",
         "Money line": {
-          "Le Portel": 1.8,
-          "Limoges": 2.05
+          "1": 1.67567568,
+          "2": 2.24
         },
         "Spread": {
-          "Le Portel -1.5": 1.90909091,
-          "Limoges +1.5": 1.90909091
+          "1 -2.5": 1.89285715,
+          "2 +2.5": 1.92592593
         },
         "Over/under": {
-          "Over 157.5": 1.90909091,
-          "Under 157.5": 1.90909091
+          "Over 156.5": 1.90909091,
+          "Under 156.5": 1.90909091
         }
       },
       "Cholet vs Le Mans": {
         "time": "2023-12-27 20:00:00",
         "Money line": {
-          "Cholet": 1.8,
-          "Le Mans": 2.05
+          "1": 1.84745763,
+          "2": 1.98039216
         },
         "Spread": {
-          "Cholet -1.5": 1.90909091,
-          "Le Mans +1.5": 1.90909091
+          "1 -1": 1.89285715,
+          "2 +1": 1.92592593
         },
         "Over/under": {
-          "Over 157": 1.90909091,
-          "Under 157": 1.90909091
+          "Over 159.5": 1.92592593,
+          "Under 159.5": 1.89285715
+        }
+      },
+      "Dijon vs Chorale Roanne": {
+        "time": "2023-12-27 20:00:00",
+        "Money line": {
+          "1": 1.28169015,
+          "2": 3.8
+        },
+        "Spread": {
+          "1 -8": 1.89285715,
+          "2 +8": 1.92592593
+        },
+        "Over/under": {
+          "Over 162": 1.92592593,
+          "Under 162": 1.89285715
         }
       }
     },
@@ -741,12 +823,12 @@
       "Aix-Maurienne vs Chalons-Reims": {
         "time": "2023-12-27 19:00:00",
         "Money line": {
-          "Aix-Maurienne": 2.15,
-          "Chalons-Reims": 1.64516129
+          "1": 2.15,
+          "2": 1.64516129
         },
         "Spread": {
-          "Chalons-Reims -2.5": 1.88495576,
-          "Aix-Maurienne +2.5": 1.85470086
+          "2 -2.5": 1.88495576,
+          "1 +2.5": 1.85470086
         },
         "Over/under": {
           "Over 161": 1.87719299,
@@ -756,42 +838,42 @@
       "Alliance Sport Alsace vs Saint-Chamond": {
         "time": "2023-12-27 19:00:00",
         "Money line": {
-          "Alliance Sport Alsace": 1.74074075,
-          "Saint-Chamond": 2.05
+          "1": 1.76923077,
+          "2": 2.0
         },
         "Spread": {
-          "Alliance Sport Alsace -2.5": 1.88495576,
-          "Saint-Chamond +2.5": 1.85470086
+          "1 -2.5": 1.90090091,
+          "2 +2.5": 1.84033614
         },
         "Over/under": {
-          "Over 165.5": 1.86206897,
-          "Under 165.5": 1.87719299
+          "Over 166.5": 1.84745763,
+          "Under 166.5": 1.89285715
         }
       },
       "Fos Provence vs Antibes": {
         "time": "2023-12-27 19:00:00",
         "Money line": {
-          "Fos Provence": 1.83333334,
-          "Antibes": 1.90909091
+          "1": 1.83333334,
+          "2": 1.90909091
         },
         "Spread": {
-          "Fos Provence -1": 1.84745763,
-          "Antibes +1": 1.89285715
+          "1 -1": 1.85470086,
+          "2 +1": 1.88495576
         },
         "Over/under": {
-          "Over 157": 1.85470086,
-          "Under 157": 1.89285715
+          "Over 155": 1.87719299,
+          "Under 155": 1.86206897
         }
       },
       "La Rochelle Rupella vs Angers": {
         "time": "2023-12-27 19:00:00",
         "Money line": {
-          "La Rochelle Rupella": 1.1,
-          "Angers": 6.25
+          "1": 1.1,
+          "2": 6.25
         },
         "Spread": {
-          "La Rochelle Rupella -14": 1.89285715,
-          "Angers +14": 1.84745763
+          "1 -14": 1.89285715,
+          "2 +14": 1.84745763
         },
         "Over/under": {
           "Over 162": 1.87719299,
@@ -801,27 +883,27 @@
       "Lille vs Nantes": {
         "time": "2023-12-27 19:00:00",
         "Money line": {
-          "Lille": 1.60606061,
-          "Nantes": 2.25
+          "1": 1.60606061,
+          "2": 2.25
         },
         "Spread": {
-          "Lille -3": 1.89285715,
-          "Nantes +3": 1.84745763
+          "1 -3": 1.88495576,
+          "2 +3": 1.84745763
         },
         "Over/under": {
-          "Over 154": 1.87719299,
-          "Under 154": 1.86206897
+          "Over 155.5": 1.86206897,
+          "Under 155.5": 1.87719299
         }
       },
       "Orleans vs Evreux": {
         "time": "2023-12-27 19:00:00",
         "Money line": {
-          "Orleans": 1.28571429,
-          "Evreux": 3.4
+          "1": 1.28571429,
+          "2": 3.4
         },
         "Spread": {
-          "Orleans -7.5": 1.85470086,
-          "Evreux +7.5": 1.87719299
+          "1 -7.5": 1.85470086,
+          "2 +7.5": 1.87719299
         },
         "Over/under": {
           "Over 163.5": 1.89285715,
@@ -831,12 +913,12 @@
       "Pau-Lacq-Orthez vs Rouen Basket": {
         "time": "2023-12-27 19:00:00",
         "Money line": {
-          "Pau-Lacq-Orthez": 1.5,
-          "Rouen Basket": 2.45
+          "1": 1.71428572,
+          "2": 2.1
         },
         "Spread": {
-          "Pau-Lacq-Orthez -3": 1.86206897,
-          "Rouen Basket +3": 1.87719299
+          "1 -1.5": 1.84745763,
+          "2 +1.5": 1.89285715
         },
         "Over/under": {
           "Over 160": 1.88495576,
@@ -846,12 +928,12 @@
       "Poitiers vs Boulazac": {
         "time": "2023-12-27 19:00:00",
         "Money line": {
-          "Poitiers": 1.95238096,
-          "Boulazac": 1.8
+          "1": 1.95238096,
+          "2": 1.8
         },
         "Spread": {
-          "Boulazac -1.5": 1.87719299,
-          "Poitiers +1.5": 1.86206897
+          "2 -1.5": 1.87719299,
+          "1 +1.5": 1.86206897
         },
         "Over/under": {
           "Over 158": 1.87719299,
@@ -861,16 +943,16 @@
       "Vichy-Clermont vs ASC Denain Voltaire": {
         "time": "2023-12-27 19:30:00",
         "Money line": {
-          "Vichy-Clermont": 1.16,
-          "ASC Denain Voltaire": 4.75
+          "1": 1.16666667,
+          "2": 4.6
         },
         "Spread": {
-          "Vichy-Clermont -10.5": 1.86206897,
-          "ASC Denain Voltaire +10.5": 1.87719299
+          "1 -10": 1.84745763,
+          "2 +10": 1.89285715
         },
         "Over/under": {
-          "Over 162.5": 1.84745763,
-          "Under 162.5": 1.89285715
+          "Over 162.5": 1.86206897,
+          "Under 162.5": 1.87719299
         }
       }
     }
@@ -880,27 +962,23 @@
       "Niners Chemnitz vs Crailsheim Merlins": {
         "time": "2023-12-26 14:30:00",
         "Money line": {
-          "Niners Chemnitz": 1.07407408,
-          "Crailsheim Merlins": 9.0
+          "1": 1.08333334,
+          "2": 8.4
         },
         "Spread": {
-          "Niners Chemnitz -15.5": 1.89285715,
-          "Crailsheim Merlins +15.5": 1.92592593
-        },
-        "Over/under": {
-          "Over 168.5": 1.90909091,
-          "Under 168.5": 1.90909091
+          "1 -15": 1.89285715,
+          "2 +15": 1.92592593
         }
       },
       "Walter Tigers Tubingen vs FC Bayern Munich": {
         "time": "2023-12-26 14:30:00",
         "Money line": {
-          "Walter Tigers Tubingen": 4.4,
-          "FC Bayern Munich": 1.22727273
+          "1": 4.4,
+          "2": 1.22727273
         },
         "Spread": {
-          "FC Bayern Munich -11": 1.95238096,
-          "Walter Tigers Tubingen +11": 1.86956522
+          "2 -11": 1.95238096,
+          "1 +11": 1.86956522
         },
         "Over/under": {
           "Over 171": 1.92592593,
@@ -910,76 +988,76 @@
       "Rostock Seawolves vs Telekom Baskets Bonn": {
         "time": "2023-12-26 16:00:00",
         "Money line": {
-          "Rostock Seawolves": 2.36,
-          "Telekom Baskets Bonn": 1.61728396
+          "1": 2.24,
+          "2": 1.67567568
         },
         "Spread": {
-          "Telekom Baskets Bonn -3": 1.89285715,
-          "Rostock Seawolves +3": 1.92592593
+          "2 -3": 1.90909091,
+          "1 +3": 1.90909091
         },
         "Over/under": {
-          "Over 180.5": 1.89285715,
-          "Under 180.5": 1.92592593
+          "Over 176": 1.89285715,
+          "Under 176": 1.92592593
         }
       },
       "Mitteldeutscher BC vs Rasta Vechta": {
         "time": "2023-12-26 17:30:00",
         "Money line": {
-          "Mitteldeutscher BC": 2.42,
-          "Rasta Vechta": 1.5882353
+          "1": 2.42,
+          "2": 1.5882353
         },
         "Spread": {
-          "Rasta Vechta -3.5": 1.90909091,
-          "Mitteldeutscher BC +3.5": 1.90909091
+          "2 -3.5": 1.90909091,
+          "1 +3.5": 1.90909091
         },
         "Over/under": {
-          "Over 169.5": 1.92592593,
-          "Under 169.5": 1.89285715
+          "Over 169.5": 1.89285715,
+          "Under 169.5": 1.92592593
         }
       },
       "MLP Academics Heidelberg vs BG Gottingen": {
         "time": "2023-12-27 17:30:00",
         "Money line": {
-          "MLP Academics Heidelberg": 1.5882353,
-          "BG Gottingen": 2.42
+          "1": 1.6451613,
+          "2": 2.3
         },
         "Spread": {
-          "MLP Academics Heidelberg -3.5": 1.90909091,
-          "BG Gottingen +3.5": 1.90909091
+          "1 -3": 1.90909091,
+          "2 +3": 1.90909091
         },
         "Over/under": {
-          "Over 176.5": 1.90909091,
-          "Under 176.5": 1.90909091
+          "Over 177": 1.90909091,
+          "Under 177": 1.90909091
         }
       },
       "Brose Bamberg vs s.Oliver Wurzburg": {
         "time": "2023-12-27 19:00:00",
         "Money line": {
-          "Brose Bamberg": 2.14,
-          "s.Oliver Wurzburg": 1.74074075
+          "1": 2.1,
+          "2": 1.76923077
         },
         "Spread": {
-          "s.Oliver Wurzburg -2": 1.86956522,
-          "Brose Bamberg +2": 1.95238096
+          "2 -2": 1.90909091,
+          "1 +2": 1.90909091
         },
         "Over/under": {
-          "Over 169": 1.90909091,
-          "Under 169": 1.90909091
+          "Over 169.5": 1.89285715,
+          "Under 169.5": 1.92592593
         }
       },
       "MHP Riesen Ludwigsburg vs EWE Baskets Oldenburg": {
         "time": "2023-12-27 19:00:00",
         "Money line": {
-          "MHP Riesen Ludwigsburg": 1.3508772,
-          "EWE Baskets Oldenburg": 3.3
+          "1": 1.29411765,
+          "2": 3.7
         },
         "Spread": {
-          "MHP Riesen Ludwigsburg -7": 1.90909091,
-          "EWE Baskets Oldenburg +7": 1.90909091
+          "1 -8": 1.90909091,
+          "2 +8": 1.90909091
         },
         "Over/under": {
-          "Over 170": 1.90909091,
-          "Under 170": 1.90909091
+          "Over 169.5": 1.90909091,
+          "Under 169.5": 1.90909091
         }
       }
     },
@@ -988,27 +1066,27 @@
       "Gladiators Trier vs Uni Baskets Paderborn": {
         "time": "2023-12-26 16:00:00",
         "Money line": {
-          "Gladiators Trier": 1.07142858,
-          "Uni Baskets Paderborn": 7.0
+          "1": 1.06666667,
+          "2": 7.25
         },
         "Spread": {
-          "Gladiators Trier -15": 1.89285715,
-          "Uni Baskets Paderborn +15": 1.84745763
+          "1 -15": 1.87719299,
+          "2 +15": 1.86206897
         },
         "Over/under": {
-          "Over 166": 1.89285715,
-          "Under 166": 1.84745763
+          "Over 167.5": 1.86206897,
+          "Under 167.5": 1.87719299
         }
       },
       "Medi Bayreuth vs Nurnberg Falcons": {
         "time": "2023-12-26 18:00:00",
         "Money line": {
-          "Medi Bayreuth": 1.3125,
-          "Nurnberg Falcons": 3.2
+          "1": 1.3125,
+          "2": 3.2
         },
         "Spread": {
-          "Medi Bayreuth -7.5": 1.85470086,
-          "Nurnberg Falcons +7.5": 1.88495576
+          "1 -7.5": 1.85470086,
+          "2 +7.5": 1.88495576
         },
         "Over/under": {
           "Over 162.5": 1.85470086,
@@ -1018,27 +1096,27 @@
       "ART Giants Dusseldorf vs Karlsruhe": {
         "time": "2023-12-26 18:30:00",
         "Money line": {
-          "ART Giants Dusseldorf": 2.05,
-          "Karlsruhe": 1.74074075
+          "1": 2.05,
+          "2": 1.74074075
         },
         "Spread": {
-          "Karlsruhe -2": 1.86956522,
-          "ART Giants Dusseldorf +2": 1.86956522
+          "2 -2": 1.86956522,
+          "1 +2": 1.86956522
         },
         "Over/under": {
-          "Over 163.5": 1.86206897,
-          "Under 163.5": 1.87719299
+          "Over 163": 1.85470086,
+          "Under 163": 1.88495576
         }
       },
       "Artland Dragons vs WwuBaskets Munster": {
         "time": "2023-12-26 18:30:00",
         "Money line": {
-          "Artland Dragons": 2.45,
-          "WwuBaskets Munster": 1.5
+          "1": 2.5,
+          "2": 1.5
         },
         "Spread": {
-          "WwuBaskets Munster -4": 1.85470086,
-          "Artland Dragons +4": 1.88495576
+          "2 -4.5": 1.90090091,
+          "1 +4.5": 1.84033614
         },
         "Over/under": {
           "Over 163.5": 1.86206897,
@@ -1048,27 +1126,27 @@
       "Giessen 46ers vs VfL SparkassenStars Bochum": {
         "time": "2023-12-27 18:00:00",
         "Money line": {
-          "Giessen 46ers": 1.19047619,
-          "VfL SparkassenStars Bochum": 4.3
+          "1": 1.19047619,
+          "2": 4.3
         },
         "Spread": {
-          "Giessen 46ers -10.5": 1.89285715,
-          "VfL SparkassenStars Bochum +10.5": 1.84745763
+          "1 -10.5": 1.87719299,
+          "2 +10.5": 1.86206897
         },
         "Over/under": {
-          "Over 178": 1.85470086,
-          "Under 178": 1.88495576
+          "Over 179.5": 1.88495576,
+          "Under 179.5": 1.85470086
         }
       },
       "Science City Jena vs Dresden Titans": {
         "time": "2023-12-27 18:00:00",
         "Money line": {
-          "Science City Jena": 1.39215687,
-          "Dresden Titans": 2.8
+          "1": 1.39215687,
+          "2": 2.8
         },
         "Spread": {
-          "Science City Jena -5": 1.84745763,
-          "Dresden Titans +5": 1.89285715
+          "1 -5": 1.84745763,
+          "2 +5": 1.89285715
         },
         "Over/under": {
           "Over 166": 1.85470086,
@@ -1078,27 +1156,27 @@
       "Baskets Koblenz vs Kirchheim Knights": {
         "time": "2023-12-27 18:30:00",
         "Money line": {
-          "Baskets Koblenz": 2.2,
-          "Kirchheim Knights": 1.625
+          "1": 2.2,
+          "2": 1.625
         },
         "Spread": {
-          "Kirchheim Knights -3": 1.86956522,
-          "Baskets Koblenz +3": 1.86956522
+          "2 -3": 1.86956522,
+          "1 +3": 1.86956522
         },
         "Over/under": {
-          "Over 168": 1.84745763,
-          "Under 168": 1.89285715
+          "Over 167": 1.84745763,
+          "Under 167": 1.89285715
         }
       },
       "Phoenix Hagen vs Rasta Vechta II": {
         "time": "2023-12-28 18:30:00",
         "Money line": {
-          "Phoenix Hagen": 1.13333334,
-          "Rasta Vechta II": 5.25
+          "1": 1.13333334,
+          "2": 5.25
         },
         "Spread": {
-          "Phoenix Hagen -11": 1.87719299,
-          "Rasta Vechta II +11": 1.86206897
+          "1 -11": 1.87719299,
+          "2 +11": 1.86206897
         },
         "Over/under": {
           "Over 168.5": 1.88495576,
@@ -1112,27 +1190,27 @@
       "Karditsa vs Apollon Patras": {
         "time": "2023-12-30 15:00:00",
         "Money line": {
-          "Karditsa": 1.45454546,
-          "Apollon Patras": 2.6
+          "1": 1.29411765,
+          "2": 3.25
         },
         "Spread": {
-          "Karditsa -4.5": 1.90909091,
-          "Apollon Patras +4.5": 1.90909091
+          "1 -7.5": 1.92592593,
+          "2 +7.5": 1.89285715
         },
         "Over/under": {
-          "Over 144": 1.86206897,
-          "Under 144": 1.87719299
+          "Over 143": 1.87719299,
+          "Under 143": 1.86206897
         }
       },
       "Prometheus Patras vs PAOK": {
         "time": "2023-12-30 15:15:00",
         "Money line": {
-          "Prometheus Patras": 1.54054055,
-          "PAOK": 2.35
+          "1": 1.54054055,
+          "2": 2.35
         },
         "Spread": {
-          "Prometheus Patras -3.5": 1.90909091,
-          "PAOK +3.5": 1.90909091
+          "1 -3.5": 1.90909091,
+          "2 +3.5": 1.90909091
         },
         "Over/under": {
           "Over 157": 1.86206897,
@@ -1142,12 +1220,12 @@
       "Peristeri vs Kolossos Rodou BC": {
         "time": "2023-12-30 16:00:00",
         "Money line": {
-          "Peristeri": 1.18181819,
-          "Kolossos Rodou BC": 4.25
+          "1": 1.18181819,
+          "2": 4.25
         },
         "Spread": {
-          "Peristeri -10": 1.9174312,
-          "Kolossos Rodou BC +10": 1.90090091
+          "1 -10": 1.9174312,
+          "2 +10": 1.90090091
         },
         "Over/under": {
           "Over 156": 1.86206897,
@@ -1157,12 +1235,12 @@
       "Lavrio BC vs AEK Athens": {
         "time": "2023-12-30 18:15:00",
         "Money line": {
-          "Lavrio BC": 3.35,
-          "AEK Athens": 1.28169015
+          "1": 3.35,
+          "2": 1.28169015
         },
         "Spread": {
-          "AEK Athens -7.5": 1.90909091,
-          "Lavrio BC +7.5": 1.90909091
+          "2 -7.5": 1.90909091,
+          "1 +7.5": 1.90909091
         },
         "Over/under": {
           "Over 164": 1.86956522,
@@ -1172,23 +1250,23 @@
       "Olympiakos vs Aris": {
         "time": "2023-12-31 13:00:00",
         "Money line": {
-          "Olympiakos": 1.04545455,
-          "Aris": 8.0
+          "1": 1.04,
+          "2": 8.5
         },
         "Spread": {
-          "Olympiakos -16": 1.9174312,
-          "Aris +16": 1.90090091
+          "1 -16": 1.89285715,
+          "2 +16": 1.92592593
         },
         "Over/under": {
-          "Over 154.5": 1.87719299,
-          "Under 154.5": 1.86206897
+          "Over 154": 1.86206897,
+          "Under 154": 1.87719299
         }
       },
       "Marousi vs Panathinaikos": {
         "time": "2023-12-31 15:15:00",
         "Spread": {
-          "Panathinaikos -23": 1.90090091,
-          "Marousi +23": 1.9174312
+          "2 -23": 1.90090091,
+          "1 +23": 1.9174312
         },
         "Over/under": {
           "Over 162": 1.86206897,
@@ -1208,16 +1286,16 @@
       "Ironi Kiryat Ata vs Hapoel Holon": {
         "time": "2023-12-26 18:50:00",
         "Money line": {
-          "Ironi Kiryat Ata": 2.45,
-          "Hapoel Holon": 1.54054055
+          "1": 2.65,
+          "2": 1.45454546
         },
         "Spread": {
-          "Hapoel Holon -4": 1.9174312,
-          "Ironi Kiryat Ata +4": 1.90090091
+          "2 -5": 1.90909091,
+          "1 +5": 1.90909091
         },
         "Over/under": {
-          "Over 170": 1.86956522,
-          "Under 170": 1.86956522
+          "Over 168.5": 1.88495576,
+          "Under 168.5": 1.85470086
         }
       }
     },
@@ -1225,27 +1303,27 @@
       "Hapoel Bnei Kfar Kasem vs Hapoel Gilboa Galil": {
         "time": "2023-12-26 16:30:00",
         "Money line": {
-          "Hapoel Bnei Kfar Kasem": 3.1,
-          "Hapoel Gilboa Galil": 1.35460993
+          "1": 2.65,
+          "2": 1.46511628
         },
         "Spread": {
-          "Hapoel Gilboa Galil -6.5": 1.83333334,
-          "Hapoel Bnei Kfar Kasem +6.5": 1.83333334
+          "2 -5.5": 1.81967214,
+          "1 +5.5": 1.84745763
         },
         "Over/under": {
-          "Over 163.5": 1.83333334,
-          "Under 163.5": 1.83333334
+          "Over 163.5": 1.84033614,
+          "Under 163.5": 1.82644629
         }
       },
       "Maccabi Raanana vs Elitzur Ashkelon": {
         "time": "2023-12-26 16:40:00",
         "Money line": {
-          "Maccabi Raanana": 2.0,
-          "Elitzur Ashkelon": 1.76923077
+          "1": 1.95238096,
+          "2": 1.8
         },
         "Spread": {
-          "Elitzur Ashkelon -1.5": 1.83333334,
-          "Maccabi Raanana +1.5": 1.83333334
+          "2 -1.5": 1.83333334,
+          "1 +1.5": 1.83333334
         },
         "Over/under": {
           "Over 169.5": 1.83333334,
@@ -1255,27 +1333,27 @@
       "Maccabi Haifa vs Ironi Nahariya": {
         "time": "2023-12-26 17:00:00",
         "Money line": {
-          "Maccabi Haifa": 2.6,
-          "Ironi Nahariya": 1.48076924
+          "1": 2.35,
+          "2": 1.57471265
         },
         "Spread": {
-          "Ironi Nahariya -4.5": 1.83333334,
-          "Maccabi Haifa +4.5": 1.83333334
+          "2 -4": 1.82644629,
+          "1 +4": 1.84033614
         },
         "Over/under": {
-          "Over 170.5": 1.83333334,
-          "Under 170.5": 1.83333334
+          "Over 173": 1.84033614,
+          "Under 173": 1.82644629
         }
       },
       "Elitzur Ironi Netanya vs Maccabi Maale Adumim": {
         "time": "2023-12-26 17:30:00",
         "Money line": {
-          "Elitzur Ironi Netanya": 1.26666667,
-          "Maccabi Maale Adumim": 3.7
+          "1": 1.27777778,
+          "2": 3.6
         },
         "Spread": {
-          "Elitzur Ironi Netanya -8.5": 1.83333334,
-          "Maccabi Maale Adumim +8.5": 1.83333334
+          "1 -8.5": 1.83333334,
+          "2 +8.5": 1.83333334
         },
         "Over/under": {
           "Over 165.5": 1.83333334,
@@ -1290,27 +1368,59 @@
     "Italy - Serie A2": {}
   },
   "Japan": {
-    "Japan - WJBL": {}
+    "Japan - WJBL": {
+      "Niigata Albirex Rabbits [W] vs Chanson V-Magic [W]": {
+        "time": "2023-12-29 09:00:00",
+        "Money line": {
+          "1": 15.0,
+          "2": 1.02941177
+        },
+        "Spread": {
+          "2 -37.5": 1.82644629,
+          "1 +37.5": 1.84033614
+        },
+        "Over/under": {
+          "Over 147.5": 1.84033614,
+          "Under 147.5": 1.82644629
+        }
+      }
+    }
   },
   "Lithuania": {
     "Lithuania - LKL": {
       "Jonavos SK vs Gargzdu Gargzdai": {
         "time": "2023-12-28 16:30:00",
         "Money line": {
-          "Jonavos SK": 1.22222223,
-          "Gargzdu Gargzdai": 3.8
+          "1": 1.22222223,
+          "2": 3.8
         },
         "Spread": {
-          "Jonavos SK -8.5": 1.9174312,
-          "Gargzdu Gargzdai +8.5": 1.90090091
+          "1 -8.5": 1.9174312,
+          "2 +8.5": 1.90090091
         },
         "Over/under": {
-          "Over 164": 1.84745763,
-          "Under 164": 1.89285715
+          "Over 165": 1.84745763,
+          "Under 165": 1.89285715
         }
       }
     },
-    "Lithuania - NKL": {}
+    "Lithuania - NKL": {
+      "Vytis vs Delikatesas": {
+        "time": "2023-12-28 16:00:00",
+        "Money line": {
+          "1": 1.26666667,
+          "2": 3.7
+        },
+        "Spread": {
+          "1 -8.5": 1.84033614,
+          "2 +8.5": 1.82644629
+        },
+        "Over/under": {
+          "Over 168.5": 1.82644629,
+          "Under 168.5": 1.84033614
+        }
+      }
+    }
   },
   "Malaysia": {
     "Malaysia - MABA Pro League": {}
@@ -1326,27 +1436,27 @@
       "Anwil Wloclawek vs Legia Warszawa": {
         "time": "2023-12-26 16:30:00",
         "Money line": {
-          "Anwil Wloclawek": 1.28571429,
-          "Legia Warszawa": 3.45
+          "1": 1.27397261,
+          "2": 3.55
         },
         "Spread": {
-          "Anwil Wloclawek -8": 1.90090091,
-          "Legia Warszawa +8": 1.9174312
+          "1 -8.5": 1.93457944,
+          "2 +8.5": 1.88495576
         },
         "Over/under": {
-          "Over 160.5": 1.87719299,
-          "Under 160.5": 1.86206897
+          "Over 160": 1.84745763,
+          "Under 160": 1.89285715
         }
       },
       "Asseco Gdynia vs Energa Czarni Slupsk": {
         "time": "2023-12-28 16:30:00",
         "Money line": {
-          "Asseco Gdynia": 2.15,
-          "Energa Czarni Slupsk": 1.66666667
+          "1": 2.15,
+          "2": 1.66666667
         },
         "Spread": {
-          "Energa Czarni Slupsk -3": 1.87719299,
-          "Asseco Gdynia +3": 1.94339623
+          "2 -3": 1.87719299,
+          "1 +3": 1.94339623
         },
         "Over/under": {
           "Over 165.5": 1.85470086,
@@ -1359,34 +1469,97 @@
     "Portugal - Nacional 2": {}
   },
   "Romania": {
-    "Romania - Nationala": {}
-  },
-  "Slovenia": {
-    "Slovenia - 1. SKL": {},
-    "Slovenia - 1. SKL Women": {}
-  },
-  "South Korea": {
-    "KBL": {
-      "Changwon LG Sakers vs Anyang KGC": {
-        "time": "2023-12-26 10:00:00",
+    "Romania - Nationala": {
+      "BCMU Pitesti vs SCM-CCS Craiova": {
+        "time": "2023-12-27 17:00:00",
         "Money line": {
-          "Changwon LG Sakers": 1.16666667,
-          "Anyang KGC": 5.4
+          "1": 1.22471911,
+          "2": 4.1
         },
         "Spread": {
-          "Changwon LG Sakers -11": 1.92592593,
-          "Anyang KGC +11": 1.89285715
+          "1 -9.5": 1.84745763,
+          "2 +9.5": 1.81967214
         },
         "Over/under": {
-          "Over 164": 1.89285715,
-          "Under 164": 1.92592593
+          "Over 152.5": 1.81300814,
+          "Under 152.5": 1.85470086
+        }
+      }
+    }
+  },
+  "Slovenia": {
+    "Slovenia - 1. SKL": {
+      "LTH Castings vs Helios Domzale": {
+        "time": "2023-12-26 17:00:00",
+        "Money line": {
+          "1": 2.5,
+          "2": 1.51282052
+        },
+        "Spread": {
+          "2 -4": 1.81300814,
+          "1 +4": 1.85470086
+        },
+        "Over/under": {
+          "Over 163": 1.84033614,
+          "Under 163": 1.82644629
+        }
+      },
+      "Podcetrtek vs Sencur Cestno": {
+        "time": "2023-12-26 18:00:00",
+        "Money line": {
+          "1": 1.8,
+          "2": 1.95238096
+        },
+        "Spread": {
+          "1 -1.5": 1.83333334,
+          "2 +1.5": 1.83333334
+        },
+        "Over/under": {
+          "Over 163.5": 1.83333334,
+          "Under 163.5": 1.83333334
         }
       }
     },
-    "KBL Women": {}
+    "Slovenia - 1. SKL Women": {}
+  },
+  "South Korea": {
+    "KBL": {},
+    "KBL Women": {
+      "Samsung Bichumi [W] vs KEB Hana [W]": {
+        "time": "2023-12-27 10:00:00",
+        "Money line": {
+          "1": 1.64516129,
+          "2": 2.15
+        },
+        "Spread": {
+          "1 -2.5": 1.84745763,
+          "2 +2.5": 1.89285715
+        },
+        "Over/under": {
+          "Over 130": 1.88495576,
+          "Under 130": 1.85470086
+        }
+      }
+    }
   },
   "Spain": {
-    "Spain - ACB League": {},
+    "Spain - ACB League": {
+      "Unicaja vs FC Barcelona": {
+        "time": "2023-12-27 20:00:00",
+        "Money line": {
+          "1": 2.02,
+          "2": 1.81967214
+        },
+        "Spread": {
+          "2 -2.5": 1.92592593,
+          "1 +2.5": 1.89285715
+        },
+        "Over/under": {
+          "Over 163.5": 1.90909091,
+          "Under 163.5": 1.90909091
+        }
+      }
+    },
     "Spain - LEB League": {},
     "Spain - LFB Women": {}
   },
@@ -1400,27 +1573,27 @@
       "Caledonia Gladiators vs Manchester Giants": {
         "time": "2023-12-26 15:00:00",
         "Money line": {
-          "Caledonia Gladiators": 1.38461539,
-          "Manchester Giants": 2.9
+          "1": 1.38461539,
+          "2": 2.9
         },
         "Spread": {
-          "Caledonia Gladiators -6": 1.90909091,
-          "Manchester Giants +6": 1.90909091
+          "1 -6": 1.90909091,
+          "2 +6": 1.90909091
         },
         "Over/under": {
-          "Over 169": 1.88495576,
-          "Under 169": 1.85470086
+          "Over 171": 1.84745763,
+          "Under 171": 1.89285715
         }
       },
       "Leicester Riders vs Bristol Flyers": {
         "time": "2023-12-28 19:45:00",
         "Money line": {
-          "Leicester Riders": 1.52631579,
-          "Bristol Flyers": 2.4
+          "1": 1.52631579,
+          "2": 2.4
         },
         "Spread": {
-          "Leicester Riders -4": 1.88495576,
-          "Bristol Flyers +4": 1.93457944
+          "1 -4": 1.88495576,
+          "2 +4": 1.93457944
         },
         "Over/under": {
           "Over 167.5": 1.86206897,
@@ -1431,90 +1604,45 @@
   },
   "United States": {
     "NBA": {
-      "LA Lakers vs BOS Celtics": {
-        "time": "2023-12-25 22:08:19",
-        "Money line": {
-          "LA Lakers": 2.3,
-          "BOS Celtics": 1.60240964
-        },
-        "Spread": {
-          "BOS Celtics -3.5": 1.95238096,
-          "LA Lakers +3.5": 1.8
-        },
-        "Over/under": {
-          "Over 234.5": 1.86956522,
-          "Under 234.5": 1.86956522
-        }
-      },
-      "MIA Heat vs PHI 76ers": {
-        "time": "2023-12-26 01:10:00",
-        "Money line": {
-          "MIA Heat": 1.8,
-          "PHI 76ers": 2.1
-        },
-        "Spread": {
-          "MIA Heat -2": 1.90281793,
-          "PHI 76ers +2": 1.9172365
-        },
-        "Over/under": {
-          "Over 226.5": 1.88495576,
-          "Under 226.5": 1.93457944
-        }
-      },
-      "PHO Suns vs DAL Mavericks": {
-        "time": "2023-12-26 03:40:00",
-        "Money line": {
-          "PHO Suns": 1.55555556,
-          "DAL Mavericks": 2.5
-        },
-        "Spread": {
-          "PHO Suns -4": 1.87283852,
-          "DAL Mavericks +4": 1.94866608
-        },
-        "Over/under": {
-          "Over 242": 1.90909091,
-          "Under 242": 1.90909091
-        }
-      },
       "DET Pistons vs BKN Nets": {
         "time": "2023-12-27 00:10:00",
         "Money line": {
-          "DET Pistons": 3.15,
-          "BKN Nets": 1.38461539
+          "1": 3.1,
+          "2": 1.39215687
         },
         "Spread": {
-          "BKN Nets -6.5": 1.91,
-          "DET Pistons +6.5": 1.91
+          "2 -6.5": 1.8973599,
+          "1 +6.5": 1.92280966
         },
         "Over/under": {
-          "Over 232.5": 1.90909091,
-          "Under 232.5": 1.90909091
+          "Over 232": 1.9174312,
+          "Under 232": 1.90090091
         }
       },
       "WAS Wizards vs ORL Magic": {
         "time": "2023-12-27 00:10:00",
         "Money line": {
-          "WAS Wizards": 3.15,
-          "ORL Magic": 1.38461539
+          "1": 3.4,
+          "2": 1.34482759
         },
         "Spread": {
-          "ORL Magic -6.5": 1.91,
-          "WAS Wizards +6.5": 1.91
+          "2 -7.5": 1.91029988,
+          "1 +7.5": 1.90970023
         },
         "Over/under": {
-          "Over 237": 1.90909091,
-          "Under 237": 1.90909091
+          "Over 237.5": 1.90090091,
+          "Under 237.5": 1.9174312
         }
       },
       "CHI Bulls vs ATL Hawks": {
         "time": "2023-12-27 01:10:00",
         "Money line": {
-          "CHI Bulls": 1.90909091,
-          "ATL Hawks": 2.0
+          "1": 1.86956522,
+          "2": 2.0
         },
         "Spread": {
-          "CHI Bulls -1": 1.91,
-          "ATL Hawks +1": 1.91
+          "1 -1.5": 1.91723844,
+          "2 +1.5": 1.90281602
         },
         "Over/under": {
           "Over 234.5": 1.90909091,
@@ -1524,91 +1652,91 @@
       "HOU Rockets vs IND Pacers": {
         "time": "2023-12-27 01:10:00",
         "Money line": {
-          "HOU Rockets": 1.74074075,
-          "IND Pacers": 2.15
+          "1": 1.64516129,
+          "2": 2.35
         },
         "Spread": {
-          "HOU Rockets -2.5": 1.91,
-          "IND Pacers +2.5": 1.91
+          "1 -3": 1.89391758,
+          "2 +3": 1.9263579
         },
         "Over/under": {
-          "Over 237": 1.90909091,
-          "Under 237": 1.90909091
+          "Over 237.5": 1.90090091,
+          "Under 237.5": 1.9174312
         }
       },
       "NO Pelicans vs MEM Grizzlies": {
         "time": "2023-12-27 01:10:00",
         "Money line": {
-          "NO Pelicans": 1.54054055,
-          "MEM Grizzlies": 2.6
+          "1": 1.54054055,
+          "2": 2.6
         },
         "Spread": {
-          "NO Pelicans -4.5": 1.91,
-          "MEM Grizzlies +4.5": 1.91
+          "1 -5": 1.91723926,
+          "2 +5": 1.90281522
         },
         "Over/under": {
-          "Over 229.5": 1.90909091,
-          "Under 229.5": 1.90909091
+          "Over 229": 1.90090091,
+          "Under 229": 1.9174312
         }
       },
       "OKC Thunder vs MIN Timberwolves": {
         "time": "2023-12-27 01:10:00",
         "Money line": {
-          "OKC Thunder": 1.57142858,
-          "MIN Timberwolves": 2.5
+          "1": 1.66666667,
+          "2": 2.3
         },
         "Spread": {
-          "OKC Thunder -4": 1.91,
-          "MIN Timberwolves +4": 1.91
+          "1 -3": 1.90279309,
+          "2 +3": 1.91726172
         },
         "Over/under": {
-          "Over 225.5": 1.90909091,
-          "Under 225.5": 1.90909091
+          "Over 227.5": 1.90909091,
+          "Under 227.5": 1.90909091
         }
       },
       "SA Spurs vs UTA Jazz": {
         "time": "2023-12-27 01:10:00",
         "Money line": {
-          "SA Spurs": 2.2,
-          "UTA Jazz": 1.71428572
+          "1": 2.3,
+          "2": 1.66666667
         },
         "Spread": {
-          "UTA Jazz -2.5": 1.91,
-          "SA Spurs +2.5": 1.91
+          "2 -3": 1.86952782,
+          "1 +3": 1.95226328
         },
         "Over/under": {
-          "Over 242.5": 1.90909091,
-          "Under 242.5": 1.90909091
+          "Over 241.5": 1.90909091,
+          "Under 241.5": 1.90909091
         }
       },
       "POR Trail Blazers vs SAC Kings": {
         "time": "2023-12-27 03:10:00",
         "Money line": {
-          "POR Trail Blazers": 3.0,
-          "SAC Kings": 1.41666667
+          "1": 3.65,
+          "2": 1.30303031
         },
         "Spread": {
-          "SAC Kings -6": 1.91,
-          "POR Trail Blazers +6": 1.91
+          "2 -7.5": 1.87632557,
+          "1 +7.5": 1.94490524
         },
         "Over/under": {
-          "Over 236": 1.90909091,
-          "Under 236": 1.90909091
+          "Over 237.5": 1.9174312,
+          "Under 237.5": 1.90090091
         }
       },
       "LA Clippers vs CHA Hornets": {
         "time": "2023-12-27 03:40:00",
         "Money line": {
-          "LA Clippers": 1.15384616,
-          "CHA Hornets": 5.75
+          "1": 1.15384616,
+          "2": 6.0
         },
         "Spread": {
-          "LA Clippers -11": 1.91,
-          "CHA Hornets +11": 1.91
+          "1 -12": 1.90999923,
+          "2 +12": 1.91000078
         },
         "Over/under": {
-          "Over 228.5": 1.90909091,
-          "Under 228.5": 1.90909091
+          "Over 229.5": 1.90909091,
+          "Under 229.5": 1.90909091
         }
       }
     },
@@ -1616,8 +1744,8 @@
       "Virginia vs Morgan State": {
         "time": "2023-12-28 00:00:00",
         "Spread": {
-          "Virginia -27.5": 1.90909091,
-          "Morgan State +27.5": 1.90909091
+          "1 -27.5": 1.90909091,
+          "2 +27.5": 1.90909091
         },
         "Over/under": {
           "Over 132.5": 1.90909091,
@@ -1627,8 +1755,8 @@
       "California Baptist vs Chicago State": {
         "time": "2023-12-28 03:00:00",
         "Spread": {
-          "California Baptist -11": 1.90909091,
-          "Chicago State +11": 1.90909091
+          "1 -11": 1.90909091,
+          "2 +11": 1.90909091
         },
         "Over/under": {
           "Over 131.5": 1.90909091,

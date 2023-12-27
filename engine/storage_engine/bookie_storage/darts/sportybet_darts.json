@@ -3,98 +3,98 @@
     "PDC World Championship": {
       "Humphries, Luke vs Pietreczko, Ricardo": {
         "Winner": {
-          "Home": 1.16,
-          "Away": 4.6
+          "1": 1.16,
+          "2": 4.7
         }
       },
       "van Gerwen, Michael vs Veenstra, Richard": {
         "Winner": {
-          "Home": 1.11,
-          "Away": 5.7
+          "1": 1.11,
+          "2": 5.7
         }
       },
       "Williams, Jim vs van Barneveld, Raymond": {
         "Winner": {
-          "Home": 1.86,
-          "Away": 1.84
+          "1": 1.85,
+          "2": 1.86
         }
       },
       "Williams, Scott vs Schindler, Martin": {
         "Winner": {
-          "Home": 2.4,
-          "Away": 1.51
+          "1": 2.5,
+          "2": 1.52
         }
       },
       "Chisnall, Dave vs Clemens, Gabriel": {
         "Winner": {
-          "Home": 1.55,
-          "Away": 2.3
+          "1": 1.55,
+          "2": 2.3
         }
       },
       "Cross, Rob vs de Graaf, Jeffrey": {
         "Winner": {
-          "Home": 1.16,
-          "Away": 4.6
+          "1": 1.15,
+          "2": 4.7
         }
       },
       "Smith, Ross vs Dobey, Chris": {
         "Winner": {
-          "Home": 1.86,
-          "Away": 1.84
+          "1": 1.86,
+          "2": 1.84
         }
       },
       "Campbell, Matt vs Littler, Luke": {
         "Winner": {
-          "Home": 3.25,
-          "Away": 1.29
+          "1": 3.25,
+          "2": 1.29
         }
       },
       "Smith, Michael vs Razma, Madars": {
         "Winner": {
-          "Home": 1.13,
-          "Away": 5.0
+          "1": 1.11,
+          "2": 5.6
         }
       },
       "Hempel, Florian vs Bunting, Stephen": {
         "Winner": {
-          "Home": 4.0,
-          "Away": 1.21
+          "1": 4.0,
+          "2": 1.2
         }
       },
       "Cullen, Joe vs Searle, Ryan": {
         "Winner": {
-          "Home": 1.95,
-          "Away": 1.76
+          "1": 2.0,
+          "2": 1.72
         }
       },
       "Price, Gerwyn vs Dolan, Brendan": {
         "Winner": {
-          "Home": 1.12,
-          "Away": 5.5
+          "1": 1.12,
+          "2": 5.5
         }
       },
       "Evans, Ricky vs Gurney, Daryl": {
         "Winner": {
-          "Home": 2.25,
-          "Away": 1.58
+          "1": 2.35,
+          "2": 1.54
         }
       },
       "Heta, Damon vs van Peer, Berry": {
         "Winner": {
-          "Home": 1.32,
-          "Away": 3.1
+          "1": 1.32,
+          "2": 3.1
         }
       },
       "Clayton, Jonny vs Ratajski, Krzysztof": {
         "Winner": {
-          "Home": 1.74,
-          "Away": 1.97
+          "1": 1.74,
+          "2": 1.97
         }
       },
       "Krcmar, Boris vs Anderson, Gary": {
         "Winner": {
-          "Home": 4.25,
-          "Away": 1.19
+          "1": 4.25,
+          "2": 1.19
         }
       }
     }

@@ -32,25 +32,11 @@
   },
   "Kazakhstan": {
     "Kazakhstan National League Women": {
-      "Irtysh Kazchrome [W] vs VC Altai [W]": {
-        "time": "2023-12-26 07:30:00",
-        "Winner": {
-          "Irtysh Kazchrome [W]": 1.01086957,
-          "VC Altai [W]": 10.25
-        }
-      },
-      "Turan Turkestan [W] vs Karaganda [W]": {
-        "time": "2023-12-26 10:00:00",
-        "Winner": {
-          "Turan Turkestan [W]": 1.01030928,
-          "Karaganda [W]": 10.25
-        }
-      },
       "Zhetysu [W] vs Kuanysh [W]": {
         "time": "2023-12-26 12:30:00",
         "Winner": {
-          "Zhetysu [W]": 3.5,
-          "Kuanysh [W]": 1.25
+          "1": 3.0,
+          "2": 1.33333334
         }
       }
     }

@@ -25,7 +25,21 @@ def extract_bet9ja(json_data):
             game_name = str(game_name)
             league_name = match["GN"]
             markts =  {}
+            
+            # Extract content between single quotes
+            start_index = game_name.find("'") + 1
+            end_index = game_name.rfind("'")
 
+            if start_index != -1 and end_index != -1:
+                game_name = game_name[start_index:end_index]
+
+
+            # Extract content between single quotes
+            start_index = time.find("'") + 1
+            end_index = time.rfind("'")
+
+            if start_index != -1 and end_index != -1:
+                time = time[start_index:end_index]
             if league_name not in games:
                 games[league_name] = {}
             if game_name not in games[league_name]:

@@ -1,38 +1,537 @@
 {
   "Usa": [
-    null
+    {
+      "NBA": {
+        "Detroit Pistons - Brooklyn Nets": {
+          "1x2": {
+            "Detroit Pistons": 3.1,
+            "X": 17.5,
+            "Brooklyn Nets": 1.43
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "Detroit Pistons": 2.9,
+            "Brooklyn Nets": 1.42
+          },
+          "1st half - 1x2": {
+            "Detroit Pistons": 2.55,
+            "X": 23.0,
+            "Brooklyn Nets": 1.5
+          }
+        },
+        "Washington Wizards - Orlando Magic": {
+          "1x2": {
+            "Washington Wizards": 3.5,
+            "X": 17.0,
+            "Orlando Magic": 1.36
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "Washington Wizards": 3.25,
+            "Orlando Magic": 1.35
+          },
+          "1st half - 1x2": {
+            "Washington Wizards": 2.75,
+            "X": 22.0,
+            "Orlando Magic": 1.45
+          }
+        },
+        "Oklahoma City Thunder - Minnesota Timberwolves": {
+          "1x2": {
+            "Oklahoma City Thunder": 1.75,
+            "X": 12.5,
+            "Minnesota Timberwolves": 2.35
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "Oklahoma City Thunder": 1.71,
+            "Minnesota Timberwolves": 2.15
+          },
+          "1st half - 1x2": {
+            "Oklahoma City Thunder": 1.73,
+            "X": 18.5,
+            "Minnesota Timberwolves": 2.15
+          }
+        },
+        "New Orleans Hornets - Memphis Grizzlies": {
+          "1x2": {
+            "New Orleans Hornets": 1.57,
+            "X": 18.0,
+            "Memphis Grizzlies": 2.6
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "New Orleans Hornets": 1.57,
+            "Memphis Grizzlies": 2.45
+          },
+          "1st half - 1x2": {
+            "New Orleans Hornets": 1.61,
+            "X": 23.0,
+            "Memphis Grizzlies": 2.3
+          }
+        },
+        "San Antonio Spurs - Utah Jazz": {
+          "1x2": {
+            "San Antonio Spurs": 2.35,
+            "X": 15.0,
+            "Utah Jazz": 1.71
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "San Antonio Spurs": 2.2,
+            "Utah Jazz": 1.69
+          },
+          "1st half - 1x2": {
+            "San Antonio Spurs": 2.15,
+            "X": 22.0,
+            "Utah Jazz": 1.7
+          }
+        },
+        "Houston Rockets - Indiana Pacers": {
+          "1x2": {
+            "Houston Rockets": 1.7,
+            "X": 14.0,
+            "Indiana Pacers": 2.4
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "Houston Rockets": 1.68,
+            "Indiana Pacers": 2.2
+          },
+          "1st half - 1x2": {
+            "Houston Rockets": 1.7,
+            "X": 20.5,
+            "Indiana Pacers": 2.15
+          }
+        },
+        "Chicago Bulls - Atlanta Hawks": {
+          "1x2": {
+            "Chicago Bulls": 1.92,
+            "X": 13.0,
+            "Atlanta Hawks": 2.05
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "Chicago Bulls": 1.88,
+            "Atlanta Hawks": 1.93
+          },
+          "1st half - 1x2": {
+            "Chicago Bulls": 1.84,
+            "X": 23.5,
+            "Atlanta Hawks": 1.94
+          }
+        },
+        "Portland Trail Blazers - Sacramento Kings": {
+          "1x2": {
+            "Portland Trail Blazers": 3.7,
+            "X": 17.0,
+            "Sacramento Kings": 1.33
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "Portland Trail Blazers": 3.4,
+            "Sacramento Kings": 1.32
+          },
+          "1st half - 1x2": {
+            "Portland Trail Blazers": 2.85,
+            "X": 21.5,
+            "Sacramento Kings": 1.42
+          }
+        },
+        "Los Angeles Clippers - Charlotte Bobcats": {
+          "1x2": {
+            "Los Angeles Clippers": 1.16,
+            "X": 21.0,
+            "Charlotte Bobcats": 5.75
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "Los Angeles Clippers": 1.16,
+            "Charlotte Bobcats": 5.25
+          },
+          "1st half - 1x2": {
+            "Los Angeles Clippers": 1.26,
+            "X": 24.5,
+            "Charlotte Bobcats": 3.7
+          }
+        }
+      }
+    }
   ],
   "Australia": [
-    null,
-    null
+    {
+      "NBL": {
+        "Brisbane Bullets - New Zealand Breakers": {
+          "1x2": {
+            "Brisbane Bullets": 2.25,
+            "X": 12.5,
+            "New Zealand Breakers": 1.73
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "Brisbane Bullets": 2.15,
+            "New Zealand Breakers": 1.64
+          },
+          "1st half - 1x2": {
+            "Brisbane Bullets": 2.05,
+            "X": 18.0,
+            "New Zealand Breakers": 1.73
+          }
+        },
+        "Adelaide 36ers - Perth Wildcats": {
+          "1x2": {
+            "Adelaide 36ers": 2.7,
+            "X": 13.0,
+            "Perth Wildcats": 1.54
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "Adelaide 36ers": 2.5,
+            "Perth Wildcats": 1.47
+          },
+          "1st half - 1x2": {
+            "Adelaide 36ers": 2.25,
+            "X": 18.0,
+            "Perth Wildcats": 1.6
+          }
+        },
+        "Sydney Kings - Cairns Taipans": {
+          "1x2": {
+            "Sydney Kings": 1.4,
+            "X": 13.5,
+            "Cairns Taipans": 3.2
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "Sydney Kings": 1.35,
+            "Cairns Taipans": 2.95
+          },
+          "1st half - 1x2": {
+            "Sydney Kings": 1.5,
+            "X": 18.0,
+            "Cairns Taipans": 2.5
+          }
+        }
+      }
+    },
+    {
+      "WNBL": {
+        "West Coast Waves - Canberra Capitals": {
+          "1x2": {
+            "West Coast Waves": 1.29,
+            "X": 17.5,
+            "Canberra Capitals": 3.75
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "West Coast Waves": 1.25,
+            "Canberra Capitals": 3.55
+          },
+          "1st half - 1x2": {
+            "West Coast Waves": 1.41,
+            "X": 21.5,
+            "Canberra Capitals": 2.75
+          }
+        },
+        "Sydney Uni Flames - Townsville Fire": {
+          "1x2": {
+            "Sydney Uni Flames": 3.6,
+            "X": 15.0,
+            "Townsville Fire": 1.33
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "Sydney Uni Flames": 3.35,
+            "Townsville Fire": 1.28
+          },
+          "1st half - 1x2": {
+            "Sydney Uni Flames": 2.7,
+            "X": 18.0,
+            "Townsville Fire": 1.44
+          }
+        },
+        "Melbourne Boomers - Bendigo Spirit": {
+          "1x2": {
+            "Melbourne Boomers": 1.46,
+            "X": 15.0,
+            "Bendigo Spirit": 2.85
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "Melbourne Boomers": 1.41,
+            "Bendigo Spirit": 2.7
+          },
+          "1st half - 1x2": {
+            "Melbourne Boomers": 1.55,
+            "X": 19.5,
+            "Bendigo Spirit": 2.35
+          }
+        },
+        "Adelaide Lightning - Southside Flyers": {
+          "1x2": {
+            "Adelaide Lightning": 2.6,
+            "X": 12.5,
+            "Southside Flyers": 1.58
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "Adelaide Lightning": 2.4,
+            "Southside Flyers": 1.51
+          },
+          "1st half - 1x2": {
+            "Adelaide Lightning": 2.2,
+            "X": 17.0,
+            "Southside Flyers": 1.63
+          }
+        }
+      }
+    }
   ],
   "China": [
-    null
+    {}
   ],
   "Austria": [
-    null,
-    null
+    {
+      "Superliga": {
+        "Chin Min Dragons St. Polten - BBC Nord Dragonz": {
+          "1x2": {
+            "Chin Min Dragons St. Polten": 1.03,
+            "X": 25.0,
+            "BBC Nord Dragonz": 11.0
+          },
+          "time": ""
+        },
+        "Arkadia Traiskirchen - BC Zepter Vienna": {
+          "1x2": {
+            "Arkadia Traiskirchen": 1.74,
+            "X": 13.0,
+            "BC Zepter Vienna": 2.25
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "Arkadia Traiskirchen": 1.66,
+            "BC Zepter Vienna": 2.1
+          },
+          "1st half - 1x2": {
+            "Arkadia Traiskirchen": 1.74,
+            "X": 19.0,
+            "BC Zepter Vienna": 2.05
+          }
+        },
+        "Vienna Timberwolves - Xion Dukes Klosterneuburg": {
+          "1x2": {
+            "Vienna Timberwolves": 6.5,
+            "X": 21.5,
+            "Xion Dukes Klosterneuburg": 1.11
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "Vienna Timberwolves": 6.05,
+            "Xion Dukes Klosterneuburg": 1.09
+          },
+          "1st half - 1x2": {
+            "Vienna Timberwolves": 3.9,
+            "X": 22.5,
+            "Xion Dukes Klosterneuburg": 1.22
+          }
+        },
+        "Furstenfeld Panthers - ECE Bulls Kapfenberg": {
+          "1x2": {
+            "Furstenfeld Panthers": 10.5,
+            "X": 25.0,
+            "ECE Bulls Kapfenberg": 1.03
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "Furstenfeld Panthers": 9.45,
+            "ECE Bulls Kapfenberg": 1.03
+          },
+          "1st half - 1x2": {
+            "Furstenfeld Panthers": 5.25,
+            "X": 25.0,
+            "ECE Bulls Kapfenberg": 1.12
+          }
+        },
+        "Oberwart Gunners - Ubsc Raiffeisen Graz": {
+          "1x2": {
+            "Oberwart Gunners": 1.58,
+            "X": 13.0,
+            "Ubsc Raiffeisen Graz": 2.55
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "Oberwart Gunners": 1.51,
+            "Ubsc Raiffeisen Graz": 2.4
+          },
+          "1st half - 1x2": {
+            "Oberwart Gunners": 1.64,
+            "X": 18.0,
+            "Ubsc Raiffeisen Graz": 2.2
+          }
+        },
+        "WBC Raiffeisen Wels - Swans Gmunden": {
+          "1x2": {
+            "WBC Raiffeisen Wels": 1.94,
+            "X": 12.5,
+            "Swans Gmunden": 1.99
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "WBC Raiffeisen Wels": 1.83,
+            "Swans Gmunden": 1.87
+          },
+          "1st half - 1x2": {
+            "WBC Raiffeisen Wels": 1.86,
+            "X": 18.5,
+            "Swans Gmunden": 1.89
+          }
+        }
+      }
+    },
+    {}
   ],
   "Turkey": [
-    null,
-    null
+    {},
+    {}
   ],
   "Germany": [
-    null,
-    null,
-    null
+    {},
+    {},
+    {
+      "Pro A": {
+        "TBB Trier - Gartenzaun24 Baskets Paderborn": {
+          "1x2": {
+            "TBB Trier": 1.07,
+            "X": 24.0,
+            "Gartenzaun24 Baskets Paderborn": 7.95
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "TBB Trier": 1.06,
+            "Gartenzaun24 Baskets Paderborn": 7.35
+          },
+          "1st half - 1x2": {
+            "TBB Trier": 1.18,
+            "X": 24.5,
+            "Gartenzaun24 Baskets Paderborn": 4.35
+          }
+        },
+        "BBC Bayreuth - Nuremberg Falcons BC": {
+          "1x2": {
+            "BBC Bayreuth": 1.36,
+            "X": 17.5,
+            "Nuremberg Falcons BC": 3.25
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "BBC Bayreuth": 1.32,
+            "Nuremberg Falcons BC": 3.1
+          },
+          "1st half - 1x2": {
+            "BBC Bayreuth": 1.47,
+            "X": 23.0,
+            "Nuremberg Falcons BC": 2.5
+          }
+        },
+        "Gloria Giants Dusseldorf - Post Sudstadt Karlsruhe": {
+          "1x2": {
+            "Gloria Giants Dusseldorf": 2.15,
+            "X": 12.0,
+            "Post Sudstadt Karlsruhe": 1.81
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "Gloria Giants Dusseldorf": 2.0,
+            "Post Sudstadt Karlsruhe": 1.71
+          },
+          "1st half - 1x2": {
+            "Gloria Giants Dusseldorf": 1.99,
+            "X": 18.0,
+            "Post Sudstadt Karlsruhe": 1.78
+          }
+        },
+        "Artland Dragons - Uni Baskets Munster": {
+          "1x2": {
+            "Artland Dragons": 2.65,
+            "X": 11.5,
+            "Uni Baskets Munster": 1.57
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "Artland Dragons": 2.45,
+            "Uni Baskets Munster": 1.49
+          },
+          "1st half - 1x2": {
+            "Artland Dragons": 2.25,
+            "X": 16.0,
+            "Uni Baskets Munster": 1.63
+          }
+        },
+        "Medipolis SC Jena - Desden Titans": {
+          "1x2": {
+            "Medipolis SC Jena": 1.47,
+            "X": 14.5,
+            "Desden Titans": 2.85
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "Medipolis SC Jena": 1.41,
+            "Desden Titans": 2.7
+          },
+          "1st half - 1x2": {
+            "Medipolis SC Jena": 1.56,
+            "X": 19.5,
+            "Desden Titans": 2.35
+          }
+        },
+        "LTi Giessen 46ers - VfL Astrostars Bochum": {
+          "1x2": {
+            "LTi Giessen 46ers": 1.18,
+            "X": 19.0,
+            "VfL Astrostars Bochum": 5.05
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "LTi Giessen 46ers": 1.15,
+            "VfL Astrostars Bochum": 4.7
+          },
+          "1st half - 1x2": {
+            "LTi Giessen 46ers": 1.3,
+            "X": 21.5,
+            "VfL Astrostars Bochum": 3.25
+          }
+        },
+        "EPG Baskets Koblenz - VfL Kirchheim Knights": {
+          "1x2": {
+            "EPG Baskets Koblenz": 2.3,
+            "X": 13.0,
+            "VfL Kirchheim Knights": 1.69
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "EPG Baskets Koblenz": 2.2,
+            "VfL Kirchheim Knights": 1.61
+          },
+          "1st half - 1x2": {
+            "EPG Baskets Koblenz": 2.05,
+            "X": 19.0,
+            "VfL Kirchheim Knights": 1.71
+          }
+        }
+      }
+    }
   ],
   "Spain": [
-    null,
-    null,
-    null
+    {},
+    {},
+    {}
   ],
   "Japan": [
-    null
+    {}
   ],
   "Italy": [
-    null,
-    null,
-    null
+    {},
+    {},
+    {}
   ]
 }

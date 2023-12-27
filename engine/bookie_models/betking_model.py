@@ -8,7 +8,7 @@ from utils.logger.log import log_exception, log_success
 from utils.parser.scrub import Parse
 from engine.storage_engine.vault import Vault
 from utils.library.url_library.betking_urls import FOOTBALL, VOLLEYBALL, BASKETBALL, ICEHOCKEY, DARTS, TENNIS
-
+from timeout_decorator import timeout
 
 
 class betking:
@@ -39,6 +39,12 @@ class betking:
     def __init__(self):
         self.bookie_name = "betking"
     
+    
+    # Define the timeout value in seconds
+    #timeout_value = 60  # Adjust as needed
+
+    # Decorate your functions with the timeout
+    #@timeout(timeout_value)
     def Get_games(self, Sport):
         """ This method gets all the games based on the country 
 

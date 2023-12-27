@@ -54,9 +54,11 @@ class merrybet:
             for url in league_urls:
                 try:
                     response = Scraper.Get_games(self, url)
-                    games.append(Parse.clean(self, response, self.bookie_name))
+                    result_dict = Parse.clean(self, response, self.bookie_name)
+                    games.append(result_dict)
                 except Exception as e:
                     log_exception(f"Error getting games for {country}, URL: {url}, Error: {e}")
-            all_leagues[country] = games    
+            all_leagues[country] = games
+            log_success(f"Scraped {country}")    
         Vault.save_games(self, all_leagues, self.bookie_name, Sport)
         log_success(f"Successfully Scraped and Saved {self.bookie_name} {Sport}")

@@ -5,7 +5,38 @@
 """
 import sys
 from datetime import datetime
+import re
+from utils.logger.log import log_exception
 sys.path.append("..") 
+
+def split_team_names(team_names):
+            the_list = [name.strip() for name in team_names.split('vs')]
+            if len(the_list) == 2:
+                return the_list
+            elif len(the_list) > 2:
+                return the_list[0], the_list[1]
+            else:
+                return the_list[0], "split function returned only one team name" 
+
+"""
+def replace_outcome_name(outcome_name, home_team, away_team):
+    # Define replacement patterns
+    patterns = {
+        f"{home_team} or draw": "1X",
+        f"{home_team} or {away_team}": "12",
+        f"draw or {away_team}": "X2",
+        f"{home_team}": "1",
+        f"{away_team}": "2",
+        "draw": "X",
+        "Draw 0-0": "0-0"
+    }
+
+    # Apply replacements using regular expressions
+    for pattern, replacement in patterns.items():
+        outcome_name = re.sub(re.escape(pattern), replacement, outcome_name, flags=re.IGNORECASE)
+
+    return outcome_name
+"""
 
 
 def extract_LSB(json_data):
@@ -27,12 +58,25 @@ def extract_LSB(json_data):
                 outcome_dict = {}
                 market_name = market.get("name", "Error getting market name")
                 outcomes = market.get("selections", [])
+                
+                try:
+                    home_team, away_team = split_team_names(game_name)
+                except ValueError as e:
+                    # Handle the case where split_team_names returns more than two values
+                    log_exception(f"Error splitting team names In livescorebet home_team and away_team now set to None: {e}")
+                    home_team = away_team = None
+                
                 for outcome in outcomes:
                     outcome_name = outcome.get("name", "Error getting name")
                     outcome_odd = outcome.get("odds")
-                    outcome_dict[outcome_name] = outcome_odd
                 
-
+                    outcome_name = outcome_name.replace(f"{home_team} or Tie", "1X") \
+                                    .replace(f"{home_team} or {away_team}", "12") \
+                                    .replace(f"Tie or {away_team}", "X2")\
+                                    .replace(f"{home_team}", "1")\
+                                    .replace(f"{away_team}", "2")\
+                                    .replace(f"Draw", "X")
+                    outcome_dict[outcome_name] = outcome_odd
                 if game_name not in result_dict:
                     result_dict[game_name] = {}
                 if "time" not in result_dict[game_name]:

@@ -48,7 +48,7 @@ class Parse:
                 return clean_data, league
             if bookie_name == "merrybet":
                 clean_data = extract_merrybet(data)
-                return      
+                return clean_data     
             if bookie_name == "nairabet":
                 clean_data = extract_nairabet(data)
                 return clean_data 

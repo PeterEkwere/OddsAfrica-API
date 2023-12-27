@@ -9,7 +9,7 @@ from utils.scraper import Scraper
 from utils.parser.scrub import Parse
 from engine.storage_engine.vault import Vault
 from utils.library.url_library.bet22_urls import FOOTBALL, VOLLEYBALL, BASKETBALL, ICEHOCKEY, DARTS, TENNIS, ESOCCER
-
+from timeout_decorator import timeout
 
 
 class bet22:
@@ -45,6 +45,11 @@ class bet22:
     def __init__(self):
         self.bookie_name = "22bet"
     
+    # Define the timeout value in seconds
+    #timeout_value = 60  # Adjust as needed
+
+    # Decorate your functions with the timeout
+    #@timeout(timeout_value)
     def Get_games(self, Sport):
         """ This method gets all the games based on the country 
 

@@ -28,7 +28,14 @@ def convert_market_data(old_data):
 
                 for outcome in outcomes:
                     outcome_name = outcome.get("desc")
-                    outcome_odd = float(outcome.get("odds")) 
+                    outcome_odd = float(outcome.get("odds"))
+                     
+                    outcome_name = outcome_name.replace("Home or Draw", "1X") \
+                                        .replace(f"Home or Away", "12") \
+                                        .replace(f"Draw or Away", "X2")\
+                                        .replace("Home", "1")\
+                                        .replace(f"Away", "2")\
+                                        .replace(f"Draw", "X")
                     if outcome_name not in result_dict[game_name][market_name]:
                         result_dict[game_name][market_name][outcome_name] = outcome_odd
 

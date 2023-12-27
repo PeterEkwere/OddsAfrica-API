@@ -10,7 +10,22 @@
   "European Leagues": {},
   "Greece": {},
   "International": {},
-  "Russia": {},
+  "Russia": {
+    "Superliga, Women": {
+      "Minchanka Minsk - Dinamo Metar Chelyabinsk": {
+        "1-2": {
+          "1": 5.2,
+          "2": 1.13
+        }
+      },
+      "Zarechie-Odintsovo - Proton Saratov": {
+        "1-2": {
+          "1": 5.1,
+          "2": 1.13
+        }
+      }
+    }
+  },
   "Serbia": {},
   "Slovakia": {},
   "South Korea": {},

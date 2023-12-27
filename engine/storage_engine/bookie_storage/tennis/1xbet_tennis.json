@@ -1,67 +1,457 @@
 {
   "ATP": {},
   "UTR": {
-    "Navi Mumbai. Women. Doubles": {
-      "Hayato Matsuoka VS Daiki Yoshimura": {
-        "time": "2023-12-26 01:30:00",
+    "Navi Mumbai. Women": {
+      "Aryna Sabalenka VS Ons Jabeur": {
+        "time": "2023-12-26 15:15:00",
         "Dont Know market name": {
-          "Don't Know The Outcome": 9.6
+          "Don't Know The Outcome": 3.4
         },
         "1X2": {
-          "1": 1.071,
-          "2": 7.23
+          "1": 1.44,
+          "2": 2.733
         },
         "Over": {
-          "18": 1.79,
-          "18.5": 1.93,
-          "19": 2.11
+          "19.5": 1.412,
+          "20.5": 1.589,
+          "21.5": 1.761,
+          "22.5": 2.029,
+          "23.5": 2.247,
+          "24.5": 2.378,
+          "25.5": 2.643
         },
         "Under": {
-          "18": 1.93,
-          "18.5": 1.78,
-          "19": 1.66
+          "19.5": 2.599,
+          "20.5": 2.157,
+          "21.5": 1.905,
+          "22.5": 1.666,
+          "23.5": 1.543,
+          "24.5": 1.487,
+          "25.5": 1.4
         },
         "Handicap Home": {
-          "-6.5": 1.9
+          "-4.5": 2.428,
+          "-4": 2.182,
+          "-3.5": 1.932,
+          "-3": 1.782,
+          "-2.5": 1.674,
+          "-2": 1.606,
+          "-1.5": 1.556
         },
         "Handicap Away": {
-          "6.5": 1.81
+          "4.5": 1.468,
+          "4": 1.576,
+          "3.5": 1.738,
+          "3": 1.88,
+          "2.5": 2.017,
+          "2": 2.126,
+          "1.5": 2.221
         }
       },
-      "Wishaya Trongcharoenchaikul VS Sanhui Shin": {
-        "time": "2023-12-26 01:30:00",
+      "Kukasian/Simakin VS Mishkin/Shvets": {
+        "time": "2023-12-26 13:30:00",
         "Dont Know market name": {
-          "Don't Know The Outcome": 1.39
+          "Don't Know The Outcome": 2.2
         },
         "1X2": {
-          "1": 3.96,
-          "2": 1.22
+          "1": 1.909,
+          "2": 1.8
         },
         "Over": {
-          "19": 1.72,
-          "19.5": 1.85,
-          "20": 1.97
+          "21": 1.71,
+          "21.5": 1.88,
+          "22": 2.22
         },
         "Under": {
-          "19": 2.02,
-          "19.5": 1.86,
-          "20": 1.76
+          "21": 1.99,
+          "21.5": 1.82,
+          "22": 1.571
         },
         "Handicap Home": {
-          "5.5": 1.76
+          "0.5": 1.77
         },
         "Handicap Away": {
-          "-5.5": 1.96
+          "-0.5": 1.94
         }
       },
-      "Kazuki Nishiwaki VS Jumpei Yamasaki": {
-        "time": "2023-12-26 03:00:00",
+      "Marcon/Odorizzi VS Bechri/Wang": {
+        "time": "2023-12-26 13:30:00",
         "Dont Know market name": {
-          "Don't Know The Outcome": 1.909
+          "Don't Know The Outcome": 1.169
+        },
+        "1X2": {
+          "1": 4.57,
+          "2": 1.169
+        }
+      },
+      "Reguer/Suvirdjonkova VS Vasilyeva/Zhang": {
+        "time": "2023-12-26 13:30:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 5.2
+        },
+        "1X2": {
+          "1": 1.134,
+          "2": 5.2
+        }
+      },
+      "Keck/Singh VS Duhan/Tepmahc": {
+        "time": "2023-12-26 15:00:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 1.128
+        },
+        "1X2": {
+          "1": 7.41,
+          "2": 1.064
+        },
+        "Over": {
+          "18": 1.727,
+          "18.5": 1.97,
+          "19": 2.26
+        },
+        "Under": {
+          "18": 1.97,
+          "18.5": 1.74,
+          "19": 1.55
+        },
+        "Handicap Home": {
+          "5.5": 1.97
+        },
+        "Handicap Away": {
+          "-5.5": 1.74
+        }
+      },
+      "Zhu/Cao VS Matsuda/Taguchi": {
+        "time": "2023-12-26 15:30:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 1.188
+        },
+        "1X2": {
+          "1": 6,
+          "2": 1.102
+        },
+        "Over": {
+          "18": 1.615,
+          "18.5": 1.85,
+          "19": 2.09
+        },
+        "Under": {
+          "18": 2.14,
+          "18.5": 1.85,
+          "19": 1.64
+        },
+        "Handicap Home": {
+          "5.5": 1.8
+        },
+        "Handicap Away": {
+          "-5.5": 1.9
+        }
+      },
+      "Alan Sau Franco VS Yamato Sueoka": {
+        "time": "2023-12-27 00:30:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 1.69
+        },
+        "1X2": {
+          "1": 2.684,
+          "2": 1.43
+        },
+        "Over": {
+          "21": 1.83,
+          "21.5": 1.92,
+          "22": 2.06
+        },
+        "Under": {
+          "21": 1.89,
+          "21.5": 1.79,
+          "22": 1.69
+        },
+        "Handicap Home": {
+          "3.5": 1.9
+        },
+        "Handicap Away": {
+          "-3.5": 1.81
+        }
+      },
+      "Keisuke Saitoh VS Taki Adachi": {
+        "time": "2023-12-27 00:30:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 16.5
+        },
+        "1X2": {
+          "1": 1.011,
+          "2": 12
+        },
+        "Over": {
+          "17": 1.79,
+          "17.5": 2,
+          "18": 2.21
+        },
+        "Under": {
+          "17": 1.93,
+          "17.5": 1.73,
+          "18": 1.6
+        },
+        "Handicap Home": {
+          "-7.5": 2.05
+        },
+        "Handicap Away": {
+          "7.5": 1.69
+        }
+      },
+      "Mikalai Haliak VS Ryotaro Matsumura": {
+        "time": "2023-12-27 00:30:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 4.65
+        },
+        "1X2": {
+          "1": 1.28,
+          "2": 3.43
+        },
+        "Over": {
+          "20": 1.81,
+          "20.5": 1.909,
+          "21": 2.03
+        },
+        "Under": {
+          "20": 1.909,
+          "20.5": 1.8,
+          "21": 1.71
+        },
+        "Handicap Home": {
+          "-4.5": 1.78
+        },
+        "Handicap Away": {
+          "4.5": 1.94
+        }
+      },
+      "Seita Watanabe VS Duck Hee Lee": {
+        "time": "2023-12-27 00:30:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 1.89
         },
         "1X2": {
           "1": 2.257,
           "2": 1.59
+        },
+        "Over": {
+          "20": 1.7,
+          "20.5": 1.81,
+          "21": 1.909
+        },
+        "Under": {
+          "20": 2.05,
+          "20.5": 1.9,
+          "21": 1.81
+        },
+        "Handicap Home": {
+          "2.5": 1.909
+        },
+        "Handicap Away": {
+          "-2.5": 1.8
+        }
+      },
+      "Takuya Kumasaka VS Kazuma Kawachi": {
+        "time": "2023-12-27 00:30:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 4.5
+        },
+        "1X2": {
+          "1": 1.29,
+          "2": 3.37
+        },
+        "Over": {
+          "20": 1.84,
+          "20.5": 1.94,
+          "21": 2.06
+        },
+        "Under": {
+          "20": 1.88,
+          "20.5": 1.77,
+          "21": 1.69
+        },
+        "Handicap Home": {
+          "-4.5": 1.78
+        },
+        "Handicap Away": {
+          "4.5": 1.94
+        }
+      },
+      "Novak Djokovic VS Carlos Alcaraz Garfia": {
+        "time": "2023-12-27 15:00:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 3.2
+        },
+        "1X2": {
+          "1": 1.53,
+          "2": 2.53
+        },
+        "Over": {
+          "21.5": 1.539,
+          "22.5": 1.783,
+          "23.5": 2.017,
+          "24.5": 2.089,
+          "25.5": 2.282
+        },
+        "Under": {
+          "21.5": 2.255,
+          "22.5": 1.879,
+          "23.5": 1.674,
+          "24.5": 1.628,
+          "25.5": 1.528
+        },
+        "Handicap Home": {
+          "-3": 2.005,
+          "-2.5": 1.83,
+          "-2": 1.716,
+          "-1.5": 1.632,
+          "-1": 1.576
+        },
+        "Handicap Away": {
+          "3": 1.683,
+          "2.5": 1.83,
+          "2": 1.961,
+          "1.5": 2.082,
+          "1": 2.182
+        }
+      },
+      "Hikaru Shiraishi VS Sho Katayama": {
+        "time": "2023-12-27 02:00:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 9.8
+        },
+        "1X2": {
+          "1": 1.069,
+          "2": 7.38
+        },
+        "Over": {
+          "18": 1.8,
+          "18.5": 1.94,
+          "19": 2.12
+        },
+        "Under": {
+          "18": 1.92,
+          "18.5": 1.77,
+          "19": 1.65
+        },
+        "Handicap Home": {
+          "-6.5": 1.88
+        },
+        "Handicap Away": {
+          "6.5": 1.83
+        }
+      },
+      "Kenta Miyoshi VS Ko Suzuki": {
+        "time": "2023-12-27 02:00:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 2.91
+        },
+        "1X2": {
+          "1": 1.59,
+          "2": 2.257
+        },
+        "Over": {
+          "21": 1.8,
+          "21.5": 1.89,
+          "22": 2.02
+        },
+        "Under": {
+          "21": 1.92,
+          "21.5": 1.82,
+          "22": 1.72
+        },
+        "Handicap Home": {
+          "-2.5": 1.82
+        },
+        "Handicap Away": {
+          "2.5": 1.89
+        }
+      },
+      "Koki Matsuda VS Sora Fukuda": {
+        "time": "2023-12-27 02:00:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 1.61
+        },
+        "1X2": {
+          "1": 2.922,
+          "2": 1.37
+        },
+        "Over": {
+          "20": 1.79,
+          "20.5": 1.9,
+          "21": 2.01
+        },
+        "Under": {
+          "20": 1.93,
+          "20.5": 1.81,
+          "21": 1.727
+        },
+        "Handicap Home": {
+          "4.5": 1.79
+        },
+        "Handicap Away": {
+          "-4.5": 1.92
+        }
+      },
+      "Kousuke Ogura VS Jay Dylan Hara Friend": {
+        "time": "2023-12-27 02:00:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 2.12
+        },
+        "1X2": {
+          "1": 2.01,
+          "2": 1.727
+        },
+        "Over": {
+          "20": 1.68,
+          "20.5": 1.79,
+          "21": 1.88
+        },
+        "Under": {
+          "20": 2.08,
+          "20.5": 1.92,
+          "21": 1.84
+        },
+        "Handicap Home": {
+          "1.5": 1.84
+        },
+        "Handicap Away": {
+          "-1.5": 1.87
+        }
+      },
+      "Hanyi Liu VS Toa Maeda": {
+        "time": "2023-12-27 03:30:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 16
+        },
+        "1X2": {
+          "1": 1.013,
+          "2": 11.7
+        },
+        "Over": {
+          "17": 1.77,
+          "17.5": 1.97,
+          "18": 2.19
+        },
+        "Under": {
+          "17": 1.95,
+          "17.5": 1.75,
+          "18": 1.61
+        },
+        "Handicap Home": {
+          "-7.5": 2.07
+        },
+        "Handicap Away": {
+          "7.5": 1.68
+        }
+      },
+      "Taiyo Yamanaka VS Shunsuke Nakagawa": {
+        "time": "2023-12-27 03:30:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 3.44
+        },
+        "1X2": {
+          "1": 1.44,
+          "2": 2.645
         },
         "Over": {
           "20": 1.7,
@@ -74,310 +464,518 @@
           "21": 1.82
         },
         "Handicap Home": {
-          "2.5": 1.9
+          "-3.5": 1.79
         },
         "Handicap Away": {
-          "-2.5": 1.81
+          "3.5": 1.92
         }
       },
-      "Yuto Oki VS Yuta Kawahashi": {
-        "time": "2023-12-26 03:00:00",
+      "Woobin Shin VS Taisei Ichikawa": {
+        "time": "2023-12-27 03:30:00",
         "Dont Know market name": {
-          "Don't Know The Outcome": 1.198
+          "Don't Know The Outcome": 1.64
         },
         "1X2": {
-          "1": 6.63,
-          "2": 1.085
+          "1": 2.833,
+          "2": 1.39
         },
         "Over": {
-          "18": 1.73,
-          "18.5": 1.88,
-          "19": 2.05
+          "20": 1.67,
+          "20.5": 1.79,
+          "21": 1.88
         },
         "Under": {
-          "18": 2,
-          "18.5": 1.83,
-          "19": 1.7
+          "20": 2.09,
+          "20.5": 1.92,
+          "21": 1.84
         },
         "Handicap Home": {
-          "6.5": 1.76
+          "3.5": 1.98
         },
         "Handicap Away": {
-          "-6.5": 1.96
+          "-3.5": 1.74
         }
       },
-      "Kusuhara/Shiraishi VS Haliak/Lee": {
-        "time": "2023-12-26 03:00:00",
+      "Ekaterina Kazionova VS Vaidehi Chaudhari": {
+        "time": "2023-12-27 04:30:00",
         "Dont Know market name": {
-          "Don't Know The Outcome": 1.36
+          "Don't Know The Outcome": 1.58
         },
         "1X2": {
-          "1": 2.971,
-          "2": 1.36
-        }
-      },
-      "Ekaterina Yashina VS Harsshali Mandavkar": {
-        "time": "2023-12-26 04:30:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 10.3
-        },
-        "1X2": {
-          "1": 1.023,
-          "2": 10.3
-        }
-      },
-      "Ksenia Zaytseva VS Misaki Matsuda": {
-        "time": "2023-12-26 04:30:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 4.5
-        },
-        "1X2": {
-          "1": 1.29,
-          "2": 3.34
+          "1": 2.994,
+          "2": 1.35
         },
         "Over": {
-          "19": 1.63,
-          "19.5": 1.76,
-          "20": 1.85
+          "20": 1.79,
+          "20.5": 1.9,
+          "21": 2
         },
         "Under": {
-          "19": 2.11,
-          "19.5": 1.95,
-          "20": 1.83
+          "20": 1.89,
+          "20.5": 1.8,
+          "21": 1.7
         },
         "Handicap Home": {
-          "-4.5": 1.75
+          "4.5": 1.82
         },
         "Handicap Away": {
-          "4.5": 1.96
-        }
-      },
-      "Suhitha Maruri VS Sapfo Sakellaridi": {
-        "time": "2023-12-26 04:30:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.045
-        },
-        "1X2": {
-          "1": 8.5,
-          "2": 1.045
-        }
-      },
-      "Zeel Desai VS Funa Kozaki": {
-        "time": "2023-12-26 04:30:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 4.25
-        },
-        "1X2": {
-          "1": 1.31,
-          "2": 3.22
-        },
-        "Over": {
-          "20": 1.83,
-          "20.5": 1.95,
-          "21": 2.05
-        },
-        "Under": {
-          "20": 1.85,
-          "20.5": 1.76,
-          "21": 1.666
-        },
-        "Handicap Home": {
-          "-4.5": 1.81
-        },
-        "Handicap Away": {
-          "4.5": 1.89
-        }
-      },
-      "Lu/Fu VS Kawachi/Sueoka": {
-        "time": "2023-12-26 04:30:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.28
-        },
-        "1X2": {
-          "1": 3.43,
-          "2": 1.28
-        }
-      },
-      "Katayama/Nakagawa VS Liu/Zhang": {
-        "time": "2023-12-26 05:00:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 2.335
-        },
-        "1X2": {
-          "1": 1.553,
-          "2": 2.335
-        }
-      },
-      "Matsuda/Matsuoka VS Miyoshi/Hara Friend": {
-        "time": "2023-12-26 05:00:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.43
-        },
-        "1X2": {
-          "1": 2.684,
-          "2": 1.43
-        }
-      },
-      "Naho Sato VS Anna Sedysheva": {
-        "time": "2023-12-26 06:00:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 8.6
-        },
-        "1X2": {
-          "1": 1.086,
-          "2": 6.49
-        },
-        "Over": {
-          "18": 1.71,
-          "18.5": 1.87,
-          "19": 2
-        },
-        "Under": {
-          "18": 1.99,
-          "18.5": 1.83,
-          "19": 1.7
-        },
-        "Handicap Home": {
-          "-6.5": 1.97
-        },
-        "Handicap Away": {
-          "6.5": 1.74
-        }
-      },
-      "Adkar/Yamalapalli VS Gumulya/Omae": {
-        "time": "2023-12-26 06:00:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.5
-        },
-        "1X2": {
-          "1": 2.449,
-          "2": 1.5
-        }
-      },
-      "Tani/Hashimoto VS Yoshimura/Fukuda": {
-        "time": "2023-12-26 06:00:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.104
-        },
-        "1X2": {
-          "1": 6.04,
-          "2": 1.104
-        }
-      },
-      "Shin/Shin VS Saitoh/Yamanaka": {
-        "time": "2023-12-26 06:30:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.63
-        },
-        "1X2": {
-          "1": 2.18,
-          "2": 1.63
-        }
-      },
-      "Katsumi/Kobayashi VS Desai/Zaytseva": {
-        "time": "2023-12-26 07:30:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.41
-        },
-        "1X2": {
-          "1": 2.737,
-          "2": 1.41
-        }
-      },
-      "Kazionova/Nitture VS Bhosale/Thombare": {
-        "time": "2023-12-26 07:30:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.26
-        },
-        "1X2": {
-          "1": 3.72,
-          "2": 1.26
-        }
-      },
-      "Maklakova/Yashina VS Abe/Imamura": {
-        "time": "2023-12-26 07:30:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.86
-        },
-        "1X2": {
-          "1": 1.86,
-          "2": 1.86
-        }
-      },
-      "Vig/Majgaine VS Marcinkevica/Sakellaridi": {
-        "time": "2023-12-26 07:30:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.01
-        },
-        "1X2": {
-          "1": 16,
-          "2": 1.01
+          "-4.5": 1.88
         }
       }
     }
   },
   "WTA": {
-    "Navi Mumbai. Women. Doubles": {
-      "Hayato Matsuoka VS Daiki Yoshimura": {
-        "time": "2023-12-26 01:30:00",
+    "Navi Mumbai. Women": {
+      "Aryna Sabalenka VS Ons Jabeur": {
+        "time": "2023-12-26 15:15:00",
         "Dont Know market name": {
-          "Don't Know The Outcome": 9.6
+          "Don't Know The Outcome": 3.4
         },
         "1X2": {
-          "1": 1.071,
-          "2": 7.23
+          "1": 1.44,
+          "2": 2.733
         },
         "Over": {
-          "18": 1.79,
-          "18.5": 1.93,
-          "19": 2.11
+          "19.5": 1.412,
+          "20.5": 1.589,
+          "21.5": 1.761,
+          "22.5": 2.029,
+          "23.5": 2.247,
+          "24.5": 2.378,
+          "25.5": 2.643
         },
         "Under": {
-          "18": 1.93,
-          "18.5": 1.78,
-          "19": 1.66
+          "19.5": 2.599,
+          "20.5": 2.157,
+          "21.5": 1.905,
+          "22.5": 1.666,
+          "23.5": 1.543,
+          "24.5": 1.487,
+          "25.5": 1.4
         },
         "Handicap Home": {
-          "-6.5": 1.9
+          "-4.5": 2.428,
+          "-4": 2.182,
+          "-3.5": 1.932,
+          "-3": 1.782,
+          "-2.5": 1.674,
+          "-2": 1.606,
+          "-1.5": 1.556
         },
         "Handicap Away": {
-          "6.5": 1.81
+          "4.5": 1.468,
+          "4": 1.576,
+          "3.5": 1.738,
+          "3": 1.88,
+          "2.5": 2.017,
+          "2": 2.126,
+          "1.5": 2.221
         }
       },
-      "Wishaya Trongcharoenchaikul VS Sanhui Shin": {
-        "time": "2023-12-26 01:30:00",
+      "Kukasian/Simakin VS Mishkin/Shvets": {
+        "time": "2023-12-26 13:30:00",
         "Dont Know market name": {
-          "Don't Know The Outcome": 1.39
+          "Don't Know The Outcome": 2.2
         },
         "1X2": {
-          "1": 3.96,
-          "2": 1.22
+          "1": 1.909,
+          "2": 1.8
         },
         "Over": {
-          "19": 1.72,
-          "19.5": 1.85,
-          "20": 1.97
+          "21": 1.71,
+          "21.5": 1.88,
+          "22": 2.22
         },
         "Under": {
-          "19": 2.02,
-          "19.5": 1.86,
-          "20": 1.76
+          "21": 1.99,
+          "21.5": 1.82,
+          "22": 1.571
         },
         "Handicap Home": {
-          "5.5": 1.76
+          "0.5": 1.77
         },
         "Handicap Away": {
-          "-5.5": 1.96
+          "-0.5": 1.94
         }
       },
-      "Kazuki Nishiwaki VS Jumpei Yamasaki": {
-        "time": "2023-12-26 03:00:00",
+      "Marcon/Odorizzi VS Bechri/Wang": {
+        "time": "2023-12-26 13:30:00",
         "Dont Know market name": {
-          "Don't Know The Outcome": 1.909
+          "Don't Know The Outcome": 1.169
+        },
+        "1X2": {
+          "1": 4.57,
+          "2": 1.169
+        }
+      },
+      "Reguer/Suvirdjonkova VS Vasilyeva/Zhang": {
+        "time": "2023-12-26 13:30:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 5.2
+        },
+        "1X2": {
+          "1": 1.134,
+          "2": 5.2
+        }
+      },
+      "Keck/Singh VS Duhan/Tepmahc": {
+        "time": "2023-12-26 15:00:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 1.128
+        },
+        "1X2": {
+          "1": 7.41,
+          "2": 1.064
+        },
+        "Over": {
+          "18": 1.727,
+          "18.5": 1.97,
+          "19": 2.26
+        },
+        "Under": {
+          "18": 1.97,
+          "18.5": 1.74,
+          "19": 1.55
+        },
+        "Handicap Home": {
+          "5.5": 1.97
+        },
+        "Handicap Away": {
+          "-5.5": 1.74
+        }
+      },
+      "Zhu/Cao VS Matsuda/Taguchi": {
+        "time": "2023-12-26 15:30:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 1.188
+        },
+        "1X2": {
+          "1": 6,
+          "2": 1.102
+        },
+        "Over": {
+          "18": 1.615,
+          "18.5": 1.85,
+          "19": 2.09
+        },
+        "Under": {
+          "18": 2.14,
+          "18.5": 1.85,
+          "19": 1.64
+        },
+        "Handicap Home": {
+          "5.5": 1.8
+        },
+        "Handicap Away": {
+          "-5.5": 1.9
+        }
+      },
+      "Alan Sau Franco VS Yamato Sueoka": {
+        "time": "2023-12-27 00:30:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 1.69
+        },
+        "1X2": {
+          "1": 2.684,
+          "2": 1.43
+        },
+        "Over": {
+          "21": 1.83,
+          "21.5": 1.92,
+          "22": 2.06
+        },
+        "Under": {
+          "21": 1.89,
+          "21.5": 1.79,
+          "22": 1.69
+        },
+        "Handicap Home": {
+          "3.5": 1.9
+        },
+        "Handicap Away": {
+          "-3.5": 1.81
+        }
+      },
+      "Keisuke Saitoh VS Taki Adachi": {
+        "time": "2023-12-27 00:30:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 16.5
+        },
+        "1X2": {
+          "1": 1.011,
+          "2": 12
+        },
+        "Over": {
+          "17": 1.79,
+          "17.5": 2,
+          "18": 2.21
+        },
+        "Under": {
+          "17": 1.93,
+          "17.5": 1.73,
+          "18": 1.6
+        },
+        "Handicap Home": {
+          "-7.5": 2.05
+        },
+        "Handicap Away": {
+          "7.5": 1.69
+        }
+      },
+      "Mikalai Haliak VS Ryotaro Matsumura": {
+        "time": "2023-12-27 00:30:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 4.65
+        },
+        "1X2": {
+          "1": 1.28,
+          "2": 3.43
+        },
+        "Over": {
+          "20": 1.81,
+          "20.5": 1.909,
+          "21": 2.03
+        },
+        "Under": {
+          "20": 1.909,
+          "20.5": 1.8,
+          "21": 1.71
+        },
+        "Handicap Home": {
+          "-4.5": 1.78
+        },
+        "Handicap Away": {
+          "4.5": 1.94
+        }
+      },
+      "Seita Watanabe VS Duck Hee Lee": {
+        "time": "2023-12-27 00:30:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 1.89
         },
         "1X2": {
           "1": 2.257,
           "2": 1.59
+        },
+        "Over": {
+          "20": 1.7,
+          "20.5": 1.81,
+          "21": 1.909
+        },
+        "Under": {
+          "20": 2.05,
+          "20.5": 1.9,
+          "21": 1.81
+        },
+        "Handicap Home": {
+          "2.5": 1.909
+        },
+        "Handicap Away": {
+          "-2.5": 1.8
+        }
+      },
+      "Takuya Kumasaka VS Kazuma Kawachi": {
+        "time": "2023-12-27 00:30:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 4.5
+        },
+        "1X2": {
+          "1": 1.29,
+          "2": 3.37
+        },
+        "Over": {
+          "20": 1.84,
+          "20.5": 1.94,
+          "21": 2.06
+        },
+        "Under": {
+          "20": 1.88,
+          "20.5": 1.77,
+          "21": 1.69
+        },
+        "Handicap Home": {
+          "-4.5": 1.78
+        },
+        "Handicap Away": {
+          "4.5": 1.94
+        }
+      },
+      "Novak Djokovic VS Carlos Alcaraz Garfia": {
+        "time": "2023-12-27 15:00:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 3.2
+        },
+        "1X2": {
+          "1": 1.53,
+          "2": 2.53
+        },
+        "Over": {
+          "21.5": 1.539,
+          "22.5": 1.783,
+          "23.5": 2.017,
+          "24.5": 2.089,
+          "25.5": 2.282
+        },
+        "Under": {
+          "21.5": 2.255,
+          "22.5": 1.879,
+          "23.5": 1.674,
+          "24.5": 1.628,
+          "25.5": 1.528
+        },
+        "Handicap Home": {
+          "-3": 2.005,
+          "-2.5": 1.83,
+          "-2": 1.716,
+          "-1.5": 1.632,
+          "-1": 1.576
+        },
+        "Handicap Away": {
+          "3": 1.683,
+          "2.5": 1.83,
+          "2": 1.961,
+          "1.5": 2.082,
+          "1": 2.182
+        }
+      },
+      "Hikaru Shiraishi VS Sho Katayama": {
+        "time": "2023-12-27 02:00:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 9.8
+        },
+        "1X2": {
+          "1": 1.069,
+          "2": 7.38
+        },
+        "Over": {
+          "18": 1.8,
+          "18.5": 1.94,
+          "19": 2.12
+        },
+        "Under": {
+          "18": 1.92,
+          "18.5": 1.77,
+          "19": 1.65
+        },
+        "Handicap Home": {
+          "-6.5": 1.88
+        },
+        "Handicap Away": {
+          "6.5": 1.83
+        }
+      },
+      "Kenta Miyoshi VS Ko Suzuki": {
+        "time": "2023-12-27 02:00:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 2.91
+        },
+        "1X2": {
+          "1": 1.59,
+          "2": 2.257
+        },
+        "Over": {
+          "21": 1.8,
+          "21.5": 1.89,
+          "22": 2.02
+        },
+        "Under": {
+          "21": 1.92,
+          "21.5": 1.82,
+          "22": 1.72
+        },
+        "Handicap Home": {
+          "-2.5": 1.82
+        },
+        "Handicap Away": {
+          "2.5": 1.89
+        }
+      },
+      "Koki Matsuda VS Sora Fukuda": {
+        "time": "2023-12-27 02:00:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 1.61
+        },
+        "1X2": {
+          "1": 2.922,
+          "2": 1.37
+        },
+        "Over": {
+          "20": 1.79,
+          "20.5": 1.9,
+          "21": 2.01
+        },
+        "Under": {
+          "20": 1.93,
+          "20.5": 1.81,
+          "21": 1.727
+        },
+        "Handicap Home": {
+          "4.5": 1.79
+        },
+        "Handicap Away": {
+          "-4.5": 1.92
+        }
+      },
+      "Kousuke Ogura VS Jay Dylan Hara Friend": {
+        "time": "2023-12-27 02:00:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 2.12
+        },
+        "1X2": {
+          "1": 2.01,
+          "2": 1.727
+        },
+        "Over": {
+          "20": 1.68,
+          "20.5": 1.79,
+          "21": 1.88
+        },
+        "Under": {
+          "20": 2.08,
+          "20.5": 1.92,
+          "21": 1.84
+        },
+        "Handicap Home": {
+          "1.5": 1.84
+        },
+        "Handicap Away": {
+          "-1.5": 1.87
+        }
+      },
+      "Hanyi Liu VS Toa Maeda": {
+        "time": "2023-12-27 03:30:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 16
+        },
+        "1X2": {
+          "1": 1.013,
+          "2": 11.7
+        },
+        "Over": {
+          "17": 1.77,
+          "17.5": 1.97,
+          "18": 2.19
+        },
+        "Under": {
+          "17": 1.95,
+          "17.5": 1.75,
+          "18": 1.61
+        },
+        "Handicap Home": {
+          "-7.5": 2.07
+        },
+        "Handicap Away": {
+          "7.5": 1.68
+        }
+      },
+      "Taiyo Yamanaka VS Shunsuke Nakagawa": {
+        "time": "2023-12-27 03:30:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 3.44
+        },
+        "1X2": {
+          "1": 1.44,
+          "2": 2.645
         },
         "Over": {
           "20": 1.7,
@@ -390,310 +988,518 @@
           "21": 1.82
         },
         "Handicap Home": {
-          "2.5": 1.9
+          "-3.5": 1.79
         },
         "Handicap Away": {
-          "-2.5": 1.81
+          "3.5": 1.92
         }
       },
-      "Yuto Oki VS Yuta Kawahashi": {
-        "time": "2023-12-26 03:00:00",
+      "Woobin Shin VS Taisei Ichikawa": {
+        "time": "2023-12-27 03:30:00",
         "Dont Know market name": {
-          "Don't Know The Outcome": 1.198
+          "Don't Know The Outcome": 1.64
         },
         "1X2": {
-          "1": 6.63,
-          "2": 1.085
+          "1": 2.833,
+          "2": 1.39
         },
         "Over": {
-          "18": 1.73,
-          "18.5": 1.88,
-          "19": 2.05
+          "20": 1.67,
+          "20.5": 1.79,
+          "21": 1.88
         },
         "Under": {
-          "18": 2,
-          "18.5": 1.83,
-          "19": 1.7
+          "20": 2.09,
+          "20.5": 1.92,
+          "21": 1.84
         },
         "Handicap Home": {
-          "6.5": 1.76
+          "3.5": 1.98
         },
         "Handicap Away": {
-          "-6.5": 1.96
+          "-3.5": 1.74
         }
       },
-      "Kusuhara/Shiraishi VS Haliak/Lee": {
-        "time": "2023-12-26 03:00:00",
+      "Ekaterina Kazionova VS Vaidehi Chaudhari": {
+        "time": "2023-12-27 04:30:00",
         "Dont Know market name": {
-          "Don't Know The Outcome": 1.36
+          "Don't Know The Outcome": 1.58
         },
         "1X2": {
-          "1": 2.971,
-          "2": 1.36
-        }
-      },
-      "Ekaterina Yashina VS Harsshali Mandavkar": {
-        "time": "2023-12-26 04:30:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 10.3
-        },
-        "1X2": {
-          "1": 1.023,
-          "2": 10.3
-        }
-      },
-      "Ksenia Zaytseva VS Misaki Matsuda": {
-        "time": "2023-12-26 04:30:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 4.5
-        },
-        "1X2": {
-          "1": 1.29,
-          "2": 3.34
+          "1": 2.994,
+          "2": 1.35
         },
         "Over": {
-          "19": 1.63,
-          "19.5": 1.76,
-          "20": 1.85
+          "20": 1.79,
+          "20.5": 1.9,
+          "21": 2
         },
         "Under": {
-          "19": 2.11,
-          "19.5": 1.95,
-          "20": 1.83
+          "20": 1.89,
+          "20.5": 1.8,
+          "21": 1.7
         },
         "Handicap Home": {
-          "-4.5": 1.75
+          "4.5": 1.82
         },
         "Handicap Away": {
-          "4.5": 1.96
-        }
-      },
-      "Suhitha Maruri VS Sapfo Sakellaridi": {
-        "time": "2023-12-26 04:30:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.045
-        },
-        "1X2": {
-          "1": 8.5,
-          "2": 1.045
-        }
-      },
-      "Zeel Desai VS Funa Kozaki": {
-        "time": "2023-12-26 04:30:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 4.25
-        },
-        "1X2": {
-          "1": 1.31,
-          "2": 3.22
-        },
-        "Over": {
-          "20": 1.83,
-          "20.5": 1.95,
-          "21": 2.05
-        },
-        "Under": {
-          "20": 1.85,
-          "20.5": 1.76,
-          "21": 1.666
-        },
-        "Handicap Home": {
-          "-4.5": 1.81
-        },
-        "Handicap Away": {
-          "4.5": 1.89
-        }
-      },
-      "Lu/Fu VS Kawachi/Sueoka": {
-        "time": "2023-12-26 04:30:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.28
-        },
-        "1X2": {
-          "1": 3.43,
-          "2": 1.28
-        }
-      },
-      "Katayama/Nakagawa VS Liu/Zhang": {
-        "time": "2023-12-26 05:00:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 2.335
-        },
-        "1X2": {
-          "1": 1.553,
-          "2": 2.335
-        }
-      },
-      "Matsuda/Matsuoka VS Miyoshi/Hara Friend": {
-        "time": "2023-12-26 05:00:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.43
-        },
-        "1X2": {
-          "1": 2.684,
-          "2": 1.43
-        }
-      },
-      "Naho Sato VS Anna Sedysheva": {
-        "time": "2023-12-26 06:00:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 8.6
-        },
-        "1X2": {
-          "1": 1.086,
-          "2": 6.49
-        },
-        "Over": {
-          "18": 1.71,
-          "18.5": 1.87,
-          "19": 2
-        },
-        "Under": {
-          "18": 1.99,
-          "18.5": 1.83,
-          "19": 1.7
-        },
-        "Handicap Home": {
-          "-6.5": 1.97
-        },
-        "Handicap Away": {
-          "6.5": 1.74
-        }
-      },
-      "Adkar/Yamalapalli VS Gumulya/Omae": {
-        "time": "2023-12-26 06:00:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.5
-        },
-        "1X2": {
-          "1": 2.449,
-          "2": 1.5
-        }
-      },
-      "Tani/Hashimoto VS Yoshimura/Fukuda": {
-        "time": "2023-12-26 06:00:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.104
-        },
-        "1X2": {
-          "1": 6.04,
-          "2": 1.104
-        }
-      },
-      "Shin/Shin VS Saitoh/Yamanaka": {
-        "time": "2023-12-26 06:30:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.63
-        },
-        "1X2": {
-          "1": 2.18,
-          "2": 1.63
-        }
-      },
-      "Katsumi/Kobayashi VS Desai/Zaytseva": {
-        "time": "2023-12-26 07:30:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.41
-        },
-        "1X2": {
-          "1": 2.737,
-          "2": 1.41
-        }
-      },
-      "Kazionova/Nitture VS Bhosale/Thombare": {
-        "time": "2023-12-26 07:30:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.26
-        },
-        "1X2": {
-          "1": 3.72,
-          "2": 1.26
-        }
-      },
-      "Maklakova/Yashina VS Abe/Imamura": {
-        "time": "2023-12-26 07:30:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.86
-        },
-        "1X2": {
-          "1": 1.86,
-          "2": 1.86
-        }
-      },
-      "Vig/Majgaine VS Marcinkevica/Sakellaridi": {
-        "time": "2023-12-26 07:30:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.01
-        },
-        "1X2": {
-          "1": 16,
-          "2": 1.01
+          "-4.5": 1.88
         }
       }
     }
   },
   "ITF": {
-    "Navi Mumbai. Women. Doubles": {
-      "Hayato Matsuoka VS Daiki Yoshimura": {
-        "time": "2023-12-26 01:30:00",
+    "Navi Mumbai. Women": {
+      "Aryna Sabalenka VS Ons Jabeur": {
+        "time": "2023-12-26 15:15:00",
         "Dont Know market name": {
-          "Don't Know The Outcome": 9.6
+          "Don't Know The Outcome": 3.4
         },
         "1X2": {
-          "1": 1.071,
-          "2": 7.23
+          "1": 1.44,
+          "2": 2.733
         },
         "Over": {
-          "18": 1.79,
-          "18.5": 1.93,
-          "19": 2.11
+          "19.5": 1.412,
+          "20.5": 1.589,
+          "21.5": 1.761,
+          "22.5": 2.029,
+          "23.5": 2.247,
+          "24.5": 2.378,
+          "25.5": 2.643
         },
         "Under": {
-          "18": 1.93,
-          "18.5": 1.78,
-          "19": 1.66
+          "19.5": 2.599,
+          "20.5": 2.157,
+          "21.5": 1.905,
+          "22.5": 1.666,
+          "23.5": 1.543,
+          "24.5": 1.487,
+          "25.5": 1.4
         },
         "Handicap Home": {
-          "-6.5": 1.9
+          "-4.5": 2.428,
+          "-4": 2.182,
+          "-3.5": 1.932,
+          "-3": 1.782,
+          "-2.5": 1.674,
+          "-2": 1.606,
+          "-1.5": 1.556
         },
         "Handicap Away": {
-          "6.5": 1.81
+          "4.5": 1.468,
+          "4": 1.576,
+          "3.5": 1.738,
+          "3": 1.88,
+          "2.5": 2.017,
+          "2": 2.126,
+          "1.5": 2.221
         }
       },
-      "Wishaya Trongcharoenchaikul VS Sanhui Shin": {
-        "time": "2023-12-26 01:30:00",
+      "Kukasian/Simakin VS Mishkin/Shvets": {
+        "time": "2023-12-26 13:30:00",
         "Dont Know market name": {
-          "Don't Know The Outcome": 1.39
+          "Don't Know The Outcome": 2.2
         },
         "1X2": {
-          "1": 3.96,
-          "2": 1.22
+          "1": 1.909,
+          "2": 1.8
         },
         "Over": {
-          "19": 1.72,
-          "19.5": 1.85,
-          "20": 1.97
+          "21": 1.71,
+          "21.5": 1.88,
+          "22": 2.22
         },
         "Under": {
-          "19": 2.02,
-          "19.5": 1.86,
-          "20": 1.76
+          "21": 1.99,
+          "21.5": 1.82,
+          "22": 1.571
         },
         "Handicap Home": {
-          "5.5": 1.76
+          "0.5": 1.77
         },
         "Handicap Away": {
-          "-5.5": 1.96
+          "-0.5": 1.94
         }
       },
-      "Kazuki Nishiwaki VS Jumpei Yamasaki": {
-        "time": "2023-12-26 03:00:00",
+      "Marcon/Odorizzi VS Bechri/Wang": {
+        "time": "2023-12-26 13:30:00",
         "Dont Know market name": {
-          "Don't Know The Outcome": 1.909
+          "Don't Know The Outcome": 1.169
+        },
+        "1X2": {
+          "1": 4.57,
+          "2": 1.169
+        }
+      },
+      "Reguer/Suvirdjonkova VS Vasilyeva/Zhang": {
+        "time": "2023-12-26 13:30:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 5.2
+        },
+        "1X2": {
+          "1": 1.134,
+          "2": 5.2
+        }
+      },
+      "Keck/Singh VS Duhan/Tepmahc": {
+        "time": "2023-12-26 15:00:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 1.128
+        },
+        "1X2": {
+          "1": 7.41,
+          "2": 1.064
+        },
+        "Over": {
+          "18": 1.727,
+          "18.5": 1.97,
+          "19": 2.26
+        },
+        "Under": {
+          "18": 1.97,
+          "18.5": 1.74,
+          "19": 1.55
+        },
+        "Handicap Home": {
+          "5.5": 1.97
+        },
+        "Handicap Away": {
+          "-5.5": 1.74
+        }
+      },
+      "Zhu/Cao VS Matsuda/Taguchi": {
+        "time": "2023-12-26 15:30:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 1.188
+        },
+        "1X2": {
+          "1": 6,
+          "2": 1.102
+        },
+        "Over": {
+          "18": 1.615,
+          "18.5": 1.85,
+          "19": 2.09
+        },
+        "Under": {
+          "18": 2.14,
+          "18.5": 1.85,
+          "19": 1.64
+        },
+        "Handicap Home": {
+          "5.5": 1.8
+        },
+        "Handicap Away": {
+          "-5.5": 1.9
+        }
+      },
+      "Alan Sau Franco VS Yamato Sueoka": {
+        "time": "2023-12-27 00:30:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 1.69
+        },
+        "1X2": {
+          "1": 2.684,
+          "2": 1.43
+        },
+        "Over": {
+          "21": 1.83,
+          "21.5": 1.92,
+          "22": 2.06
+        },
+        "Under": {
+          "21": 1.89,
+          "21.5": 1.79,
+          "22": 1.69
+        },
+        "Handicap Home": {
+          "3.5": 1.9
+        },
+        "Handicap Away": {
+          "-3.5": 1.81
+        }
+      },
+      "Keisuke Saitoh VS Taki Adachi": {
+        "time": "2023-12-27 00:30:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 16.5
+        },
+        "1X2": {
+          "1": 1.011,
+          "2": 12
+        },
+        "Over": {
+          "17": 1.79,
+          "17.5": 2,
+          "18": 2.21
+        },
+        "Under": {
+          "17": 1.93,
+          "17.5": 1.73,
+          "18": 1.6
+        },
+        "Handicap Home": {
+          "-7.5": 2.05
+        },
+        "Handicap Away": {
+          "7.5": 1.69
+        }
+      },
+      "Mikalai Haliak VS Ryotaro Matsumura": {
+        "time": "2023-12-27 00:30:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 4.65
+        },
+        "1X2": {
+          "1": 1.28,
+          "2": 3.43
+        },
+        "Over": {
+          "20": 1.81,
+          "20.5": 1.909,
+          "21": 2.03
+        },
+        "Under": {
+          "20": 1.909,
+          "20.5": 1.8,
+          "21": 1.71
+        },
+        "Handicap Home": {
+          "-4.5": 1.78
+        },
+        "Handicap Away": {
+          "4.5": 1.94
+        }
+      },
+      "Seita Watanabe VS Duck Hee Lee": {
+        "time": "2023-12-27 00:30:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 1.89
         },
         "1X2": {
           "1": 2.257,
           "2": 1.59
+        },
+        "Over": {
+          "20": 1.7,
+          "20.5": 1.81,
+          "21": 1.909
+        },
+        "Under": {
+          "20": 2.05,
+          "20.5": 1.9,
+          "21": 1.81
+        },
+        "Handicap Home": {
+          "2.5": 1.909
+        },
+        "Handicap Away": {
+          "-2.5": 1.8
+        }
+      },
+      "Takuya Kumasaka VS Kazuma Kawachi": {
+        "time": "2023-12-27 00:30:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 4.5
+        },
+        "1X2": {
+          "1": 1.29,
+          "2": 3.37
+        },
+        "Over": {
+          "20": 1.84,
+          "20.5": 1.94,
+          "21": 2.06
+        },
+        "Under": {
+          "20": 1.88,
+          "20.5": 1.77,
+          "21": 1.69
+        },
+        "Handicap Home": {
+          "-4.5": 1.78
+        },
+        "Handicap Away": {
+          "4.5": 1.94
+        }
+      },
+      "Novak Djokovic VS Carlos Alcaraz Garfia": {
+        "time": "2023-12-27 15:00:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 3.2
+        },
+        "1X2": {
+          "1": 1.53,
+          "2": 2.53
+        },
+        "Over": {
+          "21.5": 1.539,
+          "22.5": 1.783,
+          "23.5": 2.017,
+          "24.5": 2.089,
+          "25.5": 2.282
+        },
+        "Under": {
+          "21.5": 2.255,
+          "22.5": 1.879,
+          "23.5": 1.674,
+          "24.5": 1.628,
+          "25.5": 1.528
+        },
+        "Handicap Home": {
+          "-3": 2.005,
+          "-2.5": 1.83,
+          "-2": 1.716,
+          "-1.5": 1.632,
+          "-1": 1.576
+        },
+        "Handicap Away": {
+          "3": 1.683,
+          "2.5": 1.83,
+          "2": 1.961,
+          "1.5": 2.082,
+          "1": 2.182
+        }
+      },
+      "Hikaru Shiraishi VS Sho Katayama": {
+        "time": "2023-12-27 02:00:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 9.8
+        },
+        "1X2": {
+          "1": 1.069,
+          "2": 7.38
+        },
+        "Over": {
+          "18": 1.8,
+          "18.5": 1.94,
+          "19": 2.12
+        },
+        "Under": {
+          "18": 1.92,
+          "18.5": 1.77,
+          "19": 1.65
+        },
+        "Handicap Home": {
+          "-6.5": 1.88
+        },
+        "Handicap Away": {
+          "6.5": 1.83
+        }
+      },
+      "Kenta Miyoshi VS Ko Suzuki": {
+        "time": "2023-12-27 02:00:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 2.91
+        },
+        "1X2": {
+          "1": 1.59,
+          "2": 2.257
+        },
+        "Over": {
+          "21": 1.8,
+          "21.5": 1.89,
+          "22": 2.02
+        },
+        "Under": {
+          "21": 1.92,
+          "21.5": 1.82,
+          "22": 1.72
+        },
+        "Handicap Home": {
+          "-2.5": 1.82
+        },
+        "Handicap Away": {
+          "2.5": 1.89
+        }
+      },
+      "Koki Matsuda VS Sora Fukuda": {
+        "time": "2023-12-27 02:00:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 1.61
+        },
+        "1X2": {
+          "1": 2.922,
+          "2": 1.37
+        },
+        "Over": {
+          "20": 1.79,
+          "20.5": 1.9,
+          "21": 2.01
+        },
+        "Under": {
+          "20": 1.93,
+          "20.5": 1.81,
+          "21": 1.727
+        },
+        "Handicap Home": {
+          "4.5": 1.79
+        },
+        "Handicap Away": {
+          "-4.5": 1.92
+        }
+      },
+      "Kousuke Ogura VS Jay Dylan Hara Friend": {
+        "time": "2023-12-27 02:00:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 2.12
+        },
+        "1X2": {
+          "1": 2.01,
+          "2": 1.727
+        },
+        "Over": {
+          "20": 1.68,
+          "20.5": 1.79,
+          "21": 1.88
+        },
+        "Under": {
+          "20": 2.08,
+          "20.5": 1.92,
+          "21": 1.84
+        },
+        "Handicap Home": {
+          "1.5": 1.84
+        },
+        "Handicap Away": {
+          "-1.5": 1.87
+        }
+      },
+      "Hanyi Liu VS Toa Maeda": {
+        "time": "2023-12-27 03:30:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 16
+        },
+        "1X2": {
+          "1": 1.013,
+          "2": 11.7
+        },
+        "Over": {
+          "17": 1.77,
+          "17.5": 1.97,
+          "18": 2.19
+        },
+        "Under": {
+          "17": 1.95,
+          "17.5": 1.75,
+          "18": 1.61
+        },
+        "Handicap Home": {
+          "-7.5": 2.07
+        },
+        "Handicap Away": {
+          "7.5": 1.68
+        }
+      },
+      "Taiyo Yamanaka VS Shunsuke Nakagawa": {
+        "time": "2023-12-27 03:30:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 3.44
+        },
+        "1X2": {
+          "1": 1.44,
+          "2": 2.645
         },
         "Over": {
           "20": 1.7,
@@ -706,244 +1512,62 @@
           "21": 1.82
         },
         "Handicap Home": {
-          "2.5": 1.9
+          "-3.5": 1.79
         },
         "Handicap Away": {
-          "-2.5": 1.81
+          "3.5": 1.92
         }
       },
-      "Yuto Oki VS Yuta Kawahashi": {
-        "time": "2023-12-26 03:00:00",
+      "Woobin Shin VS Taisei Ichikawa": {
+        "time": "2023-12-27 03:30:00",
         "Dont Know market name": {
-          "Don't Know The Outcome": 1.198
+          "Don't Know The Outcome": 1.64
         },
         "1X2": {
-          "1": 6.63,
-          "2": 1.085
+          "1": 2.833,
+          "2": 1.39
         },
         "Over": {
-          "18": 1.73,
-          "18.5": 1.88,
-          "19": 2.05
+          "20": 1.67,
+          "20.5": 1.79,
+          "21": 1.88
         },
         "Under": {
-          "18": 2,
-          "18.5": 1.83,
-          "19": 1.7
+          "20": 2.09,
+          "20.5": 1.92,
+          "21": 1.84
         },
         "Handicap Home": {
-          "6.5": 1.76
+          "3.5": 1.98
         },
         "Handicap Away": {
-          "-6.5": 1.96
+          "-3.5": 1.74
         }
       },
-      "Kusuhara/Shiraishi VS Haliak/Lee": {
-        "time": "2023-12-26 03:00:00",
+      "Ekaterina Kazionova VS Vaidehi Chaudhari": {
+        "time": "2023-12-27 04:30:00",
         "Dont Know market name": {
-          "Don't Know The Outcome": 1.36
+          "Don't Know The Outcome": 1.58
         },
         "1X2": {
-          "1": 2.971,
-          "2": 1.36
-        }
-      },
-      "Ekaterina Yashina VS Harsshali Mandavkar": {
-        "time": "2023-12-26 04:30:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 10.3
-        },
-        "1X2": {
-          "1": 1.023,
-          "2": 10.3
-        }
-      },
-      "Ksenia Zaytseva VS Misaki Matsuda": {
-        "time": "2023-12-26 04:30:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 4.5
-        },
-        "1X2": {
-          "1": 1.29,
-          "2": 3.34
+          "1": 2.994,
+          "2": 1.35
         },
         "Over": {
-          "19": 1.63,
-          "19.5": 1.76,
-          "20": 1.85
+          "20": 1.79,
+          "20.5": 1.9,
+          "21": 2
         },
         "Under": {
-          "19": 2.11,
-          "19.5": 1.95,
-          "20": 1.83
+          "20": 1.89,
+          "20.5": 1.8,
+          "21": 1.7
         },
         "Handicap Home": {
-          "-4.5": 1.75
+          "4.5": 1.82
         },
         "Handicap Away": {
-          "4.5": 1.96
-        }
-      },
-      "Suhitha Maruri VS Sapfo Sakellaridi": {
-        "time": "2023-12-26 04:30:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.045
-        },
-        "1X2": {
-          "1": 8.5,
-          "2": 1.045
-        }
-      },
-      "Zeel Desai VS Funa Kozaki": {
-        "time": "2023-12-26 04:30:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 4.25
-        },
-        "1X2": {
-          "1": 1.31,
-          "2": 3.22
-        },
-        "Over": {
-          "20": 1.83,
-          "20.5": 1.95,
-          "21": 2.05
-        },
-        "Under": {
-          "20": 1.85,
-          "20.5": 1.76,
-          "21": 1.666
-        },
-        "Handicap Home": {
-          "-4.5": 1.81
-        },
-        "Handicap Away": {
-          "4.5": 1.89
-        }
-      },
-      "Lu/Fu VS Kawachi/Sueoka": {
-        "time": "2023-12-26 04:30:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.28
-        },
-        "1X2": {
-          "1": 3.43,
-          "2": 1.28
-        }
-      },
-      "Katayama/Nakagawa VS Liu/Zhang": {
-        "time": "2023-12-26 05:00:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 2.335
-        },
-        "1X2": {
-          "1": 1.553,
-          "2": 2.335
-        }
-      },
-      "Matsuda/Matsuoka VS Miyoshi/Hara Friend": {
-        "time": "2023-12-26 05:00:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.43
-        },
-        "1X2": {
-          "1": 2.684,
-          "2": 1.43
-        }
-      },
-      "Naho Sato VS Anna Sedysheva": {
-        "time": "2023-12-26 06:00:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 8.6
-        },
-        "1X2": {
-          "1": 1.086,
-          "2": 6.49
-        },
-        "Over": {
-          "18": 1.71,
-          "18.5": 1.87,
-          "19": 2
-        },
-        "Under": {
-          "18": 1.99,
-          "18.5": 1.83,
-          "19": 1.7
-        },
-        "Handicap Home": {
-          "-6.5": 1.97
-        },
-        "Handicap Away": {
-          "6.5": 1.74
-        }
-      },
-      "Adkar/Yamalapalli VS Gumulya/Omae": {
-        "time": "2023-12-26 06:00:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.5
-        },
-        "1X2": {
-          "1": 2.449,
-          "2": 1.5
-        }
-      },
-      "Tani/Hashimoto VS Yoshimura/Fukuda": {
-        "time": "2023-12-26 06:00:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.104
-        },
-        "1X2": {
-          "1": 6.04,
-          "2": 1.104
-        }
-      },
-      "Shin/Shin VS Saitoh/Yamanaka": {
-        "time": "2023-12-26 06:30:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.63
-        },
-        "1X2": {
-          "1": 2.18,
-          "2": 1.63
-        }
-      },
-      "Katsumi/Kobayashi VS Desai/Zaytseva": {
-        "time": "2023-12-26 07:30:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.41
-        },
-        "1X2": {
-          "1": 2.737,
-          "2": 1.41
-        }
-      },
-      "Kazionova/Nitture VS Bhosale/Thombare": {
-        "time": "2023-12-26 07:30:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.26
-        },
-        "1X2": {
-          "1": 3.72,
-          "2": 1.26
-        }
-      },
-      "Maklakova/Yashina VS Abe/Imamura": {
-        "time": "2023-12-26 07:30:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.86
-        },
-        "1X2": {
-          "1": 1.86,
-          "2": 1.86
-        }
-      },
-      "Vig/Majgaine VS Marcinkevica/Sakellaridi": {
-        "time": "2023-12-26 07:30:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.01
-        },
-        "1X2": {
-          "1": 16,
-          "2": 1.01
+          "-4.5": 1.88
         }
       }
     }

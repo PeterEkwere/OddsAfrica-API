@@ -3,27 +3,39 @@
     This module contains functions for arbitrage calculations
     Author: PeterEkwere
 """
-from ArbBrain.probs import decimal_implied_win_prob
-from ArbBrain.odds import decimal_odds
+from probs import decimal_implied_win_prob
+from odds import decimal_odds
+import sys
+sys.path.append('..')
+from utils.logger.log import log_error, log_exception, log_success
 
 
+"""
 def arb_percentage(odds):
-    """
     :param odds: List of Floats. Pair of odds for a single matchup - Player 1 and Player 2.
     :return: List of Floats. Sum of implied win probabilities and win_probs for Player 1 and Player 2
-    """
     try:
+        if len(odds) <= 1:
+            log_error(f"Amount of Odds Passed To ArB Function is <= 1")
+            return None
         if len(odds) == 2:
-            pass
+            bet1 = decimal_implied_win_prob(decimal_odds(odds[0]))
+            bet2 = decimal_implied_win_prob(decimal_odds(odds[1]))
+        elif len(odds) == 3:
+            bet1 = decimal_implied_win_prob(decimal_odds(odds[0]))
+            bet2 = decimal_implied_win_prob(decimal_odds(odds[1]))
+            bet2 = decimal_implied_win_prob(decimal_odds(odds[2]))
+        else:
+            log_error(f"Amount of Odds Passed To Arb Percentage is >= 4")
     except ValueError:
-        print("Odds input needs to be a list of length 2 (odds bet 1 / odds bet 2")
+        log_error("Odds input needs to be a list of length 2 (odds bet 1 / odds bet 2 or length 3")
 
     bet1 = decimal_implied_win_prob(decimal_odds(odds[0]))
     bet2 = decimal_implied_win_prob(decimal_odds(odds[1]))
     arb_percent = bet1 + bet2
 
     return [arb_percent, bet1, bet2]
-
+"""
 
 def arb_profit(arb_percent, stake):
     """
@@ -34,26 +46,80 @@ def arb_profit(arb_percent, stake):
     return stake / arb_percent[0] - stake
 
 
-def basic_arbitrage(odds, stake):
+def Find_arbitrage(n, odds):
     """
-    A basic arbitrage calculator. Riskless profits generally implemented at two separate sportsbooks.
+    An Adavnced arbitrage calculator. Riskless profits generally implemented at two or Three separate sportsbooks.
 
     :param odds: Float. A pair of odds Player 1 and their opponent. Odds generally from different sites.
-    :param stake: Float. How much you intend to throw down.
-    :return: List of Floats. Profit Arb'd. Wager for Player 1; Wager for Player 2.
+    :return: arbitrage Percentage.
     """
     try:
-        if len(odds) != 2:
+        if len(odds) <= 1:
+            log_error(f"Amount of Odds Passed To ArB Function is <= 1")
             return None
-
-        arb_percent = arb_percentage(odds)
-
-        if arb_percent[0] > 1.0:
-            return None
+        if len(odds) == 2:
+            k1 = decimal_odds(odds[0])
+            k2 = decimal_odds(odds[1])
+        elif len(odds) == 3:
+            k1 = decimal_odds(odds[0])
+            k2 = decimal_odds(odds[1])
+            k3 = decimal_odds(odds[3])
         else:
-            arb_prof = arb_profit(arb_percent, stake)
-            bet1_size = (arb_percent[1] * stake) / arb_percent[0]
-            bet2_size = (arb_percent[2] * stake) / arb_percent[0]
-            return [round(arb_prof, 2), round(bet1_size, 2), round(bet2_size, 2)]
+            log_error(f"Amount of Odds Passed To Arb Function is >= 4")
+            return None
+        
+        
+        L = 1
+        
+        if n == '1':
+            L = 1 / k1 + 1 / k2
+        elif n == '2':
+            L = 1 / k1 + 1 / k2 + 1 / k3
+        elif n == '3':
+            L = 1 / k1 + 1 / k3 + (k1 - 1) / (k1 * k2)
+        elif n == '4':
+            L = 1 / k1 + 1 / (k1 * k3) + (k1 - 1) / (k1 * k2)
+        elif n == '5':
+            L = 1 / k1 + 1 / k3 + (k1 - 1/2) / (k1 * k2)
+        elif n == '6':
+            L = 1 / k1 + 1 / (2 * k1 * k3) + (k1 - 1/2) / (k1 * k2)
+        elif n == '7':
+            L = 1 / k1 + 1 / k3 + (k1 - 1) / (2 * k1 * k2)
+        elif n == '8':
+            L = 1 / k1 + (k1 - 1) / (2 * k1 * k2) + (k1 + 1)/(2 * k1 * k3)
+        elif n == '9':
+            L = 1 / k1 + 1 / k3 + (2 * k1 * k3 - k3 - 2 * k1) / (2 * k1 * k2 * k3)    
+        elif n == '10':
+            L = 1 / k1 + 1 / (2 * k1 * (k3-1)) + 1 / k2 - 1 / (2 * k2 * k1) - 1 / (2 * (k3 - 1) * k2 * k1)
+        elif n == '11':
+            L = 1 / k1 + 1 / k2 + 1 / k3 - 1 / (2 * k2 * k1) - 1 / (2 * k2 * k3) 
+        elif n == '12':
+            L = 1 / k1 + 1 / k2 + 1 / ((2 * k3 - 1) * k1) - 1 / (2 * k2 * k1) - 1 / (2 * (2 * k3 - 1) * k2 * k1)
+        elif n == '13':
+            L = 1 / k1 + 2 * (k1 - 1) / (k1 * (k2 + 1)) + 1 / k3 - 2 * k2 * (k1 - 1) / (k1 * k3 * (k2 + 1))
+        elif n == '14':
+            L = 1 / k1 + 1 / k2 - 1 / (k1 * k2) - 1 / (2 * k1 * k2 * (k3 - 0.5)) + 1 / (k1 * (k3 - 0.5))
+        elif n == '15':
+            L =  1 / 2 + 1 / (2 * k1) + 1 / k3 - k2 * (k1 - 1) / (2 * k3 * k1)
+        elif n == '16':
+            L = 1 / k1 + 1 / k2 + 1 / k3
+        elif n == '17':
+            L = 1 / k1 + 1 / k2 + 1 / (k1 * k2) + 2 / k3
+        elif n == '18':
+            L = (2 * k1 + (k1 + k3) / k2 + 2 * k3) / (2 * k1 * k3 + k1 + k3)
+        elif n == '19':
+            L = (1 / k3 + 1 / (k1 * k2))
+        elif n == '20':
+            L = 2 - (k1 + k2 * ((1 + ((k3 + 1) * k1)/ (2 * k3) - k1) / k2)) / (1 + ((1 + ((k3 + 1) * k1)/(2 * k3) - k1) / k2) + (k1 / k3))
+        
+        return L
     except ValueError:
-        print("You probably fed too many or too few values into the Odds parameter")
+        log_error("You probably fed too many or too few values into the Odds parameter")
+        return None
+    except Exception as e:
+        message = f"Error calculating arb: {e}\n"
+        log_exception(message)
+        return None
+
+
+print(f"Percentage found is {Find_arbitrage('15', [1.384, 2.512, 16])}")

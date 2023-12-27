@@ -3,7 +3,7 @@
     This Module contains calculation for the implied win % of stated odds.
     Author: Peter Ekwere
 """
-from ArbBrain.odds import decimal_odds
+from odds import decimal_odds
 
 
 def decimal_implied_win_prob(odds):
