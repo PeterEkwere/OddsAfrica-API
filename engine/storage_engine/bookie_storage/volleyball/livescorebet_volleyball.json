@@ -28,29 +28,95 @@
     "Greece A1": {}
   },
   "Israel": {
-    "Israel Premier League Women": {}
-  },
-  "Kazakhstan": {
-    "Kazakhstan National League Women": {
-      "Zhetysu [W] vs Kuanysh [W]": {
-        "time": "2023-12-26 12:30:00",
+    "Israel Premier League Women": {
+      "Maccabi Tel-Aviv [W] vs Maccabi Bnot Nazareth [W]": {
+        "time": "2023-12-28 16:30:00",
         "Winner": {
-          "1": 3.0,
-          "2": 1.33333334
+          "1": 1.18181819,
+          "2": 4.2
+        }
+      },
+      "Hapoel Rehovot [W] vs Maccabi Hod Hasharon [W]": {
+        "time": "2023-12-29 11:15:00",
+        "Winner": {
+          "1": 1.02777778,
+          "2": 8.75
+        }
+      },
+      "Maccabi Raanana [W] vs Hapoel Ironi Kiryat Ata [W]": {
+        "time": "2023-12-29 11:30:00",
+        "Winner": {
+          "1": 2.1,
+          "2": 1.64516129
         }
       }
     }
   },
+  "Kazakhstan": {
+    "Kazakhstan National League Women": {}
+  },
   "Poland": {
-    "Poland PLS": {},
+    "Poland PLS": {
+      "CUPRUM Lubin vs Asseco Resovia Rzeszow": {
+        "time": "2023-12-29 16:30:00",
+        "Winner": {
+          "1": 6.0,
+          "2": 1.12121213
+        }
+      },
+      "Projekt Warszawa vs Stal Nysa": {
+        "time": "2023-12-29 19:30:00",
+        "Winner": {
+          "1": 1.11111112,
+          "2": 6.0
+        }
+      },
+      "Barkom-Kazhany Lwow vs GKS Katowice": {
+        "time": "2023-12-30 15:00:00",
+        "Winner": {
+          "1": 1.44444445,
+          "2": 2.7
+        }
+      },
+      "Warta Zawiercie vs Jastrzebski Wegiel": {
+        "time": "2023-12-30 15:00:00",
+        "Winner": {
+          "1": 2.0,
+          "2": 1.8
+        }
+      },
+      "AZS Olsztyn vs PGE Skra Belchatow": {
+        "time": "2023-12-30 16:30:00",
+        "Winner": {
+          "1": 1.5,
+          "2": 2.55
+        }
+      }
+    },
     "Poland Cup Women": {}
   },
   "Serbia": {
     "Serbia Superliga Women": {}
   },
   "South Korea": {
-    "Korea V League": {},
-    "Korea V League Women": {}
+    "Korea V League": {
+      "Ansan OK vs Korean Air Jumbos": {
+        "time": "2023-12-29 10:00:00",
+        "Winner": {
+          "1": 3.1,
+          "2": 1.33333334
+        }
+      }
+    },
+    "Korea V League Women": {
+      "Expressway Co [W] vs GS Caltex [W]": {
+        "time": "2023-12-29 10:00:00",
+        "Winner": {
+          "1": 3.25,
+          "2": 1.30303031
+        }
+      }
+    }
   },
   "Spain": {
     "Spain Superliga Women": {}

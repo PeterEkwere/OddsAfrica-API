@@ -1,449 +1,353 @@
 {
   "USA ": {
     "NHL": {
-      "New Jersey Devils - Columbus Blue Jackets": {
+      "Carolina Hurricanes - Montreal Canadiens": {
         "1X2": {
-          "1": 1.65,
+          "1": 1.62,
           "X": 4.75,
-          "2": 3.95
-        },
-        "Total Goals (Line)": {
-          "Over": 3.75,
-          "Under": 1.27
-        },
-        "Asian Handicap": {
-          "1 AH": 2.02,
-          "2 AH": 1.74
-        },
-        "Double Chance": {
-          "1X": 1.21,
-          "12": 1.15,
-          "X2": 2.1
-        },
-        "DNB": {
-          "1 DNB": 1.35,
-          "2 DNB": 3.25
-        }
-      },
-      "New York Rangers - Washington Capitals": {
-        "1X2": {
-          "1": 1.73,
-          "X": 4.45,
-          "2": 3.8
-        },
-        "Total Goals (Line)": {
-          "Over": 2.47,
-          "Under": 1.55
-        },
-        "Asian Handicap": {
-          "1 AH": 2.15,
-          "2 AH": 1.65
-        },
-        "Double Chance": {
-          "1X": 1.22,
-          "12": 1.17,
-          "X2": 1.99
-        },
-        "DNB": {
-          "1 DNB": 1.38,
-          "2 DNB": 3.05
-        }
-      },
-      "Tampa Bay Lightning - Florida Panthers": {
-        "1X2": {
-          "1": 2.22,
-          "X": 4.4,
-          "2": 2.55
-        },
-        "Total Goals (Line)": {
-          "Over": 2.1,
-          "Under": 1.74
-        },
-        "Asian Handicap": {
-          "1 AH": 2.87,
-          "2 AH": 1.39
-        },
-        "Double Chance": {
-          "1X": 1.45,
-          "12": 1.17,
-          "X2": 1.59
-        },
-        "DNB": {
-          "1 DNB": 1.78,
-          "2 DNB": 2.05
-        }
-      },
-      "Toronto Maple Leafs - Ottawa Senators": {
-        "1X2": {
-          "1": 1.79,
-          "X": 4.7,
-          "2": 3.35
-        },
-        "Total Goals (Line)": {
-          "Over": 3.45,
-          "Under": 1.31
-        },
-        "Asian Handicap": {
-          "1 AH": 2.2,
-          "2 AH": 1.62
-        },
-        "Double Chance": {
-          "1X": 1.28,
-          "12": 1.15,
-          "X2": 1.92
-        },
-        "DNB": {
-          "1 DNB": 1.46,
-          "2 DNB": 2.75
-        }
-      },
-      "Buffalo Sabres - Boston Bruins": {
-        "1X2": {
-          "1": 2.87,
-          "X": 4.35,
-          "2": 2.03
-        },
-        "Total Goals (Line)": {
-          "Over": 2.28,
-          "Under": 1.63
-        },
-        "Asian Handicap": {
-          "1 AH": 1.46,
-          "2 AH": 2.6
-        },
-        "Double Chance": {
-          "1X": 1.7,
-          "12": 1.18,
-          "X2": 1.37
-        },
-        "DNB": {
-          "1 DNB": 2.3,
-          "2 DNB": 1.62
-        }
-      },
-      "New York Islanders - Pittsburgh Penguins": {
-        "1X2": {
-          "1": 2.2,
-          "X": 4.25,
-          "2": 2.62
-        },
-        "Total Goals (Line)": {
-          "Over": 2.47,
-          "Under": 1.55
-        },
-        "Asian Handicap": {
-          "1 AH": 2.87,
-          "2 AH": 1.38
-        },
-        "Double Chance": {
-          "1X": 1.43,
-          "12": 1.18,
-          "X2": 1.6
-        },
-        "DNB": {
-          "1 DNB": 1.75,
-          "2 DNB": 2.08
-        }
-      },
-      "Minnesota Wild - Detroit Red Wings": {
-        "1X2": {
-          "1": 1.99,
-          "X": 4.35,
-          "2": 2.95
-        },
-        "Total Goals (Line)": {
-          "Over": 2.3,
-          "Under": 1.63
-        },
-        "Asian Handicap": {
-          "1 AH": 2.55,
-          "2 AH": 1.47
-        },
-        "Double Chance": {
-          "1X": 1.35,
-          "12": 1.18,
-          "X2": 1.73
-        },
-        "DNB": {
-          "1 DNB": 1.59,
-          "2 DNB": 2.37
-        }
-      },
-      "Nashville Predators - Carolina Hurricanes": {
-        "1X2": {
-          "1": 2.63,
-          "X": 4.3,
-          "2": 2.18
+          "2": 4.35
         },
         "Total Goals (Line)": {
           "Over": 2.32,
           "Under": 1.62
         },
         "Asian Handicap": {
-          "1 AH": 1.39,
-          "2 AH": 2.82
+          "1 AH": 1.89,
+          "2 AH": 1.85
         },
         "Double Chance": {
-          "1X": 1.61,
-          "12": 1.18,
-          "X2": 1.43
+          "1X": 1.18,
+          "12": 1.15,
+          "X2": 2.22
         },
         "DNB": {
-          "1 DNB": 2.1,
-          "2 DNB": 1.74
+          "1 DNB": 1.3,
+          "2 DNB": 3.6
         }
       },
-      "St. Louis Blues - Dallas Stars": {
+      "Vancouver Canucks - Philadelphia Flyers": {
         "1X2": {
-          "1": 2.9,
+          "1": 1.94,
           "X": 4.4,
-          "2": 2.0
-        },
-        "Total Goals (Line)": {
-          "Over": 2.17,
-          "Under": 1.7
-        },
-        "Asian Handicap": {
-          "1 AH": 1.47,
-          "2 AH": 2.55
-        },
-        "Double Chance": {
-          "1X": 1.72,
-          "12": 1.17,
-          "X2": 1.36
-        },
-        "DNB": {
-          "1 DNB": 2.33,
-          "2 DNB": 1.61
-        }
-      },
-      "Arizona Coyotes - Colorado Avalanche": {
-        "1X2": {
-          "1": 3.05,
-          "X": 4.45,
-          "2": 1.93
-        },
-        "Total Goals (Line)": {
-          "Over": 2.13,
-          "Under": 1.72
-        },
-        "Asian Handicap": {
-          "1 AH": 1.51,
-          "2 AH": 2.45
-        },
-        "Double Chance": {
-          "1X": 1.78,
-          "12": 1.17,
-          "X2": 1.33
-        },
-        "DNB": {
-          "1 DNB": 2.47,
-          "2 DNB": 1.55
-        }
-      },
-      "Chicago Blackhawks - Winnipeg Jets": {
-        "1X2": {
-          "1": 3.85,
-          "X": 4.6,
-          "2": 1.69
+          "2": 3.05
         },
         "Total Goals (Line)": {
           "Over": 2.3,
-          "Under": 1.62
+          "Under": 1.63
         },
         "Asian Handicap": {
-          "1 AH": 1.3,
-          "2 AH": 3.35
+          "1 AH": 2.48,
+          "2 AH": 1.5
         },
         "Double Chance": {
-          "1X": 2.05,
-          "12": 1.16,
-          "X2": 1.22
+          "1X": 1.33,
+          "12": 1.17,
+          "X2": 1.77
         },
         "DNB": {
-          "1 DNB": 3.15,
-          "2 DNB": 1.37
+          "1 DNB": 1.55,
+          "2 DNB": 2.45
         }
       },
-      "Calgary Flames - Seattle Kraken": {
+      "Vegas Golden Knights - Los Angeles Kings": {
         "1X2": {
-          "1": 2.05,
-          "X": 4.3,
-          "2": 2.85
-        },
-        "Total Goals (Line)": {
-          "Over": 2.48,
-          "Under": 1.54
-        },
-        "Asian Handicap": {
-          "1 AH": 2.65,
-          "2 AH": 1.44
-        },
-        "Double Chance": {
-          "1X": 1.37,
-          "12": 1.18,
-          "X2": 1.69
-        },
-        "DNB": {
-          "1 DNB": 1.63,
-          "2 DNB": 2.28
-        }
-      },
-      "Anaheim Ducks - Vegas Golden Knights": {
-        "1X2": {
-          "1": 3.6,
-          "X": 4.6,
-          "2": 1.74
-        },
-        "Total Goals (Line)": {
-          "Over": 2.27,
-          "Under": 1.64
-        },
-        "Asian Handicap": {
-          "1 AH": 1.64,
-          "2 AH": 2.18
-        },
-        "Double Chance": {
-          "1X": 1.98,
-          "12": 1.16,
-          "X2": 1.25
-        },
-        "DNB": {
-          "1 DNB": 2.92,
-          "2 DNB": 1.41
-        }
-      },
-      "Los Angeles Kings - San Jose Sharks": {
-        "1X2": {
-          "1": 1.48,
-          "X": 4.95,
-          "2": 5.1
+          "1": 2.22,
+          "X": 4.25,
+          "2": 2.58
         },
         "Total Goals (Line)": {
           "Over": 2.38,
-          "Under": 1.58
+          "Under": 1.59
         },
         "Asian Handicap": {
-          "1 AH": 1.8,
-          "2 AH": 1.95
+          "1 AH": 2.9,
+          "2 AH": 1.38
         },
         "Double Chance": {
-          "1X": 1.13,
-          "12": 1.14,
-          "X2": 2.47
+          "1X": 1.44,
+          "12": 1.18,
+          "X2": 1.59
         },
         "DNB": {
-          "1 DNB": 1.22,
-          "2 DNB": 4.3
+          "1 DNB": 1.77,
+          "2 DNB": 2.05
+        }
+      },
+      "San Jose Sharks - Edmonton Oilers": {
+        "1X2": {
+          "1": 4.8,
+          "X": 5.1,
+          "2": 1.5
+        },
+        "Total Goals (Line)": {
+          "Over": 3.65,
+          "Under": 1.29
+        },
+        "Asian Handicap": {
+          "1 AH": 1.46,
+          "2 AH": 2.6
+        },
+        "Double Chance": {
+          "1X": 2.42,
+          "12": 1.13,
+          "X2": 1.15
+        },
+        "DNB": {
+          "1 DNB": 4.05,
+          "2 DNB": 1.25
         }
       }
     },
     "AHL": {
-      "Toronto Marlies - Belleville Senators": {
+      "Belleville Senators - Laval Rocket": {
         "1X2": {
-          "1": 2.0,
-          "X": 4.4,
-          "2": 2.87
+          "1": 2.38,
+          "X": 4.25,
+          "2": 2.4
         },
         "Total Goals (Line)": {
-          "Over": 2.33,
-          "Under": 1.58
+          "Over": 2.12,
+          "Under": 1.7
         },
         "Asian Handicap": {
-          "1 AH": 2.58,
-          "2 AH": 1.46
-        },
-        "Double Chance": {
-          "1X": 1.35,
-          "12": 1.16,
-          "X2": 1.69
-        },
-        "DNB": {
-          "1 DNB": 1.6,
-          "2 DNB": 2.3
-        }
-      },
-      "Bridgeport Islanders - Providence Bruins": {
-        "1X2": {
-          "1": 2.33,
-          "X": 4.2,
-          "2": 2.48
-        },
-        "Total Goals (Line)": {
-          "Over": 2.52,
-          "Under": 1.51
-        },
-        "Asian Handicap": {
-          "1 AH": 3.05,
+          "1 AH": 3.1,
           "2 AH": 1.34
         },
         "Double Chance": {
-          "1X": 1.46,
+          "1X": 1.49,
           "12": 1.17,
-          "X2": 1.51
+          "X2": 1.49
         },
         "DNB": {
-          "1 DNB": 1.83,
-          "2 DNB": 1.95
+          "1 DNB": 1.88,
+          "2 DNB": 1.89
         }
       },
-      "Hershey Bears - Wilkes-Barre/Scranton Penguins": {
+      "Iowa Wild - Colorado Eagles": {
         "1X2": {
-          "1": 2.22,
-          "X": 4.1,
-          "2": 2.65
+          "1": 2.35,
+          "X": 4.15,
+          "2": 2.45
         },
         "Total Goals (Line)": {
-          "Over": 2.87,
+          "Over": 2.85,
           "Under": 1.41
         },
         "Asian Handicap": {
-          "1 AH": 2.92,
-          "2 AH": 1.37
+          "1 AH": 3.15,
+          "2 AH": 1.33
         },
         "Double Chance": {
-          "1X": 1.4,
+          "1X": 1.47,
           "12": 1.18,
-          "X2": 1.56
+          "X2": 1.5
+        },
+        "DNB": {
+          "1 DNB": 1.85,
+          "2 DNB": 1.93
+        }
+      },
+      "Calgary Wranglers - Abbotsford Canucks": {
+        "1X2": {
+          "1": 2.42,
+          "X": 4.2,
+          "2": 2.4
+        },
+        "Total Goals (Line)": {
+          "Over": 2.82,
+          "Under": 1.41
+        },
+        "Asian Handicap": {
+          "1 AH": 1.32,
+          "2 AH": 3.2
+        },
+        "Double Chance": {
+          "1X": 1.49,
+          "12": 1.17,
+          "X2": 1.48
+        },
+        "DNB": {
+          "1 DNB": 1.89,
+          "2 DNB": 1.88
+        }
+      },
+      "San Diego Gulls - Ontario Reign": {
+        "1X2": {
+          "1": 2.58,
+          "X": 4.25,
+          "2": 2.23
+        },
+        "Total Goals (Line)": {
+          "Over": 2.45,
+          "Under": 1.53
+        },
+        "Asian Handicap": {
+          "1 AH": 1.37,
+          "2 AH": 2.92
+        },
+        "Double Chance": {
+          "1X": 1.56,
+          "12": 1.17,
+          "X2": 1.42
+        },
+        "DNB": {
+          "1 DNB": 2.03,
+          "2 DNB": 1.76
+        }
+      },
+      "Utica Comets - Providence Bruins": {
+        "1X2": {
+          "1": 2.38,
+          "X": 4.15,
+          "2": 2.43
+        },
+        "Total Goals (Line)": {
+          "Over": 2.63,
+          "Under": 1.47
+        },
+        "Asian Handicap": {
+          "1 AH": 3.15,
+          "2 AH": 1.33
+        },
+        "Double Chance": {
+          "1X": 1.47,
+          "12": 1.18,
+          "X2": 1.49
+        },
+        "DNB": {
+          "1 DNB": 1.87,
+          "2 DNB": 1.91
+        }
+      },
+      "Rochester Americans - Hershey Bears": {
+        "1X2": {
+          "1": 2.72,
+          "X": 4.2,
+          "2": 2.15
+        },
+        "Total Goals (Line)": {
+          "Over": 2.3,
+          "Under": 1.6
+        },
+        "Asian Handicap": {
+          "1 AH": 1.41,
+          "2 AH": 2.77
+        },
+        "Double Chance": {
+          "1X": 1.6,
+          "12": 1.17,
+          "X2": 1.38
+        },
+        "DNB": {
+          "1 DNB": 2.13,
+          "2 DNB": 1.69
+        }
+      },
+      "Springfield Thunderbirds - Bridgeport Islanders": {
+        "1X2": {
+          "1": 2.1,
+          "X": 4.3,
+          "2": 2.75
+        },
+        "Total Goals (Line)": {
+          "Over": 2.28,
+          "Under": 1.61
+        },
+        "Asian Handicap": {
+          "1 AH": 2.72,
+          "2 AH": 1.42
+        },
+        "Double Chance": {
+          "1X": 1.38,
+          "12": 1.17,
+          "X2": 1.63
+        },
+        "DNB": {
+          "1 DNB": 1.66,
+          "2 DNB": 2.18
+        }
+      },
+      "Wilkes-Barre/Scranton Penguins - Charlotte Checkers": {
+        "1X2": {
+          "1": 2.2,
+          "X": 4.25,
+          "2": 2.62
+        },
+        "Total Goals (Line)": {
+          "Over": 2.3,
+          "Under": 1.6
+        },
+        "Asian Handicap": {
+          "1 AH": 2.87,
+          "2 AH": 1.39
+        },
+        "Double Chance": {
+          "1X": 1.41,
+          "12": 1.17,
+          "X2": 1.57
         },
         "DNB": {
           "1 DNB": 1.73,
           "2 DNB": 2.07
         }
       },
-      "Lehigh Valley Phantoms - Utica Comets": {
+      "Chicago Wolves - Grand Rapids Griffins": {
         "1X2": {
-          "1": 2.25,
-          "X": 4.15,
-          "2": 2.6
+          "1": 2.1,
+          "X": 4.3,
+          "2": 2.75
         },
         "Total Goals (Line)": {
-          "Over": 2.75,
-          "Under": 1.43
+          "Over": 2.38,
+          "Under": 1.56
         },
         "Asian Handicap": {
-          "1 AH": 2.97,
-          "2 AH": 1.36
+          "1 AH": 2.72,
+          "2 AH": 1.42
         },
         "Double Chance": {
-          "1X": 1.42,
-          "12": 1.18,
-          "X2": 1.55
+          "1X": 1.38,
+          "12": 1.17,
+          "X2": 1.63
         },
         "DNB": {
-          "1 DNB": 1.76,
-          "2 DNB": 2.03
+          "1 DNB": 1.66,
+          "2 DNB": 2.18
         }
       },
-      "Rochester Americans - Syracuse Crunch": {
+      "Manitoba Moose - Texas Stars": {
+        "1X2": {
+          "1": 2.48,
+          "X": 4.25,
+          "2": 2.3
+        },
+        "Total Goals (Line)": {
+          "Over": 2.33,
+          "Under": 1.59
+        },
+        "Asian Handicap": {
+          "1 AH": 1.35,
+          "2 AH": 3.0
+        },
+        "Double Chance": {
+          "1X": 1.53,
+          "12": 1.17,
+          "X2": 1.46
+        },
+        "DNB": {
+          "1 DNB": 1.96,
+          "2 DNB": 1.82
+        }
+      },
+      "Tucson Roadrunners - Coachella Valley Firebirds": {
         "1X2": {
           "1": 2.45,
           "X": 4.25,
           "2": 2.33
         },
         "Total Goals (Line)": {
-          "Over": 2.23,
-          "Under": 1.63
+          "Over": 2.27,
+          "Under": 1.61
         },
         "Asian Handicap": {
           "1 AH": 1.35,
@@ -459,63 +363,877 @@
           "2 DNB": 1.84
         }
       },
-      "Springfield Thunderbirds - Hartford Wolf Pack": {
+      "Bakersfield Condors - San Jose Barracuda": {
         "1X2": {
-          "1": 2.3,
-          "X": 4.25,
-          "2": 2.48
+          "1": 2.32,
+          "X": 4.15,
+          "2": 2.5
         },
         "Total Goals (Line)": {
-          "Over": 2.28,
-          "Under": 1.61
+          "Over": 2.55,
+          "Under": 1.49
         },
         "Asian Handicap": {
-          "1 AH": 3.0,
-          "2 AH": 1.35
+          "1 AH": 3.05,
+          "2 AH": 1.34
         },
         "Double Chance": {
-          "1X": 1.46,
-          "12": 1.17,
-          "X2": 1.53
+          "1X": 1.45,
+          "12": 1.18,
+          "X2": 1.52
         },
         "DNB": {
           "1 DNB": 1.82,
           "2 DNB": 1.96
         }
       },
-      "Milwaukee Admirals - Chicago Wolves": {
+      "Milwaukee Admirals - Rockford Icehogs": {
         "1X2": {
-          "1": 2.08,
+          "1": 2.15,
+          "X": 4.25,
+          "2": 2.7
+        },
+        "Total Goals (Line)": {
+          "Over": 2.6,
+          "Under": 1.48
+        },
+        "Asian Handicap": {
+          "1 AH": 2.82,
+          "2 AH": 1.4
+        },
+        "Double Chance": {
+          "1X": 1.39,
+          "12": 1.17,
+          "X2": 1.6
+        },
+        "DNB": {
+          "1 DNB": 1.69,
+          "2 DNB": 2.13
+        }
+      }
+    }
+  },
+  "Russia": {
+    "KHL": {
+      "HC Barys - HK Avangard Omsk": {
+        "1X2": {
+          "1": 3.8,
+          "X": 4.0,
+          "2": 1.7
+        },
+        "Total Goals (Line)": {
+          "Over": 2.2,
+          "Under": 1.6
+        },
+        "Double Chance": {
+          "1X": 1.95,
+          "12": 1.18,
+          "X2": 1.19
+        },
+        "DNB": {
+          "1 DNB": 3.05,
+          "2 DNB": 1.33
+        }
+      },
+      "HC Lada Togliatti - HC Dynamo Moscow": {
+        "1X2": {
+          "1": 3.6,
+          "X": 3.8,
+          "2": 1.79
+        },
+        "Total Goals (Line)": {
+          "Over": 2.6,
+          "Under": 1.44
+        },
+        "Double Chance": {
+          "1X": 1.85,
+          "12": 1.19,
+          "X2": 1.22
+        },
+        "DNB": {
+          "1 DNB": 2.82,
+          "2 DNB": 1.37
+        }
+      },
+      "Ak Bars Kazan - Metallurg Magnitogorsk": {
+        "1X2": {
+          "1": 2.2,
+          "X": 3.85,
+          "2": 2.58
+        },
+        "Total Goals (Line)": {
+          "Over": 2.3,
+          "Under": 1.55
+        },
+        "Double Chance": {
+          "1X": 1.4,
+          "12": 1.19,
+          "X2": 1.55
+        },
+        "DNB": {
+          "1 DNB": 1.71,
+          "2 DNB": 2.02
+        }
+      },
+      "Severstal Cherepovets - HC Red Star Kunlun": {
+        "1X2": {
+          "1": 1.63,
+          "X": 4.45,
+          "2": 4.0
+        },
+        "Total Goals (Line)": {
+          "Over": 1.93,
+          "Under": 1.78
+        },
+        "Asian Handicap": {
+          "1 AH": 2.03,
+          "2 AH": 1.71
+        },
+        "Double Chance": {
+          "1X": 1.18,
+          "12": 1.14,
+          "X2": 2.1
+        },
+        "DNB": {
+          "1 DNB": 1.28,
+          "2 DNB": 3.35
+        }
+      },
+      "Torpedo N. Novgorod - Lokomotiv Yaroslavl": {
+        "1X2": {
+          "1": 2.55,
+          "X": 3.7,
+          "2": 2.28
+        },
+        "Total Goals (Line)": {
+          "Over": 2.72,
+          "Under": 1.4
+        },
+        "Double Chance": {
+          "1X": 1.51,
+          "12": 1.21,
+          "X2": 1.41
+        },
+        "DNB": {
+          "1 DNB": 1.97,
+          "2 DNB": 1.75
+        }
+      },
+      "Vityaz Podolsk - Avtomobilist Yekaterinburg": {
+        "1X2": {
+          "1": 3.2,
+          "X": 3.9,
+          "2": 1.88
+        },
+        "Total Goals (Line)": {
+          "Over": 2.42,
+          "Under": 1.5
+        },
+        "Double Chance": {
+          "1X": 1.76,
+          "12": 1.19,
+          "X2": 1.27
+        },
+        "DNB": {
+          "1 DNB": 2.53,
+          "2 DNB": 1.46
+        }
+      },
+      "HC Dinamo Minsk - Spartak Moscow": {
+        "1X2": {
+          "1": 2.77,
+          "X": 4.05,
+          "2": 2.03
+        },
+        "Total Goals (Line)": {
+          "Over": 1.85,
+          "Under": 1.85
+        },
+        "Double Chance": {
+          "1X": 1.65,
+          "12": 1.17,
+          "X2": 1.35
+        },
+        "DNB": {
+          "1 DNB": 2.2,
+          "2 DNB": 1.6
+        }
+      },
+      "HC Sochi - Salavat Yulaev UFA": {
+        "1X2": {
+          "1": 5.3,
+          "X": 4.9,
+          "2": 1.41
+        },
+        "Total Goals (Line)": {
+          "Over": 1.98,
+          "Under": 1.74
+        },
+        "Asian Handicap": {
+          "1 AH": 1.99,
+          "2 AH": 1.73
+        },
+        "Double Chance": {
+          "1X": 2.55,
+          "12": 1.12,
+          "X2": 1.1
+        },
+        "DNB": {
+          "1 DNB": 4.65,
+          "2 DNB": 1.16
+        }
+      },
+      "Admiral Vladivostok - Neftekhimik Nizhnekamsk": {
+        "1X2": {
+          "1": 2.3,
+          "X": 3.75,
+          "2": 2.5
+        },
+        "Total Goals (Line)": {
+          "Over": 2.65,
+          "Under": 1.42
+        },
+        "Double Chance": {
+          "1X": 1.43,
+          "12": 1.2,
+          "X2": 1.5
+        },
+        "DNB": {
+          "1 DNB": 1.77,
+          "2 DNB": 1.94
+        }
+      },
+      "Metallurg Magnitogorsk - HC Red Star Kunlun": {
+        "1X2": {
+          "1": 1.35,
+          "X": 5.3,
+          "2": 5.9
+        },
+        "Total Goals (Line)": {
+          "Over": 1.75,
+          "Under": 1.97
+        },
+        "Asian Handicap": {
+          "1 AH": 1.62,
+          "2 AH": 2.15
+        },
+        "Double Chance": {
+          "1X": 1.07,
+          "12": 1.1,
+          "X2": 2.77
+        },
+        "DNB": {
+          "1 DNB": 1.12,
+          "2 DNB": 5.2
+        }
+      },
+      "Ak Bars Kazan - Salavat Yulaev UFA": {
+        "1X2": {
+          "1": 2.0,
+          "X": 3.85,
+          "2": 2.92
+        },
+        "Total Goals (Line)": {
+          "Over": 2.52,
+          "Under": 1.46
+        },
+        "Double Chance": {
+          "1X": 1.32,
+          "12": 1.19,
+          "X2": 1.67
+        },
+        "DNB": {
+          "1 DNB": 1.55,
+          "2 DNB": 2.3
+        }
+      },
+      "HC Barys - Traktor Chelyabinsk": {
+        "1X2": {
+          "1": 2.97,
+          "X": 3.95,
+          "2": 1.96
+        },
+        "Total Goals (Line)": {
+          "Over": 2.25,
+          "Under": 1.58
+        },
+        "Double Chance": {
+          "1X": 1.7,
+          "12": 1.18,
+          "X2": 1.31
+        },
+        "DNB": {
+          "1 DNB": 2.35,
+          "2 DNB": 1.53
+        }
+      },
+      "Vityaz Podolsk - Spartak Moscow": {
+        "1X2": {
+          "1": 3.35,
+          "X": 4.15,
+          "2": 1.79
+        },
+        "Total Goals (Line)": {
+          "Over": 1.94,
+          "Under": 1.77
+        },
+        "Double Chance": {
+          "1X": 1.85,
+          "12": 1.16,
+          "X2": 1.25
+        },
+        "DNB": {
+          "1 DNB": 2.7,
+          "2 DNB": 1.41
+        }
+      },
+      "HC Lada Togliatti - HK Avangard Omsk": {
+        "1X2": {
+          "1": 3.2,
+          "X": 3.95,
+          "2": 1.87
+        },
+        "Total Goals (Line)": {
+          "Over": 2.4,
+          "Under": 1.51
+        },
+        "Double Chance": {
+          "1X": 1.77,
+          "12": 1.18,
+          "X2": 1.27
+        },
+        "DNB": {
+          "1 DNB": 2.53,
+          "2 DNB": 1.46
+        }
+      },
+      "CSKA Moscow - Severstal Cherepovets": {
+        "1X2": {
+          "1": 1.58,
+          "X": 4.35,
+          "2": 4.2
+        },
+        "Total Goals (Line)": {
+          "Over": 2.13,
+          "Under": 1.63
+        },
+        "Asian Handicap": {
+          "1 AH": 2.0,
+          "2 AH": 1.72
+        },
+        "Double Chance": {
+          "1X": 1.16,
+          "12": 1.15,
+          "X2": 2.13
+        },
+        "DNB": {
+          "1 DNB": 1.26,
+          "2 DNB": 3.5
+        }
+      },
+      "HC Sochi - HC Dinamo Minsk": {
+        "1X2": {
+          "1": 3.8,
+          "X": 4.35,
+          "2": 1.65
+        },
+        "Total Goals (Line)": {
+          "Over": 1.78,
+          "Under": 1.93
+        },
+        "Asian Handicap": {
+          "1 AH": 1.67,
+          "2 AH": 2.08
+        },
+        "Double Chance": {
+          "1X": 2.02,
+          "12": 1.15,
+          "X2": 1.19
+        },
+        "DNB": {
+          "1 DNB": 3.15,
+          "2 DNB": 1.31
+        }
+      },
+      "Lokomotiv Yaroslavl - HC Dynamo Moscow": {
+        "1X2": {
+          "1": 2.25,
+          "X": 3.75,
+          "2": 2.57
+        },
+        "Total Goals (Line)": {
+          "Over": 2.65,
+          "Under": 1.42
+        },
+        "Double Chance": {
+          "1X": 1.41,
+          "12": 1.2,
+          "X2": 1.53
+        },
+        "DNB": {
+          "1 DNB": 1.73,
+          "2 DNB": 1.99
+        }
+      },
+      "SKA Saint Petersburg - Avtomobilist Yekaterinburg": {
+        "1X2": {
+          "1": 1.86,
+          "X": 3.9,
+          "2": 3.25
+        },
+        "Total Goals (Line)": {
+          "Over": 2.28,
+          "Under": 1.55
+        },
+        "Double Chance": {
+          "1X": 1.26,
+          "12": 1.19,
+          "X2": 1.78
+        },
+        "DNB": {
+          "1 DNB": 1.44,
+          "2 DNB": 2.58
+        }
+      },
+      "HK Avangard Omsk - Salavat Yulaev UFA": {
+        "1X2": {
+          "1": 2.12,
+          "X": 3.85,
+          "2": 2.7
+        },
+        "Total Goals (Line)": {
+          "Over": 2.28,
+          "Under": 1.56
+        },
+        "Double Chance": {
+          "1X": 1.37,
+          "12": 1.19,
+          "X2": 1.59
+        },
+        "DNB": {
+          "1 DNB": 1.65,
+          "2 DNB": 2.12
+        }
+      },
+      "CSKA Moscow - Spartak Moscow": {
+        "1X2": {
+          "1": 2.35,
+          "X": 3.9,
+          "2": 2.38
+        },
+        "Total Goals (Line)": {
+          "Over": 1.98,
+          "Under": 1.74
+        },
+        "Double Chance": {
+          "1X": 1.47,
+          "12": 1.19,
+          "X2": 1.48
+        },
+        "DNB": {
+          "1 DNB": 1.84,
+          "2 DNB": 1.86
+        }
+      },
+      "HC Dynamo Moscow - Spartak Moscow": {
+        "1X2": {
+          "1": 2.37,
+          "X": 3.9,
+          "2": 2.37
+        },
+        "Total Goals (Line)": {
+          "Over": 1.95,
+          "Under": 1.76
+        },
+        "Double Chance": {
+          "1X": 1.47,
+          "12": 1.19,
+          "X2": 1.47
+        },
+        "DNB": {
+          "1 DNB": 1.85,
+          "2 DNB": 1.85
+        }
+      }
+    },
+    "VHL ": {
+      "Yuzhny Ural Orsk - Chelmet Chelyabinsk": {
+        "1X2": {
+          "1": 1.88,
+          "X": 3.95,
+          "2": 3.15
+        },
+        "Total Goals (Line)": {
+          "Over": 2.15,
+          "Under": 1.62
+        },
+        "DNB": {
+          "1 DNB": 1.47,
+          "2 DNB": 2.5
+        }
+      },
+      "Zauralye Kurgan - Gornyak-UGMK Verkhnyaya Pyshma": {
+        "1X2": {
+          "1": 1.71,
+          "X": 4.15,
+          "2": 3.7
+        },
+        "Total Goals (Line)": {
+          "Over": 2.1,
+          "Under": 1.66
+        },
+        "DNB": {
+          "1 DNB": 1.34,
+          "2 DNB": 2.97
+        }
+      },
+      "HC Akm Tula - HC Bars Kazan": {
+        "1X2": {
+          "1": 1.43,
+          "X": 4.6,
+          "2": 5.4
+        },
+        "Total Goals (Line)": {
+          "Over": 2.65,
+          "Under": 1.42
+        },
+        "DNB": {
+          "1 DNB": 1.16,
+          "2 DNB": 4.65
+        }
+      },
+      "Rubin Tyumen - Neftyanik Almetyevsk": {
+        "1X2": {
+          "1": 1.7,
+          "X": 4.0,
+          "2": 3.85
+        },
+        "Total Goals (Line)": {
+          "Over": 2.53,
+          "Under": 1.46
+        },
+        "DNB": {
+          "1 DNB": 1.32,
+          "2 DNB": 3.1
+        }
+      },
+      "Omskie Kryliya - Buran Voronezh": {
+        "1X2": {
+          "1": 3.35,
+          "X": 4.0,
+          "2": 1.81
+        },
+        "Total Goals (Line)": {
+          "Over": 2.18,
+          "Under": 1.61
+        },
+        "DNB": {
+          "1 DNB": 2.68,
+          "2 DNB": 1.41
+        }
+      },
+      "HC Yugra Khanty-Mansiysk - CSK VVS Samara": {
+        "1X2": {
+          "1": 1.36,
+          "X": 5.1,
+          "2": 6.0
+        },
+        "Total Goals (Line)": {
+          "Over": 2.13,
+          "Under": 1.63
+        },
+        "DNB": {
+          "1 DNB": 1.12,
+          "2 DNB": 5.3
+        }
+      },
+      "HC Khimik Voskresensk - HC Norilsk": {
+        "1X2": {
+          "1": 1.63,
           "X": 4.3,
-          "2": 2.82
+          "2": 3.95
+        },
+        "Total Goals (Line)": {
+          "Over": 1.85,
+          "Under": 1.85
+        },
+        "DNB": {
+          "1 DNB": 1.29,
+          "2 DNB": 3.25
+        }
+      },
+      "HK Dinamo St. Petersburg - Sokol Krasnoyarsk": {
+        "1X2": {
+          "1": 1.93,
+          "X": 4.0,
+          "2": 3.0
+        },
+        "Total Goals (Line)": {
+          "Over": 1.89,
+          "Under": 1.82
+        },
+        "DNB": {
+          "1 DNB": 1.51,
+          "2 DNB": 2.38
+        }
+      }
+    }
+  },
+  "Finland": {
+    "Liiga": {
+      "Jukurit Mikkeli - KooKoo": {
+        "1X2": {
+          "1": 1.89,
+          "X": 4.15,
+          "2": 3.3
+        },
+        "Total Goals (Line)": {
+          "Over": 3.5,
+          "Under": 1.29
+        },
+        "Asian Handicap": {
+          "1 AH": 2.48,
+          "2 AH": 1.5
+        },
+        "Double Chance": {
+          "1X": 1.27,
+          "12": 1.18,
+          "X2": 1.78
+        },
+        "DNB": {
+          "1 DNB": 1.48,
+          "2 DNB": 2.6
+        }
+      },
+      "JYP Jyvaskyla - HPK Hameenlinna": {
+        "1X2": {
+          "1": 1.96,
+          "X": 4.05,
+          "2": 3.2
+        },
+        "Total Goals (Line)": {
+          "Over": 3.75,
+          "Under": 1.26
+        },
+        "Asian Handicap": {
+          "1 AH": 2.58,
+          "2 AH": 1.46
+        },
+        "Double Chance": {
+          "1X": 1.29,
+          "12": 1.19,
+          "X2": 1.72
+        },
+        "DNB": {
+          "1 DNB": 1.52,
+          "2 DNB": 2.48
+        }
+      },
+      "Lukko Rauma - HIFK Helsinki": {
+        "1X2": {
+          "1": 2.05,
+          "X": 3.95,
+          "2": 3.0
+        },
+        "Total Goals (Line)": {
+          "Over": 4.25,
+          "Under": 1.21
+        },
+        "Asian Handicap": {
+          "1 AH": 2.75,
+          "2 AH": 1.41
+        },
+        "Double Chance": {
+          "1X": 1.32,
+          "12": 1.19,
+          "X2": 1.66
+        },
+        "DNB": {
+          "1 DNB": 1.58,
+          "2 DNB": 2.33
+        }
+      },
+      "Pelicans Lahti - Assat Pori": {
+        "1X2": {
+          "1": 1.99,
+          "X": 3.9,
+          "2": 3.25
+        },
+        "Total Goals (Line)": {
+          "Over": 4.35,
+          "Under": 1.2
+        },
+        "Asian Handicap": {
+          "1 AH": 2.63,
+          "2 AH": 1.45
+        },
+        "Double Chance": {
+          "1X": 1.28,
+          "12": 1.2,
+          "X2": 1.7
+        },
+        "DNB": {
+          "1 DNB": 1.52,
+          "2 DNB": 2.48
+        }
+      },
+      "SaiPa Lappeenranta - Ilves Tampere": {
+        "1X2": {
+          "1": 6.2,
+          "X": 5.6,
+          "2": 1.37
         },
         "Total Goals (Line)": {
           "Over": 2.38,
           "Under": 1.56
         },
         "Asian Handicap": {
-          "1 AH": 2.68,
-          "2 AH": 1.43
+          "1 AH": 1.55,
+          "2 AH": 2.35
         },
         "Double Chance": {
-          "1X": 1.36,
-          "12": 1.17,
-          "X2": 1.64
+          "1X": 2.77,
+          "12": 1.1,
+          "X2": 1.08
+        },
+        "DNB": {
+          "1 DNB": 5.3,
+          "2 DNB": 1.15
+        }
+      },
+      "Tappara Tampere - Vaasan Sport": {
+        "1X2": {
+          "1": 1.62,
+          "X": 4.5,
+          "2": 4.35
+        },
+        "Total Goals (Line)": {
+          "Over": 2.95,
+          "Under": 1.39
+        },
+        "Asian Handicap": {
+          "1 AH": 2.03,
+          "2 AH": 1.73
+        },
+        "Double Chance": {
+          "1X": 1.16,
+          "12": 1.15,
+          "X2": 2.12
+        },
+        "DNB": {
+          "1 DNB": 1.29,
+          "2 DNB": 3.5
+        }
+      },
+      "TPS Turku - Karpat Oulu": {
+        "1X2": {
+          "1": 2.45,
+          "X": 3.85,
+          "2": 2.48
+        },
+        "Total Goals (Line)": {
+          "Over": 4.05,
+          "Under": 1.23
+        },
+        "Asian Handicap": {
+          "1 AH": 3.35,
+          "2 AH": 1.3
+        },
+        "Double Chance": {
+          "1X": 1.46,
+          "12": 1.2,
+          "X2": 1.47
+        },
+        "DNB": {
+          "1 DNB": 1.88,
+          "2 DNB": 1.9
+        }
+      }
+    }
+  },
+  "Sweden": {
+    "SHL": {
+      "HC Orebro - Linkopings HC": {
+        "1X2": {
+          "1": 2.1,
+          "X": 4.1,
+          "2": 2.85
+        },
+        "Total Goals (Line)": {
+          "Over": 3.35,
+          "Under": 1.31
+        },
+        "Asian Handicap": {
+          "1 AH": 2.77,
+          "2 AH": 1.41
+        },
+        "Double Chance": {
+          "1X": 1.35,
+          "12": 1.18,
+          "X2": 1.63
         },
         "DNB": {
           "1 DNB": 1.64,
           "2 DNB": 2.23
         }
       },
-      "Rockford Icehogs - Grand Rapids Griffins": {
+      "Lulea Hockey - Farjestads BK": {
+        "1X2": {
+          "1": 2.42,
+          "X": 3.9,
+          "2": 2.5
+        },
+        "Total Goals (Line)": {
+          "Over": 3.95,
+          "Under": 1.24
+        },
+        "Asian Handicap": {
+          "1 AH": 3.3,
+          "2 AH": 1.3
+        },
+        "Double Chance": {
+          "1X": 1.45,
+          "12": 1.2,
+          "X2": 1.48
+        },
+        "DNB": {
+          "1 DNB": 1.86,
+          "2 DNB": 1.92
+        }
+      },
+      "Malmo IF - Leksands IF": {
+        "1X2": {
+          "1": 2.77,
+          "X": 4.05,
+          "2": 2.15
+        },
+        "Total Goals (Line)": {
+          "Over": 3.45,
+          "Under": 1.3
+        },
+        "Asian Handicap": {
+          "1 AH": 1.38,
+          "2 AH": 2.87
+        },
+        "Double Chance": {
+          "1X": 1.6,
+          "12": 1.19,
+          "X2": 1.37
+        },
+        "DNB": {
+          "1 DNB": 2.15,
+          "2 DNB": 1.67
+        }
+      },
+      "MODO Hockey - HV 71": {
         "1X2": {
           "1": 2.23,
           "X": 4.15,
-          "2": 2.62
+          "2": 2.63
         },
         "Total Goals (Line)": {
-          "Over": 2.87,
-          "Under": 1.4
+          "Over": 2.85,
+          "Under": 1.41
         },
         "Asian Handicap": {
           "1 AH": 2.95,
@@ -531,1517 +1249,583 @@
           "2 DNB": 2.05
         }
       },
-      "Bakersfield Condors - Henderson Silver Knights": {
+      "Rogle BK - IK Oskarshamn": {
         "1X2": {
-          "1": 2.25,
-          "X": 4.2,
-          "2": 2.58
-        },
-        "Total Goals (Line)": {
-          "Over": 2.6,
-          "Under": 1.48
-        },
-        "Asian Handicap": {
-          "1 AH": 2.95,
-          "2 AH": 1.37
-        },
-        "Double Chance": {
-          "1X": 1.42,
-          "12": 1.17,
-          "X2": 1.55
-        },
-        "DNB": {
-          "1 DNB": 1.76,
-          "2 DNB": 2.03
-        }
-      },
-      "Coachella Valley Firebirds - San Diego Gulls": {
-        "1X2": {
-          "1": 2.08,
-          "X": 4.25,
-          "2": 2.82
-        },
-        "Total Goals (Line)": {
-          "Over": 2.33,
-          "Under": 1.59
-        },
-        "Asian Handicap": {
-          "1 AH": 2.68,
-          "2 AH": 1.43
-        },
-        "Double Chance": {
-          "1X": 1.36,
-          "12": 1.17,
-          "X2": 1.64
-        },
-        "DNB": {
-          "1 DNB": 1.64,
-          "2 DNB": 2.23
-        }
-      },
-      "Iowa Wild - Colorado Eagles": {
-        "1X2": {
-          "1": 2.42,
-          "X": 4.1,
-          "2": 2.43
+          "1": 1.57,
+          "X": 4.7,
+          "2": 4.5
         },
         "Total Goals (Line)": {
           "Over": 2.77,
           "Under": 1.43
         },
         "Asian Handicap": {
-          "1 AH": 3.2,
-          "2 AH": 1.32
+          "1 AH": 1.95,
+          "2 AH": 1.79
         },
         "Double Chance": {
-          "1X": 1.47,
-          "12": 1.18,
-          "X2": 1.48
-        },
-        "DNB": {
-          "1 DNB": 1.88,
-          "2 DNB": 1.89
-        }
-      },
-      "Manitoba Moose - Texas Stars": {
-        "1X2": {
-          "1": 2.5,
-          "X": 4.25,
-          "2": 2.3
-        },
-        "Total Goals (Line)": {
-          "Over": 2.3,
-          "Under": 1.6
-        },
-        "Asian Handicap": {
-          "1 AH": 1.36,
-          "2 AH": 3.0
-        },
-        "Double Chance": {
-          "1X": 1.53,
-          "12": 1.17,
-          "X2": 1.45
-        },
-        "DNB": {
-          "1 DNB": 1.97,
-          "2 DNB": 1.81
-        }
-      }
-    }
-  },
-  "Russia": {
-    "KHL": {
-      "Sibir Novosibirsk - HK Avangard Omsk": {
-        "1X2": {
-          "1": 2.77,
-          "X": 3.8,
-          "2": 2.08
-        },
-        "Total Goals (Line)": {
-          "Over": 2.47,
-          "Under": 1.48
-        },
-        "Double Chance": {
-          "1X": 1.61,
-          "12": 1.19,
-          "X2": 1.35
-        },
-        "DNB": {
-          "1 DNB": 2.17,
-          "2 DNB": 1.61
-        }
-      },
-      "HC Lada Togliatti - Metallurg Magnitogorsk": {
-        "1X2": {
-          "1": 3.5,
-          "X": 3.85,
-          "2": 1.81
-        },
-        "Total Goals (Line)": {
-          "Over": 2.52,
-          "Under": 1.46
-        },
-        "Double Chance": {
-          "1X": 1.83,
-          "12": 1.19,
-          "X2": 1.23
-        },
-        "DNB": {
-          "1 DNB": 2.75,
-          "2 DNB": 1.39
-        }
-      },
-      "Severstal Cherepovets - Traktor Chelyabinsk": {
-        "1X2": {
-          "1": 2.5,
-          "X": 3.85,
-          "2": 2.25
-        },
-        "Total Goals (Line)": {
-          "Over": 2.28,
-          "Under": 1.56
-        },
-        "Double Chance": {
-          "1X": 1.53,
-          "12": 1.19,
-          "X2": 1.43
-        },
-        "DNB": {
-          "1 DNB": 1.96,
-          "2 DNB": 1.76
-        }
-      },
-      "Torpedo N. Novgorod - Spartak Moscow": {
-        "1X2": {
-          "1": 2.17,
-          "X": 3.95,
-          "2": 2.58
-        },
-        "Total Goals (Line)": {
-          "Over": 1.97,
-          "Under": 1.75
-        },
-        "Double Chance": {
-          "1X": 1.4,
-          "12": 1.18,
-          "X2": 1.56
-        },
-        "DNB": {
-          "1 DNB": 1.7,
-          "2 DNB": 2.03
-        }
-      },
-      "HC Dinamo Minsk - Avtomobilist Yekaterinburg": {
-        "1X2": {
-          "1": 2.28,
-          "X": 3.85,
-          "2": 2.5
-        },
-        "Total Goals (Line)": {
-          "Over": 2.48,
-          "Under": 1.48
-        },
-        "Double Chance": {
-          "1X": 1.43,
-          "12": 1.19,
-          "X2": 1.51
-        },
-        "DNB": {
-          "1 DNB": 1.77,
-          "2 DNB": 1.94
-        }
-      },
-      "HC Red Star Kunlun - Lokomotiv Yaroslavl": {
-        "1X2": {
-          "1": 4.85,
-          "X": 4.5,
-          "2": 1.52
-        },
-        "Total Goals (Line)": {
-          "Over": 2.55,
-          "Under": 1.45
-        },
-        "Asian Handicap": {
-          "1 AH": 1.82,
-          "2 AH": 1.89
-        },
-        "Double Chance": {
-          "1X": 2.33,
+          "1X": 1.15,
           "12": 1.14,
-          "X2": 1.12
+          "X2": 2.2
         },
         "DNB": {
-          "1 DNB": 4.1,
-          "2 DNB": 1.2
+          "1 DNB": 1.27,
+          "2 DNB": 3.7
         }
       },
-      "HC Sochi - Admiral Vladivostok": {
+      "Skelleftea AIK - Timraa IK": {
         "1X2": {
-          "1": 2.82,
-          "X": 3.9,
-          "2": 2.03
-        },
-        "Total Goals (Line)": {
-          "Over": 2.23,
-          "Under": 1.59
-        },
-        "Double Chance": {
-          "1X": 1.65,
-          "12": 1.19,
-          "X2": 1.34
-        },
-        "DNB": {
-          "1 DNB": 2.23,
-          "2 DNB": 1.58
-        }
-      },
-      "Amur Khabarovsk - Neftekhimik Nizhnekamsk": {
-        "1X2": {
-          "1": 1.93,
-          "X": 3.85,
-          "2": 3.1
-        },
-        "Total Goals (Line)": {
-          "Over": 2.65,
-          "Under": 1.42
-        },
-        "Double Chance": {
-          "1X": 1.29,
-          "12": 1.19,
-          "X2": 1.72
-        },
-        "DNB": {
-          "1 DNB": 1.49,
-          "2 DNB": 2.43
-        }
-      },
-      "CSKA Moscow - SKA Saint Petersburg": {
-        "1X2": {
-          "1": 2.38,
-          "X": 3.9,
-          "2": 2.37
-        },
-        "Total Goals (Line)": {
-          "Over": 2.18,
-          "Under": 1.61
-        },
-        "Double Chance": {
-          "1X": 1.47,
-          "12": 1.19,
-          "X2": 1.47
-        },
-        "DNB": {
-          "1 DNB": 1.86,
-          "2 DNB": 1.85
-        }
-      },
-      "Sibir Novosibirsk - Traktor Chelyabinsk": {
-        "1X2": {
-          "1": 2.4,
-          "X": 3.8,
-          "2": 2.38
-        },
-        "Total Goals (Line)": {
-          "Over": 2.45,
-          "Under": 1.48
-        },
-        "Double Chance": {
-          "1X": 1.47,
-          "12": 1.19,
-          "X2": 1.46
-        },
-        "DNB": {
-          "1 DNB": 1.86,
-          "2 DNB": 1.84
-        }
-      },
-      "HC Barys - HK Avangard Omsk": {
-        "1X2": {
-          "1": 4.1,
-          "X": 3.95,
-          "2": 1.66
-        },
-        "Total Goals (Line)": {
-          "Over": 1.47,
-          "Under": 2.48
-        },
-        "Double Chance": {
-          "1X": 2.0,
-          "12": 1.18,
-          "X2": 1.17
-        },
-        "DNB": {
-          "1 DNB": 3.3,
-          "2 DNB": 1.29
-        }
-      },
-      "HC Lada Togliatti - HC Dynamo Moscow": {
-        "1X2": {
-          "1": 3.2,
+          "1": 2.03,
           "X": 4.0,
-          "2": 1.86
-        },
-        "Total Goals (Line)": {
-          "Over": 2.2,
-          "Under": 1.6
-        },
-        "Double Chance": {
-          "1X": 1.78,
-          "12": 1.18,
-          "X2": 1.27
-        },
-        "DNB": {
-          "1 DNB": 2.55,
-          "2 DNB": 1.45
-        }
-      },
-      "Ak Bars Kazan - Metallurg Magnitogorsk": {
-        "1X2": {
-          "1": 2.05,
-          "X": 3.95,
-          "2": 2.77
-        },
-        "Total Goals (Line)": {
-          "Over": 2.13,
-          "Under": 1.64
-        },
-        "Double Chance": {
-          "1X": 1.35,
-          "12": 1.18,
-          "X2": 1.63
-        },
-        "DNB": {
-          "1 DNB": 1.6,
-          "2 DNB": 2.18
-        }
-      },
-      "Severstal Cherepovets - HC Red Star Kunlun": {
-        "1X2": {
-          "1": 1.49,
-          "X": 4.75,
-          "2": 4.6
-        },
-        "Total Goals (Line)": {
-          "Over": 1.85,
-          "Under": 1.85
-        },
-        "Asian Handicap": {
-          "1 AH": 1.85,
-          "2 AH": 1.86
-        },
-        "Double Chance": {
-          "1X": 1.13,
-          "12": 1.12,
-          "X2": 2.33
-        },
-        "DNB": {
-          "1 DNB": 1.21,
-          "2 DNB": 3.9
-        }
-      },
-      "Torpedo N. Novgorod - Lokomotiv Yaroslavl": {
-        "1X2": {
-          "1": 2.32,
-          "X": 3.8,
-          "2": 2.45
-        },
-        "Total Goals (Line)": {
-          "Over": 2.35,
-          "Under": 1.52
-        },
-        "Double Chance": {
-          "1X": 1.45,
-          "12": 1.19,
-          "X2": 1.49
-        },
-        "DNB": {
-          "1 DNB": 1.8,
-          "2 DNB": 1.91
-        }
-      },
-      "Vityaz Podolsk - Avtomobilist Yekaterinburg": {
-        "1X2": {
-          "1": 2.92,
-          "X": 3.95,
-          "2": 1.99
-        },
-        "Total Goals (Line)": {
-          "Over": 2.23,
-          "Under": 1.58
-        },
-        "Double Chance": {
-          "1X": 1.67,
-          "12": 1.18,
-          "X2": 1.32
-        },
-        "DNB": {
-          "1 DNB": 2.3,
-          "2 DNB": 1.55
-        }
-      },
-      "HC Dinamo Minsk - Spartak Moscow": {
-        "1X2": {
-          "1": 2.45,
-          "X": 4.05,
-          "2": 2.25
-        },
-        "Total Goals (Line)": {
-          "Over": 1.85,
-          "Under": 1.85
-        },
-        "Double Chance": {
-          "1X": 1.53,
-          "12": 1.17,
-          "X2": 1.45
-        },
-        "DNB": {
-          "1 DNB": 1.94,
-          "2 DNB": 1.77
-        }
-      },
-      "HC Sochi - Salavat Yulaev UFA": {
-        "1X2": {
-          "1": 3.9,
-          "X": 4.25,
-          "2": 1.64
-        },
-        "Total Goals (Line)": {
-          "Over": 2.02,
-          "Under": 1.71
-        },
-        "Asian Handicap": {
-          "1 AH": 1.66,
-          "2 AH": 2.08
-        },
-        "Double Chance": {
-          "1X": 2.03,
-          "12": 1.16,
-          "X2": 1.19
-        },
-        "DNB": {
-          "1 DNB": 3.2,
-          "2 DNB": 1.3
-        }
-      }
-    },
-    "VHL ": {
-      "Yuzhny Ural Orsk - Gornyak-UGMK Verkhnyaya Pyshma": {
-        "1X2": {
-          "1": 1.95,
-          "X": 4.0,
-          "2": 2.92
-        },
-        "Total Goals (Line)": {
-          "Over": 1.99,
-          "Under": 1.73
-        },
-        "DNB": {
-          "1 DNB": 1.53,
-          "2 DNB": 2.33
-        }
-      },
-      "HC Tambov - Kristall Saratov": {
-        "1X2": {
-          "1": 1.29,
-          "X": 5.7,
-          "2": 6.8
-        },
-        "Total Goals (Line)": {
-          "Over": 1.75,
-          "Under": 1.97
-        },
-        "DNB": {
-          "1 DNB": 1.09,
-          "2 DNB": 6.2
-        }
-      },
-      "Zvezda Moscow - HC Bars Kazan": {
-        "1X2": {
-          "1": 2.0,
-          "X": 3.75,
-          "2": 2.97
-        },
-        "Total Goals (Line)": {
-          "Over": 2.67,
-          "Under": 1.42
-        },
-        "DNB": {
-          "1 DNB": 1.54,
-          "2 DNB": 2.32
-        }
-      },
-      "HC Akm Tula - Dizel Penza": {
-        "1X2": {
-          "1": 1.47,
-          "X": 4.55,
-          "2": 5.0
-        },
-        "Total Goals (Line)": {
-          "Over": 2.6,
-          "Under": 1.44
-        },
-        "DNB": {
-          "1 DNB": 1.18,
-          "2 DNB": 4.25
-        }
-      },
-      "Metallurg Novokuznetsk - Buran Voronezh": {
-        "1X2": {
-          "1": 1.94,
-          "X": 3.9,
-          "2": 3.05
-        },
-        "Total Goals (Line)": {
-          "Over": 2.22,
-          "Under": 1.59
-        },
-        "DNB": {
-          "1 DNB": 1.5,
-          "2 DNB": 2.4
-        }
-      },
-      "Omskie Kryliya - HC Rostov": {
-        "1X2": {
-          "1": 1.79,
-          "X": 4.15,
-          "2": 3.35
-        },
-        "Total Goals (Line)": {
-          "Over": 1.81,
-          "Under": 1.9
-        },
-        "DNB": {
-          "1 DNB": 1.41,
-          "2 DNB": 2.7
-        }
-      },
-      "HC Yugra Khanty-Mansiysk - Neftyanik Almetyevsk": {
-        "1X2": {
-          "1": 1.83,
-          "X": 3.9,
-          "2": 3.35
-        },
-        "Total Goals (Line)": {
-          "Over": 2.57,
-          "Under": 1.45
-        },
-        "DNB": {
-          "1 DNB": 1.42,
-          "2 DNB": 2.65
-        }
-      },
-      "HK Molot - Izhstal Izhevsk": {
-        "1X2": {
-          "1": 1.35,
-          "X": 5.1,
-          "2": 6.1
-        },
-        "Total Goals (Line)": {
-          "Over": 2.1,
-          "Under": 1.65
-        },
-        "DNB": {
-          "1 DNB": 1.12,
-          "2 DNB": 5.4
-        }
-      },
-      "Rubin Tyumen - CSK VVS Samara": {
-        "1X2": {
-          "1": 1.4,
-          "X": 4.85,
-          "2": 5.5
-        },
-        "Total Goals (Line)": {
-          "Over": 2.13,
-          "Under": 1.63
-        },
-        "DNB": {
-          "1 DNB": 1.15,
-          "2 DNB": 4.8
-        }
-      },
-      "HK Ryazan - HC Norilsk": {
-        "1X2": {
-          "1": 2.18,
-          "X": 3.85,
-          "2": 2.6
-        },
-        "Total Goals (Line)": {
-          "Over": 2.22,
-          "Under": 1.59
-        },
-        "DNB": {
-          "1 DNB": 1.7,
-          "2 DNB": 2.03
-        }
-      },
-      "Ska-Neva Saint Petersburg - Sokol Krasnoyarsk": {
-        "1X2": {
-          "1": 2.17,
-          "X": 3.95,
-          "2": 2.58
-        },
-        "Total Goals (Line)": {
-          "Over": 2.08,
-          "Under": 1.67
-        },
-        "DNB": {
-          "1 DNB": 1.7,
-          "2 DNB": 2.03
-        }
-      }
-    }
-  },
-  "Finland": {
-    "Liiga": {
-      "Jukurit Mikkeli - Pelicans Lahti": {
-        "1X2": {
-          "1": 2.12,
-          "X": 4.1,
-          "2": 2.82
-        },
-        "Total Goals (Line)": {
-          "Over": 3.4,
-          "Under": 1.31
-        },
-        "Asian Handicap": {
-          "1 AH": 2.82,
-          "2 AH": 1.4
-        },
-        "Double Chance": {
-          "1X": 1.36,
-          "12": 1.18,
-          "X2": 1.62
-        },
-        "DNB": {
-          "1 DNB": 1.65,
-          "2 DNB": 2.2
-        }
-      },
-      "Vaasan Sport - Lukko Rauma": {
-        "1X2": {
-          "1": 2.48,
-          "X": 3.85,
-          "2": 2.45
+          "2": 3.0
         },
         "Total Goals (Line)": {
           "Over": 4.0,
           "Under": 1.23
         },
         "Asian Handicap": {
-          "1 AH": 1.3,
-          "2 AH": 3.35
+          "1 AH": 2.72,
+          "2 AH": 1.42
         },
         "Double Chance": {
-          "1X": 1.47,
-          "12": 1.2,
-          "X2": 1.46
-        },
-        "DNB": {
-          "1 DNB": 1.9,
-          "2 DNB": 1.88
-        }
-      },
-      "Assat Pori - Tappara Tampere": {
-        "1X2": {
-          "1": 3.1,
-          "X": 3.95,
-          "2": 2.0
-        },
-        "Total Goals (Line)": {
-          "Over": 4.05,
-          "Under": 1.23
-        },
-        "Asian Handicap": {
-          "1 AH": 1.44,
-          "2 AH": 2.67
-        },
-        "Double Chance": {
-          "1X": 1.69,
+          "1X": 1.32,
           "12": 1.19,
-          "X2": 1.3
+          "X2": 1.67
         },
         "DNB": {
-          "1 DNB": 2.42,
-          "2 DNB": 1.55
-        }
-      },
-      "HIFK Helsinki - HPK Hameenlinna": {
-        "1X2": {
-          "1": 1.72,
-          "X": 4.3,
-          "2": 3.9
-        },
-        "Total Goals (Line)": {
-          "Over": 4.05,
-          "Under": 1.23
-        },
-        "Asian Handicap": {
-          "1 AH": 2.23,
-          "2 AH": 1.61
-        },
-        "Double Chance": {
-          "1X": 1.2,
-          "12": 1.17,
-          "X2": 1.97
-        },
-        "DNB": {
-          "1 DNB": 1.35,
-          "2 DNB": 3.1
-        }
-      },
-      "Ilves Tampere - TPS Turku": {
-        "1X2": {
-          "1": 1.68,
-          "X": 4.45,
-          "2": 4.05
-        },
-        "Total Goals (Line)": {
-          "Over": 3.4,
-          "Under": 1.31
-        },
-        "Asian Handicap": {
-          "1 AH": 2.13,
-          "2 AH": 1.66
-        },
-        "Double Chance": {
-          "1X": 1.19,
-          "12": 1.16,
-          "X2": 2.02
-        },
-        "DNB": {
-          "1 DNB": 1.33,
-          "2 DNB": 3.25
-        }
-      },
-      "Karpat Oulu - JYP Jyvaskyla": {
-        "1X2": {
-          "1": 1.9,
-          "X": 4.05,
-          "2": 3.35
-        },
-        "Total Goals (Line)": {
-          "Over": 3.75,
-          "Under": 1.26
-        },
-        "Asian Handicap": {
-          "1 AH": 2.48,
-          "2 AH": 1.49
-        },
-        "Double Chance": {
-          "1X": 1.26,
-          "12": 1.19,
-          "X2": 1.77
-        },
-        "DNB": {
-          "1 DNB": 1.47,
-          "2 DNB": 2.62
-        }
-      },
-      "KooKoo - SaiPa Lappeenranta": {
-        "1X2": {
-          "1": 1.42,
-          "X": 5.0,
-          "2": 5.9
-        },
-        "Total Goals (Line)": {
-          "Over": 2.9,
-          "Under": 1.4
-        },
-        "Asian Handicap": {
-          "1 AH": 1.72,
-          "2 AH": 2.05
-        },
-        "Double Chance": {
-          "1X": 1.09,
-          "12": 1.12,
-          "X2": 2.58
-        },
-        "DNB": {
-          "1 DNB": 1.16,
-          "2 DNB": 4.95
-        }
-      }
-    }
-  },
-  "Sweden": {
-    "SHL": {
-      "Linkopings HC - HV 71": {
-        "1X2": {
-          "1": 1.89,
-          "X": 4.25,
-          "2": 3.3
-        },
-        "Total Goals (Line)": {
-          "Over": 2.92,
-          "Under": 1.39
-        },
-        "Asian Handicap": {
-          "1 AH": 2.43,
-          "2 AH": 1.52
-        },
-        "Double Chance": {
-          "1X": 1.27,
-          "12": 1.17,
-          "X2": 1.78
-        },
-        "DNB": {
-          "1 DNB": 1.48,
-          "2 DNB": 2.6
-        }
-      },
-      "Timraa IK - HC Orebro": {
-        "1X2": {
-          "1": 1.93,
-          "X": 4.1,
-          "2": 3.25
-        },
-        "Total Goals (Line)": {
-          "Over": 3.6,
-          "Under": 1.28
-        },
-        "Asian Handicap": {
-          "1 AH": 2.53,
-          "2 AH": 1.48
-        },
-        "Double Chance": {
-          "1X": 1.28,
-          "12": 1.18,
-          "X2": 1.75
-        },
-        "DNB": {
-          "1 DNB": 1.5,
-          "2 DNB": 2.53
-        }
-      },
-      "Vaxjo Lakers - Rogle BK": {
-        "1X2": {
-          "1": 1.84,
-          "X": 4.15,
-          "2": 3.45
-        },
-        "Total Goals (Line)": {
-          "Over": 3.5,
-          "Under": 1.29
-        },
-        "Asian Handicap": {
-          "1 AH": 2.4,
-          "2 AH": 1.53
-        },
-        "Double Chance": {
-          "1X": 1.25,
-          "12": 1.18,
-          "X2": 1.83
-        },
-        "DNB": {
-          "1 DNB": 1.44,
-          "2 DNB": 2.72
-        }
-      },
-      "IK Oskarshamn - Farjestads BK": {
-        "1X2": {
-          "1": 3.7,
-          "X": 4.55,
-          "2": 1.72
-        },
-        "Total Goals (Line)": {
-          "Over": 2.55,
-          "Under": 1.49
-        },
-        "Asian Handicap": {
-          "1 AH": 1.64,
-          "2 AH": 2.17
-        },
-        "Double Chance": {
-          "1X": 1.97,
-          "12": 1.15,
-          "X2": 1.22
-        },
-        "DNB": {
-          "1 DNB": 2.97,
-          "2 DNB": 1.38
-        }
-      },
-      "Leksands IF - MODO Hockey": {
-        "1X2": {
-          "1": 1.7,
-          "X": 4.35,
-          "2": 4.0
-        },
-        "Total Goals (Line)": {
-          "Over": 3.55,
-          "Under": 1.29
-        },
-        "Asian Handicap": {
-          "1 AH": 2.17,
-          "2 AH": 1.64
-        },
-        "Double Chance": {
-          "1X": 1.19,
-          "12": 1.16,
-          "X2": 1.99
-        },
-        "DNB": {
-          "1 DNB": 1.34,
-          "2 DNB": 3.2
-        }
-      },
-      "Lulea Hockey - Malmo IF": {
-        "1X2": {
-          "1": 1.68,
-          "X": 4.3,
-          "2": 4.15
-        },
-        "Total Goals (Line)": {
-          "Over": 4.25,
-          "Under": 1.21
-        },
-        "Asian Handicap": {
-          "1 AH": 2.17,
-          "2 AH": 1.64
-        },
-        "Double Chance": {
-          "1X": 1.18,
-          "12": 1.17,
-          "X2": 2.02
-        },
-        "DNB": {
-          "1 DNB": 1.32,
-          "2 DNB": 3.3
-        }
-      },
-      "HC Orebro - Linkopings HC": {
-        "1X2": {
-          "1": 2.12,
-          "X": 4.05,
-          "2": 2.82
-        },
-        "Total Goals (Line)": {
-          "Over": 3.35,
-          "Under": 1.31
-        },
-        "Asian Handicap": {
-          "1 AH": 2.82,
-          "2 AH": 1.4
-        },
-        "Double Chance": {
-          "1X": 1.36,
-          "12": 1.19,
-          "X2": 1.62
-        },
-        "DNB": {
-          "1 DNB": 1.65,
-          "2 DNB": 2.2
-        }
-      },
-      "Lulea Hockey - Farjestads BK": {
-        "1X2": {
-          "1": 2.32,
-          "X": 3.9,
-          "2": 2.62
-        },
-        "Total Goals (Line)": {
-          "Over": 3.85,
-          "Under": 1.25
-        },
-        "Asian Handicap": {
-          "1 AH": 3.15,
-          "2 AH": 1.33
-        },
-        "Double Chance": {
-          "1X": 1.41,
-          "12": 1.2,
-          "X2": 1.52
-        },
-        "DNB": {
-          "1 DNB": 1.78,
-          "2 DNB": 2.0
-        }
-      },
-      "Malmo IF - Leksands IF": {
-        "1X2": {
-          "1": 2.92,
-          "X": 4.05,
-          "2": 2.08
-        },
-        "Total Goals (Line)": {
-          "Over": 3.75,
-          "Under": 1.26
-        },
-        "Asian Handicap": {
-          "1 AH": 1.41,
-          "2 AH": 2.77
-        },
-        "Double Chance": {
-          "1X": 1.64,
-          "12": 1.19,
-          "X2": 1.34
-        },
-        "DNB": {
-          "1 DNB": 2.27,
-          "2 DNB": 1.61
-        }
-      },
-      "MODO Hockey - HV 71": {
-        "1X2": {
-          "1": 2.15,
-          "X": 4.15,
-          "2": 2.72
-        },
-        "Total Goals (Line)": {
-          "Over": 2.82,
-          "Under": 1.41
-        },
-        "Asian Handicap": {
-          "1 AH": 2.82,
-          "2 AH": 1.39
-        },
-        "Double Chance": {
-          "1X": 1.38,
-          "12": 1.18,
-          "X2": 1.6
-        },
-        "DNB": {
-          "1 DNB": 1.69,
-          "2 DNB": 2.13
-        }
-      },
-      "Rogle BK - IK Oskarshamn": {
-        "1X2": {
-          "1": 1.56,
-          "X": 4.75,
-          "2": 4.55
-        },
-        "Total Goals (Line)": {
-          "Over": 2.8,
-          "Under": 1.42
-        },
-        "Asian Handicap": {
-          "1 AH": 1.94,
-          "2 AH": 1.81
-        },
-        "Double Chance": {
-          "1X": 1.15,
-          "12": 1.14,
-          "X2": 2.23
-        },
-        "DNB": {
-          "1 DNB": 1.26,
-          "2 DNB": 3.75
-        }
-      },
-      "Skelleftea AIK - Timraa IK": {
-        "1X2": {
-          "1": 1.93,
-          "X": 4.05,
-          "2": 3.25
-        },
-        "Total Goals (Line)": {
-          "Over": 3.9,
-          "Under": 1.25
-        },
-        "Asian Handicap": {
-          "1 AH": 2.55,
-          "2 AH": 1.48
-        },
-        "Double Chance": {
-          "1X": 1.28,
-          "12": 1.19,
-          "X2": 1.75
-        },
-        "DNB": {
-          "1 DNB": 1.5,
-          "2 DNB": 2.53
+          "1 DNB": 1.58,
+          "2 DNB": 2.35
         }
       }
     },
     "Allsvenskan": {
-      "AIK IF - Djurgardens IF": {
+      "BIK Karlskoga - Kalmar HC": {
         "1X2": {
-          "1": 2.55,
-          "X": 4.05,
-          "2": 2.17
-        },
-        "Total Goals (Line)": {
-          "Over": 1.82,
-          "Under": 1.88
-        },
-        "DNB": {
-          "1 DNB": 2.02,
-          "2 DNB": 1.71
-        }
-      },
-      "Brynas IF - Ostersunds IK": {
-        "1X2": {
-          "1": 1.25,
-          "X": 6.0,
-          "2": 7.4
-        },
-        "Total Goals (Line)": {
-          "Over": 1.72,
-          "Under": 2.0
-        },
-        "DNB": {
-          "1 DNB": 1.07,
-          "2 DNB": 6.9
-        }
-      },
-      "Kalmar HC - Vasteras IK": {
-        "1X2": {
-          "1": 2.45,
+          "1": 1.96,
           "X": 4.1,
-          "2": 2.23
+          "2": 2.9
         },
         "Total Goals (Line)": {
-          "Over": 1.64,
-          "Under": 2.13
+          "Over": 1.9,
+          "Under": 1.81
         },
         "DNB": {
-          "1 DNB": 1.95,
-          "2 DNB": 1.77
+          "1 DNB": 1.54,
+          "2 DNB": 2.32
         }
       },
-      "Mora IK - IF Bjorkloven": {
+      "Djurgardens IF - Sodertalje SK": {
         "1X2": {
-          "1": 2.5,
-          "X": 4.0,
-          "2": 2.22
+          "1": 2.2,
+          "X": 4.05,
+          "2": 2.5
         },
         "Total Goals (Line)": {
           "Over": 1.92,
-          "Under": 1.78
+          "Under": 1.79
         },
         "DNB": {
-          "1 DNB": 1.97,
-          "2 DNB": 1.74
+          "1 DNB": 1.74,
+          "2 DNB": 1.98
         }
       },
-      "Nybro Vikings IF - Vasterviks IK": {
-        "1X2": {
-          "1": 1.68,
-          "X": 4.25,
-          "2": 3.75
-        },
-        "Total Goals (Line)": {
-          "Over": 2.0,
-          "Under": 1.73
-        },
-        "DNB": {
-          "1 DNB": 1.33,
-          "2 DNB": 3.05
-        }
-      },
-      "Sodertalje SK - BIK Karlskoga": {
+      "IF Bjorkloven - Nybro Vikings IF": {
         "1X2": {
           "1": 1.47,
-          "X": 4.65,
+          "X": 4.75,
           "2": 4.8
         },
         "Total Goals (Line)": {
-          "Over": 1.81,
-          "Under": 1.9
+          "Over": 1.86,
+          "Under": 1.85
         },
         "DNB": {
-          "1 DNB": 1.19,
+          "1 DNB": 1.2,
           "2 DNB": 4.1
+        }
+      },
+      "Ostersunds IK - Mora IK": {
+        "1X2": {
+          "1": 3.35,
+          "X": 4.15,
+          "2": 1.79
+        },
+        "Total Goals (Line)": {
+          "Over": 2.12,
+          "Under": 1.64
+        },
+        "DNB": {
+          "1 DNB": 2.7,
+          "2 DNB": 1.41
         }
       },
       "Tingsryds AIF - Almtuna IS": {
         "1X2": {
-          "1": 2.18,
+          "1": 1.99,
           "X": 4.0,
-          "2": 2.55
+          "2": 2.87
+        },
+        "Total Goals (Line)": {
+          "Over": 2.18,
+          "Under": 1.61
+        },
+        "DNB": {
+          "1 DNB": 1.56,
+          "2 DNB": 2.28
+        }
+      },
+      "Vasteras IK - AIK IF": {
+        "1X2": {
+          "1": 2.25,
+          "X": 4.15,
+          "2": 2.4
+        },
+        "Total Goals (Line)": {
+          "Over": 1.62,
+          "Under": 2.17
+        },
+        "DNB": {
+          "1 DNB": 1.79,
+          "2 DNB": 1.92
+        }
+      },
+      "Vasterviks IK - Brynas IF": {
+        "1X2": {
+          "1": 5.9,
+          "X": 5.1,
+          "2": 1.36
+        },
+        "Total Goals (Line)": {
+          "Over": 1.65,
+          "Under": 2.1
+        },
+        "DNB": {
+          "1 DNB": 5.2,
+          "2 DNB": 1.12
+        }
+      }
+    },
+    "SDHL, Women": {
+      "Leksands IF - Linkopings HC": {
+        "1X2": {
+          "1": 2.6,
+          "X": 3.95,
+          "2": 2.15
+        },
+        "Total Goals (Line)": {
+          "Over": 1.4,
+          "Under": 2.72
+        },
+        "DNB": {
+          "1 DNB": 2.05,
+          "2 DNB": 1.69
+        }
+      },
+      "Djurgardens IF - Brynas IF": {
+        "1X2": {
+          "1": 4.05,
+          "X": 4.2,
+          "2": 1.63
+        },
+        "Total Goals (Line)": {
+          "Over": 2.65,
+          "Under": 1.42
+        },
+        "DNB": {
+          "1 DNB": 3.3,
+          "2 DNB": 1.29
+        }
+      },
+      "AIK IF - Frolunda HC": {
+        "1X2": {
+          "1": 19.5,
+          "X": 9.2,
+          "2": 1.06
+        },
+        "Total Goals (Line)": {
+          "Over": 1.53,
+          "Under": 2.35
+        },
+        "DNB": {
+          "1 DNB": 24.0
+        }
+      },
+      "Lulea HF/MSSK - MODO Hockey": {
+        "1X2": {
+          "1": 1.51,
+          "X": 4.5,
+          "2": 4.7
         },
         "Total Goals (Line)": {
           "Over": 2.13,
-          "Under": 1.64
+          "Under": 1.63
         },
         "DNB": {
-          "1 DNB": 1.71,
-          "2 DNB": 2.02
+          "1 DNB": 1.21,
+          "2 DNB": 3.95
+        }
+      },
+      "SDE Hockey - HV 71": {
+        "1X2": {
+          "1": 2.05,
+          "X": 4.0,
+          "2": 2.75
+        },
+        "Total Goals (Line)": {
+          "Over": 2.15,
+          "Under": 1.63
+        },
+        "DNB": {
+          "1 DNB": 1.61,
+          "2 DNB": 2.18
         }
       }
     }
   },
   "Austria": {
     "EHL ": {
-      "Black Wings Linz - HC TWK Innsbruck": {
+      "EC Graz 99Ers - Vienna Capitals": {
         "1X2": {
-          "1": 1.78,
+          "1": 1.95,
+          "X": 4.05,
+          "2": 2.92
+        },
+        "Total Goals (Line)": {
+          "Over": 2.08,
+          "Under": 1.66
+        },
+        "DNB": {
+          "1 DNB": 1.53,
+          "2 DNB": 2.33
+        }
+      },
+      "EC Villacher SV - Fehervar AV19": {
+        "1X2": {
+          "1": 1.97,
+          "X": 4.35,
+          "2": 2.75
+        },
+        "Total Goals (Line)": {
+          "Over": 1.56,
+          "Under": 2.28
+        },
+        "DNB": {
+          "1 DNB": 1.58,
+          "2 DNB": 2.23
+        }
+      },
+      "KAC Klagenfurt - Pustertal Wolfe": {
+        "1X2": {
+          "1": 1.53,
+          "X": 4.6,
+          "2": 4.35
+        },
+        "Total Goals (Line)": {
+          "Over": 1.9,
+          "Under": 1.81
+        },
+        "DNB": {
+          "1 DNB": 1.24,
+          "2 DNB": 3.7
+        }
+      },
+      "Red Bull Salzburg - HK Olimpija Ljubljana": {
+        "1X2": {
+          "1": 1.36,
+          "X": 5.2,
+          "2": 5.8
+        },
+        "Total Goals (Line)": {
+          "Over": 1.86,
+          "Under": 1.84
+        },
+        "DNB": {
+          "1 DNB": 1.13,
+          "2 DNB": 5.1
+        }
+      },
+      "Pioneers Vorarlberg - Black Wings Linz": {
+        "1X2": {
+          "1": 3.3,
           "X": 4.3,
-          "2": 3.25
+          "2": 1.77
         },
         "Total Goals (Line)": {
           "Over": 1.81,
           "Under": 1.9
         },
         "DNB": {
-          "1 DNB": 1.42,
-          "2 DNB": 2.65
+          "1 DNB": 2.68,
+          "2 DNB": 1.41
         }
       },
-      "Fehervar AV19 - EC Graz 99Ers": {
+      "HC Asiago - HC Bolzano-Bozen Foxes": {
         "1X2": {
-          "1": 1.43,
-          "X": 4.95,
-          "2": 5.1
+          "1": 4.0,
+          "X": 4.55,
+          "2": 1.58
         },
         "Total Goals (Line)": {
-          "Over": 1.89,
-          "Under": 1.81
+          "Over": 1.77,
+          "Under": 1.94
         },
         "DNB": {
-          "1 DNB": 1.17,
-          "2 DNB": 4.4
-        }
-      },
-      "Vienna Capitals - Red Bull Salzburg": {
-        "1X2": {
-          "1": 3.55,
-          "X": 4.4,
-          "2": 1.69
-        },
-        "Total Goals (Line)": {
-          "Over": 1.9,
-          "Under": 1.8
-        },
-        "DNB": {
-          "1 DNB": 2.92,
-          "2 DNB": 1.35
-        }
-      },
-      "HK Olimpija Ljubljana - KAC Klagenfurt": {
-        "1X2": {
-          "1": 3.85,
-          "X": 4.35,
-          "2": 1.64
-        },
-        "Total Goals (Line)": {
-          "Over": 1.84,
-          "Under": 1.86
-        },
-        "DNB": {
-          "1 DNB": 3.15,
-          "2 DNB": 1.31
-        }
-      },
-      "HC Bolzano-Bozen Foxes - EC Villacher SV": {
-        "1X2": {
-          "1": 1.69,
-          "X": 4.3,
-          "2": 3.6
-        },
-        "Total Goals (Line)": {
-          "Over": 1.76,
-          "Under": 1.95
-        },
-        "DNB": {
-          "1 DNB": 1.35,
-          "2 DNB": 2.95
-        }
-      },
-      "Pustertal Wolfe - Pioneers Vorarlberg": {
-        "1X2": {
-          "1": 1.37,
-          "X": 5.6,
-          "2": 5.2
-        },
-        "Total Goals (Line)": {
-          "Over": 2.05,
-          "Under": 1.68
-        },
-        "DNB": {
-          "1 DNB": 1.16,
-          "2 DNB": 4.65
+          "1 DNB": 3.35,
+          "2 DNB": 1.28
         }
       }
     }
   },
   "Belarus": {
     "Extraliga": {
-      "Yunost Minsk - HK Vitebsk": {
-        "1X2": {
-          "1": 2.13,
-          "X": 3.85,
-          "2": 2.68
-        },
-        "Total Goals (Line)": {
-          "Over": 2.63,
-          "Under": 1.43
-        },
-        "DNB": {
-          "1 DNB": 1.66,
-          "2 DNB": 2.1
-        }
-      },
       "HC Lokomotiv Orsha - HK Gomel": {
         "1X2": {
-          "1": 3.85,
+          "1": 3.8,
           "X": 4.5,
-          "2": 1.62
+          "2": 1.63
         },
         "Total Goals (Line)": {
-          "Over": 2.15,
-          "Under": 1.62
+          "Over": 2.2,
+          "Under": 1.6
         },
         "DNB": {
-          "1 DNB": 3.2,
-          "2 DNB": 1.3
+          "1 DNB": 3.15,
+          "2 DNB": 1.31
         }
       },
       "Khimik-Ska - HC Shakhtyor Soligorsk": {
         "1X2": {
-          "1": 6.8,
+          "1": 6.4,
           "X": 5.3,
-          "2": 1.31
+          "2": 1.33
         },
         "Total Goals (Line)": {
-          "Over": 2.1,
-          "Under": 1.66
+          "Over": 2.07,
+          "Under": 1.68
         },
         "DNB": {
-          "1 DNB": 6.1,
-          "2 DNB": 1.09
+          "1 DNB": 5.7,
+          "2 DNB": 1.11
+        }
+      },
+      "Yunost Minsk - HK Vitebsk": {
+        "1X2": {
+          "1": 2.13,
+          "X": 4.05,
+          "2": 2.6
+        },
+        "Total Goals (Line)": {
+          "Over": 2.6,
+          "Under": 1.44
+        },
+        "DNB": {
+          "1 DNB": 1.68,
+          "2 DNB": 2.05
+        }
+      },
+      "HK Brest - HK Lida": {
+        "1X2": {
+          "1": 1.56,
+          "X": 4.45,
+          "2": 4.25
+        },
+        "Total Goals (Line)": {
+          "Over": 2.35,
+          "Under": 1.53
+        },
+        "DNB": {
+          "1 DNB": 1.25,
+          "2 DNB": 3.55
+        }
+      },
+      "HC Dinamo Molodechno - HK Neman Grodno": {
+        "1X2": {
+          "1": 3.65,
+          "X": 4.7,
+          "2": 1.63
+        },
+        "Total Goals (Line)": {
+          "Over": 1.81,
+          "Under": 1.9
+        },
+        "DNB": {
+          "1 DNB": 3.05,
+          "2 DNB": 1.33
+        }
+      },
+      "Metallurg Zhlobin - HK Mogilev": {
+        "1X2": {
+          "1": 1.36,
+          "X": 5.3,
+          "2": 5.7
+        },
+        "Total Goals (Line)": {
+          "Over": 1.63,
+          "Under": 2.13
+        },
+        "DNB": {
+          "1 DNB": 1.13,
+          "2 DNB": 5.1
         }
       }
     }
   },
   "Czech Republic": {
     "Extraliga": {
-      "Energie Karlovy Vary - HC Plzen": {
+      "BK Mlada Boleslav - Energie Karlovy Vary": {
         "1X2": {
-          "1": 2.08,
-          "X": 4.05,
-          "2": 2.9
+          "1": 2.43,
+          "X": 3.95,
+          "2": 2.45
         },
         "Total Goals (Line)": {
           "Over": 3.75,
           "Under": 1.26
         },
         "DNB": {
-          "1 DNB": 1.62,
-          "2 DNB": 2.27
+          "1 DNB": 1.88,
+          "2 DNB": 1.89
         }
       },
-      "HC Litvinov - Bili Tygri Liberec": {
+      "HC Plzen - Sparta Prague": {
         "1X2": {
-          "1": 2.1,
-          "X": 4.25,
-          "2": 2.77
-        },
-        "Total Goals (Line)": {
-          "Over": 2.82,
-          "Under": 1.42
-        },
-        "DNB": {
-          "1 DNB": 1.66,
-          "2 DNB": 2.18
-        }
-      },
-      "BK Mlada Boleslav - HC Kometa Brno": {
-        "1X2": {
-          "1": 3.45,
-          "X": 4.15,
-          "2": 1.85
+          "1": 3.85,
+          "X": 4.35,
+          "2": 1.72
         },
         "Total Goals (Line)": {
           "Over": 3.65,
           "Under": 1.27
         },
         "DNB": {
-          "1 DNB": 2.72,
-          "2 DNB": 1.44
-        }
-      },
-      "Ceske Budejovice - Mountfield HK": {
-        "1X2": {
-          "1": 2.35,
-          "X": 3.95,
-          "2": 2.53
-        },
-        "Total Goals (Line)": {
-          "Over": 3.95,
-          "Under": 1.24
-        },
-        "DNB": {
-          "1 DNB": 1.82,
-          "2 DNB": 1.96
-        }
-      },
-      "Ocelari Trinec - HC Vitkovice": {
-        "1X2": {
-          "1": 1.73,
-          "X": 4.25,
-          "2": 3.85
-        },
-        "Total Goals (Line)": {
-          "Over": 3.75,
-          "Under": 1.26
-        },
-        "DNB": {
-          "1 DNB": 1.36,
-          "2 DNB": 3.05
-        }
-      },
-      "Sparta Prague - HC Rytiri Kladno": {
-        "1X2": {
-          "1": 1.32,
-          "X": 5.7,
-          "2": 7.3
-        },
-        "Total Goals (Line)": {
-          "Over": 2.97,
-          "Under": 1.38
-        },
-        "DNB": {
-          "1 DNB": 1.11,
-          "2 DNB": 6.3
-        }
-      },
-      "BK Mlada Boleslav - Energie Karlovy Vary": {
-        "1X2": {
-          "1": 2.58,
-          "X": 3.95,
-          "2": 2.33
-        },
-        "DNB": {
-          "1 DNB": 1.99,
-          "2 DNB": 1.79
-        }
-      },
-      "HC Plzen - Sparta Prague": {
-        "1X2": {
-          "1": 3.95,
-          "X": 4.25,
-          "2": 1.71
-        },
-        "DNB": {
-          "1 DNB": 3.15,
-          "2 DNB": 1.35
+          "1 DNB": 3.1,
+          "2 DNB": 1.36
         }
       },
       "Bili Tygri Liberec - HC Rytiri Kladno": {
         "1X2": {
-          "1": 1.41,
-          "X": 5.2,
-          "2": 5.9
+          "1": 1.44,
+          "X": 5.1,
+          "2": 5.5
+        },
+        "Total Goals (Line)": {
+          "Over": 2.77,
+          "Under": 1.43
         },
         "DNB": {
-          "1 DNB": 1.16,
-          "2 DNB": 5.0
+          "1 DNB": 1.19,
+          "2 DNB": 4.6
         }
       },
       "HC Kometa Brno - Ceske Budejovice": {
         "1X2": {
-          "1": 1.82,
-          "X": 4.15,
-          "2": 3.55
+          "1": 1.81,
+          "X": 4.25,
+          "2": 3.5
+        },
+        "Total Goals (Line)": {
+          "Over": 3.7,
+          "Under": 1.27
         },
         "DNB": {
-          "1 DNB": 1.42,
-          "2 DNB": 2.8
+          "1 DNB": 1.43,
+          "2 DNB": 2.77
         }
       },
       "HC Olomouc - Ocelari Trinec": {
         "1X2": {
-          "1": 2.8,
+          "1": 3.1,
           "X": 4.05,
-          "2": 2.13
+          "2": 1.98
+        },
+        "Total Goals (Line)": {
+          "Over": 4.0,
+          "Under": 1.23
         },
         "DNB": {
-          "1 DNB": 2.18,
-          "2 DNB": 1.66
+          "1 DNB": 2.43,
+          "2 DNB": 1.54
         }
       },
       "Mountfield HK - HC Litvinov": {
         "1X2": {
-          "1": 1.86,
+          "1": 1.88,
           "X": 4.25,
-          "2": 3.35
+          "2": 3.3
+        },
+        "Total Goals (Line)": {
+          "Over": 3.3,
+          "Under": 1.32
         },
         "DNB": {
-          "1 DNB": 1.46,
-          "2 DNB": 2.65
+          "1 DNB": 1.48,
+          "2 DNB": 2.6
+        }
+      },
+      "Energie Karlovy Vary - Bili Tygri Liberec": {
+        "1X2": {
+          "1": 2.38,
+          "X": 4.15,
+          "2": 2.43
+        },
+        "DNB": {
+          "1 DNB": 1.87,
+          "2 DNB": 1.91
+        }
+      },
+      "HC Rytiri Kladno - HC Kometa Brno": {
+        "1X2": {
+          "1": 3.2,
+          "X": 4.15,
+          "2": 1.94
+        },
+        "DNB": {
+          "1 DNB": 2.5,
+          "2 DNB": 1.51
+        }
+      },
+      "Sparta Prague - HC Olomouc": {
+        "1X2": {
+          "1": 1.32,
+          "X": 5.5,
+          "2": 7.5
+        },
+        "DNB": {
+          "1 DNB": 1.1,
+          "2 DNB": 6.5
+        }
+      },
+      "Ceske Budejovice - HC Vitkovice": {
+        "1X2": {
+          "1": 1.98,
+          "X": 4.15,
+          "2": 3.05
+        },
+        "DNB": {
+          "1 DNB": 1.55,
+          "2 DNB": 2.4
+        }
+      },
+      "Ocelari Trinec - Mountfield HK": {
+        "1X2": {
+          "1": 1.94,
+          "X": 4.15,
+          "2": 3.2
+        },
+        "DNB": {
+          "1 DNB": 1.51,
+          "2 DNB": 2.5
+        }
+      },
+      "HC Litvinov - BK Mlada Boleslav": {
+        "1X2": {
+          "1": 1.5,
+          "X": 4.85,
+          "2": 5.1
+        },
+        "DNB": {
+          "1 DNB": 1.22,
+          "2 DNB": 4.2
         }
       }
     }
@@ -2050,82 +1834,38 @@
     "Ligue Magnus": {
       "Grenoble Bruleurs de Loups - HC Amiens Somme": {
         "1X2": {
-          "1": 1.28,
-          "X": 5.7,
-          "2": 6.8
+          "1": 1.27,
+          "X": 6.0,
+          "2": 6.7
+        },
+        "Total Goals (Line)": {
+          "Over": 1.56,
+          "Under": 2.28
         },
         "DNB": {
           "1 DNB": 1.09,
-          "2 DNB": 6.3
+          "2 DNB": 6.2
         }
       },
       "HC Briancon - Les Aigles de Nice": {
         "1X2": {
-          "1": 2.63,
+          "1": 1.88,
           "X": 4.5,
-          "2": 2.0
+          "2": 2.87
+        },
+        "Total Goals (Line)": {
+          "Over": 1.6,
+          "Under": 2.2
         },
         "DNB": {
-          "1 DNB": 2.15,
-          "2 DNB": 1.62
+          "1 DNB": 1.52,
+          "2 DNB": 2.35
         }
       },
       "Chamonix Mont-Blanc Pionieers - Anglet Hormadi Elite": {
         "1X2": {
-          "1": 1.56,
-          "X": 5.1,
-          "2": 3.8
-        },
-        "DNB": {
-          "1 DNB": 1.29,
-          "2 DNB": 3.25
-        }
-      },
-      "Bordeaux GHC - Cergy-Pontoise": {
-        "1X2": {
-          "1": 2.12,
-          "X": 4.65,
-          "2": 2.42
-        },
-        "DNB": {
-          "1 DNB": 1.73,
-          "2 DNB": 1.99
-        }
-      },
-      "Angers Ducs - Rouen Dragons": {
-        "1X2": {
-          "1": 2.8,
-          "X": 4.45,
-          "2": 1.93
-        },
-        "DNB": {
-          "1 DNB": 2.28,
-          "2 DNB": 1.56
-        }
-      }
-    }
-  },
-  "Germany": {
-    "DEL ": {
-      "Adler Mannheim - Wild Wings": {
-        "1X2": {
-          "1": 1.79,
-          "X": 4.1,
-          "2": 3.35
-        },
-        "Total Goals (Line)": {
-          "Over": 2.03,
-          "Under": 1.71
-        },
-        "DNB": {
-          "1 DNB": 1.41,
-          "2 DNB": 2.7
-        }
-      },
-      "Cologne Haie - Lowen Frankfurt": {
-        "1X2": {
-          "1": 1.77,
-          "X": 4.3,
+          "1": 1.73,
+          "X": 4.5,
           "2": 3.35
         },
         "Total Goals (Line)": {
@@ -2133,482 +1873,446 @@
           "Under": 1.98
         },
         "DNB": {
-          "1 DNB": 1.4,
-          "2 DNB": 2.72
-        }
-      },
-      "Eisbaren Berlin - Grizzlys Wolfsburg": {
-        "1X2": {
-          "1": 1.82,
-          "X": 4.1,
-          "2": 3.25
-        },
-        "Total Goals (Line)": {
-          "Over": 2.05,
-          "Under": 1.69
-        },
-        "DNB": {
-          "1 DNB": 1.43,
-          "2 DNB": 2.62
-        }
-      },
-      "Red Bull Munich - Straubing Tigers": {
-        "1X2": {
-          "1": 1.73,
-          "X": 4.2,
-          "2": 3.5
-        },
-        "Total Goals (Line)": {
-          "Over": 2.1,
-          "Under": 1.65
-        },
-        "DNB": {
-          "1 DNB": 1.37,
-          "2 DNB": 2.85
-        }
-      },
-      "Dusseldorfer EG - Augsburger Panther": {
-        "1X2": {
-          "1": 2.07,
-          "X": 4.0,
-          "2": 2.72
-        },
-        "Total Goals (Line)": {
-          "Over": 2.1,
-          "Under": 1.65
-        },
-        "DNB": {
-          "1 DNB": 1.62,
-          "2 DNB": 2.15
-        }
-      },
-      "Iserlohn Roosters - Fischtown Pinguins": {
-        "1X2": {
-          "1": 4.45,
-          "X": 4.6,
-          "2": 1.52
-        },
-        "Total Goals (Line)": {
-          "Over": 2.03,
-          "Under": 1.7
-        },
-        "DNB": {
-          "1 DNB": 3.75,
-          "2 DNB": 1.23
-        }
-      },
-      "Nuremberg Ice Tigers - ERC Ingolstadt": {
-        "1X2": {
-          "1": 2.7,
-          "X": 4.05,
-          "2": 2.08
-        },
-        "Total Goals (Line)": {
-          "Over": 2.0,
-          "Under": 1.72
-        },
-        "DNB": {
-          "1 DNB": 2.13,
-          "2 DNB": 1.63
-        }
-      }
-    }
-  },
-  "International": {
-    "Alps Hockey League": {
-      "Jesenice - Steel Wings Linz": {
-        "1X2": {
-          "1": 1.33,
-          "X": 5.5,
-          "2": 6.1
-        },
-        "Total Goals (Line)": {
-          "Over": 1.73,
-          "Under": 2.0
-        },
-        "DNB": {
-          "1 DNB": 1.11,
-          "2 DNB": 5.5
-        }
-      },
-      "EC KAC II - Hockey Unterland Cavaliers": {
-        "1X2": {
-          "1": 6.6,
-          "X": 5.9,
-          "2": 1.28
-        },
-        "Total Goals (Line)": {
-          "Over": 2.43,
-          "Under": 1.49
-        },
-        "DNB": {
-          "1 DNB": 6.1,
-          "2 DNB": 1.09
-        }
-      },
-      "Red Bull Hockey Juniors - SG Cortina": {
-        "1X2": {
-          "1": 2.02,
-          "X": 4.15,
-          "2": 2.75
-        },
-        "Total Goals (Line)": {
-          "Over": 1.77,
-          "Under": 1.95
-        },
-        "DNB": {
-          "1 DNB": 1.6,
-          "2 DNB": 2.2
-        }
-      },
-      "EHC Bregenzerwald - HC Merano": {
-        "1X2": {
-          "1": 1.49,
-          "X": 5.0,
-          "2": 4.35
-        },
-        "Total Goals (Line)": {
-          "Over": 2.3,
-          "Under": 1.55
-        },
-        "DNB": {
-          "1 DNB": 1.23,
-          "2 DNB": 3.75
-        }
-      },
-      "EHC Lustenau - HC Gherdeina": {
-        "1X2": {
-          "1": 2.42,
-          "X": 4.4,
-          "2": 2.17
-        },
-        "Total Goals (Line)": {
-          "Over": 2.35,
-          "Under": 1.52
-        },
-        "DNB": {
-          "1 DNB": 1.96,
-          "2 DNB": 1.75
-        }
-      },
-      "EK Zeller Eisbaren - WSV Broncos": {
-        "1X2": {
-          "1": 1.72,
-          "X": 4.55,
-          "2": 3.35
-        },
-        "Total Goals (Line)": {
-          "Over": 2.5,
-          "Under": 1.47
-        },
-        "DNB": {
           "1 DNB": 1.39,
-          "2 DNB": 2.77
+          "2 DNB": 2.75
         }
       },
-      "EC Die Adler Kitzbuhel - Ritten Sport": {
+      "Bordeaux GHC - Cergy-Pontoise": {
         "1X2": {
-          "1": 3.45,
-          "X": 4.45,
-          "2": 1.71
+          "1": 1.62,
+          "X": 4.5,
+          "2": 3.8
         },
         "Total Goals (Line)": {
           "Over": 1.65,
           "Under": 2.1
         },
         "DNB": {
-          "1 DNB": 2.82,
-          "2 DNB": 1.37
+          "1 DNB": 1.31,
+          "2 DNB": 3.2
         }
       },
-      "SHC Fassa Falcons - Celje": {
+      "Angers Ducs - Rouen Dragons": {
         "1X2": {
-          "1": 1.56,
-          "X": 4.8,
-          "2": 4.0
+          "1": 1.92,
+          "X": 4.45,
+          "2": 2.82
         },
         "Total Goals (Line)": {
-          "Over": 1.47,
-          "Under": 2.5
+          "Over": 1.62,
+          "Under": 2.17
         },
         "DNB": {
-          "1 DNB": 1.27,
-          "2 DNB": 3.4
+          "1 DNB": 1.55,
+          "2 DNB": 2.3
+        }
+      },
+      "Rapaces de Gap - Spartiates de Marseille": {
+        "1X2": {
+          "1": 2.2,
+          "X": 4.25,
+          "2": 2.43
+        },
+        "Total Goals (Line)": {
+          "Over": 1.67,
+          "Under": 2.08
+        },
+        "DNB": {
+          "1 DNB": 1.76,
+          "2 DNB": 1.95
         }
       }
-    },
-    "World Championship U20": {
-      "Finland - Canada": {
+    }
+  },
+  "Germany": {
+    "DEL ": {
+      "Cologne Haie - Dusseldorfer EG": {
         "1X2": {
-          "1": 4.1,
-          "X": 4.6,
-          "2": 1.56
+          "1": 1.81,
+          "X": 4.1,
+          "2": 3.3
         },
         "Total Goals (Line)": {
-          "Over": 1.68,
-          "Under": 2.05
+          "Over": 2.1,
+          "Under": 1.65
         },
         "DNB": {
-          "1 DNB": 3.45,
-          "2 DNB": 1.26
+          "1 DNB": 1.42,
+          "2 DNB": 2.65
         }
       },
-      "USA - Norway": {
+      "Fischtown Pinguins - ERC Ingolstadt": {
         "1X2": {
-          "1": 1.02,
-          "X": 11.5,
-          "2": 29.0
+          "1": 1.89,
+          "X": 4.0,
+          "2": 3.1
         },
         "Total Goals (Line)": {
-          "Over": 2.38,
-          "Under": 1.52
-        },
-        "DNB": {
-          "2 DNB": 43.0
-        }
-      },
-      "Sweden - Latvia": {
-        "1X2": {
-          "1": 1.08,
-          "X": 8.9,
-          "2": 15.0
-        },
-        "Total Goals (Line)": {
-          "Over": 2.35,
+          "Over": 2.33,
           "Under": 1.53
         },
         "DNB": {
-          "2 DNB": 17.0
+          "1 DNB": 1.48,
+          "2 DNB": 2.48
         }
       },
-      "Slovakia - Switzerland": {
+      "Grizzlys Wolfsburg - Red Bull Munich": {
         "1X2": {
           "1": 2.28,
-          "X": 4.1,
-          "2": 2.38
+          "X": 4.05,
+          "2": 2.4
         },
         "Total Goals (Line)": {
-          "Over": 1.63,
-          "Under": 2.13
+          "Over": 2.2,
+          "Under": 1.59
         },
         "DNB": {
-          "1 DNB": 1.81,
-          "2 DNB": 1.89
+          "1 DNB": 1.8,
+          "2 DNB": 1.9
         }
       },
-      "Finland - Germany": {
+      "Lowen Frankfurt - Eisbaren Berlin": {
         "1X2": {
-          "1": 1.08,
-          "X": 8.9,
-          "2": 15.0
+          "1": 3.4,
+          "X": 4.3,
+          "2": 1.74
         },
         "Total Goals (Line)": {
-          "Over": 2.3,
-          "Under": 1.54
+          "Over": 1.77,
+          "Under": 1.94
         },
         "DNB": {
-          "2 DNB": 17.0
+          "1 DNB": 2.77,
+          "2 DNB": 1.39
         }
       },
-      "Norway - Czech Republic": {
+      "Nuremberg Ice Tigers - Augsburger Panther": {
         "1X2": {
-          "1": 16.0,
-          "X": 9.6,
-          "2": 1.07
+          "1": 2.0,
+          "X": 4.2,
+          "2": 2.77
         },
         "Total Goals (Line)": {
-          "Over": 2.4,
-          "Under": 1.51
+          "Over": 1.67,
+          "Under": 2.08
         },
         "DNB": {
-          "1 DNB": 18.0
+          "1 DNB": 1.59,
+          "2 DNB": 2.22
         }
       },
-      "Latvia - Canada": {
+      "Straubing Tigers - Adler Mannheim": {
         "1X2": {
-          "1": 40.0,
-          "X": 15.5
+          "1": 1.91,
+          "X": 4.05,
+          "2": 3.05
         },
         "Total Goals (Line)": {
           "Over": 2.23,
           "Under": 1.58
         },
         "DNB": {
-          "1 DNB": 49.0
+          "1 DNB": 1.5,
+          "2 DNB": 2.43
         }
       },
-      "Switzerland - USA": {
+      "Wild Wings - Iserlohn Roosters": {
         "1X2": {
-          "1": 9.5,
-          "X": 7.1,
-          "2": 1.17
+          "1": 1.66,
+          "X": 4.4,
+          "2": 3.65
         },
         "Total Goals (Line)": {
-          "Over": 2.4,
-          "Under": 1.51
+          "Over": 1.88,
+          "Under": 1.83
         },
         "DNB": {
-          "1 DNB": 9.4,
-          "2 DNB": 1.03
+          "1 DNB": 1.33,
+          "2 DNB": 3.05
+        }
+      }
+    }
+  },
+  "International": {
+    "Alps Hockey League": {
+      "Ritten Sport - Red Bull Hockey Juniors": {
+        "1X2": {
+          "1": 1.77,
+          "X": 4.45,
+          "2": 3.2
+        },
+        "Total Goals (Line)": {
+          "Over": 1.62,
+          "Under": 2.15
+        },
+        "DNB": {
+          "1 DNB": 1.43,
+          "2 DNB": 2.63
+        }
+      },
+      "WSV Broncos - EC Die Adler Kitzbuhel": {
+        "1X2": {
+          "1": 1.73,
+          "X": 4.5,
+          "2": 3.35
+        },
+        "Total Goals (Line)": {
+          "Over": 1.59,
+          "Under": 2.2
+        },
+        "DNB": {
+          "1 DNB": 1.39,
+          "2 DNB": 2.75
+        }
+      },
+      "Celje - EC KAC II": {
+        "1X2": {
+          "1": 1.6,
+          "X": 4.7,
+          "2": 3.85
+        },
+        "Total Goals (Line)": {
+          "Over": 1.6,
+          "Under": 2.2
+        },
+        "DNB": {
+          "1 DNB": 1.3,
+          "2 DNB": 3.25
+        }
+      },
+      "Steel Wings Linz - HC Gherdeina": {
+        "1X2": {
+          "1": 2.92,
+          "X": 4.45,
+          "2": 1.87
+        },
+        "Total Goals (Line)": {
+          "Over": 1.6,
+          "Under": 2.2
+        },
+        "DNB": {
+          "1 DNB": 2.4,
+          "2 DNB": 1.51
+        }
+      },
+      "Hockey Unterland Cavaliers - Jesenice": {
+        "1X2": {
+          "1": 2.6,
+          "X": 4.35,
+          "2": 2.05
+        },
+        "Total Goals (Line)": {
+          "Over": 1.59,
+          "Under": 2.22
+        },
+        "DNB": {
+          "1 DNB": 2.1,
+          "2 DNB": 1.65
+        }
+      },
+      "HC Merano - EHC Lustenau": {
+        "1X2": {
+          "1": 2.23,
+          "X": 4.4,
+          "2": 2.33
+        },
+        "Total Goals (Line)": {
+          "Over": 2.25,
+          "Under": 1.57
+        },
+        "DNB": {
+          "1 DNB": 1.81,
+          "2 DNB": 1.9
+        }
+      },
+      "SG Cortina - EHC Bregenzerwald": {
+        "1X2": {
+          "1": 1.89,
+          "X": 4.4,
+          "2": 2.9
+        },
+        "Total Goals (Line)": {
+          "Over": 1.62,
+          "Under": 2.17
+        },
+        "DNB": {
+          "1 DNB": 1.52,
+          "2 DNB": 2.37
+        }
+      },
+      "SHC Fassa Falcons - EK Zeller Eisbaren": {
+        "1X2": {
+          "1": 3.45,
+          "X": 4.6,
+          "2": 1.69
+        },
+        "Total Goals (Line)": {
+          "Over": 1.47,
+          "Under": 2.5
+        },
+        "DNB": {
+          "1 DNB": 2.87,
+          "2 DNB": 1.37
+        }
+      }
+    },
+    "World Championship U20": {
+      "Switzerland - USA": {
+        "1X2": {
+          "1": 18.0,
+          "X": 10.5,
+          "2": 1.05
+        },
+        "Total Goals (Line)": {
+          "Over": 1.98,
+          "Under": 1.74
+        },
+        "DNB": {
+          "1 DNB": 21.5
         }
       },
       "Germany - Sweden": {
         "1X2": {
-          "1": 10.25,
-          "X": 7.4,
-          "2": 1.15
+          "1": 16.0,
+          "X": 9.0,
+          "2": 1.08
         },
         "Total Goals (Line)": {
-          "Over": 2.37,
-          "Under": 1.52
+          "Over": 2.45,
+          "Under": 1.49
         },
         "DNB": {
-          "1 DNB": 10.25,
-          "2 DNB": 1.02
-        }
-      },
-      "Norway - Slovakia": {
-        "1X2": {
-          "1": 4.7,
-          "X": 4.7,
-          "2": 1.48
-        },
-        "Total Goals (Line)": {
-          "Over": 1.85,
-          "Under": 1.85
-        },
-        "DNB": {
-          "1 DNB": 4.0,
-          "2 DNB": 1.2
+          "1 DNB": 18.0
         }
       },
       "Latvia - Finland": {
         "1X2": {
-          "1": 13.5,
-          "X": 7.5,
-          "2": 1.12
+          "1": 11.0,
+          "X": 7.1,
+          "2": 1.15
         },
         "Total Goals (Line)": {
-          "Over": 1.85,
-          "Under": 1.85
+          "Over": 1.73,
+          "Under": 1.99
         },
         "DNB": {
-          "1 DNB": 14.25
+          "1 DNB": 11.0,
+          "2 DNB": 1.01
         }
       },
       "Czech Republic - USA": {
         "1X2": {
-          "1": 6.8,
+          "1": 6.6,
           "X": 6.0,
-          "2": 1.27
+          "2": 1.28
         },
         "Total Goals (Line)": {
-          "Over": 2.4,
-          "Under": 1.51
+          "Over": 2.3,
+          "Under": 1.54
         },
         "DNB": {
-          "1 DNB": 6.3,
-          "2 DNB": 1.08
+          "1 DNB": 6.1,
+          "2 DNB": 1.09
         }
       },
       "Canada - Sweden": {
         "1X2": {
-          "1": 1.86,
-          "X": 4.3,
-          "2": 3.05
+          "1": 1.88,
+          "X": 4.25,
+          "2": 3.0
         },
         "Total Goals (Line)": {
-          "Over": 1.56,
-          "Under": 2.28
+          "Over": 1.58,
+          "Under": 2.23
         },
         "DNB": {
-          "1 DNB": 1.48,
-          "2 DNB": 2.47
+          "1 DNB": 1.5,
+          "2 DNB": 2.43
         }
       },
       "Switzerland - Norway": {
         "1X2": {
-          "1": 1.46,
-          "X": 4.8,
-          "2": 4.8
+          "1": 1.42,
+          "X": 4.95,
+          "2": 5.1
         },
         "Total Goals (Line)": {
           "Over": 1.85,
           "Under": 1.85
         },
         "DNB": {
-          "1 DNB": 1.19,
-          "2 DNB": 4.15
+          "1 DNB": 1.17,
+          "2 DNB": 4.45
         }
       },
       "Germany - Latvia": {
         "1X2": {
-          "1": 1.84,
-          "X": 4.2,
-          "2": 3.1
+          "1": 1.73,
+          "X": 4.35,
+          "2": 3.4
         },
         "Total Goals (Line)": {
           "Over": 1.85,
           "Under": 1.85
         },
         "DNB": {
-          "1 DNB": 1.46,
-          "2 DNB": 2.52
+          "1 DNB": 1.38,
+          "2 DNB": 2.8
         }
       },
       "USA - Slovakia": {
         "1X2": {
-          "1": 1.16,
-          "X": 7.1,
-          "2": 10.0
+          "1": 1.18,
+          "X": 6.9,
+          "2": 9.1
         },
         "Total Goals (Line)": {
           "Over": 2.4,
           "Under": 1.5
         },
         "DNB": {
-          "1 DNB": 1.02,
-          "2 DNB": 10.0
+          "1 DNB": 1.03,
+          "2 DNB": 9.0
         }
       },
       "Sweden - Finland": {
         "1X2": {
-          "1": 2.1,
-          "X": 4.15,
-          "2": 2.6
+          "1": 2.0,
+          "X": 4.25,
+          "2": 2.72
         },
         "Total Goals (Line)": {
           "Over": 1.85,
           "Under": 1.85
         },
         "DNB": {
-          "1 DNB": 1.67,
-          "2 DNB": 2.08
+          "1 DNB": 1.6,
+          "2 DNB": 2.2
         }
       },
       "Czech Republic - Switzerland": {
         "1X2": {
-          "1": 1.47,
-          "X": 4.95,
-          "2": 4.55
+          "1": 1.62,
+          "X": 4.6,
+          "2": 3.8
         },
         "Total Goals (Line)": {
-          "Over": 1.63,
-          "Under": 2.13
+          "Over": 1.66,
+          "Under": 2.08
         },
         "DNB": {
-          "1 DNB": 1.21,
-          "2 DNB": 3.95
+          "1 DNB": 1.31,
+          "2 DNB": 3.15
         }
       },
       "Canada - Germany": {
         "1X2": {
-          "X": 14.5,
+          "X": 14.75,
           "2": 41.0
         },
         "Total Goals (Line)": {
-          "Over": 1.81,
-          "Under": 1.9
+          "Over": 1.82,
+          "Under": 1.89
         },
         "DNB": {
           "2 DNB": 49.0
@@ -2616,153 +2320,109 @@
       }
     },
     "Spengler Cup": {
-      "HC Ambri-Piotta - HC Pardubice": {
+      "HC Pardubice - KalPa Hockey": {
         "1X2": {
-          "1": 2.6,
-          "X": 4.2,
-          "2": 2.08
+          "1": 1.73,
+          "X": 4.4,
+          "2": 3.4
         },
         "Total Goals (Line)": {
-          "Over": 1.7,
-          "Under": 2.03
+          "Over": 1.75,
+          "Under": 1.96
         },
         "DNB": {
-          "1 DNB": 2.08,
-          "2 DNB": 1.66
+          "1 DNB": 1.39,
+          "2 DNB": 2.77
         }
       },
-      "Frolunda HC - Team Canada": {
+      "Team Canada - HC Davos": {
         "1X2": {
-          "1": 3.05,
-          "X": 4.4,
-          "2": 1.84
+          "1": 1.54,
+          "X": 4.65,
+          "2": 4.2
+        },
+        "Total Goals (Line)": {
+          "Over": 1.68,
+          "Under": 2.05
+        },
+        "DNB": {
+          "1 DNB": 1.25,
+          "2 DNB": 3.55
+        }
+      }
+    }
+  },
+  "Kazakhstan": {},
+  "Norway": {
+    "Eliteserien": {
+      "Stavanger Oilers - Ringerike IHK Hoenefoss": {
+        "1X2": {
+          "1": 1.03,
+          "X": 11.25,
+          "2": 24.0
+        },
+        "Total Goals (Line)": {
+          "Over": 2.28,
+          "Under": 1.56
+        },
+        "DNB": {
+          "2 DNB": 32.0
+        }
+      },
+      "Lillehammer IK - IHK Sparta Sarpsborg": {
+        "1X2": {
+          "1": 4.2,
+          "X": 4.8,
+          "2": 1.53
+        },
+        "Total Goals (Line)": {
+          "Over": 1.66,
+          "Under": 2.08
+        },
+        "DNB": {
+          "1 DNB": 3.55,
+          "2 DNB": 1.25
+        }
+      },
+      "Lorenskog IK - Comet": {
+        "1X2": {
+          "1": 1.34,
+          "X": 5.4,
+          "2": 5.8
+        },
+        "Total Goals (Line)": {
+          "Over": 2.23,
+          "Under": 1.58
+        },
+        "DNB": {
+          "1 DNB": 1.12,
+          "2 DNB": 5.2
+        }
+      },
+      "Stjernen Hockey Fredrikstad - Storhamar Hockey": {
+        "1X2": {
+          "1": 3.85,
+          "X": 4.6,
+          "2": 1.6
         },
         "Total Goals (Line)": {
           "Over": 1.75,
           "Under": 1.97
         },
         "DNB": {
-          "1 DNB": 2.48,
-          "2 DNB": 1.47
-        }
-      }
-    }
-  },
-  "Kazakhstan": {
-    "Vysshaya League ": {
-      "Gornyak Rudnyi - Yertis Pavlodar": {
-        "1X2": {
-          "1": 1.17,
-          "X": 7.4,
-          "2": 9.2
-        },
-        "Total Goals (Line)": {
-          "Over": 1.95,
-          "Under": 1.76
-        },
-        "DNB": {
-          "1 DNB": 1.03,
-          "2 DNB": 9.1
-        }
-      },
-      "HC Almaty - Saryarka Karaganda": {
-        "1X2": {
-          "1": 2.63,
-          "X": 4.05,
-          "2": 2.1
-        },
-        "Total Goals (Line)": {
-          "Over": 1.87,
-          "Under": 1.84
-        },
-        "DNB": {
-          "1 DNB": 2.1,
-          "2 DNB": 1.66
-        }
-      },
-      "HC Aktobe - HK Beibarys Atyrau": {
-        "1X2": {
-          "1": 1.64,
-          "X": 4.4,
-          "2": 3.8
-        },
-        "Total Goals (Line)": {
-          "Over": 1.74,
-          "Under": 1.98
-        },
-        "DNB": {
-          "1 DNB": 1.31,
-          "2 DNB": 3.15
-        }
-      }
-    }
-  },
-  "Norway": {
-    "Eliteserien": {
-      "Stavanger Oilers - Ringerike IHK Hoenefoss": {
-        "1X2": {
-          "1": 1.07,
-          "X": 9.4,
-          "2": 16.5
-        },
-        "DNB": {
-          "2 DNB": 19.0
-        }
-      },
-      "Lillehammer IK - IHK Sparta Sarpsborg": {
-        "1X2": {
-          "1": 4.35,
-          "X": 4.65,
-          "2": 1.53
-        },
-        "Total Goals (Line)": {
-          "Over": 1.64,
-          "Under": 2.13
-        },
-        "DNB": {
-          "1 DNB": 3.65,
-          "2 DNB": 1.24
-        }
-      },
-      "Lorenskog IK - Comet": {
-        "1X2": {
-          "1": 1.44,
-          "X": 5.2,
-          "2": 4.65
-        },
-        "Total Goals (Line)": {
-          "Over": 2.05,
-          "Under": 1.68
-        },
-        "DNB": {
-          "1 DNB": 1.2,
-          "2 DNB": 4.05
-        }
-      },
-      "Stjernen Hockey Fredrikstad - Storhamar Hockey": {
-        "1X2": {
-          "1": 3.95,
-          "X": 4.5,
-          "2": 1.6
-        },
-        "Total Goals (Line)": {
-          "Over": 1.71,
-          "Under": 2.02
-        },
-        "DNB": {
-          "1 DNB": 3.3,
-          "2 DNB": 1.29
+          "1 DNB": 3.25,
+          "2 DNB": 1.3
         }
       },
       "Frisk Asker - Vaalerenga IF Oslo": {
         "1X2": {
           "1": 3.15,
-          "X": 4.35,
-          "2": 1.8
+          "X": 4.45,
+          "2": 1.79
         },
         "Total Goals (Line)": {
-          "Over": 1.71,
-          "Under": 2.02
+          "Over": 1.64,
+          "Under": 2.12
         },
         "DNB": {
           "1 DNB": 2.58,
@@ -2773,239 +2433,203 @@
   },
   "Slovakia": {
     "Extraliga": {
-      "HK Poprad - HC 05 Banska Bystrica": {
+      "HC 19 Humenne - HC Kosice": {
         "1X2": {
-          "1": 1.55,
-          "X": 4.65,
-          "2": 4.2
+          "1": 4.05,
+          "X": 4.55,
+          "2": 1.58
         },
         "Total Goals (Line)": {
-          "Over": 1.85,
+          "Over": 1.66,
+          "Under": 2.08
+        },
+        "DNB": {
+          "1 DNB": 3.4,
+          "2 DNB": 1.27
+        }
+      },
+      "Spisska Nova Ves - Dukla Michalovce": {
+        "1X2": {
+          "1": 2.42,
+          "X": 4.05,
+          "2": 2.28
+        },
+        "Total Goals (Line)": {
+          "Over": 1.97,
+          "Under": 1.75
+        },
+        "DNB": {
+          "1 DNB": 1.91,
+          "2 DNB": 1.8
+        }
+      },
+      "HKM Zvolen - HK Poprad": {
+        "1X2": {
+          "1": 2.18,
+          "X": 4.35,
+          "2": 2.43
+        },
+        "Total Goals (Line)": {
+          "Over": 1.72,
+          "Under": 2.0
+        },
+        "DNB": {
+          "1 DNB": 1.75,
+          "2 DNB": 1.96
+        }
+      },
+      "Mhk 32 Liptovsky Mikulas - HC 05 Banska Bystrica": {
+        "1X2": {
+          "1": 2.13,
+          "X": 4.35,
+          "2": 2.5
+        },
+        "Total Goals (Line)": {
+          "Over": 1.84,
           "Under": 1.86
         },
         "DNB": {
-          "1 DNB": 1.25,
-          "2 DNB": 3.55
+          "1 DNB": 1.71,
+          "2 DNB": 2.02
         }
       },
-      "HKM Zvolen - Mhk 32 Liptovsky Mikulas": {
+      "Nove Zamky - HK Dukla Trencin": {
         "1X2": {
-          "1": 1.52,
-          "X": 4.75,
-          "2": 4.3
+          "1": 2.02,
+          "X": 4.15,
+          "2": 2.75
         },
         "Total Goals (Line)": {
-          "Over": 1.57,
-          "Under": 2.25
+          "Over": 1.82,
+          "Under": 1.89
         },
         "DNB": {
-          "1 DNB": 1.24,
-          "2 DNB": 3.65
+          "1 DNB": 1.6,
+          "2 DNB": 2.2
         }
       },
-      "Dukla Michalovce - HC 19 Humenne": {
+      "Slovan Bratislava - HK Nitra": {
         "1X2": {
-          "1": 1.28,
-          "X": 5.7,
-          "2": 6.8
+          "1": 2.2,
+          "X": 4.25,
+          "2": 2.43
         },
         "Total Goals (Line)": {
           "Over": 1.59,
           "Under": 2.22
         },
         "DNB": {
-          "1 DNB": 1.09,
-          "2 DNB": 6.3
+          "1 DNB": 1.76,
+          "2 DNB": 1.95
         }
-      },
-      "Spisska Nova Ves - HC Kosice": {
+      }
+    }
+  },
+  "Switzerland": {
+    "NLA": {
+      "EV Zug - SC Rapperswil-Jona Lakers": {
         "1X2": {
-          "1": 2.25,
-          "X": 4.15,
-          "2": 2.4
-        },
-        "Total Goals (Line)": {
-          "Over": 2.0,
-          "Under": 1.72
-        },
-        "DNB": {
-          "1 DNB": 1.79,
-          "2 DNB": 1.92
-        }
-      },
-      "HK Nitra - HK Dukla Trencin": {
-        "1X2": {
-          "1": 1.73,
-          "X": 4.45,
-          "2": 3.35
-        },
-        "Total Goals (Line)": {
-          "Over": 1.64,
-          "Under": 2.13
-        },
-        "DNB": {
-          "1 DNB": 1.39,
-          "2 DNB": 2.77
-        }
-      },
-      "Slovan Bratislava - Nove Zamky": {
-        "1X2": {
-          "1": 1.68,
+          "1": 1.51,
           "X": 4.55,
-          "2": 3.5
+          "2": 4.5
         },
         "Total Goals (Line)": {
-          "Over": 1.61,
-          "Under": 2.17
+          "Over": 2.1,
+          "Under": 1.65
         },
         "DNB": {
-          "1 DNB": 1.36,
-          "2 DNB": 2.9
+          "1 DNB": 1.22,
+          "2 DNB": 3.85
         }
       },
-      "HC 19 Humenne - HC Kosice": {
+      "HC Ajoie Porrentruy - Geneve-Servette HC": {
         "1X2": {
-          "1": 3.95,
-          "X": 4.7,
-          "2": 1.58
+          "1": 4.2,
+          "X": 4.6,
+          "2": 1.56
+        },
+        "Total Goals (Line)": {
+          "Over": 1.9,
+          "Under": 1.8
         },
         "DNB": {
-          "1 DNB": 3.3,
-          "2 DNB": 1.28
+          "1 DNB": 3.5,
+          "2 DNB": 1.26
         }
       },
-      "Spisska Nova Ves - Dukla Michalovce": {
+      "HC Ambri-Piotta - ZSC Lions Zurich": {
         "1X2": {
-          "1": 2.25,
-          "X": 4.15,
-          "2": 2.4
+          "1": 2.87,
+          "X": 4.05,
+          "2": 1.97
+        },
+        "Total Goals (Line)": {
+          "Over": 1.94,
+          "Under": 1.77
         },
         "DNB": {
-          "1 DNB": 1.79,
-          "2 DNB": 1.92
+          "1 DNB": 2.3,
+          "2 DNB": 1.55
         }
       },
-      "HKM Zvolen - HK Poprad": {
+      "HC Davos - HC Lugano": {
         "1X2": {
-          "1": 1.97,
-          "X": 4.25,
-          "2": 2.8
+          "1": 2.13,
+          "X": 4.05,
+          "2": 2.58
         },
-        "DNB": {
-          "1 DNB": 1.57,
-          "2 DNB": 2.25
-        }
-      },
-      "Mhk 32 Liptovsky Mikulas - HC 05 Banska Bystrica": {
-        "1X2": {
-          "1": 2.28,
-          "X": 4.2,
-          "2": 2.33
-        },
-        "DNB": {
-          "1 DNB": 1.83,
-          "2 DNB": 1.87
-        }
-      },
-      "Nove Zamky - HK Dukla Trencin": {
-        "1X2": {
-          "1": 2.1,
-          "X": 4.25,
-          "2": 2.55
+        "Total Goals (Line)": {
+          "Over": 1.9,
+          "Under": 1.8
         },
         "DNB": {
           "1 DNB": 1.68,
           "2 DNB": 2.05
         }
       },
-      "Slovan Bratislava - HK Nitra": {
-        "1X2": {
-          "1": 2.08,
-          "X": 4.25,
-          "2": 2.58
-        },
-        "DNB": {
-          "1 DNB": 1.67,
-          "2 DNB": 2.08
-        }
-      }
-    }
-  },
-  "Switzerland": {
-    "Swiss League": {
-      "EHC Winterthur - GCK Lions Kusnacht": {
-        "1X2": {
-          "1": 3.1,
-          "X": 4.2,
-          "2": 1.85
-        },
-        "Total Goals (Line)": {
-          "Over": 1.9,
-          "Under": 1.81
-        },
-        "DNB": {
-          "1 DNB": 2.5,
-          "2 DNB": 1.47
-        }
-      },
-      "EHC Basel - HC Sierre": {
+      "HC Fribourg-Gotteron - EHC Kloten": {
         "1X2": {
           "1": 1.46,
-          "X": 4.95,
-          "2": 4.7
-        },
-        "Total Goals (Line)": {
-          "Over": 1.76,
-          "Under": 1.95
-        },
-        "DNB": {
-          "1 DNB": 1.2,
-          "2 DNB": 4.05
-        }
-      },
-      "Hcv Martigny - HC La Chaux-de-Fonds": {
-        "1X2": {
-          "1": 3.5,
-          "X": 4.3,
-          "2": 1.71
+          "X": 4.65,
+          "2": 5.0
         },
         "Total Goals (Line)": {
           "Over": 2.05,
           "Under": 1.69
         },
         "DNB": {
-          "1 DNB": 2.87,
-          "2 DNB": 1.36
+          "1 DNB": 1.18,
+          "2 DNB": 4.3
         }
       },
-      "EHC Olten - HC Thurgau Weinfelden": {
+      "HC Lausanne - EHC Biel": {
         "1X2": {
-          "1": 1.46,
-          "X": 4.75,
-          "2": 4.9
+          "1": 1.88,
+          "X": 4.05,
+          "2": 3.1
         },
         "Total Goals (Line)": {
-          "Over": 2.13,
-          "Under": 1.63
+          "Over": 2.25,
+          "Under": 1.57
         },
         "DNB": {
-          "1 DNB": 1.19,
-          "2 DNB": 4.2
+          "1 DNB": 1.48,
+          "2 DNB": 2.48
         }
       },
-      "EHC Visp - HC Biasca Ticino Rockets": {
+      "SC Bern - SCL Tigers Langnau": {
         "1X2": {
-          "1": 1.22,
-          "X": 6.2,
-          "2": 8.5
+          "1": 1.55,
+          "X": 4.4,
+          "2": 4.4
         },
         "Total Goals (Line)": {
-          "Over": 1.89,
-          "Under": 1.82
+          "Over": 2.3,
+          "Under": 1.54
         },
         "DNB": {
-          "1 DNB": 1.05,
-          "2 DNB": 8.1
+          "1 DNB": 1.24,
+          "2 DNB": 3.65
         }
       }
     }

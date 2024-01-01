@@ -1,66 +1,24 @@
 {
   "International": {
     "PDC World Championship": {
-      "Scott Williams vs Martin Schindler": {
-        "time": "2023-12-27 12:45:00",
-        "Winner": {
-          "1": 2.5,
-          "2": 1.48780488
-        }
-      },
-      "Dave Chisnall vs Gabriel Clemens": {
-        "time": "2023-12-27 14:15:00",
-        "Winner": {
-          "1": 1.5882353,
-          "2": 2.25
-        }
-      },
-      "Rob Cross vs Jeffrey de Graaf": {
-        "time": "2023-12-27 15:45:00",
-        "Winner": {
-          "1": 1.14285715,
-          "2": 5.0
-        }
-      },
-      "Matt Campbell vs Luke Littler": {
-        "time": "2023-12-27 19:15:00",
-        "Winner": {
-          "1": 3.45,
-          "2": 1.27397261
-        }
-      },
-      "Michael Van Gerwen vs Richard Veenstra": {
-        "time": "2023-12-27 20:45:00",
-        "Winner": {
-          "1": 1.05882353,
-          "2": 7.25
-        }
-      },
-      "Michael Smith vs Madars Razma": {
-        "time": "2023-12-27 22:15:00",
-        "Winner": {
-          "1": 1.11111112,
-          "2": 5.75
-        }
-      },
       "Florian Hempel vs Stephen Bunting": {
         "time": "2023-12-28 12:45:00",
         "Winner": {
-          "1": 4.4,
-          "2": 1.17391305
+          "1": 8.0,
+          "2": 1.05263158
         }
       },
       "Joe Cullen vs Ryan Searle": {
         "time": "2023-12-28 14:15:00",
         "Winner": {
-          "1": 2.0,
-          "2": 1.76923077
+          "1": 2.1,
+          "2": 1.74074075
         }
       },
       "Ross Smith vs Chris Dobey": {
         "time": "2023-12-28 15:45:00",
         "Winner": {
-          "1": 1.86956522,
+          "1": 1.90909091,
           "2": 1.86956522
         }
       },
@@ -68,49 +26,49 @@
         "time": "2023-12-28 19:15:00",
         "Winner": {
           "1": 1.1,
-          "2": 6.0
+          "2": 6.5
         }
       },
       "Luke Humphries vs Ricardo Pietreczko": {
         "time": "2023-12-28 20:45:00",
         "Winner": {
-          "1": 1.16,
+          "1": 1.18181819,
           "2": 4.65
         }
       },
       "Ricky Evans vs Daryl Gurney": {
         "time": "2023-12-28 22:15:00",
         "Winner": {
-          "1": 2.45,
-          "2": 1.51282052
+          "1": 2.6,
+          "2": 1.47619048
         }
       },
       "Damon Heta vs Berry van Peer": {
         "time": "2023-12-29 12:45:00",
         "Winner": {
-          "1": 1.25,
-          "2": 3.6
+          "1": 1.27397261,
+          "2": 3.45
         }
       },
       "Jonny Clayton vs Krzysztof Ratajski": {
         "time": "2023-12-29 14:15:00",
         "Winner": {
-          "1": 1.83333334,
-          "2": 1.90909091
+          "1": 1.76923077,
+          "2": 2.0
         }
       },
       "Jim Williams vs Raymond van Barneveld": {
         "time": "2023-12-29 15:45:00",
         "Winner": {
           "1": 1.90909091,
-          "2": 1.86956522
+          "2": 1.83333334
         }
       },
       "Boris Krcmar vs Gary Anderson": {
         "time": "2023-12-29 19:15:00",
         "Winner": {
-          "1": 4.25,
-          "2": 1.19047619
+          "1": 4.85,
+          "2": 1.15384616
         }
       }
     }

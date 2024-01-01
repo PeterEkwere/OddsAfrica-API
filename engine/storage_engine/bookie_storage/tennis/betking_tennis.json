@@ -1,290 +1,133 @@
 {
   "ITF Men": {
-    "M15 Monastir": {
-      "Garcian, Axel - Cozbinov, Alexander": {
+    "M15 Monastir, Doubles": {
+      "Kikuchi Y / Sakellaridis M - Kukasian A / Simakin I": {
+        "1-2": {
+          "1": 2.3,
+          "2": 1.55
+        }
+      },
+      "Orlov V / Sakellaridis D - Kudriashov I / Lobanov A": {
+        "1-2": {
+          "1": 1.39,
+          "2": 2.77
+        }
+      },
+      "Fantini L / Ferrari F - Matsuda R / Taguchi R": {
         "1-2": {
           "1": 4.55,
           "2": 1.16
         }
-      },
-      "Mu, Tao - Taguchi, Ryotaro": {
-        "1-2": {
-          "1": 1.38,
-          "2": 2.82
-        }
-      },
-      "Simakin, Ilia - Duhan, Chirag": {
-        "1-2": {
-          "1": 1.07,
-          "2": 7.0
-        }
-      },
-      "Bittoun Kouzmine, Constantin - Sakellaridis, Michalis": {
-        "1-2": {
-          "1": 1.03,
-          "2": 9.1
-        }
-      },
-      "Gregg, Perry - Makhlouf, Mohamed Nazim": {
-        "1-2": {
-          "1": 1.26,
-          "2": 3.5
-        }
-      },
-      "Jansen, William - Ferrari, Francesco": {
-        "1-2": {
-          "1": 1.29,
-          "2": 3.3
-        }
-      },
-      "Kikuchi, Yuta - Kudriashov, Igor": {
-        "1-2": {
-          "1": 1.54,
-          "2": 2.33
-        }
-      },
-      "Kumar, Omni - Schlossmann, Frederic": {
-        "1-2": {
-          "1": 1.04,
-          "2": 8.5
-        }
-      },
-      "Lobanov, Aleksandr - Scaglia, Mathieu": {
-        "1-2": {
-          "1": 1.67,
-          "2": 2.07
-        }
-      },
-      "Nav, Brar Navraj Singh - Orlov, Vladyslav": {
-        "1-2": {
-          "1": 16.5
-        }
-      },
-      "Sadaoui, Mehdi - Bidan, Fadi": {
-        "1-2": {
-          "1": 1.65,
-          "2": 2.1
-        }
-      },
-      "Sakellaridis, Dimitris - Fantini, Luca": {
-        "1-2": {
-          "1": 5.6,
-          "2": 1.11
-        }
-      },
-      "Smiej, Yassine - Kukasian, Artur": {
-        "1-2": {
-          "1": 4.25,
-          "2": 1.18
-        }
-      },
-      "Tarvet, Oliver - Elamin, Ammar": {
-        "1-2": {
-          "1": 1.04,
-          "2": 8.5
-        }
-      },
-      "Zhu, Michael - Bax, Florent": {
-        "1-2": {
-          "1": 2.58,
-          "2": 1.44
-        }
-      }
-    },
-    "M15 Monastir, Doubles": {
-      "Fantini L / Ferrari F - Hongyu Y / Oueslati M A": {
-        "1-2": {
-          "1": 1.01,
-          "2": 10.5
-        }
-      },
-      "Jansen W / Tarvet O - Kudriashov I / Lobanov A": {
-        "1-2": {
-          "1": 3.15,
-          "2": 1.31
-        }
-      },
-      "Orlov V / Sakellaridis D - Chien C / Smiej Y": {
-        "1-2": {
-          "2": 12.5
-        }
-      },
-      "Keck J / Singh A J - Duhan C / Tepmahc N": {
-        "1-2": {
-          "1": 6.2,
-          "2": 1.09
-        }
-      },
-      "Cao Y / Zhu M - Matsuda R / Taguchi R": {
-        "1-2": {
-          "1": 5.4,
-          "2": 1.12
-        }
-      },
-      "Kukasian A / Simakin I - Shvets V / Mishkin K": {
-        "1-2": {
-          "1": 1.92,
-          "2": 1.79
-        }
       }
     },
     "Yanagawa": {
-      "Haliak, Mikalai - Matsumura, Ryotero": {
-        "1-2": {
-          "1": 1.23,
-          "2": 3.75
-        }
-      },
-      "Kumasaka, Takuya - Kawachi, Kazuma": {
-        "1-2": {
-          "1": 1.25,
-          "2": 3.55
-        }
-      },
-      "Saitoh, Keisuke - Adachi, Taki": {
-        "1-2": {
-          "1": 1.03,
-          "2": 9.5
-        }
-      },
-      "Sau Franco, Alan Raul - Sueoka, Yamato": {
-        "1-2": {
-          "1": 2.75,
-          "2": 1.39
-        }
-      },
-      "Watanabe, Seita - Lee, Duckhee": {
-        "1-2": {
-          "1": 2.2,
-          "2": 1.59
-        }
-      },
-      "Matsuda, Koki - Fukuda, Sora": {
-        "1-2": {
-          "1": 3.05,
-          "2": 1.33
-        }
-      },
-      "Miyoshi, Kenta - Suzuki, Ko": {
-        "1-2": {
-          "1": 1.57,
-          "2": 2.27
-        }
-      },
-      "Ogura, Kosuke - Hara Friend, Jay Dylan": {
+      "Hara Friend, Jay Dylan - Ichikawa, Taisei": {
         "1-2": {
           "1": 2.63,
           "2": 1.43
+        },
+        "Set Betting": {
+          "2:0": 4.4,
+          "2:1": 5.5,
+          "0:2": 2.05,
+          "1:2": 3.8
+        },
+        "Total Games": {
+          "Over": 1.84,
+          "Under": 1.87
         }
       },
-      "Shiraishi, Hikaru - Katayama, Sho": {
+      "Matsuoka, Hayato - Shin, Sanhui": {
         "1-2": {
-          "1": 1.06,
-          "2": 7.4
+          "1": 3.3,
+          "2": 1.29
+        },
+        "Set Betting": {
+          "2:0": 5.6,
+          "2:1": 6.6,
+          "0:2": 1.76,
+          "1:2": 3.8
+        },
+        "Total Games": {
+          "Over": 1.78,
+          "Under": 1.93
         }
       },
-      "Liu, Hanyi - Maeda, Toa": {
-        "1-2": {
-          "1": 1.02,
-          "2": 9.7
-        }
-      },
-      "Shin, Woobin - Ichikawa, Taisei": {
+      "Saitoh, Keisuke - Lee, Duckhee": {
         "1-2": {
           "1": 2.97,
           "2": 1.34
+        },
+        "Set Betting": {
+          "2:0": 5.1,
+          "2:1": 6.1,
+          "0:2": 1.87,
+          "1:2": 3.8
+        },
+        "Total Games": {
+          "Over": 1.94,
+          "Under": 1.77
         }
       },
-      "Yamanaka, Taiyo - Nakagawa, Shunsuke": {
+      "Yamasaki, Jumpei - Kumasaka, Takuya": {
         "1-2": {
-          "1": 1.39,
-          "2": 2.75
+          "1": 2.03,
+          "2": 1.7
+        },
+        "Set Betting": {
+          "2:0": 3.25,
+          "2:1": 4.5,
+          "0:2": 2.6,
+          "1:2": 4.05
+        },
+        "Total Games": {
+          "Over": 1.78,
+          "Under": 1.93
         }
       }
     },
     "Yanagawa, Doubles": {
-      "Horiuchi R / Takamisawa T - Kawachi K / Sueoka Y": {
+      "Kawachi K / Sueoka Y - Kusuhara Y / Shiraishi H": {
         "1-2": {
-          "1": 5.1,
-          "2": 1.13
+          "1": 1.72,
+          "2": 2.0
         }
       },
-      "Ichikawa T / Kono Y - Fukuda S / Yoshimura D": {
+      "Ichikawa T / Kono Y - Katayama S / Nakagawa S": {
         "1-2": {
-          "1": 1.37,
-          "2": 2.85
+          "1": 1.7,
+          "2": 2.03
         }
       }
     }
   },
   "ITF Women": {
     "Monastir": {
-      "Bougouffa , Hanna - Plaza Araujo, Luana": {
+      "Dal, Selina - Suvirdjonkova, Darja": {
         "1-2": {
-          "1": 1.5,
-          "2": 2.42
+          "1": 1.05,
+          "2": 7.8
         }
       },
-      "Marcon, Margherita - Atay, Selina": {
+      "Zeng, Zixuan - Wang, Jiaqi": {
         "1-2": {
-          "1": 1.6,
-          "2": 2.18
+          "1": 4.75,
+          "2": 1.15
         }
       },
-      "Odorizzi, Caterina - Wang, Jiaqi": {
+      "Bougouffa , Hanna - Bojica, Stefania": {
         "1-2": {
-          "1": 9.1,
-          "2": 1.03
+          "1": 3.8,
+          "2": 1.23
         }
       },
-      "Okuwaki, Rinon - Suvirdjonkova, Darja": {
+      "Lazarenko, Kateryna - Kashyap, Tanisha": {
         "1-2": {
-          "1": 1.46,
-          "2": 2.53
-        }
-      },
-      "Reguer, Alyssa - Kashyap, Tanisha": {
-        "1-2": {
-          "1": 2.35,
-          "2": 1.53
-        }
-      },
-      "Safi, Meshkatolzahra - Bojica, Stefania": {
-        "1-2": {
-          "1": 6.2,
-          "2": 1.09
-        }
-      },
-      "Zeng, Zixuan - Stevic, Helena": {
-        "1-2": {
-          "1": 2.13,
-          "2": 1.63
-        }
-      },
-      "Zhabrailova , Milana - Rowinska, Malwina": {
-        "1-2": {
-          "1": 1.08,
-          "2": 6.6
+          "1": 1.2,
+          "2": 4.1
         }
       }
     }
   },
-  "Exhibition": {
-    "Exhibition Games": {
-      "Djokovic, Novak - Alcaraz, Carlos": {
-        "1-2": {
-          "1": 1.51,
-          "2": 2.53
-        }
-      }
-    },
-    "Exhibition Games, Women": {
-      "Sabalenka, Aryna - Jabeur, Ons": {
-        "1-2": {
-          "1": 1.46,
-          "2": 2.65
-        }
-      }
-    }
-  }
+  "Exhibition": {}
 }

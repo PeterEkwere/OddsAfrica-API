@@ -1,16 +1,40 @@
 {
   "International": {
     "PDC World Championship": {
+      "Smith, Ross vs Dobey, Chris": {
+        "Winner": {
+          "1": 1.9,
+          "2": 1.87
+        }
+      },
+      "Price, Gerwyn vs Dolan, Brendan": {
+        "Winner": {
+          "1": 1.13,
+          "2": 5.8
+        }
+      },
       "Humphries, Luke vs Pietreczko, Ricardo": {
         "Winner": {
           "1": 1.16,
-          "2": 4.7
+          "2": 5.1
         }
       },
-      "van Gerwen, Michael vs Veenstra, Richard": {
+      "Evans, Ricky vs Gurney, Daryl": {
         "Winner": {
-          "1": 1.11,
-          "2": 5.7
+          "1": 2.55,
+          "2": 1.5
+        }
+      },
+      "Heta, Damon vs van Peer, Berry": {
+        "Winner": {
+          "1": 1.31,
+          "2": 3.3
+        }
+      },
+      "Clayton, Jonny vs Ratajski, Krzysztof": {
+        "Winner": {
+          "1": 1.76,
+          "2": 1.95
         }
       },
       "Williams, Jim vs van Barneveld, Raymond": {
@@ -19,82 +43,16 @@
           "2": 1.86
         }
       },
-      "Williams, Scott vs Schindler, Martin": {
-        "Winner": {
-          "1": 2.5,
-          "2": 1.52
-        }
-      },
-      "Chisnall, Dave vs Clemens, Gabriel": {
-        "Winner": {
-          "1": 1.55,
-          "2": 2.3
-        }
-      },
-      "Cross, Rob vs de Graaf, Jeffrey": {
-        "Winner": {
-          "1": 1.15,
-          "2": 4.7
-        }
-      },
-      "Smith, Ross vs Dobey, Chris": {
-        "Winner": {
-          "1": 1.86,
-          "2": 1.84
-        }
-      },
-      "Campbell, Matt vs Littler, Luke": {
-        "Winner": {
-          "1": 3.25,
-          "2": 1.29
-        }
-      },
-      "Smith, Michael vs Razma, Madars": {
-        "Winner": {
-          "1": 1.11,
-          "2": 5.6
-        }
-      },
-      "Hempel, Florian vs Bunting, Stephen": {
-        "Winner": {
-          "1": 4.0,
-          "2": 1.2
-        }
-      },
-      "Cullen, Joe vs Searle, Ryan": {
-        "Winner": {
-          "1": 2.0,
-          "2": 1.72
-        }
-      },
-      "Price, Gerwyn vs Dolan, Brendan": {
-        "Winner": {
-          "1": 1.12,
-          "2": 5.5
-        }
-      },
-      "Evans, Ricky vs Gurney, Daryl": {
-        "Winner": {
-          "1": 2.35,
-          "2": 1.54
-        }
-      },
-      "Heta, Damon vs van Peer, Berry": {
-        "Winner": {
-          "1": 1.32,
-          "2": 3.1
-        }
-      },
-      "Clayton, Jonny vs Ratajski, Krzysztof": {
-        "Winner": {
-          "1": 1.74,
-          "2": 1.97
-        }
-      },
       "Krcmar, Boris vs Anderson, Gary": {
         "Winner": {
-          "1": 4.25,
-          "2": 1.19
+          "1": 4.6,
+          "2": 1.16
+        }
+      },
+      "van Gerwen, Michael vs Bunting, Stephen": {
+        "Winner": {
+          "1": 1.53,
+          "2": 2.35
         }
       }
     }

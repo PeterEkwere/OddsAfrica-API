@@ -4,115 +4,66 @@
     {},
     {
       "PDC World Championship": {
-        "Scott Williams - Martin Schindler": {
-          "Winner": {
-            "Scott Williams": 2.41,
-            "Martin Schindler": 1.48
-          },
-          "time": ""
-        },
-        "Dave Chisnall - Gabriel Clemens": {
-          "Winner": {
-            "Dave Chisnall": 1.54,
-            "Gabriel Clemens": 2.27
-          },
-          "time": ""
-        },
-        "Rob Cross - De Graaf, Jeffrey": {
-          "Winner": {
-            "Rob Cross": 1.15,
-            "De Graaf, Jeffrey": 4.55
-          },
-          "time": ""
-        },
-        "Matt Campbell - Luke Littler": {
-          "Winner": {
-            "Matt Campbell": 3.21,
-            "Luke Littler": 1.29
-          },
-          "time": ""
-        },
-        "Michael van Gerwen - Richard Veenstra": {
-          "Winner": {
-            "Michael van Gerwen": 1.1,
-            "Richard Veenstra": 5.5
-          },
-          "time": ""
-        },
-        "Michael Smith - Madars Razam": {
-          "Winner": {
-            "Michael Smith": 1.11,
-            "Madars Razam": 5.37
-          },
-          "time": ""
-        },
-        "Florian Hempel - Stephen Bunting": {
-          "Winner": {
-            "Florian Hempel": 3.91,
-            "Stephen Bunting": 1.2
-          },
-          "time": ""
-        },
         "Joe Cullen - Ryan Searle": {
           "Winner": {
-            "Joe Cullen": 1.99,
-            "Ryan Searle": 1.7
+            "1": 2.04,
+            "2": 1.67
           },
           "time": ""
         },
         "Ross Smith - Chris Dobey": {
           "Winner": {
-            "Ross Smith": 1.85,
-            "Chris Dobey": 1.82
+            "1": 1.85,
+            "2": 1.82
           },
           "time": ""
         },
         "Gerwyn Price - Brendan Dolan": {
           "Winner": {
-            "Gerwyn Price": 1.11,
-            "Brendan Dolan": 5.28
+            "1": 1.11,
+            "2": 5.28
           },
           "time": ""
         },
         "Luke Humphries - Ricardo Pietreczko": {
           "Winner": {
-            "Luke Humphries": 1.15,
-            "Ricardo Pietreczko": 4.53
+            "1": 1.14,
+            "2": 4.71
           },
           "time": ""
         },
         "Ricky Evans - Daryl Gurney": {
           "Winner": {
-            "Ricky Evans": 2.3,
-            "Daryl Gurney": 1.53
+            "1": 2.43,
+            "2": 1.47
           },
           "time": ""
         },
         "Damon Heta - Berry Van Peer": {
           "Winner": {
-            "Damon Heta": 1.31,
-            "Berry Van Peer": 3.07
+            "1": 1.29,
+            "2": 3.17
           },
           "time": ""
         },
         "Jonny Clayton - Krzysztof Ratajski": {
           "Winner": {
-            "Jonny Clayton": 1.73,
-            "Krzysztof Ratajski": 1.95
+            "1": 1.74,
+            "2": 1.94
           },
           "time": ""
         },
         "Jim Williams - Raymond van Barneveld": {
           "Winner": {
-            "Jim Williams": 1.83,
-            "Raymond van Barneveld": 1.84
+            "1": 1.83,
+            "2": 1.84
           },
           "time": ""
         },
         "Boris Krcmar - Gary Anderson": {
           "Winner": {
-            "Boris Krcmar": 4.12,
-            "Gary Anderson": 1.18
+            "1": 4.48,
+            "2": 1.15
           },
           "time": ""
         }

@@ -11,7 +11,7 @@ from datetime import datetime
 sys.path.append("..") 
 
 def split_team_names(team_names):
-            the_list = [name.strip() for name in team_names.split('vs')]
+            the_list = [name.strip() for name in team_names.split('-')]
             if len(the_list) == 2:
                 return the_list
             elif len(the_list) > 2:

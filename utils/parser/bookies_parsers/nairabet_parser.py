@@ -54,13 +54,15 @@ def extract_nairabet(json_data):
                             outcome_name = outcome.get("name")
                             odds = outcome.get("value")
 
-                            outcome_name = outcome_name.replace(f"{home_team} or draw", "1X") \
+                            outcome_name = outcome_name.replace(f"{home_team} or Draw", "1X") \
                                         .replace(f"{home_team} or {away_team}", "12") \
-                                        .replace(f"draw or {away_team}", "X2")\
+                                        .replace(f"Draw or {away_team}", "X2")\
                                         .replace(f"{home_team}", "1")\
                                         .replace(f"{away_team}", "2")\
-                                        .replace(f"draw", "X")\
-                                        .replace("Draw 0-0", "0-0")
+                                        .replace(f"Draw", "X")\
+                                        .replace("Draw 0-0", "0-0")\
+                                        .replace("1 or Draw", "1X")\
+                                        .replace("2 or Draw", "X2")
                             
                             if "time" not in result_dict[league][game_name]:
                                 result_dict[league][game_name]["time"] = start_time

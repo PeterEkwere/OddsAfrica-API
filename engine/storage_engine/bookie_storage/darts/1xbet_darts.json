@@ -1,102 +1,14 @@
 {
   "international": {
     "World Championship": {
-      "PDC World Championship. 2024. Day 10. Afternoon Session. Special bets VS ": {
-        "time": "2023-12-27 12:45:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.25
-        }
-      },
-      "Scott Williams VS Martin Schindler": {
-        "time": "2023-12-27 12:45:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.8
-        },
-        "1X2": {
-          "1": 2.465,
-          "2": 1.55
-        }
-      },
-      "Dave Chisnall VS Gabriel Clemens": {
-        "time": "2023-12-27 14:15:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.74
-        },
-        "1X2": {
-          "1": 1.63,
-          "2": 2.293
-        }
-      },
-      "Robert Cross VS Jeffrey de Graaf": {
-        "time": "2023-12-27 15:45:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 2
-        },
-        "1X2": {
-          "1": 1.187,
-          "2": 4.795
-        }
-      },
-      "Matt Campbell VS Luke Littler": {
-        "time": "2023-12-27 19:15:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.909
-        },
-        "1X2": {
-          "1": 3.565,
-          "2": 1.3
-        }
-      },
-      "PDC World Championship. 2024. Day 10. Evening Session. Special bets VS ": {
-        "time": "2023-12-27 19:15:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.3
-        }
-      },
-      "Michael van Gerwen VS Richard Veenstra": {
-        "time": "2023-12-27 20:45:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 2.11
-        },
-        "1X2": {
-          "1": 1.105,
-          "2": 6.9
-        }
-      },
-      "Michael Smith VS Madars Razma": {
-        "time": "2023-12-27 22:15:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 2.04
-        },
-        "1X2": {
-          "1": 1.123,
-          "2": 6.25
-        }
-      },
-      "Florian Hempel VS Stephen Bunting": {
-        "time": "2023-12-28 12:45:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.89
-        },
-        "1X2": {
-          "1": 4.145,
-          "2": 1.24
-        }
-      },
-      "PDC World Championship. 2024. Day 11. Afternoon Session. Special bets VS ": {
-        "time": "2023-12-28 12:45:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.286
-        }
-      },
       "Joe Cullen VS Ryan Searle": {
         "time": "2023-12-28 14:15:00",
         "Dont Know market name": {
           "Don't Know The Outcome": 1.76
         },
         "1X2": {
-          "1": 2.06,
-          "2": 1.76
+          "1": 2.11,
+          "2": 1.727
         }
       },
       "Ross Smith VS Chris Dobey": {
@@ -105,18 +17,18 @@
           "Don't Know The Outcome": 1.77
         },
         "1X2": {
-          "1": 1.92,
-          "2": 1.88
+          "1": 1.9,
+          "2": 1.9
         }
       },
       "Gerwyn Price VS Brendan Dolan": {
         "time": "2023-12-28 19:15:00",
         "Dont Know market name": {
-          "Don't Know The Outcome": 2.75
+          "Don't Know The Outcome": 2.11
         },
         "1X2": {
-          "1": 1.124,
-          "2": 6.2
+          "1": 1.107,
+          "2": 6.85
         }
       },
       "PDC World Championship. 2024. Day 11. Evening Session. Special bets VS ": {
@@ -128,21 +40,21 @@
       "Luke Humphries VS Ricardo Pietreczko": {
         "time": "2023-12-28 20:45:00",
         "Dont Know market name": {
-          "Don't Know The Outcome": 2
+          "Don't Know The Outcome": 2.01
         },
         "1X2": {
-          "1": 1.185,
-          "2": 4.86
+          "1": 1.17,
+          "2": 5.15
         }
       },
       "Ricky Evans VS Daryl Gurney": {
         "time": "2023-12-28 22:15:00",
         "Dont Know market name": {
-          "Don't Know The Outcome": 1.77
+          "Don't Know The Outcome": 1.78
         },
         "1X2": {
-          "1": 2.351,
-          "2": 1.6
+          "1": 2.521,
+          "2": 1.53
         }
       },
       "Damon Heta VS Berry van Peer": {
@@ -179,6 +91,16 @@
         "1X2": {
           "1": 1.89,
           "2": 1.909
+        }
+      },
+      "Boris Krcmar VS Gary Anderson": {
+        "time": "2023-12-29 19:15:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 1.85
+        },
+        "1X2": {
+          "1": 4.945,
+          "2": 1.18
         }
       }
     }

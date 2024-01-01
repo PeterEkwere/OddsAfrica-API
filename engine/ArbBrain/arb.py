@@ -3,13 +3,9 @@
     This module contains functions for arbitrage calculations
     Author: PeterEkwere
 """
-from probs import decimal_implied_win_prob
-from odds import decimal_odds
-import sys
-sys.path.append('..')
-from utils.logger.log import log_error, log_exception, log_success
-
-
+from engine.ArbBrain.probs import decimal_implied_win_prob
+from engine.ArbBrain.odds import decimal_odds
+from utils.logger.log import log_error, log_success, log_exception
 """
 def arb_percentage(odds):
     :param odds: List of Floats. Pair of odds for a single matchup - Player 1 and Player 2.
@@ -63,7 +59,7 @@ def Find_arbitrage(n, odds):
         elif len(odds) == 3:
             k1 = decimal_odds(odds[0])
             k2 = decimal_odds(odds[1])
-            k3 = decimal_odds(odds[3])
+            k3 = decimal_odds(odds[2])
         else:
             log_error(f"Amount of Odds Passed To Arb Function is >= 4")
             return None
@@ -120,6 +116,3 @@ def Find_arbitrage(n, odds):
         message = f"Error calculating arb: {e}\n"
         log_exception(message)
         return None
-
-
-print(f"Percentage found is {Find_arbitrage('15', [1.384, 2.512, 16])}")

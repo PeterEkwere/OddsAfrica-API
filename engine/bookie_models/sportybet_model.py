@@ -31,11 +31,15 @@ class SportyBet:
         'Accept': '*/*',
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36',
         'X-Requested-With': 'XMLHttpRequest',
-        'Sec-GPC': '1',
+        'Clientid':'wap',
+        'Dnt':'1',
+        'Operid': '2',
+        'Origin': 'https://www.sportybet.com',
+        'Platform':'wap',
         'Sec-Fetch-Site': 'same-origin',
-        'Sec-Fetch-Mode': 'cors',
+        'Sec-Fetch-Mode': 'same-origin',
         'Sec-Fetch-Dest': 'empty',
-        'Referer': 'https://www.sportybet.com/ng/sport/',
+        'Referer': 'https://www.sportybet.com/ng/m/sport/',
         'Accept-Language': 'en-EN,fr;q=0.9,en-US;q=0.8,en;q=0.7',
         'Cookie': 'lng=en; flaglng=en; is_rtl=1; fast_coupon=true; v3tr=1; typeBetNames=full; auid=BbblOWFXM1ESU8VHB/1dAg==; sh.session_be98639c=04c362af-da44-4e0e-a384-ca2529fa5712; SESSION=4d9c3757128519eb87309f34d670d560; visit=1-378d9869df866ea72e6818eb52cb9af1; coefview=0; blocks=1%2C1%2C1%2C1%2C1%2C1%2C1%2C1; completed_user_settings=true; ggru=160; right_side=right; pushfree_status=canceled; _glhf=1633191759'
         }
@@ -83,8 +87,8 @@ class SportyBet:
         """
         session =  requests.Session()
         payload = {"tournamentId":[[f"{league_id}"]],"productId":3,"sportId":f"{sport_id}","order":2}
-        url = "https://www.sportybet.com/api/ng/factsCenter/wapConfigurableEventsByOrder"
-        res = session.post(url, headers=headers, json=payload)
+        new_url = "https://www.sportybet.com/api/ng/factsCenter/wapConfigurableEventsByOrder"
+        res = session.post(new_url, headers=headers, json=payload)
         data = res.json()
         return data
         

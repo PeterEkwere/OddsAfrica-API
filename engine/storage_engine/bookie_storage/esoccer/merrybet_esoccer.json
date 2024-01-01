@@ -2,259 +2,235 @@
   "GT-SPORTS": [
     {
       "GT Matches": {
-        "KRC Genk (Punisher) - Aston Villa (pontiac)": {
+        "Club Brugge (Pontiac) - Eintracht Frankfurt (Magdy)": {
           "1x2": {
-            "KRC Genk (Punisher)": 2.03,
-            "X": 5.33,
-            "Aston Villa (pontiac)": 2.13
+            "1": 2.22,
+            "X": 4.78,
+            "2": 2.04
           },
           "time": ""
         },
-        "RC Lens (Cruise) - Psv Eindhoven (jack)": {
+        "Rb Leipzig (cantona) - Borussia Dortmund (Val)": {
           "1x2": {
-            "RC Lens (Cruise)": 3.1,
-            "X": 4.52,
-            "Psv Eindhoven (jack)": 1.65
+            "1": 2.72,
+            "X": 4.62,
+            "2": 1.77
           },
           "time": ""
         },
-        "AZ Alkmaar (Panic) - Lille OSC (Boris)": {
+        "Paok (panic) - Fenerbahce Istanbul (Danny)": {
           "1x2": {
-            "AZ Alkmaar (Panic)": 1.85,
-            "X": 4.65,
-            "Lille OSC (Boris)": 2.54
+            "1": 1.62,
+            "X": 5.21,
+            "2": 2.94
           },
           "time": ""
         },
-        "Arsenal FC (Aladdin) - Sevilla Fc (furious)": {
+        "VfB Stuttgart (Gorilla) - Bayer 04 Leverkusen (Nazario)": {
           "1x2": {
-            "Arsenal FC (Aladdin)": 1.8,
-            "X": 4.54,
-            "Sevilla Fc (furious)": 2.67
+            "1": 2.17,
+            "X": 4.56,
+            "2": 2.13
           },
           "time": ""
         },
-        "Arsenal FC (Aladdin) - RC Lens (Cruise)": {
+        "VfB Stuttgart (Gorilla) - Rb Leipzig (cantona)": {
           "1x2": {
-            "Arsenal FC (Aladdin)": 1.59,
-            "X": 4.67,
-            "RC Lens (Cruise)": 3.27
+            "1": 2.89,
+            "X": 4.13,
+            "2": 1.78
           },
           "time": ""
         },
-        "Lille OSC (Boris) - Aston Villa (pontiac)": {
+        "Paok (panic) - Eintracht Frankfurt (Magdy)": {
           "1x2": {
-            "Lille OSC (Boris)": 2.54,
-            "X": 5.09,
-            "Aston Villa (pontiac)": 1.79
+            "1": 1.87,
+            "X": 5.0,
+            "2": 2.41
           },
           "time": ""
         },
-        "SS Lazio (Seagal) - Psv Eindhoven (jack)": {
+        "ACF Fiorentina (Punisher) - Club Brugge (Pontiac)": {
           "1x2": {
-            "SS Lazio (Seagal)": 2.59,
-            "X": 4.73,
-            "Psv Eindhoven (jack)": 1.81
+            "1": 1.91,
+            "X": 5.25,
+            "2": 2.3
           },
           "time": ""
         },
-        "KRC Genk (Punisher) - Besiktas Istanbul (Aibothard)": {
+        "FC Bayern Munich (Nio) - Borussia Dortmund (Val)": {
           "1x2": {
-            "KRC Genk (Punisher)": 2.55,
-            "X": 4.34,
-            "Besiktas Istanbul (Aibothard)": 1.9
+            "1": 2.83,
+            "X": 4.24,
+            "2": 1.78
           },
           "time": ""
         },
-        "AZ Alkmaar (Panic) - Besiktas Istanbul (Aibothard)": {
+        "Fenerbahce Istanbul (Danny) - Club Brugge (Pontiac)": {
           "1x2": {
-            "AZ Alkmaar (Panic)": 2.1,
-            "X": 4.41,
-            "Besiktas Istanbul (Aibothard)": 2.24
+            "1": 2.94,
+            "X": 5.7,
+            "2": 1.58
           },
           "time": ""
         },
-        "Lille OSC (Boris) - KRC Genk (Punisher)": {
+        "Bayer 04 Leverkusen (Nazario) - FC Bayern Munich (Nio)": {
           "1x2": {
-            "Lille OSC (Boris)": 2.41,
-            "X": 4.52,
-            "KRC Genk (Punisher)": 1.95
-          },
-          "time": ""
-        },
-        "Sevilla Fc (furious) - SS Lazio (Seagal)": {
-          "1x2": {
-            "Sevilla Fc (furious)": 2.39,
-            "X": 3.85,
-            "SS Lazio (Seagal)": 2.12
-          },
-          "time": ""
-        },
-        "Arsenal FC (Aladdin) - Psv Eindhoven (jack)": {
-          "1x2": {
-            "Arsenal FC (Aladdin)": 1.86,
-            "X": 4.5,
-            "Psv Eindhoven (jack)": 2.56
-          },
-          "time": ""
-        },
-        "RC Lens (Cruise) - SS Lazio (Seagal)": {
-          "1x2": {
-            "RC Lens (Cruise)": 2.71,
-            "X": 3.66,
-            "SS Lazio (Seagal)": 1.97
-          },
-          "time": ""
-        },
-        "Aston Villa (pontiac) - AZ Alkmaar (Panic)": {
-          "1x2": {
-            "Aston Villa (pontiac)": 2.37,
-            "X": 5.35,
-            "AZ Alkmaar (Panic)": 1.85
-          },
-          "time": ""
-        },
-        "Lille OSC (Boris) - Besiktas Istanbul (Aibothard)": {
-          "1x2": {
-            "Lille OSC (Boris)": 2.45,
-            "X": 4.28,
-            "Besiktas Istanbul (Aibothard)": 1.97
-          },
-          "time": ""
-        },
-        "Sevilla Fc (furious) - Psv Eindhoven (jack)": {
-          "1x2": {
-            "Sevilla Fc (furious)": 2.52,
+            "1": 3.36,
             "X": 4.05,
-            "Psv Eindhoven (jack)": 1.97
+            "2": 1.65
           },
           "time": ""
         },
-        "Real Madrid (aladdin) - Athletic Bilbao (Seagal)": {
+        "VfB Stuttgart (Gorilla) - Borussia Dortmund (Val)": {
           "1x2": {
-            "Real Madrid (aladdin)": 2.1,
+            "1": 2.95,
+            "X": 4.64,
+            "2": 1.68
+          },
+          "time": ""
+        },
+        "ACF Fiorentina (Punisher) - Eintracht Frankfurt (Magdy)": {
+          "1x2": {
+            "1": 2.34,
+            "X": 4.32,
+            "2": 2.04
+          },
+          "time": ""
+        },
+        "Rb Leipzig (cantona) - FC Bayern Munich (Nio)": {
+          "1x2": {
+            "1": 2.33,
+            "X": 3.99,
+            "2": 2.13
+          },
+          "time": ""
+        },
+        "Fc Bayern Munich (punisher) - Galatasaray (Danny)": {
+          "1x2": {
+            "1": 2.03,
+            "X": 4.66,
+            "2": 2.27
+          },
+          "time": ""
+        },
+        "Manchester United FC (Panic) - Atletico Madrid (Pontiac)": {
+          "1x2": {
+            "1": 1.83,
+            "X": 5.31,
+            "2": 2.4
+          },
+          "time": ""
+        },
+        "Fc Bayern Munich (punisher) - Manchester United FC (Panic)": {
+          "1x2": {
+            "1": 2.43,
+            "X": 4.73,
+            "2": 1.9
+          },
+          "time": ""
+        },
+        "FC Copenhagen (Magdy) - Galatasaray (Danny)": {
+          "1x2": {
+            "1": 1.86,
+            "X": 4.91,
+            "2": 2.46
+          },
+          "time": ""
+        },
+        "FC Copenhagen (Magdy) - Atletico Madrid (Pontiac)": {
+          "1x2": {
+            "1": 2.08,
+            "X": 4.96,
+            "2": 2.14
+          },
+          "time": ""
+        },
+        "Galatasaray (Danny) - Manchester United FC (Panic)": {
+          "1x2": {
+            "1": 2.76,
+            "X": 5.2,
+            "2": 1.68
+          },
+          "time": ""
+        },
+        "Atletico Madrid (Pontiac) - Fc Bayern Munich (punisher)": {
+          "1x2": {
+            "1": 2.23,
+            "X": 5.0,
+            "2": 2.0
+          },
+          "time": ""
+        },
+        "FC Copenhagen (Magdy) - Manchester United FC (Panic)": {
+          "1x2": {
+            "1": 2.3,
+            "X": 4.8,
+            "2": 1.97
+          },
+          "time": ""
+        },
+        "FC Copenhagen (Magdy) - Fc Bayern Munich (punisher)": {
+          "1x2": {
+            "1": 1.96,
             "X": 4.34,
-            "Athletic Bilbao (Seagal)": 2.25
+            "2": 2.45
           },
           "time": ""
         },
-        "KRC Genk (Punisher) - AZ Alkmaar (Panic)": {
+        "Atletico Madrid (Pontiac) - Galatasaray (Danny)": {
           "1x2": {
-            "KRC Genk (Punisher)": 2.54,
-            "X": 4.6,
-            "AZ Alkmaar (Panic)": 1.86
+            "1": 1.69,
+            "X": 5.55,
+            "2": 2.64
           },
           "time": ""
         },
-        "Aston Villa (pontiac) - Besiktas Istanbul (Aibothard)": {
+        "Atletico Madrid (Pontiac) - Manchester United FC (Panic)": {
           "1x2": {
-            "Aston Villa (pontiac)": 2.47,
-            "X": 5.14,
-            "Besiktas Istanbul (Aibothard)": 1.81
+            "1": 2.45,
+            "X": 5.23,
+            "2": 1.82
           },
           "time": ""
         },
-        "Atletico Madrid (Furious) - Girona FC (Cruise)": {
+        "Galatasaray (Danny) - Fc Bayern Munich (punisher)": {
           "1x2": {
-            "Atletico Madrid (Furious)": 2.09,
-            "X": 3.88,
-            "Girona FC (Cruise)": 2.42
+            "1": 2.26,
+            "X": 4.7,
+            "2": 2.02
           },
           "time": ""
         },
-        "Atletico Madrid (Furious) - Real Madrid (aladdin)": {
+        "Galatasaray (Danny) - FC Copenhagen (Magdy)": {
           "1x2": {
-            "Atletico Madrid (Furious)": 2.77,
-            "X": 4.41,
-            "Real Madrid (aladdin)": 1.78
+            "1": 2.46,
+            "X": 4.86,
+            "2": 1.86
           },
           "time": ""
         },
-        "Fc Barcelona (jack) - Girona FC (Cruise)": {
+        "Manchester United FC (Panic) - Fc Bayern Munich (punisher)": {
           "1x2": {
-            "Fc Barcelona (jack)": 1.77,
-            "X": 4.14,
-            "Girona FC (Cruise)": 2.92
+            "1": 1.92,
+            "X": 4.81,
+            "2": 2.38
           },
           "time": ""
         },
-        "Fc Barcelona (jack) - Athletic Bilbao (Seagal)": {
+        "Manchester United FC (Panic) - Galatasaray (Danny)": {
           "1x2": {
-            "Fc Barcelona (jack)": 1.93,
-            "X": 4.36,
-            "Athletic Bilbao (Seagal)": 2.49
+            "1": 1.67,
+            "X": 5.25,
+            "2": 2.76
           },
           "time": ""
         },
-        "Girona FC (Cruise) - Real Madrid (aladdin)": {
+        "Atletico Madrid (Pontiac) - FC Copenhagen (Magdy)": {
           "1x2": {
-            "Girona FC (Cruise)": 3.12,
-            "X": 4.58,
-            "Real Madrid (aladdin)": 1.64
-          },
-          "time": ""
-        },
-        "Athletic Bilbao (Seagal) - Atletico Madrid (Furious)": {
-          "1x2": {
-            "Athletic Bilbao (Seagal)": 2.13,
-            "X": 3.98,
-            "Atletico Madrid (Furious)": 2.33
-          },
-          "time": ""
-        },
-        "Fc Barcelona (jack) - Real Madrid (aladdin)": {
-          "1x2": {
-            "Fc Barcelona (jack)": 2.56,
-            "X": 4.5,
-            "Real Madrid (aladdin)": 1.86
-          },
-          "time": ""
-        },
-        "Fc Barcelona (jack) - Atletico Madrid (Furious)": {
-          "1x2": {
-            "Fc Barcelona (jack)": 1.96,
-            "X": 4.16,
-            "Atletico Madrid (Furious)": 2.5
-          },
-          "time": ""
-        },
-        "Athletic Bilbao (Seagal) - Girona FC (Cruise)": {
-          "1x2": {
-            "Athletic Bilbao (Seagal)": 1.96,
-            "X": 3.72,
-            "Girona FC (Cruise)": 2.69
-          },
-          "time": ""
-        },
-        "Girona FC (Cruise) - Atletico Madrid (Furious)": {
-          "1x2": {
-            "Girona FC (Cruise)": 2.42,
-            "X": 3.92,
-            "Atletico Madrid (Furious)": 2.08
-          },
-          "time": ""
-        },
-        "Athletic Bilbao (Seagal) - Real Madrid (aladdin)": {
-          "1x2": {
-            "Athletic Bilbao (Seagal)": 2.24,
-            "X": 4.46,
-            "Real Madrid (aladdin)": 2.09
-          },
-          "time": ""
-        },
-        "Girona FC (Cruise) - Fc Barcelona (jack)": {
-          "1x2": {
-            "Girona FC (Cruise)": 2.92,
-            "X": 4.14,
-            "Fc Barcelona (jack)": 1.77
-          },
-          "time": ""
-        },
-        "Real Madrid (aladdin) - Atletico Madrid (Furious)": {
-          "1x2": {
-            "Real Madrid (aladdin)": 1.78,
-            "X": 4.37,
-            "Atletico Madrid (Furious)": 2.78
+            "1": 2.14,
+            "X": 4.96,
+            "2": 2.08
           },
           "time": ""
         }

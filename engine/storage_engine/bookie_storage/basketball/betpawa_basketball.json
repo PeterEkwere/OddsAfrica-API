@@ -36,45 +36,7 @@
     "1. Lig": {},
     "Super Lig": {},
     "TB2L": {},
-    "Super Lig, Women": {
-      "Ogm Ormanspor - Hatay BSB": {
-        "Match Winner and Totals - FT incl OT": {
-          "1 - Under": 1.75,
-          "2 - Under": 100.0,
-          "1 - Over": 1.75,
-          "2 - Over": 100.0
-        },
-        "Odd / Even - 3Q": {
-          "Even": 1.81,
-          "Odd": 1.81
-        },
-        "1X2 - 3Q": {
-          "2": 8.75,
-          "X": 30.0,
-          "1": 1.04
-        },
-        "Asian Handicap - 3Q": {
-          "1": 1.86,
-          "2": 1.77
-        },
-        "Total Score Over/Under - 3Q": {
-          "Under": 1.68,
-          "Over": 1.97
-        },
-        "Asian Handicap - FT incl OT": {
-          "2": 1.89,
-          "1": 1.74
-        },
-        "Total Score Over/Under - FT incl OT": {
-          "Over": 1.79,
-          "Under": 1.84
-        },
-        "Odd / Even - FT incl OT": {
-          "Odd": 1.8,
-          "Even": 1.8
-        }
-      }
-    }
+    "Super Lig, Women": {}
   },
   "Poland": {
     "PLK": {}
@@ -84,237 +46,84 @@
   },
   "China": {
     "WCBA": {
-      "Shanghai Baoshan Dahua Swordfish - Shanxi Xing Rui Flame": {
+      "Jiangsu Phoenix - Wuhan Shengfan": {
         "Match Winner and Totals - FT incl OT": {
-          "1 - Over": 2.0,
-          "2 - Under": 13.5,
-          "2 - Over": 12.0,
-          "1 - Under": 2.05
+          "2 - Under": 100.0,
+          "1 - Under": 1.7,
+          "2 - Over": 100.0,
+          "1 - Over": 1.8
         },
-        "Odd / Even - 2Q": {
-          "Odd": 1.81,
-          "Even": 1.81
-        },
-        "1X2 - 2Q": {
-          "1": 2.15,
-          "2": 1.75,
-          "X": 15.0
-        },
-        "Asian Handicap - 2Q": {
-          "1": 1.89,
-          "2": 1.74
-        },
-        "Total Score Over/Under - 2Q": {
-          "Over": 1.72,
-          "Under": 1.92
-        },
-        "Total Score Over/Under - 1H": {
-          "Under": 1.92,
-          "Over": 1.72
-        },
-        "Asian Handicap - 1H": {
-          "1": 2.13,
-          "2": 1.58
-        },
-        "Odd / Even - 1H": {
+        "Odd / Even - 3Q": {
           "Even": 1.81,
           "Odd": 1.81
+        },
+        "1X2 - 3Q": {
+          "2": 4.05,
+          "X": 19.0,
+          "1": 1.24
+        },
+        "Asian Handicap - 3Q": {
+          "2": 1.64,
+          "1": 2.03
+        },
+        "Total Score Over/Under - 3Q": {
+          "Over": 1.68,
+          "Under": 1.97
         },
         "Total Score Over/Under - FT incl OT": {
-          "Under": 1.74,
-          "Over": 1.89
-        },
-        "Asian Handicap - FT incl OT": {
-          "2": 1.7,
-          "1": 1.95
-        },
-        "Moneyline - FT incl OT": {
-          "1": 1.09,
-          "2": 5.5
-        },
-        "Odd / Even - FT incl OT": {
-          "Odd": 1.79,
-          "Even": 1.84
-        }
-      },
-      "Beijing Great Wall - Inner Mongolia BC": {
-        "Match Winner and Totals - FT incl OT": {
-          "1 - Over": 8.75,
-          "2 - Over": 2.15,
-          "1 - Under": 8.75,
-          "2 - Under": 2.15
-        },
-        "Odd / Even - 2Q": {
-          "Even": 1.81,
-          "Odd": 1.81
-        },
-        "1X2 - 2Q": {
-          "2": 1.41,
-          "X": 14.0,
-          "1": 3.1
-        },
-        "Asian Handicap - 2Q": {
-          "1": 1.72,
-          "2": 1.92
-        },
-        "Total Score Over/Under - 2Q": {
-          "Over": 1.84,
-          "Under": 1.79
-        },
-        "Asian Handicap - 1H": {
-          "1": 1.95,
-          "2": 1.7
-        },
-        "Total Score Over/Under - 1H": {
-          "Over": 2.06,
-          "Under": 1.62
+          "Over": 1.74,
+          "Under": 1.89
         },
         "Asian Handicap - FT incl OT": {
           "1": 1.74,
           "2": 1.89
         },
-        "1X2 - 1H": {
-          "1": 1.95,
-          "2": 1.95,
-          "X": 13.0
-        },
-        "Odd / Even - 1H": {
-          "Odd": 1.81,
-          "Even": 1.81
-        },
-        "Total Score Over/Under - FT incl OT": {
-          "Over": 1.8,
-          "Under": 1.8
-        },
-        "Moneyline - FT incl OT": {
-          "1": 4.15,
-          "2": 1.16
-        },
         "Odd / Even - FT incl OT": {
-          "Even": 1.84,
-          "Odd": 1.79
+          "Odd": 1.8,
+          "Even": 1.8
         }
       }
     },
     "CBA": {
-      "Guangzhou Loong Lions - Liaoning Flying Leopards": {
+      "Nanjing Tongxi Monkey Kings - Shanxi Loongs": {
         "Match Winner and Totals - FT incl OT": {
-          "2 - Over": 2.95,
-          "1 - Over": 4.1,
-          "2 - Under": 3.0,
-          "1 - Under": 4.2
+          "2 - Under": 10.0,
+          "1 - Under": 2.15,
+          "2 - Over": 9.5,
+          "1 - Over": 2.1
         },
-        "Will the Match be Tied after Regular Time": {
-          "No": 1.03,
-          "Yes": 7.25
-        },
-        "Odd / Even - 2Q": {
+        "Odd / Even - 3Q": {
           "Odd": 1.81,
           "Even": 1.81
         },
-        "Asian Handicap - 2Q": {
-          "2": 1.7,
-          "1": 1.95
+        "Asian Handicap - 3Q": {
+          "2": 1.64,
+          "1": 2.03
         },
-        "1X2 - 2Q": {
-          "2": 1.43,
-          "1": 2.95,
-          "X": 15.0
+        "1X2 - 3Q": {
+          "1": 2.9,
+          "2": 1.42,
+          "X": 19.5
         },
-        "Total Score Over/Under - 2Q": {
-          "Under": 1.74,
-          "Over": 1.89
-        },
-        "Asian Handicap - 1H": {
-          "1": 1.97,
-          "2": 1.68
-        },
-        "Total Score Over/Under - 1H": {
-          "Over": 1.84,
-          "Under": 1.79
-        },
-        "Total Score Over/Under - FT incl OT": {
-          "Under": 1.9,
-          "Over": 1.7
-        },
-        "Odd / Even - 1H": {
-          "Even": 1.81,
-          "Odd": 1.81
+        "Total Score Over/Under - 3Q": {
+          "Over": 1.95,
+          "Under": 1.7
         },
         "Asian Handicap - FT incl OT": {
-          "1": 1.89,
-          "2": 1.74
+          "2": 1.9,
+          "1": 1.7
         },
-        "1X2 - 1H": {
-          "1": 1.47,
-          "X": 16.5,
-          "2": 2.75
+        "Total Score Over/Under - FT incl OT": {
+          "Over": 1.89,
+          "Under": 1.74
         },
         "Moneyline - FT incl OT": {
-          "1": 2.18,
-          "2": 1.55
-        },
-        "Odd / Even - FT incl OT": {
-          "Even": 1.89,
-          "Odd": 1.74
-        }
-      },
-      "Sichuan Blue Whales - Beijing Ducks": {
-        "Match Winner and Totals - FT incl OT": {
-          "2 - Under": 1.95,
-          "1 - Under": 19.5,
-          "2 - Over": 1.9,
-          "1 - Over": 18.5
-        },
-        "Odd / Even - 2Q": {
-          "Odd": 1.81,
-          "Even": 1.81
-        },
-        "Asian Handicap - 2Q": {
-          "1": 1.97,
-          "2": 1.68
-        },
-        "1X2 - 2Q": {
-          "X": 18.5,
-          "2": 1.46,
-          "1": 2.75
-        },
-        "Total Score Over/Under - 2Q": {
-          "Over": 1.86,
-          "Under": 1.77
-        },
-        "Total Score Over/Under - 1H": {
-          "Over": 1.62,
-          "Under": 2.06
-        },
-        "Asian Handicap - 1H": {
-          "2": 1.97,
-          "1": 1.68
-        },
-        "Total Score Over/Under - FT incl OT": {
-          "Over": 1.85,
-          "Under": 1.75
-        },
-        "Odd / Even - 1H": {
-          "Odd": 1.81,
-          "Even": 1.81
-        },
-        "1X2 - 1H": {
-          "X": 22.0,
-          "2": 1.24,
-          "1": 4.0
-        },
-        "Asian Handicap - FT incl OT": {
-          "2": 1.89,
-          "1": 1.74
+          "1": 1.13,
+          "2": 4.55
         },
         "Odd / Even - FT incl OT": {
           "Odd": 1.79,
           "Even": 1.84
-        },
-        "Moneyline - FT incl OT": {
-          "2": 1.04,
-          "1": 7.0
         }
       }
     }
