@@ -1,19 +1,10 @@
-2024-01-01 01:25:37,285 - INFO - Saving engine/storage_engine/arranged_data/basketball.json
-2024-01-01 01:25:38,696 - INFO - Saving engine/storage_engine/arranged_data/darts.json
-2024-01-01 01:25:39,117 - ERROR - Sport File esoccer is not in special function
-2024-01-01 01:25:41,479 - INFO - Saving engine/storage_engine/arranged_data/football.json
-2024-01-01 01:25:45,687 - INFO - Saving engine/storage_engine/arranged_data/icehockey.json
-2024-01-01 01:25:46,621 - ERROR - Sport File tennis is not in special function
-2024-01-01 01:25:47,880 - INFO - Saving engine/storage_engine/arranged_data/volleyball.json
-2024-01-01 02:02:08,753 - INFO - Saving engine/storage_engine/arranged_data/basketball.json
-2024-01-01 02:02:09,006 - INFO - Saving engine/storage_engine/arranged_data/darts.json
-2024-01-01 02:02:09,021 - ERROR - Sport File esoccer is not in special function
-2024-01-01 02:02:09,521 - INFO - Saving engine/storage_engine/arranged_data/football.json
-2024-01-01 02:02:10,774 - INFO - Saving engine/storage_engine/arranged_data/icehockey.json
-2024-01-01 02:02:11,055 - ERROR - Sport File tennis is not in special function
-2024-01-01 02:02:11,072 - INFO - Saving engine/storage_engine/arranged_data/volleyball.json
-2024-01-01 02:19:44,620 - INFO - Saving engine/storage_engine/processed_data/basketball.json
-2024-01-01 02:19:44,887 - INFO - Saving engine/storage_engine/processed_data/darts.json
-2024-01-01 02:19:48,403 - INFO - Saving engine/storage_engine/processed_data/football.json
-2024-01-01 02:20:07,883 - INFO - Saving engine/storage_engine/processed_data/icehockey.json
-2024-01-01 02:20:09,650 - ERROR - Sport File volleyball is not in special function
+2024-01-01 15:04:24,200 - INFO - Number of Arbitrage found in this historical data is 0
+2024-01-01 15:04:24,203 - INFO - Saving engine/storage_engine/combined_data/basketball.json
+2024-01-01 15:04:24,250 - INFO - Number of Arbitrage found in this historical data is 0
+2024-01-01 15:04:24,252 - INFO - Saving engine/storage_engine/combined_data/darts.json
+2024-01-01 15:04:27,854 - INFO - Number of Arbitrage found in this historical data is 2117
+2024-01-01 15:04:27,856 - INFO - Saving engine/storage_engine/combined_data/football.json
+2024-01-01 15:04:28,925 - INFO - Number of Arbitrage found in this historical data is 60
+2024-01-01 15:04:28,944 - INFO - Saving engine/storage_engine/combined_data/icehockey.json
+2024-01-01 15:04:29,135 - INFO - Number of Arbitrage found in this historical data is 0
+2024-01-01 15:04:29,138 - INFO - Saving engine/storage_engine/combined_data/volleyball.json

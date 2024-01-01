@@ -1,0 +1,602 @@
+{
+  "Fischtown Pinguins VS ERC Ingolstadt": {
+    "1xbet": {
+      "Over(4.5)": 1.69
+    },
+    "sportybet": {
+      "Under(4.5)": 2.6
+    },
+    "Percent Profit": " 2%",
+    "Formula Type": "1"
+  },
+  "Grizzlys Wolfsburg VS EHC Munchen": {
+    "merrybet": {
+      "Over(4.5)": 1.61
+    },
+    "sportybet": {
+      "Under(4.5)": 2.75
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "Kolner Haie VS Dusseldorfer EG": {
+    "1xbet": {
+      "Over(4.5)": 1.55
+    },
+    "sportybet": {
+      "Under(4.5)": 2.95
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "Lowen Frankfurt VS Eisbaren": {
+    "merrybet": {
+      "Over(4.5)": 1.39
+    },
+    "sportybet": {
+      "Under(4.5)": 3.6
+    },
+    "Percent Profit": " 0%",
+    "Formula Type": "1"
+  },
+  "Schwenninger Wild Wings VS Iserlohn Roosters": {
+    "merrybet": {
+      "Over(4.5)": 1.44
+    },
+    "sportybet": {
+      "Under(4.5)": 3.3
+    },
+    "Percent Profit": " 0%",
+    "Formula Type": "1"
+  },
+  "Straubing Tigers VS Adler Mannheim": {
+    "merrybet": {
+      "Over(4.5)": 1.62
+    },
+    "sportybet": {
+      "Under(4.5)": 2.7
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "Rubin Tyumen VS Neftyanik Almetyevsk": {
+    "1xbet": {
+      "Over(4.5)": 1.8
+    },
+    "sportybet": {
+      "Under(4.5)": 2.35
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "Omskiye Krylya VS Buran Voronezh": {
+    "merrybet": {
+      "Over(4.5)": 1.63
+    },
+    "sportybet": {
+      "Under(4.5)": 2.7
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "Lada Togliatti VS Dynamo Moscow": {
+    "22bet": {
+      "Under(2.75)": 5.73
+    },
+    "_22bet": {
+      "Under(3)": 5.2
+    },
+    "Percent Profit": " 0%",
+    "Formula Type": "10"
+  },
+  "Ak Bars Kazan VS Metallurg Magnitogorsk": {
+    "22bet": {
+      "Under(2.75)": 7.2
+    },
+    "_22bet": {
+      "Under(3)": 6.5
+    },
+    "Percent Profit": " 0%",
+    "Formula Type": "10"
+  },
+  "Torpedo Nizhny Novgorod VS Lokomotiv Yaroslavl": {
+    "22bet": {
+      "Under(2.75)": 5.45
+    },
+    "_22bet": {
+      "Under(3)": 5.05
+    },
+    "Percent Profit": " 0%",
+    "Formula Type": "10"
+  },
+  "Vityaz VS Avtomobilist Yekaterinburg": {
+    "22bet": {
+      "Under(2.75)": 6.55
+    },
+    "_22bet": {
+      "Under(3)": 6.05
+    },
+    "Percent Profit": " 0%",
+    "Formula Type": "10"
+  },
+  "Rubin Tyumen - Neftyanik Almetyevsk": {
+    "betwinner": {
+      "Over(4.5)": 1.8
+    },
+    "sportybet": {
+      "Under(4.5)": 2.35
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "Omskie Kryliya - Buran Voronezh": {
+    "merrybet": {
+      "Over(4.5)": 1.63
+    },
+    "sportybet": {
+      "Under(4.5)": 2.7
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "Cologne Haie - Dusseldorfer EG": {
+    "betwinner": {
+      "Over(4.5)": 1.55
+    },
+    "sportybet": {
+      "Under(4.5)": 2.95
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "Fischtown Pinguins - ERC Ingolstadt": {
+    "betwinner": {
+      "Over(4.5)": 1.69
+    },
+    "sportybet": {
+      "Under(4.5)": 2.6
+    },
+    "Percent Profit": " 2%",
+    "Formula Type": "1"
+  },
+  "Lowen Frankfurt - Eisbaren Berlin": {
+    "merrybet": {
+      "Over(4.5)": 1.39
+    },
+    "sportybet": {
+      "Under(4.5)": 3.6
+    },
+    "Percent Profit": " 0%",
+    "Formula Type": "1"
+  },
+  "Straubing Tigers - Adler Mannheim": {
+    "merrybet": {
+      "Over(4.5)": 1.62
+    },
+    "sportybet": {
+      "Under(4.5)": 2.7
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "HC Lada Togliatti - HC Dynamo Moscow": {
+    "merrybet": {
+      "Over(4.5)": 1.83
+    },
+    "sportybet": {
+      "Under(4.5)": 2.3
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "Ak Bars Kazan - Metallurg Magnitogorsk": {
+    "merrybet": {
+      "Over(4.5)": 1.68
+    },
+    "sportybet": {
+      "Under(4.5)": 2.6
+    },
+    "Percent Profit": " 2%",
+    "Formula Type": "1"
+  },
+  "Torpedo N. Novgorod - Lokomotiv Yaroslavl": {
+    "merrybet": {
+      "Over(4.5)": 1.89
+    },
+    "sportybet": {
+      "Under(4.5)": 2.25
+    },
+    "Percent Profit": " 2%",
+    "Formula Type": "1"
+  },
+  "Vityaz Podolsk - Avtomobilist Yekaterinburg": {
+    "merrybet": {
+      "Over(4.5)": 1.74
+    },
+    "sportybet": {
+      "Under(4.5)": 2.45
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "HC Dinamo Minsk - Spartak Moscow": {
+    "merrybet": {
+      "Over(4.5)": 1.44
+    },
+    "sportybet": {
+      "Under(4.5)": 3.4
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "Admiral Vladivostok - Neftekhimik Nizhnekamsk": {
+    "merrybet": {
+      "Over(4.5)": 1.86
+    },
+    "sportybet": {
+      "Under(4.5)": 2.25
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "Ak Bars Kazan - Salavat Yulaev UFA": {
+    "merrybet": {
+      "Over(4.5)": 1.78
+    },
+    "sportybet": {
+      "Under(4.5)": 2.35
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "HC Barys - Traktor Chelyabinsk": {
+    "merrybet": {
+      "Over(4.5)": 1.64
+    },
+    "sportybet": {
+      "Under(4.5)": 2.65
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "HC Lada Togliatti - HK Avangard Omsk": {
+    "merrybet": {
+      "Over(4.5)": 1.72
+    },
+    "sportybet": {
+      "Under(4.5)": 2.45
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "CSKA Moscow - Severstal Cherepovets": {
+    "merrybet": {
+      "Over(4.5)": 1.58
+    },
+    "sportybet": {
+      "Under(4.5)": 2.75
+    },
+    "Percent Profit": " 0%",
+    "Formula Type": "1"
+  },
+  "Lokomotiv Yaroslavl - HC Dynamo Moscow": {
+    "merrybet": {
+      "Over(4.5)": 1.86
+    },
+    "sportybet": {
+      "Under(4.5)": 2.25
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "SKA Saint Petersburg - Avtomobilist Yekaterinburg": {
+    "merrybet": {
+      "Over(4.5)": 1.68
+    },
+    "sportybet": {
+      "Under(4.5)": 2.55
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "HK Avangard Omsk - Salavat Yulaev UFA": {
+    "merrybet": {
+      "Over(4.5)": 1.66
+    },
+    "sportybet": {
+      "Under(4.5)": 2.6
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "HC Dynamo Moscow - Spartak Moscow": {
+    "merrybet": {
+      "Over(4.5)": 1.44
+    },
+    "sportybet": {
+      "Under(4.5)": 3.4
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "HC Akm Tula - HC Bars Kazan": {
+    "merrybet": {
+      "Over(4.5)": 1.84
+    },
+    "sportybet": {
+      "Under(4.5)": 2.2
+    },
+    "Percent Profit": " 0%",
+    "Formula Type": "1"
+  },
+  "Jukurit Mikkeli - KooKoo": {
+    "merrybet": {
+      "Over(4.5)": 1.6
+    },
+    "sportybet": {
+      "Under(4.5)": 2.8
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "JYP Jyvaskyla - HPK Hameenlinna": {
+    "merrybet": {
+      "Over(4.5)": 1.67
+    },
+    "sportybet": {
+      "Under(4.5)": 2.6
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "Lukko Rauma - HIFK Helsinki": {
+    "merrybet": {
+      "Over(4.5)": 1.77
+    },
+    "sportybet": {
+      "Under(4.5)": 2.4
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "Pelicans Lahti - Assat Pori": {
+    "merrybet": {
+      "Over(4.5)": 1.81
+    },
+    "sportybet": {
+      "Under(4.5)": 2.35
+    },
+    "Percent Profit": " 2%",
+    "Formula Type": "1"
+  },
+  "Tappara Tampere - Vaasan Sport": {
+    "merrybet": {
+      "Over(4.5)": 1.47
+    },
+    "sportybet": {
+      "Under(4.5)": 3.2
+    },
+    "Percent Profit": " 0%",
+    "Formula Type": "1"
+  },
+  "TPS Turku - Karpat Oulu": {
+    "merrybet": {
+      "Over(4.5)": 1.75
+    },
+    "sportybet": {
+      "Under(4.5)": 2.45
+    },
+    "Percent Profit": " 2%",
+    "Formula Type": "1"
+  },
+  "BK Mlada Boleslav - Energie Karlovy Vary": {
+    "merrybet": {
+      "Over(4.5)": 1.67
+    },
+    "sportybet": {
+      "Under(4.5)": 2.6
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "HC Plzen - Sparta Prague": {
+    "merrybet": {
+      "Over(4.5)": 1.64
+    },
+    "sportybet": {
+      "Under(4.5)": 2.65
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "HC Kometa Brno - Ceske Budejovice": {
+    "merrybet": {
+      "Over(4.5)": 1.65
+    },
+    "sportybet": {
+      "Under(4.5)": 2.6
+    },
+    "Percent Profit": " 0%",
+    "Formula Type": "1"
+  },
+  "HC Olomouc - Ocelari Trinec": {
+    "merrybet": {
+      "Over(4.5)": 1.73
+    },
+    "sportybet": {
+      "Under(4.5)": 2.45
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "Grizzlys Wolfsburg - Red Bull Munich": {
+    "merrybet": {
+      "Over(4.5)": 1.61
+    },
+    "sportybet": {
+      "Under(4.5)": 2.75
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "Wild Wings - Iserlohn Roosters": {
+    "merrybet": {
+      "Over(4.5)": 1.44
+    },
+    "sportybet": {
+      "Under(4.5)": 3.3
+    },
+    "Percent Profit": " 0%",
+    "Formula Type": "1"
+  },
+  "Grizzlys Wolfsburg - EHC Red Bull M\u00fcnchen": {
+    "merrybet": {
+      "Over(4.5)": 1.61
+    },
+    "sportybet": {
+      "Under(4.5)": 2.75
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "Rubin Tyumen - Neftjanik Almetjevsk": {
+    "paripesa": {
+      "Over(4.5)": 1.8
+    },
+    "sportybet": {
+      "Under(4.5)": 2.35
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "BK Mlada Boleslav - HC Energie Karlovy Vary": {
+    "merrybet": {
+      "Over(4.5)": 1.67
+    },
+    "sportybet": {
+      "Under(4.5)": 2.6
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "HC Olomouc - HC Ocelari Trinec": {
+    "merrybet": {
+      "Over(4.5)": 1.73
+    },
+    "sportybet": {
+      "Under(4.5)": 2.45
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "Jukurit Mikkeli - Kookoo Kouvola": {
+    "merrybet": {
+      "Over(4.5)": 1.6
+    },
+    "sportybet": {
+      "Under(4.5)": 2.8
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "HC Lada Togliatti - OHK Dynamo Moscow": {
+    "merrybet": {
+      "Over(4.5)": 1.83
+    },
+    "sportybet": {
+      "Under(4.5)": 2.3
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "AK Bars Kazan - Metallurg Magnitogorsk": {
+    "merrybet": {
+      "Over(4.5)": 1.68
+    },
+    "sportybet": {
+      "Under(4.5)": 2.6
+    },
+    "Percent Profit": " 2%",
+    "Formula Type": "1"
+  },
+  "HC Dinamo Minsk - HC Spartak Moscow": {
+    "merrybet": {
+      "Over(4.5)": 1.44
+    },
+    "sportybet": {
+      "Under(4.5)": 3.4
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "AK Bars Kazan - Salavat Yulaev Ufa": {
+    "merrybet": {
+      "Over(4.5)": 1.78
+    },
+    "sportybet": {
+      "Under(4.5)": 2.35
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "HC Barys Astana - HC Traktor Chelyabinsk": {
+    "merrybet": {
+      "Over(4.5)": 1.64
+    },
+    "sportybet": {
+      "Under(4.5)": 2.65
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "Lokomotiv Yaroslavl - OHK Dynamo Moscow": {
+    "merrybet": {
+      "Over(4.5)": 1.86
+    },
+    "sportybet": {
+      "Under(4.5)": 2.25
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "CSKA Moscow - Severstal Cherepovec": {
+    "merrybet": {
+      "Over(4.5)": 1.58
+    },
+    "sportybet": {
+      "Under(4.5)": 2.75
+    },
+    "Percent Profit": " 0%",
+    "Formula Type": "1"
+  },
+  "SKA St. Petersburg - Avtomobilist Yekaterinburg": {
+    "merrybet": {
+      "Over(4.5)": 1.68
+    },
+    "sportybet": {
+      "Under(4.5)": 2.55
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "HK Avangard Omsk - Salavat Yulaev Ufa": {
+    "merrybet": {
+      "Over(4.5)": 1.66
+    },
+    "sportybet": {
+      "Under(4.5)": 2.6
+    },
+    "Percent Profit": " 1%",
+    "Formula Type": "1"
+  },
+  "HC Akm Tula - Bars Kazan": {
+    "merrybet": {
+      "Over(4.5)": 1.84
+    },
+    "sportybet": {
+      "Under(4.5)": 2.2
+    },
+    "Percent Profit": " 0%",
+    "Formula Type": "1"
+  }
+}

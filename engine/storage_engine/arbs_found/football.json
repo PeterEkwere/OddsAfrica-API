@@ -1,0 +1,7353 @@
+{
+  "Brighton & Hove Albion VS Tottenham Hotspur": {
+    "1xbet": {
+      "Over(3.25)": 1.919
+    },
+    "merrybet": {
+      "Under(3.5)": 1.89
+    },
+    "_merrybet": {
+      "Under(2.5)": 3.05
+    },
+    "Percent Profit": "0.2226119320917661%",
+    "Formula Type": "6"
+  },
+  "Arsenal VS West Ham United": {
+    "1xbet": {
+      "H1(-2.25)": 2.852
+    },
+    "sportybet": {
+      "1(-1)": 1.92
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.651
+    },
+    "Percent Profit": "10.71954423841862%",
+    "Formula Type": "12"
+  },
+  "Luton Town VS Chelsea": {
+    "1xbet": {
+      "H1(-0.25)": 4.42
+    },
+    "sportybet": {
+      "1(+1)": 2.35
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.391
+    },
+    "Percent Profit": "29.641288423099013%",
+    "Formula Type": "12"
+  },
+  "Aston Villa VS Burnley": {
+    "1xbet": {
+      "H1(-2.25)": 2.941
+    },
+    "sportybet": {
+      "1(-1)": 2.0
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.623
+    },
+    "Percent Profit": "13.144271292074492%",
+    "Formula Type": "12"
+  },
+  "Crystal Palace VS Brentford": {
+    "sportybet": {
+      "1(-2)": 12.0
+    },
+    "_sportybet": {
+      "1(-1)": 4.75
+    },
+    "1xbet": {
+      "H2(+2)": 1.025
+    },
+    "Percent Profit": "64.23833975181857%",
+    "Formula Type": "4"
+  },
+  "Manchester City VS Sheffield United": {
+    "1xbet": {
+      "Under(2.75)": 2.947
+    },
+    "sportybet": {
+      "Over(2.5)": 1.34
+    },
+    "_1xbet": {
+      "Under(3)": 2.66
+    },
+    "Percent Profit": "1.5084999530456713%",
+    "Formula Type": "10"
+  },
+  "Nottingham Forest VS Manchester United": {
+    "1xbet": {
+      "H1(-0.25)": 2.69
+    },
+    "nairabet": {
+      "1(+1)": 1.67
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.887
+    },
+    "Percent Profit": "4.686383097467385%",
+    "Formula Type": "12"
+  },
+  "Fulham VS Arsenal": {
+    "1xbet": {
+      "H1(-0.25)": 4.82
+    },
+    "sportybet": {
+      "1(+1)": 2.45
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.361
+    },
+    "Percent Profit": "33.08151256512262%",
+    "Formula Type": "12"
+  },
+  "Tottenham Hotspur VS Bournemouth": {
+    "1xbet": {
+      "H1(-2.25)": 4.345
+    },
+    "sportybet": {
+      "1(-1)": 2.65
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.333
+    },
+    "Percent Profit": "32.3836445579817%",
+    "Formula Type": "12"
+  },
+  "Liverpool VS Newcastle United": {
+    "1xbet": {
+      "H1(-2.25)": 3.295
+    },
+    "sportybet": {
+      "1(-1)": 2.15
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.52
+    },
+    "Percent Profit": "18.78006098864715%",
+    "Formula Type": "12"
+  },
+  "Everton VS Aston Villa": {
+    "sportybet": {
+      "1(-2)": 12.0
+    },
+    "_sportybet": {
+      "1(-1)": 5.2
+    },
+    "betwinner": {
+      "H2(+2)": 1.056
+    },
+    "Percent Profit": "66.1470473970474%",
+    "Formula Type": "4"
+  },
+  "Crystal Palace VS Everton": {
+    "sportybet": {
+      "1(-2)": 13.0
+    },
+    "_sportybet": {
+      "1(-1)": 5.4
+    },
+    "1xbet": {
+      "H2(+2)": 1.03
+    },
+    "Percent Profit": "67.74541531823084%",
+    "Formula Type": "4"
+  },
+  "Fulham VS Rotherham United": {
+    "sportybet": {
+      "1(-2)": 2.5
+    },
+    "1xbet": {
+      "H1(-1.5)": 1.666
+    },
+    "_1xbet": {
+      "H2(+2)": 1.74
+    },
+    "Percent Profit": "0.997088490568629%",
+    "Formula Type": "4"
+  },
+  "Tottenham Hotspur VS Burnley": {
+    "1xbet": {
+      "H1(-1)": 1.84
+    },
+    "22bet": {
+      "H2(+1.5)": 1.71
+    },
+    "_22bet": {
+      "H2(+0.75)": 2.573
+    },
+    "Percent Profit": "0.4037907502524547%",
+    "Formula Type": "14"
+  },
+  "Coventry City VS Oxford United": {
+    "1xbet": {
+      "H1(-2.25)": 5.02
+    },
+    "sportybet": {
+      "1(-1)": 2.75
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.271
+    },
+    "Percent Profit": "36.768243615562504%",
+    "Formula Type": "12"
+  },
+  "Maidstone United VS Stevenage": {
+    "1xbet": {
+      "H1(-0.25)": 4.515
+    },
+    "sportybet": {
+      "1(+1)": 2.3
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.373
+    },
+    "Percent Profit": "29.260649669685122%",
+    "Formula Type": "12"
+  },
+  "Millwall VS Leicester City": {
+    "1xbet": {
+      "H1(-0.25)": 3.235
+    },
+    "sportybet": {
+      "1(+1)": 1.85
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.592
+    },
+    "Percent Profit": "13.060163446562228%",
+    "Formula Type": "12"
+  },
+  "Wimbledon VS Ipswich Town": {
+    "1xbet": {
+      "H1(-0.25)": 4.515
+    },
+    "sportybet": {
+      "1(+1)": 2.35
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.355
+    },
+    "Percent Profit": "29.81436492986272%",
+    "Formula Type": "12"
+  },
+  "Sunderland VS Newcastle United": {
+    "1xbet": {
+      "H1(-0.25)": 3.26
+    },
+    "sportybet": {
+      "1(+1)": 1.95
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.583
+    },
+    "Percent Profit": "15.377745009137016%",
+    "Formula Type": "12"
+  },
+  "Blackburn Rovers VS Cambridge United": {
+    "1xbet": {
+      "H1(-2.25)": 3.04
+    },
+    "sportybet": {
+      "1(-1)": 1.95
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.573
+    },
+    "Percent Profit": "12.859722070248381%",
+    "Formula Type": "12"
+  },
+  "Gillingham VS Sheffield United": {
+    "1xbet": {
+      "H1(+0.75)": 2.62
+    },
+    "sportybet": {
+      "1(+2)": 1.66
+    },
+    "_1xbet": {
+      "H2(-1.25)": 1.884
+    },
+    "Percent Profit": "3.4517809135318913%",
+    "Formula Type": "12"
+  },
+  "Hull City VS Birmingham City": {
+    "1xbet": {
+      "H1(-2.25)": 5.56
+    },
+    "sportybet": {
+      "1(-1)": 2.9
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.236
+    },
+    "Percent Profit": "40.520746820834184%",
+    "Formula Type": "12"
+  },
+  "Newport County VS Eastleigh": {
+    "1xbet": {
+      "H1(-2.25)": 4.4
+    },
+    "sportybet": {
+      "1(-1)": 2.55
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.321
+    },
+    "Percent Profit": "31.386118836860405%",
+    "Formula Type": "12"
+  },
+  "Norwich City VS Bristol Rovers": {
+    "1xbet": {
+      "H1(-2.25)": 3.985
+    },
+    "sportybet": {
+      "1(-1)": 2.35
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.38
+    },
+    "Percent Profit": "26.46748323621705%",
+    "Formula Type": "12"
+  },
+  "Plymouth Argyle VS Sutton United": {
+    "1xbet": {
+      "H1(-2.25)": 2.94
+    },
+    "sportybet": {
+      "1(-1)": 1.92
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.593
+    },
+    "Percent Profit": "11.253041930404365%",
+    "Formula Type": "12"
+  },
+  "Queens Park Rangers VS Bournemouth": {
+    "1xbet": {
+      "H1(-0.25)": 3.86
+    },
+    "sportybet": {
+      "1(+1)": 2.15
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.438
+    },
+    "Percent Profit": "23.008423703526333%",
+    "Formula Type": "12"
+  },
+  "Southampton VS Walsall": {
+    "1xbet": {
+      "H1(-2.25)": 2.656
+    },
+    "sportybet": {
+      "1(-1)": 1.79
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.757
+    },
+    "Percent Profit": "6.207375066324417%",
+    "Formula Type": "12"
+  },
+  "Watford VS Chesterfield": {
+    "1xbet": {
+      "H1(-2.25)": 3.38
+    },
+    "sportybet": {
+      "1(-1)": 2.15
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.481
+    },
+    "Percent Profit": "19.21042255026599%",
+    "Formula Type": "12"
+  },
+  "Middlesbrough VS Aston Villa": {
+    "1xbet": {
+      "H1(-0.25)": 4.115
+    },
+    "sportybet": {
+      "1(+1)": 2.2
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.412
+    },
+    "Percent Profit": "25.472025363308873%",
+    "Formula Type": "12"
+  },
+  "Southampton VS Plymouth Argyle": {
+    "1xbet": {
+      "H1(-2.25)": 2.582
+    },
+    "sportybet": {
+      "1(-1)": 1.83
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.779
+    },
+    "Percent Profit": "6.203573052327428%",
+    "Formula Type": "12"
+  },
+  "Birmingham City VS Bristol City": {
+    "sportybet": {
+      "1(-2)": 14.0
+    },
+    "_sportybet": {
+      "1(-1)": 5.5
+    },
+    "1xbet": {
+      "H2(+2)": 1.003
+    },
+    "Percent Profit": "68.85253330916342%",
+    "Formula Type": "4"
+  },
+  "Cardiff City VS Leicester City": {
+    "1xbet": {
+      "H1(-0.25)": 4.275
+    },
+    "sportybet": {
+      "1(+1)": 2.25
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.413
+    },
+    "Percent Profit": "27.398269313297845%",
+    "Formula Type": "12"
+  },
+  "Coventry City VS Swansea City": {
+    "1xbet": {
+      "H1(-2.25)": 5.0
+    },
+    "sportybet": {
+      "1(-1)": 2.9
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.271
+    },
+    "Percent Profit": "38.231584596806655%",
+    "Formula Type": "12"
+  },
+  "Huddersfield Town VS Middlesbrough": {
+    "1xbet": {
+      "H1(-0.25)": 3.235
+    },
+    "sportybet": {
+      "1(+1)": 1.86
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.603
+    },
+    "Percent Profit": "13.388501881152763%",
+    "Formula Type": "12"
+  },
+  "Hull City VS Blackburn Rovers": {
+    "1xbet": {
+      "H1(-2.25)": 6.08
+    },
+    "sportybet": {
+      "1(-1)": 3.3
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.225
+    },
+    "Percent Profit": "46.11725237859539%",
+    "Formula Type": "12"
+  },
+  "Ipswich Town VS Queens Park Rangers": {
+    "1xbet": {
+      "H1(-2.25)": 3.56
+    },
+    "sportybet": {
+      "1(-1)": 2.15
+    },
+    "22bet": {
+      "H2(+1.75)": 1.474
+    },
+    "Percent Profit": "20.864612133930052%",
+    "Formula Type": "12"
+  },
+  "Millwall VS Norwich City": {
+    "sportybet": {
+      "1(-2)": 11.5
+    },
+    "_sportybet": {
+      "1(-1)": 4.8
+    },
+    "1xbet": {
+      "H2(+2)": 1.018
+    },
+    "Percent Profit": "63.74071068591441%",
+    "Formula Type": "4"
+  },
+  "Preston North End VS Sheffield Wednesday": {
+    "sportybet": {
+      "1(-2)": 12.0
+    },
+    "_sportybet": {
+      "1(-1)": 4.8
+    },
+    "1xbet": {
+      "H2(+2)": 1.018
+    },
+    "Percent Profit": "64.38345885177908%",
+    "Formula Type": "4"
+  },
+  "Rotherham United VS Sunderland": {
+    "1xbet": {
+      "H1(-0.25)": 4.675
+    },
+    "sportybet": {
+      "1(+1)": 2.35
+    },
+    "22bet": {
+      "H2(-0.25)": 1.373
+    },
+    "Percent Profit": "30.963115536615916%",
+    "Formula Type": "12"
+  },
+  "Watford VS Stoke City": {
+    "sportybet": {
+      "1(-2)": 9.5
+    },
+    "_sportybet": {
+      "1(-1)": 4.1
+    },
+    "1xbet": {
+      "H2(+2)": 1.041
+    },
+    "Percent Profit": "57.53909973499856%",
+    "Formula Type": "4"
+  },
+  "West Bromwich Albion VS Leeds United": {
+    "1xbet": {
+      "H1(-0.25)": 2.715
+    },
+    "sportybet": {
+      "1(+1)": 1.63
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.88
+    },
+    "Percent Profit": "3.8646851765341097%",
+    "Formula Type": "12"
+  },
+  "Sunderland VS Preston North End": {
+    "1xbet": {
+      "H1(-2.25)": 4.81
+    },
+    "sportybet": {
+      "1(-1)": 2.65
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.29
+    },
+    "Percent Profit": "34.72122156144128%",
+    "Formula Type": "12"
+  },
+  "Blackburn Rovers VS Rotherham United": {
+    "1xbet": {
+      "H1(-2.25)": 3.375
+    },
+    "sportybet": {
+      "1(-1)": 2.2
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.479
+    },
+    "Percent Profit": "19.95645938444713%",
+    "Formula Type": "12"
+  },
+  "Bristol City VS Millwall": {
+    "sportybet": {
+      "1(-2)": 9.6
+    },
+    "_sportybet": {
+      "1(-1)": 4.1
+    },
+    "1xbet": {
+      "H2(+2)": 1.037
+    },
+    "Percent Profit": "57.68873823019811%",
+    "Formula Type": "4"
+  },
+  "Leeds United VS Birmingham City": {
+    "sportybet": {
+      "1(-2)": 2.7
+    },
+    "_sportybet": {
+      "1(-1)": 1.68
+    },
+    "1xbet": {
+      "H2(+2)": 1.7
+    },
+    "Percent Profit": "3.69851644361448%",
+    "Formula Type": "4"
+  },
+  "Leicester City VS Huddersfield Town": {
+    "sportybet": {
+      "1(-2)": 2.5
+    },
+    "_sportybet": {
+      "1(-1)": 1.59
+    },
+    "1xbet": {
+      "H2(+2)": 1.8
+    },
+    "Percent Profit": "0.041928721174016914%",
+    "Formula Type": "4"
+  },
+  "Queens Park Rangers VS Cardiff City": {
+    "sportybet": {
+      "1(-2)": 12.0
+    },
+    "_sportybet": {
+      "1(-1)": 4.9
+    },
+    "1xbet": {
+      "H2(+2)": 1.013
+    },
+    "Percent Profit": "64.73279341351545%",
+    "Formula Type": "4"
+  },
+  "Wigan Athletic VS Carlisle United": {
+    "1xbet": {
+      "H1(-2.25)": 6.89
+    },
+    "sportybet": {
+      "1(-1)": 3.7
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.161
+    },
+    "Percent Profit": "50.92545056864412%",
+    "Formula Type": "12"
+  },
+  "Bristol Rovers VS Charlton Athletic": {
+    "sportybet": {
+      "1(-2)": 8.9
+    },
+    "_sportybet": {
+      "1(-1)": 4.0
+    },
+    "1xbet": {
+      "H2(+2)": 1.048
+    },
+    "Percent Profit": "55.851702547388285%",
+    "Formula Type": "4"
+  },
+  "Burton Albion VS Shrewsbury Town": {
+    "sportybet": {
+      "1(-2)": 10.5
+    },
+    "_sportybet": {
+      "1(-1)": 4.3
+    },
+    "1xbet": {
+      "H2(+2)": 1.032
+    },
+    "Percent Profit": "60.20671834625323%",
+    "Formula Type": "4"
+  },
+  "Cheltenham Town VS Reading": {
+    "sportybet": {
+      "1(-2)": 13.0
+    },
+    "_sportybet": {
+      "1(-1)": 5.2
+    },
+    "1xbet": {
+      "H2(+2)": 1.008
+    },
+    "Percent Profit": "66.92495538649385%",
+    "Formula Type": "4"
+  },
+  "Exeter City VS Portsmouth": {
+    "1xbet": {
+      "H1(-0.25)": 3.785
+    },
+    "sportybet": {
+      "1(+1)": 2.1
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.474
+    },
+    "Percent Profit": "21.917906068571043%",
+    "Formula Type": "12"
+  },
+  "Fleetwood Town VS Bolton Wanderers": {
+    "1xbet": {
+      "H1(-0.25)": 3.24
+    },
+    "sportybet": {
+      "1(+1)": 1.92
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.571
+    },
+    "Percent Profit": "14.433323054873526%",
+    "Formula Type": "12"
+  },
+  "Leyton Orient VS Wycombe Wanderers": {
+    "sportybet": {
+      "1(-2)": 10.5
+    },
+    "_sportybet": {
+      "1(-1)": 4.4
+    },
+    "1xbet": {
+      "H2(+2)": 1.029
+    },
+    "Percent Profit": "60.65801707201125%",
+    "Formula Type": "4"
+  },
+  "Lincoln City VS Northampton Town": {
+    "sportybet": {
+      "1(-2)": 12.5
+    },
+    "_sportybet": {
+      "1(-1)": 5.0
+    },
+    "1xbet": {
+      "H2(+2)": 1.015
+    },
+    "Percent Profit": "65.71822660098522%",
+    "Formula Type": "4"
+  },
+  "Oxford United VS Derby County": {
+    "sportybet": {
+      "1(-2)": 16.0
+    },
+    "_sportybet": {
+      "1(-1)": 6.25
+    },
+    "1xbet": {
+      "H2(+2)": 1.01
+    },
+    "Percent Profit": "72.56188118811882%",
+    "Formula Type": "4"
+  },
+  "Peterborough United VS Barnsley": {
+    "1xbet": {
+      "H1(-2.25)": 4.475
+    },
+    "sportybet": {
+      "1(-1)": 2.65
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.31
+    },
+    "Percent Profit": "32.94267529185488%",
+    "Formula Type": "12"
+  },
+  "Port Vale VS Blackpool": {
+    "1xbet": {
+      "H1(-0.25)": 2.905
+    },
+    "sportybet": {
+      "1(+1)": 1.72
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.748
+    },
+    "Percent Profit": "7.6615688411709755%",
+    "Formula Type": "12"
+  },
+  "Stevenage VS Cambridge United": {
+    "1xbet": {
+      "H1(-2.25)": 5.18
+    },
+    "sportybet": {
+      "1(-1)": 2.95
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.261
+    },
+    "Percent Profit": "39.53455894701803%",
+    "Formula Type": "12"
+  },
+  "Barnsley VS Wigan Athletic": {
+    "1xbet": {
+      "H1(-2.25)": 4.625
+    },
+    "sportybet": {
+      "1(-1)": 2.65
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.301
+    },
+    "Percent Profit": "33.77197422141242%",
+    "Formula Type": "12"
+  },
+  "Blackpool VS Lincoln City": {
+    "1xbet": {
+      "H1(-2.25)": 4.625
+    },
+    "sportybet": {
+      "1(-1)": 2.6
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.301
+    },
+    "Percent Profit": "33.173709578203955%",
+    "Formula Type": "12"
+  },
+  "Bolton Wanderers VS Burton Albion": {
+    "1xbet": {
+      "H1(-2.25)": 3.15
+    },
+    "sportybet": {
+      "1(-1)": 2.0
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.533
+    },
+    "Percent Profit": "14.666021297192643%",
+    "Formula Type": "12"
+  },
+  "Cambridge United VS Leyton Orient": {
+    "sportybet": {
+      "1(-2)": 11.5
+    },
+    "_sportybet": {
+      "1(-1)": 4.8
+    },
+    "1xbet": {
+      "H2(+2)": 1.013
+    },
+    "Percent Profit": "63.698549293961115%",
+    "Formula Type": "4"
+  },
+  "Carlisle United VS Port Vale": {
+    "sportybet": {
+      "1(-2)": 14.0
+    },
+    "_sportybet": {
+      "1(-1)": 5.6
+    },
+    "1xbet": {
+      "H2(+2)": 1.003
+    },
+    "Percent Profit": "69.15401753921907%",
+    "Formula Type": "4"
+  },
+  "Derby County VS Peterborough United": {
+    "sportybet": {
+      "1(-2)": 9.0
+    },
+    "_sportybet": {
+      "1(-1)": 4.1
+    },
+    "1xbet": {
+      "H2(+2)": 1.046
+    },
+    "Percent Profit": "56.58619492504676%",
+    "Formula Type": "4"
+  },
+  "Northampton Town VS Cheltenham Town": {
+    "1xbet": {
+      "H1(-2.25)": 7.26
+    },
+    "sportybet": {
+      "1(-1)": 3.6
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.152
+    },
+    "Percent Profit": "51.26530221343384%",
+    "Formula Type": "12"
+  },
+  "Barrow VS Accrington Stanley": {
+    "1xbet": {
+      "H1(-2.25)": 5.43
+    },
+    "sportybet": {
+      "1(-1)": 3.1
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.23
+    },
+    "Percent Profit": "41.716735473128864%",
+    "Formula Type": "12"
+  },
+  "Bradford City VS Stockport County": {
+    "1xbet": {
+      "H1(-0.25)": 2.551
+    },
+    "sportybet": {
+      "1(+1)": 1.59
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.941
+    },
+    "Percent Profit": "0.9092604778774813%",
+    "Formula Type": "12"
+  },
+  "Gillingham VS Sutton United": {
+    "1xbet": {
+      "H1(-2.25)": 5.94
+    },
+    "sportybet": {
+      "1(-1)": 3.3
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.2
+    },
+    "Percent Profit": "45.20967248239975%",
+    "Formula Type": "12"
+  },
+  "Harrogate Town VS Tranmere Rovers": {
+    "sportybet": {
+      "1(-2)": 11.5
+    },
+    "_sportybet": {
+      "1(-1)": 4.9
+    },
+    "1xbet": {
+      "H2(+2)": 1.017
+    },
+    "Percent Profit": "64.12051033059113%",
+    "Formula Type": "4"
+  },
+  "Mansfield Town VS Doncaster Rovers": {
+    "1xbet": {
+      "H1(-2.25)": 3.04
+    },
+    "sportybet": {
+      "1(-1)": 2.05
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.555
+    },
+    "Percent Profit": "14.56037939027432%",
+    "Formula Type": "12"
+  },
+  "Milton Keynes Dons VS Crawley Town": {
+    "1xbet": {
+      "H1(-2.25)": 4.58
+    },
+    "sportybet": {
+      "1(-1)": 2.65
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.29
+    },
+    "Percent Profit": "33.338061352303825%",
+    "Formula Type": "12"
+  },
+  "Newport County VS Crewe Alexandra": {
+    "sportybet": {
+      "1(-2)": 8.6
+    },
+    "_sportybet": {
+      "1(-1)": 3.9
+    },
+    "1xbet": {
+      "H2(+2)": 1.052
+    },
+    "Percent Profit": "54.65943847763637%",
+    "Formula Type": "4"
+  },
+  "Notts County VS Morecambe": {
+    "1xbet": {
+      "H1(-2.25)": 4.085
+    },
+    "sportybet": {
+      "1(-1)": 2.5
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.357
+    },
+    "Percent Profit": "28.990343759863677%",
+    "Formula Type": "12"
+  },
+  "Salford City VS Grimsby Town": {
+    "sportybet": {
+      "1(-2)": 10.5
+    },
+    "_sportybet": {
+      "1(-1)": 4.6
+    },
+    "1xbet": {
+      "H2(+2)": 1.024
+    },
+    "Percent Profit": "61.50685817805383%",
+    "Formula Type": "4"
+  },
+  "Swindon Town VS Forest Green Rovers": {
+    "1xbet": {
+      "H1(-2.25)": 6.43
+    },
+    "sportybet": {
+      "1(-1)": 3.7
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.168
+    },
+    "Percent Profit": "49.454795591449184%",
+    "Formula Type": "12"
+  },
+  "Walsall VS Wrexham": {
+    "1xbet": {
+      "H1(-0.25)": 2.906
+    },
+    "sportybet": {
+      "1(+1)": 1.77
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.74
+    },
+    "Percent Profit": "8.85608240512424%",
+    "Formula Type": "12"
+  },
+  "Wimbledon VS Colchester United": {
+    "1xbet": {
+      "H1(-2.25)": 4.075
+    },
+    "sportybet": {
+      "1(-1)": 2.45
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.361
+    },
+    "Percent Profit": "28.309461062379697%",
+    "Formula Type": "12"
+  },
+  "Accrington Stanley VS Salford City": {
+    "sportybet": {
+      "1(-2)": 6.4
+    },
+    "_sportybet": {
+      "1(-1)": 3.2
+    },
+    "1xbet": {
+      "H2(+2)": 1.099
+    },
+    "Percent Profit": "43.7903420723385%",
+    "Formula Type": "4"
+  },
+  "Colchester United VS Gillingham": {
+    "sportybet": {
+      "1(-2)": 11.0
+    },
+    "_sportybet": {
+      "1(-1)": 4.8
+    },
+    "1xbet": {
+      "H2(+2)": 1.022
+    },
+    "Percent Profit": "63.07448259503054%",
+    "Formula Type": "4"
+  },
+  "Crawley Town VS Swindon Town": {
+    "sportybet": {
+      "1(-2)": 9.4
+    },
+    "_sportybet": {
+      "1(-1)": 4.4
+    },
+    "1xbet": {
+      "H2(+2)": 1.037
+    },
+    "Percent Profit": "58.79349932572198%",
+    "Formula Type": "4"
+  },
+  "Crewe Alexandra VS Bradford City": {
+    "sportybet": {
+      "1(-2)": 9.9
+    },
+    "_sportybet": {
+      "1(-1)": 4.4
+    },
+    "1xbet": {
+      "H2(+2)": 1.033
+    },
+    "Percent Profit": "59.689075921584944%",
+    "Formula Type": "4"
+  },
+  "Doncaster Rovers VS Milton Keynes Dons": {
+    "1xbet": {
+      "H1(-2.5)": 10.0
+    },
+    "sportybet": {
+      "1(-1)": 5.8
+    },
+    "_1xbet": {
+      "H2(+2)": 1.003
+    },
+    "Percent Profit": "64.51266888988206%",
+    "Formula Type": "4"
+  },
+  "Grimsby Town VS Walsall": {
+    "sportybet": {
+      "1(-2)": 7.5
+    },
+    "_sportybet": {
+      "1(-1)": 3.6
+    },
+    "1xbet": {
+      "H2(+2)": 1.072
+    },
+    "Percent Profit": "50.15478164731897%",
+    "Formula Type": "4"
+  },
+  "Morecambe VS Harrogate Town": {
+    "1xbet": {
+      "H1(-2.25)": 6.14
+    },
+    "sportybet": {
+      "1(-1)": 3.33
+    },
+    "22bet": {
+      "H2(+1.75)": 1.192
+    },
+    "Percent Profit": "46.12789815290239%",
+    "Formula Type": "12"
+  },
+  "Hertha BSC VS 1. Kaiserslautern": {
+    "1xbet": {
+      "H1(-2.25)": 6.27
+    },
+    "sportybet": {
+      "1(-1)": 3.4
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.209
+    },
+    "Percent Profit": "47.39124687335876%",
+    "Formula Type": "12"
+  },
+  "Bayern Munich VS TSG 1899 Hoffenheim": {
+    "1xbet": {
+      "Under(2.75)": 3.48
+    },
+    "betking": {
+      "Over(2.5)": 1.24
+    },
+    "_1xbet": {
+      "Under(3)": 3.2
+    },
+    "Percent Profit": "0.9421242457949859%",
+    "Formula Type": "10"
+  },
+  "Augsburg VS Bayer 04 Leverkusen": {
+    "1xbet": {
+      "H1(-0.25)": 4.625
+    },
+    "sportybet": {
+      "1(+1)": 2.55
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.354
+    },
+    "Percent Profit": "33.22535926200342%",
+    "Formula Type": "12"
+  },
+  "Freiburg VS Union Berlin": {
+    "sportybet": {
+      "1(-2)": 9.25
+    },
+    "_sportybet": {
+      "1(-1)": 4.0
+    },
+    "1xbet": {
+      "H2(+2)": 1.048
+    },
+    "Percent Profit": "56.57623272127089%",
+    "Formula Type": "4"
+  },
+  "Darmstadt 98 VS Borussia Dortmund": {
+    "1xbet": {
+      "H1(-0.25)": 4.22
+    },
+    "sportybet": {
+      "1(+1)": 2.4
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.392
+    },
+    "Percent Profit": "29.05783549047527%",
+    "Formula Type": "12"
+  },
+  "VfL Bochum VS Werder Bremen": {
+    "sportybet": {
+      "1(-2)": 8.4
+    },
+    "_sportybet": {
+      "1(-1)": 3.9
+    },
+    "1xbet": {
+      "H2(+2)": 1.062
+    },
+    "Percent Profit": "54.29695853424667%",
+    "Formula Type": "4"
+  },
+  "1. FSV Mainz 05 VS Union Berlin": {
+    "sportybet": {
+      "1(-2)": 10.5
+    },
+    "_sportybet": {
+      "1(-1)": 4.5
+    },
+    "1xbet": {
+      "H2(+2)": 1.032
+    },
+    "Percent Profit": "61.141872769779745%",
+    "Formula Type": "4"
+  },
+  "1. Heidenheim VS VfL Wolfsburg": {
+    "1xbet": {
+      "H1(-0.25)": 2.629
+    },
+    "sportybet": {
+      "1(+1)": 1.63
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.908
+    },
+    "Percent Profit": "2.9167728266618127%",
+    "Formula Type": "12"
+  },
+  "Freiburg VS TSG 1899 Hoffenheim": {
+    "sportybet": {
+      "1(-2)": 9.4
+    },
+    "_sportybet": {
+      "1(-1)": 4.25
+    },
+    "1xbet": {
+      "H2(+2)": 1.042
+    },
+    "Percent Profit": "58.1259203562995%",
+    "Formula Type": "4"
+  },
+  "VfL Bochum VS VfB Stuttgart": {
+    "1xbet": {
+      "H1(-0.25)": 3.82
+    },
+    "sportybet": {
+      "1(+1)": 2.2
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.463
+    },
+    "Percent Profit": "23.814155648573617%",
+    "Formula Type": "12"
+  },
+  "Bayern Munich VS Werder Bremen": {
+    "1xbet": {
+      "Under(2.75)": 3.765
+    },
+    "merrybet": {
+      "Over(2.5)": 1.21
+    },
+    "_1xbet": {
+      "Under(3)": 3.42
+    },
+    "Percent Profit": "0.8179199510044555%",
+    "Formula Type": "10"
+  },
+  "Fiorentina VS Torino": {
+    "sportybet": {
+      "1(-2)": 11.5
+    },
+    "_sportybet": {
+      "1(-1)": 4.5
+    },
+    "1xbet": {
+      "H2(+2)": 1.032
+    },
+    "Percent Profit": "62.588473205257834%",
+    "Formula Type": "4"
+  },
+  "Genoa VS Internazionale Milano": {
+    "1xbet": {
+      "H1(-0.75)": 11.6
+    },
+    "_1xbet": {
+      "2X": 1.172
+    },
+    "Percent Profit": "0.24564609885379696%",
+    "Formula Type": "8"
+  },
+  "Lazio VS Frosinone Calcio": {
+    "1xbet": {
+      "H1(-2.25)": 5.55
+    },
+    "sportybet": {
+      "1(-1)": 3.0
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.258
+    },
+    "Percent Profit": "41.74728818528292%",
+    "Formula Type": "12"
+  },
+  "Atalanta VS Lecce": {
+    "1xbet": {
+      "H1(-2.25)": 3.675
+    },
+    "sportybet": {
+      "1(-1)": 2.3
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.459
+    },
+    "Percent Profit": "24.123305757901832%",
+    "Formula Type": "12"
+  },
+  "Cagliari Calcio VS Empoli": {
+    "sportybet": {
+      "1(-2)": 9.1
+    },
+    "_sportybet": {
+      "1(-1)": 3.9
+    },
+    "1xbet": {
+      "H2(+2)": 1.058
+    },
+    "Percent Profit": "55.801069658856484%",
+    "Formula Type": "4"
+  },
+  "Milan VS Sassuolo Calcio": {
+    "1xbet": {
+      "H1(-2.25)": 3.375
+    },
+    "sportybet": {
+      "1(-1)": 2.2
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.511
+    },
+    "Percent Profit": "20.326576014014194%",
+    "Formula Type": "12"
+  },
+  "Juventus VS Roma": {
+    "1xbet": {
+      "H1(-2.25)": 11.0
+    },
+    "sportybet": {
+      "1(-1)": 4.3
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.129
+    },
+    "Percent Profit": "62.32416971131062%",
+    "Formula Type": "12"
+  },
+  "Bologna 1909 VS Genoa": {
+    "1xbet": {
+      "H1(-2.25)": 7.4
+    },
+    "sportybet": {
+      "1(-1)": 3.5
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.176
+    },
+    "Percent Profit": "51.2782435859359%",
+    "Formula Type": "12"
+  },
+  "Sassuolo Calcio VS Fiorentina": {
+    "1xbet": {
+      "H1(-0.25)": 2.605
+    },
+    "sportybet": {
+      "1(+1)": 1.62
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.966
+    },
+    "Percent Profit": "2.6802252443989545%",
+    "Formula Type": "12"
+  },
+  "Empoli VS Milan": {
+    "1xbet": {
+      "H1(-0.25)": 4.06
+    },
+    "sportybet": {
+      "1(+1)": 2.2
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.442
+    },
+    "Percent Profit": "25.41048526113319%",
+    "Formula Type": "12"
+  },
+  "Torino VS Napoli": {
+    "1xbet": {
+      "H1(-0.25)": 2.659
+    },
+    "sportybet": {
+      "1(+1)": 1.58
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.946
+    },
+    "Percent Profit": "2.1131008754007325%",
+    "Formula Type": "12"
+  },
+  "Getafe VS Rayo Vallecano": {
+    "sportybet": {
+      "1(-2)": 13.5
+    },
+    "_sportybet": {
+      "1(-1)": 5.1
+    },
+    "1xbet": {
+      "H2(+2)": 1.009
+    },
+    "Percent Profit": "67.0958468914123%",
+    "Formula Type": "4"
+  },
+  "Real Sociedad VS Deportivo Alaves": {
+    "1xbet": {
+      "H1(-2.25)": 4.945
+    },
+    "sportybet": {
+      "1(-1)": 2.65
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.31
+    },
+    "Percent Profit": "35.729549620717236%",
+    "Formula Type": "12"
+  },
+  "Valencia VS Villarreal": {
+    "sportybet": {
+      "1(-2)": 10.0
+    },
+    "_sportybet": {
+      "1(-1)": 4.4
+    },
+    "1xbet": {
+      "H2(+2)": 1.031
+    },
+    "Percent Profit": "59.846133497927866%",
+    "Formula Type": "4"
+  },
+  "Granada VS Cadiz": {
+    "sportybet": {
+      "1(-2)": 12.0
+    },
+    "_sportybet": {
+      "1(-1)": 4.75
+    },
+    "1xbet": {
+      "H2(+2)": 1.017
+    },
+    "Percent Profit": "64.17438630992427%",
+    "Formula Type": "4"
+  },
+  "Celta VS Real Betis": {
+    "sportybet": {
+      "1(-2)": 11.5
+    },
+    "_sportybet": {
+      "1(-1)": 4.8
+    },
+    "1xbet": {
+      "H2(+2)": 1.017
+    },
+    "Percent Profit": "63.73231157282716%",
+    "Formula Type": "4"
+  },
+  "Real Madrid VS Mallorca": {
+    "1xbet": {
+      "H1(-2.25)": 2.444
+    },
+    "sportybet": {
+      "1(-1)": 1.69
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.97
+    },
+    "Percent Profit": "2.217678246886365%",
+    "Formula Type": "12"
+  },
+  "Girona VS Atletico Madrid": {
+    "sportybet": {
+      "1(-2)": 11.5
+    },
+    "_sportybet": {
+      "1(-1)": 4.9
+    },
+    "1xbet": {
+      "H2(+2)": 1.027
+    },
+    "Percent Profit": "64.20376541455244%",
+    "Formula Type": "4"
+  },
+  "Osasuna VS UD Almer\u00eda": {
+    "1xbet": {
+      "H1(-2.25)": 5.1
+    },
+    "sportybet": {
+      "1(-1)": 2.8
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.285
+    },
+    "Percent Profit": "37.92039108637084%",
+    "Formula Type": "12"
+  },
+  "Sevilla VS Athletic Bilbao": {
+    "1xbet": {
+      "H1(-0.25)": 2.69
+    },
+    "sportybet": {
+      "1(+1)": 1.64
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.908
+    },
+    "Percent Profit": "4.00694656236864%",
+    "Formula Type": "12"
+  },
+  "Las Palmas VS Barcelona": {
+    "1xbet": {
+      "H1(-0.25)": 4.82
+    },
+    "sportybet": {
+      "1(+1)": 2.4
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.351
+    },
+    "Percent Profit": "32.25852589013331%",
+    "Formula Type": "12"
+  },
+  "Las Palmas VS Villarreal": {
+    "sportybet": {
+      "1(-2)": 12.0
+    },
+    "_sportybet": {
+      "1(-1)": 5.0
+    },
+    "1xbet": {
+      "H2(+2)": 1.018
+    },
+    "Percent Profit": "65.14734774066798%",
+    "Formula Type": "4"
+  },
+  "Mallorca VS Celta": {
+    "sportybet": {
+      "1(-2)": 14.0
+    },
+    "_sportybet": {
+      "1(-1)": 5.25
+    },
+    "1xbet": {
+      "H2(+2)": 1.007
+    },
+    "Percent Profit": "68.07686331732296%",
+    "Formula Type": "4"
+  },
+  "Athletic Bilbao VS Real Sociedad": {
+    "sportybet": {
+      "1(-2)": 10.5
+    },
+    "_sportybet": {
+      "1(-1)": 4.3
+    },
+    "1xbet": {
+      "H2(+2)": 1.035
+    },
+    "Percent Profit": "60.23346761466074%",
+    "Formula Type": "4"
+  },
+  "Real Betis VS Granada": {
+    "1xbet": {
+      "H1(-2.25)": 4.295
+    },
+    "sportybet": {
+      "1(-1)": 2.5
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.359
+    },
+    "Percent Profit": "30.531833723866043%",
+    "Formula Type": "12"
+  },
+  "UD Almer\u00eda VS Girona": {
+    "1xbet": {
+      "H1(-0.25)": 3.28
+    },
+    "sportybet": {
+      "1(+1)": 2.05
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.563
+    },
+    "Percent Profit": "17.32497511056839%",
+    "Formula Type": "12"
+  },
+  "Cadiz VS Valencia": {
+    "sportybet": {
+      "1(-2)": 16.5
+    },
+    "_sportybet": {
+      "1(-1)": 6.1
+    },
+    "1xbet": {
+      "H2(+2)": 1.02
+    },
+    "Percent Profit": "72.59772264593866%",
+    "Formula Type": "4"
+  },
+  "Lille OSC VS Lorient": {
+    "1xbet": {
+      "H1(-2.25)": 3.2
+    },
+    "sportybet": {
+      "1(-1)": 2.05
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.553
+    },
+    "Percent Profit": "16.37206703263614%",
+    "Formula Type": "12"
+  },
+  "Metz VS Toulouse": {
+    "1xbet": {
+      "H1(-0.25)": 2.575
+    },
+    "sportybet": {
+      "1(+1)": 1.56
+    },
+    "_1xbet": {
+      "H2(-0.25)": 2.016
+    },
+    "Percent Profit": "0.8064669744614434%",
+    "Formula Type": "12"
+  },
+  "Nantes VS Clermont Foot": {
+    "sportybet": {
+      "1(-2)": 8.7
+    },
+    "_sportybet": {
+      "1(-1)": 3.75
+    },
+    "1xbet": {
+      "H2(+2)": 1.065
+    },
+    "Percent Profit": "54.11148885651072%",
+    "Formula Type": "4"
+  },
+  "Le Havre VS Lyon": {
+    "1xbet": {
+      "H1(-0.25)": 2.659
+    },
+    "sportybet": {
+      "1(+1)": 1.6
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.966
+    },
+    "Percent Profit": "2.826002913218602%",
+    "Formula Type": "12"
+  },
+  "Nice VS Metz": {
+    "1xbet": {
+      "H1(-2.25)": 3.26
+    },
+    "sportybet": {
+      "1(-1)": 2.05
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.553
+    },
+    "Percent Profit": "17.013431054031585%",
+    "Formula Type": "12"
+  },
+  "Olympique de Marseille VS AS Monaco": {
+    "1xbet": {
+      "H1(0)": 1.566
+    },
+    "_1xbet": {
+      "12": 1.308
+    },
+    "22bet": {
+      "H2(+0.25)": 3.215
+    },
+    "Percent Profit": "10.186806061335602%",
+    "Formula Type": "20"
+  },
+  "Montpellier HSC VS Lille OSC": {
+    "1xbet": {
+      "H1(-0.25)": 2.475
+    },
+    "sportybet": {
+      "1(+1)": 1.58
+    },
+    "_1xbet": {
+      "H2(-0.25)": 2.03
+    },
+    "Percent Profit": "0.06543468941084996%",
+    "Formula Type": "12"
+  },
+  "Clermont Foot VS Strasbourg": {
+    "1xbet": {
+      "H1(-0.25)": 2.605
+    },
+    "sportybet": {
+      "1(+1)": 1.62
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.956
+    },
+    "Percent Profit": "2.618056808715778%",
+    "Formula Type": "12"
+  },
+  "Lorient VS Le Havre": {
+    "sportybet": {
+      "1(-2)": 13.0
+    },
+    "_sportybet": {
+      "1(-1)": 5.2
+    },
+    "1xbet": {
+      "H2(+2)": 1.009
+    },
+    "Percent Profit": "66.93251857542472%",
+    "Formula Type": "4"
+  },
+  "Toulouse VS RC Lens": {
+    "1xbet": {
+      "H1(-0.25)": 2.983
+    },
+    "sportybet": {
+      "1(+1)": 1.75
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.771
+    },
+    "Percent Profit": "9.492097344846982%",
+    "Formula Type": "12"
+  },
+  "AS Saint-Etienne VS Stade Lavallois": {
+    "sportybet": {
+      "1(-2)": 10.5
+    },
+    "_sportybet": {
+      "1(-1)": 4.4
+    },
+    "1xbet": {
+      "H2(+2)": 1.05
+    },
+    "Percent Profit": "60.84312512883942%",
+    "Formula Type": "4"
+  },
+  "Bastia VS Angers SCO": {
+    "22bet": {
+      "H1(-0.25)": 2.77
+    },
+    "sportybet": {
+      "1(+1)": 1.6
+    },
+    "_22bet": {
+      "H2(-0.25)": 1.95
+    },
+    "Percent Profit": "4.1220590065977945%",
+    "Formula Type": "12"
+  },
+  "Grenoble Foot 38 VS USL Dunkerque": {
+    "1xbet": {
+      "H1(-2.25)": 5.95
+    },
+    "sportybet": {
+      "1(-1)": 3.1
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.246
+    },
+    "Percent Profit": "44.19827950206287%",
+    "Formula Type": "12"
+  },
+  "Paris VS Annecy": {
+    "sportybet": {
+      "1(-2)": 8.0
+    },
+    "_sportybet": {
+      "1(-1)": 3.6
+    },
+    "1xbet": {
+      "H2(+2)": 1.09
+    },
+    "Percent Profit": "51.726554536187564%",
+    "Formula Type": "4"
+  },
+  "Rodez Aveyron VS Pau": {
+    "1xbet": {
+      "H1(-2.25)": 6.88
+    },
+    "sportybet": {
+      "1(-1)": 3.4
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.218
+    },
+    "Percent Profit": "49.557546993663045%",
+    "Formula Type": "12"
+  },
+  "Troyes AC VS AC Ajaccio": {
+    "sportybet": {
+      "1(-1)": 6.3
+    },
+    "_sportybet": {
+      "1": 2.8
+    },
+    "1xbet": {
+      "H2(+1)": 1.14
+    },
+    "Percent Profit": "40.15793451883678%",
+    "Formula Type": "4"
+  },
+  "Valenciennes VS Amiens SC": {
+    "1xbet": {
+      "H1(-0.25)": 2.735
+    },
+    "sportybet": {
+      "1(+1)": 1.56
+    },
+    "22bet": {
+      "H2(-0.25)": 1.943
+    },
+    "Percent Profit": "2.4447952165572673%",
+    "Formula Type": "12"
+  },
+  "RC Lens VS Freiburg": {
+    "nairabet": {
+      "1(Draw no bet)": 1.53
+    },
+    "1xbet": {
+      "2X": 1.916
+    },
+    "_1xbet": {
+      "2": 4.09
+    },
+    "Percent Profit": "0.5806057792749186%",
+    "Formula Type": "4"
+  },
+  "Sydney VS Wellington Phoenix": {
+    "1xbet": {
+      "H1(-2.25)": 5.21
+    },
+    "sportybet": {
+      "1(-1)": 2.8
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.25
+    },
+    "Percent Profit": "38.00840873777533%",
+    "Formula Type": "12"
+  },
+  "Newcastle Jets VS Western United": {
+    "1xbet": {
+      "H1(-2.25)": 7.27
+    },
+    "sportybet": {
+      "1(-1)": 3.8
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.152
+    },
+    "Percent Profit": "52.578459253508406%",
+    "Formula Type": "12"
+  },
+  "Melbourne Victory VS Adelaide United": {
+    "1xbet": {
+      "H1(-2.25)": 4.295
+    },
+    "sportybet": {
+      "1(-1)": 2.65
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.331
+    },
+    "Percent Profit": "32.008503595689646%",
+    "Formula Type": "12"
+  },
+  "Central Coast Mariners VS Perth Glory": {
+    "1xbet": {
+      "H1(-2.25)": 3.79
+    },
+    "sportybet": {
+      "1(-1)": 2.4
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.389
+    },
+    "Percent Profit": "25.696829123272508%",
+    "Formula Type": "12"
+  },
+  "Western Sydney Wanderers VS Macarthur Sydney": {
+    "1xbet": {
+      "H1(-2.25)": 4.835
+    },
+    "sportybet": {
+      "1(-1)": 2.8
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.282
+    },
+    "Percent Profit": "36.43382896074666%",
+    "Formula Type": "12"
+  },
+  "Adelaide United VS Wellington Phoenix": {
+    "sportybet": {
+      "1(-2)": 8.2
+    },
+    "_sportybet": {
+      "1(-1)": 3.9
+    },
+    "1xbet": {
+      "H2(+2)": 1.059
+    },
+    "Percent Profit": "53.77511086071854%",
+    "Formula Type": "4"
+  },
+  "Western Sydney Wanderers VS Central Coast Mariners": {
+    "sportybet": {
+      "1(-1)": 4.0
+    },
+    "1xbet": {
+      "1": 2.32
+    },
+    "_1xbet": {
+      "H2(+1)": 1.325
+    },
+    "Percent Profit": "23.80448926480156%",
+    "Formula Type": "4"
+  },
+  "Brisbane Roar VS Sydney": {
+    "sportybet": {
+      "1(-2)": 9.1
+    },
+    "_sportybet": {
+      "1(-1)": 4.3
+    },
+    "1xbet": {
+      "H2(+2)": 1.035
+    },
+    "Percent Profit": "57.69335708668367%",
+    "Formula Type": "4"
+  },
+  "Perth Glory VS Melbourne Victory": {
+    "1xbet": {
+      "H1(-0.25)": 3.235
+    },
+    "sportybet": {
+      "1(+1)": 1.98
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.563
+    },
+    "Percent Profit": "15.520850053340268%",
+    "Formula Type": "12"
+  },
+  "Western United VS Melbourne City": {
+    "1xbet": {
+      "H1(-0.25)": 3.235
+    },
+    "sportybet": {
+      "1(+1)": 1.92
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.573
+    },
+    "Percent Profit": "14.401465434415925%",
+    "Formula Type": "12"
+  },
+  "Dundee United VS Partick Thistle": {
+    "1xbet": {
+      "H1(-2.25)": 4.15
+    },
+    "sportybet": {
+      "1(-1)": 2.55
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.341
+    },
+    "Percent Profit": "29.895703679233947%",
+    "Formula Type": "12"
+  },
+  "Ayr United VS Dunfermline Athletic": {
+    "sportybet": {
+      "1(-2)": 12.0
+    },
+    "_sportybet": {
+      "1(-1)": 5.0
+    },
+    "1xbet": {
+      "H2(+2)": 1.01
+    },
+    "Percent Profit": "65.08250825082509%",
+    "Formula Type": "4"
+  },
+  "Queen's Park VS Airdrieonians": {
+    "sportybet": {
+      "1(-2)": 12.5
+    },
+    "_sportybet": {
+      "1(-1)": 5.2
+    },
+    "1xbet": {
+      "H2(+2)": 1.013
+    },
+    "Percent Profit": "66.41035765813653%",
+    "Formula Type": "4"
+  },
+  "Raith Rovers VS Arbroath": {
+    "1xbet": {
+      "H1(-2.25)": 3.175
+    },
+    "sportybet": {
+      "1(-1)": 2.1
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.509
+    },
+    "Percent Profit": "16.492475110581452%",
+    "Formula Type": "12"
+  },
+  "Hapoel Petah Tikva VS Hapoel Jerusalem": {
+    "sportybet": {
+      "1(-2)": 15.0
+    },
+    "_sportybet": {
+      "1(-1)": 6.0
+    },
+    "1xbet": {
+      "H2(+2)": 1.01
+    },
+    "Percent Profit": "71.17711771177117%",
+    "Formula Type": "4"
+  },
+  "Maccabi Bnei Raina VS Bnei Sakhnin": {
+    "sportybet": {
+      "1(-2)": 9.75
+    },
+    "_sportybet": {
+      "1(-1)": 4.1
+    },
+    "22bet": {
+      "H2(+2)": 1.042
+    },
+    "Percent Profit": "58.01190523347726%",
+    "Formula Type": "4"
+  },
+  "Ashdod VS Hapoel Be'er Sheva": {
+    "22bet": {
+      "H1(-0.25)": 3.74
+    },
+    "sportybet": {
+      "1(+1)": 1.97
+    },
+    "1xbet": {
+      "H2(-0.25)": 1.533
+    },
+    "Percent Profit": "19.629742323199252%",
+    "Formula Type": "12"
+  },
+  "Beitar Jerusalem VS Maccabi Petah Tikva": {
+    "sportybet": {
+      "1(-2)": 7.9
+    },
+    "_sportybet": {
+      "1(-1)": 3.7
+    },
+    "1xbet": {
+      "H2(+2)": 1.066
+    },
+    "Percent Profit": "51.86137761006548%",
+    "Formula Type": "4"
+  },
+  "Hapoel Haifa VS Maccabi Tel Aviv": {
+    "1xbet": {
+      "H1(+0.75)": 2.711
+    },
+    "sportybet": {
+      "1(+2)": 1.73
+    },
+    "_1xbet": {
+      "H2(-1.25)": 1.788
+    },
+    "Percent Profit": "5.789846289902414%",
+    "Formula Type": "12"
+  },
+  "Hapoel Tel Aviv VS Maccabi Haifa": {
+    "1xbet": {
+      "H1(-0.25)": 4.4
+    },
+    "sportybet": {
+      "1(+1)": 2.3
+    },
+    "_1xbet": {
+      "H2(-0.25)": 1.363
+    },
+    "Percent Profit": "28.430101814151385%",
+    "Formula Type": "12"
+  },
+  "Elversberg VS Hannover 96": {
+    "sportybet": {
+      "1(-2)": 8.2
+    },
+    "_sportybet": {
+      "1(-1)": 3.9
+    },
+    "1xbet": {
+      "H2(+2)": 1.05
+    },
+    "Percent Profit": "53.67640489591709%",
+    "Formula Type": "4"
+  },
+  "1. Magdeburg VS Wehen Wiesbaden": {
+    "1xbet": {
+      "H1(-2.25)": 4.795
+    },
+    "sportybet": {
+      "1(-1)": 2.8
+    },
+    "_1xbet": {
+      "H2(+1.75)": 1.262
+    },
+    "Percent Profit": "35.91400006177538%",
+    "Formula Type": "12"
+  },
+  "Paderborn 07 VS Greuther Furth": {
+    "sportybet": {
+      "1(-2)": 8.3
+    },
+    "_sportybet": {
+      "1(-1)": 4.0
+    },
+    "1xbet": {
+      "H2(+2)": 1.044
+    },
+    "Percent Profit": "54.42344088999677%",
+    "Formula Type": "4"
+  },
+  "Chelsea VS Fulham": {
+    "1xbet": {
+      "H1(-2.25)": 3.955
+    },
+    "sportybet": {
+      "1(-1)": 2.4
+    },
+    "betwinner": {
+      "H2(+1.75)": 1.428
+    },
+    "Percent Profit": "27.531532906113327%",
+    "Formula Type": "12"
+  },
+  "Newcastle United VS Manchester City": {
+    "1xbet": {
+      "H1(-0.75)": 7.04
+    },
+    "betwinner": {
+      "H2(+1)": 1.08
+    },
+    "_1xbet": {
+      "2X": 1.259
+    },
+    "Percent Profit": "0.26829554480467266%",
+    "Formula Type": "15"
+  },
+  "Bournemouth VS Liverpool": {
+    "merrybet": {
+      "1": 4.71
+    },
+    "sportybet": {
+      "1(+1)": 2.2
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.3
+    },
+    "Percent Profit": "26.632815167847014%",
+    "Formula Type": "4"
+  },
+  "Sydney FC - Wellington Phoenix": {
+    "betwinner": {
+      "H1(-2.25)": 5.21
+    },
+    "sportybet": {
+      "1(-1)": 2.8
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.25
+    },
+    "Percent Profit": "38.00840873777533%",
+    "Formula Type": "12"
+  },
+  "Melbourne Victory - Adelaide United": {
+    "betwinner": {
+      "H1(-2.25)": 4.295
+    },
+    "sportybet": {
+      "1(-1)": 2.65
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.331
+    },
+    "Percent Profit": "32.008503595689646%",
+    "Formula Type": "12"
+  },
+  "Central Coast Mariners - Perth Glory": {
+    "betwinner": {
+      "H1(-2.25)": 3.79
+    },
+    "sportybet": {
+      "1(-1)": 2.4
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.389
+    },
+    "Percent Profit": "25.696829123272508%",
+    "Formula Type": "12"
+  },
+  "Western Sydney Wanderers - Macarthur FC": {
+    "betwinner": {
+      "H1(-2.25)": 4.835
+    },
+    "sportybet": {
+      "1(-1)": 2.8
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.282
+    },
+    "Percent Profit": "36.43382896074666%",
+    "Formula Type": "12"
+  },
+  "Adelaide United - Wellington Phoenix": {
+    "sportybet": {
+      "1(-2)": 8.2
+    },
+    "_sportybet": {
+      "1(-1)": 3.9
+    },
+    "betwinner": {
+      "H2(+2)": 1.059
+    },
+    "Percent Profit": "53.77511086071854%",
+    "Formula Type": "4"
+  },
+  "Macarthur FC - Newcastle Jets": {
+    "sportybet": {
+      "1(-2)": 7.2
+    },
+    "_sportybet": {
+      "1(-1)": 3.5
+    },
+    "betwinner": {
+      "H2(+2)": 1.074
+    },
+    "Percent Profit": "48.57601016818893%",
+    "Formula Type": "4"
+  },
+  "Western Sydney Wanderers - Central Coast Mariners": {
+    "sportybet": {
+      "1(-1)": 4.0
+    },
+    "betwinner": {
+      "1": 2.32
+    },
+    "_betwinner": {
+      "H2(+1)": 1.325
+    },
+    "Percent Profit": "23.80448926480156%",
+    "Formula Type": "4"
+  },
+  "Brisbane Roar - Sydney FC": {
+    "sportybet": {
+      "1(-2)": 9.1
+    },
+    "_sportybet": {
+      "1(-1)": 4.3
+    },
+    "betwinner": {
+      "H2(+2)": 1.035
+    },
+    "Percent Profit": "57.69335708668367%",
+    "Formula Type": "4"
+  },
+  "Perth Glory - Melbourne Victory": {
+    "betwinner": {
+      "H1(-0.25)": 3.235
+    },
+    "sportybet": {
+      "1(+1)": 1.98
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.563
+    },
+    "Percent Profit": "15.520850053340268%",
+    "Formula Type": "12"
+  },
+  "Western United - Melbourne City": {
+    "betwinner": {
+      "H1(-0.25)": 3.235
+    },
+    "sportybet": {
+      "1(+1)": 1.92
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.573
+    },
+    "Percent Profit": "14.401465434415925%",
+    "Formula Type": "12"
+  },
+  "PAS Lamia 1964 - Olympiakos": {
+    "bet9ja": {
+      "1": 8.7
+    },
+    "sportybet": {
+      "1(+1)": 2.95
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.12
+    },
+    "Percent Profit": "48.24107316801647%",
+    "Formula Type": "4"
+  },
+  "Olympiacos Piraeus B - Kallithea": {
+    "bet9ja": {
+      "1": 3.05
+    },
+    "betking": {
+      "X": 3.2
+    },
+    "_betking": {
+      "2": 2.9
+    },
+    "Percent Profit": "1.480356133408705%",
+    "Formula Type": "2"
+  },
+  "Hapoel Petah Tikva - Hapoel Katamon Jerusalem": {
+    "sportybet": {
+      "1(-2)": 15.0
+    },
+    "_sportybet": {
+      "1(-1)": 6.0
+    },
+    "betwinner": {
+      "H2(+2)": 1.01
+    },
+    "Percent Profit": "71.17711771177117%",
+    "Formula Type": "4"
+  },
+  "Maccabi Bney Reine - Bnei Sakhnin": {
+    "sportybet": {
+      "1(-2)": 9.75
+    },
+    "_sportybet": {
+      "1(-1)": 4.1
+    },
+    "paripesa": {
+      "H2(+2)": 1.039
+    },
+    "Percent Profit": "57.983484624955075%",
+    "Formula Type": "4"
+  },
+  "Hapoel Hadera FC - Maccabi Netanya": {
+    "merrybet": {
+      "1": 3.5
+    },
+    "sportybet": {
+      "1(+1)": 1.77
+    },
+    "betpawa": {
+      "2(Draw no bet)": 1.51
+    },
+    "Percent Profit": "12.151970452565351%",
+    "Formula Type": "4"
+  },
+  "Ashdod - Hapoel Beer Sheva": {
+    "betwinner": {
+      "H1(-0.25)": 3.42
+    },
+    "sportybet": {
+      "1(+1)": 1.97
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.533
+    },
+    "Percent Profit": "16.859324886286615%",
+    "Formula Type": "12"
+  },
+  "Beitar Jerusalem - Maccabi Ironi Petah Tikva": {
+    "sportybet": {
+      "1(-2)": 7.9
+    },
+    "_sportybet": {
+      "1(-1)": 3.7
+    },
+    "betwinner": {
+      "H2(+2)": 1.066
+    },
+    "Percent Profit": "51.86137761006548%",
+    "Formula Type": "4"
+  },
+  "Hapoel Haifa - Maccabi Tel Aviv": {
+    "betwinner": {
+      "H1(+0.75)": 2.711
+    },
+    "sportybet": {
+      "1(+2)": 1.73
+    },
+    "_betwinner": {
+      "H2(-1.25)": 1.788
+    },
+    "Percent Profit": "5.789846289902414%",
+    "Formula Type": "12"
+  },
+  "Hapoel Tel Aviv - Maccabi Haifa": {
+    "betwinner": {
+      "H1(-0.25)": 4.4
+    },
+    "sportybet": {
+      "1(+1)": 2.3
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.363
+    },
+    "Percent Profit": "28.430101814151385%",
+    "Formula Type": "12"
+  },
+  "Bayern Munich - Hoffenheim": {
+    "betwinner": {
+      "Under(2.75)": 3.48
+    },
+    "betking": {
+      "Over(2.5)": 1.24
+    },
+    "_betwinner": {
+      "Under(3)": 3.2
+    },
+    "Percent Profit": "0.9421242457949859%",
+    "Formula Type": "10"
+  },
+  "Augsburg - Bayer Leverkusen": {
+    "betwinner": {
+      "H1(-0.25)": 4.625
+    },
+    "sportybet": {
+      "1(+1)": 2.55
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.354
+    },
+    "Percent Profit": "33.22535926200342%",
+    "Formula Type": "12"
+  },
+  "Freiburg - Union Berlin": {
+    "sportybet": {
+      "1(-2)": 9.25
+    },
+    "_sportybet": {
+      "1(-1)": 4.0
+    },
+    "betwinner": {
+      "H2(+2)": 1.048
+    },
+    "Percent Profit": "56.57623272127089%",
+    "Formula Type": "4"
+  },
+  "Bochum - Stuttgart": {
+    "merrybet": {
+      "1": 4.62
+    },
+    "sportybet": {
+      "1(+1)": 2.2
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.31
+    },
+    "Percent Profit": "26.21616181643941%",
+    "Formula Type": "4"
+  },
+  "Bayern Munich - Werder Bremen": {
+    "betwinner": {
+      "Under(2.75)": 3.765
+    },
+    "merrybet": {
+      "Over(2.5)": 1.21
+    },
+    "_betwinner": {
+      "Under(3)": 3.42
+    },
+    "Percent Profit": "0.8179199510044555%",
+    "Formula Type": "10"
+  },
+  "Ross County - Aberdeen": {
+    "bet9ja": {
+      "1": 3.0
+    },
+    "sportybet": {
+      "1(+1)": 1.59
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.67
+    },
+    "Percent Profit": "4.77786565234311%",
+    "Formula Type": "4"
+  },
+  "Dundee Utd - Partick Thistle": {
+    "betwinner": {
+      "H1(-2.25)": 4.15
+    },
+    "sportybet": {
+      "1(-1)": 2.55
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.341
+    },
+    "Percent Profit": "29.895703679233947%",
+    "Formula Type": "12"
+  },
+  "Raith Rovers - Arbroath": {
+    "betwinner": {
+      "H1(-2.25)": 3.175
+    },
+    "sportybet": {
+      "1(-1)": 2.1
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.509
+    },
+    "Percent Profit": "16.492475110581452%",
+    "Formula Type": "12"
+  },
+  "Getafe - Rayo Vallecano": {
+    "sportybet": {
+      "1(-2)": 13.5
+    },
+    "_sportybet": {
+      "1(-1)": 5.1
+    },
+    "betwinner": {
+      "H2(+2)": 1.009
+    },
+    "Percent Profit": "67.0958468914123%",
+    "Formula Type": "4"
+  },
+  "Valencia - Villarreal": {
+    "sportybet": {
+      "1(-2)": 10.0
+    },
+    "_sportybet": {
+      "1(-1)": 4.4
+    },
+    "betwinner": {
+      "H2(+2)": 1.031
+    },
+    "Percent Profit": "59.846133497927866%",
+    "Formula Type": "4"
+  },
+  "Granada - Cadiz CF": {
+    "sportybet": {
+      "1(-2)": 12.0
+    },
+    "_sportybet": {
+      "1(-1)": 4.75
+    },
+    "betwinner": {
+      "H2(+2)": 1.017
+    },
+    "Percent Profit": "64.17438630992427%",
+    "Formula Type": "4"
+  },
+  "Real Madrid - Mallorca": {
+    "betwinner": {
+      "H1(-2.25)": 2.444
+    },
+    "sportybet": {
+      "1(-1)": 1.69
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.9
+    },
+    "Percent Profit": "1.7276944382572026%",
+    "Formula Type": "12"
+  },
+  "Sevilla - Ath. Bilbao": {
+    "betwinner": {
+      "H1(-0.25)": 2.592
+    },
+    "sportybet": {
+      "1(+1)": 1.64
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.908
+    },
+    "Percent Profit": "2.68298457132299%",
+    "Formula Type": "12"
+  },
+  "Las Palmas - Barcelona": {
+    "betwinner": {
+      "H1(-0.25)": 4.82
+    },
+    "sportybet": {
+      "1(+1)": 2.4
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.351
+    },
+    "Percent Profit": "32.25852589013331%",
+    "Formula Type": "12"
+  },
+  "Las Palmas - Villarreal": {
+    "sportybet": {
+      "1(-2)": 12.0
+    },
+    "_sportybet": {
+      "1(-1)": 5.0
+    },
+    "betwinner": {
+      "H2(+2)": 1.018
+    },
+    "Percent Profit": "65.14734774066798%",
+    "Formula Type": "4"
+  },
+  "Ath. Bilbao - Real Sociedad": {
+    "sportybet": {
+      "1(-2)": 10.5
+    },
+    "_sportybet": {
+      "1(-1)": 4.3
+    },
+    "betwinner": {
+      "H2(+2)": 1.035
+    },
+    "Percent Profit": "60.23346761466074%",
+    "Formula Type": "4"
+  },
+  "Cadiz CF - Valencia": {
+    "sportybet": {
+      "1(-2)": 16.5
+    },
+    "_sportybet": {
+      "1(-1)": 6.1
+    },
+    "betwinner": {
+      "H2(+2)": 1.02
+    },
+    "Percent Profit": "72.59772264593866%",
+    "Formula Type": "4"
+  },
+  "Lille - Lorient": {
+    "betwinner": {
+      "H1(-2.25)": 3.2
+    },
+    "sportybet": {
+      "1(-1)": 2.05
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.553
+    },
+    "Percent Profit": "16.37206703263614%",
+    "Formula Type": "12"
+  },
+  "Metz - Toulouse": {
+    "sportybet": {
+      "1(-2)": 16.5
+    },
+    "_sportybet": {
+      "1(-1)": 6.5
+    },
+    "betwinner": {
+      "H2(+2)": 1.02
+    },
+    "Percent Profit": "73.54540883952649%",
+    "Formula Type": "4"
+  },
+  "Nantes - Clermont Foot": {
+    "sportybet": {
+      "1(-2)": 8.7
+    },
+    "_sportybet": {
+      "1(-1)": 3.75
+    },
+    "betwinner": {
+      "H2(+2)": 1.065
+    },
+    "Percent Profit": "54.11148885651072%",
+    "Formula Type": "4"
+  },
+  "El Daklyeh - Al Ittihad Al Sakandary": {
+    "betking": {
+      "1": 3.95
+    },
+    "sportybet": {
+      "1(+1)": 1.77
+    },
+    "betpawa": {
+      "2(Draw no bet)": 1.42
+    },
+    "Percent Profit": "14.660961549890061%",
+    "Formula Type": "4"
+  },
+  "Fiorentina - Torino": {
+    "sportybet": {
+      "1(-2)": 11.5
+    },
+    "_sportybet": {
+      "1(-1)": 4.5
+    },
+    "betwinner": {
+      "H2(+2)": 1.032
+    },
+    "Percent Profit": "62.588473205257834%",
+    "Formula Type": "4"
+  },
+  "Genoa - Inter": {
+    "sportybet": {
+      "1": 5.81
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.25
+    },
+    "Percent Profit": "33.02402155204669%",
+    "Formula Type": "4"
+  },
+  "Atalanta - Lecce": {
+    "betwinner": {
+      "H1(-2.25)": 3.675
+    },
+    "sportybet": {
+      "1(-1)": 2.3
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.459
+    },
+    "Percent Profit": "24.123305757901832%",
+    "Formula Type": "12"
+  },
+  "Udinese - Bologna": {
+    "bet9ja": {
+      "1": 3.45
+    },
+    "sportybet": {
+      "1(+1)": 1.64
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.6
+    },
+    "Percent Profit": "9.597030752916226%",
+    "Formula Type": "4"
+  },
+  "Juventus - Roma": {
+    "betwinner": {
+      "H1(-2.25)": 11.0
+    },
+    "sportybet": {
+      "1(-1)": 4.3
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.129
+    },
+    "Percent Profit": "62.32416971131062%",
+    "Formula Type": "12"
+  },
+  "Sassuolo - Fiorentina": {
+    "betwinner": {
+      "H1(-0.25)": 2.51
+    },
+    "sportybet": {
+      "1(+1)": 1.62
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.966
+    },
+    "Percent Profit": "1.3331411523998185%",
+    "Formula Type": "12"
+  },
+  "Empoli - Milan": {
+    "betwinner": {
+      "H1(-0.25)": 4.06
+    },
+    "sportybet": {
+      "1(+1)": 2.2
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.442
+    },
+    "Percent Profit": "25.41048526113319%",
+    "Formula Type": "12"
+  },
+  "Udinese - Lazio": {
+    "sportybet": {
+      "1": 3.37
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.59
+    },
+    "Percent Profit": "9.298467033128873%",
+    "Formula Type": "4"
+  },
+  "Torino - Napoli": {
+    "betwinner": {
+      "H1(-0.25)": 2.565
+    },
+    "sportybet": {
+      "1(+1)": 1.58
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.946
+    },
+    "Percent Profit": "0.8452640609349515%",
+    "Formula Type": "12"
+  },
+  "Salernitana - Juventus": {
+    "sportybet": {
+      "1": 6.54
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.19
+    },
+    "Percent Profit": "39.27973447671235%",
+    "Formula Type": "4"
+  },
+  "Luton Town - Chelsea": {
+    "betwinner": {
+      "H1(-0.25)": 4.42
+    },
+    "sportybet": {
+      "1(+1)": 2.35
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.391
+    },
+    "Percent Profit": "29.641288423099013%",
+    "Formula Type": "12"
+  },
+  "Aston Villa - Burnley": {
+    "betwinner": {
+      "H1(-2.25)": 2.941
+    },
+    "sportybet": {
+      "1(-1)": 2.0
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.623
+    },
+    "Percent Profit": "13.144271292074492%",
+    "Formula Type": "12"
+  },
+  "Crystal Palace - Brentford": {
+    "sportybet": {
+      "1(-2)": 12.0
+    },
+    "_sportybet": {
+      "1(-1)": 4.75
+    },
+    "betwinner": {
+      "H2(+2)": 1.025
+    },
+    "Percent Profit": "64.23833975181857%",
+    "Formula Type": "4"
+  },
+  "Manchester City - Sheffield Utd": {
+    "betwinner": {
+      "Under(2.75)": 2.947
+    },
+    "sportybet": {
+      "Over(2.5)": 1.34
+    },
+    "_betwinner": {
+      "Under(3)": 2.66
+    },
+    "Percent Profit": "1.5084999530456713%",
+    "Formula Type": "10"
+  },
+  "Nottingham Forest - Manchester Utd": {
+    "betwinner": {
+      "H1(-0.25)": 2.592
+    },
+    "nairabet": {
+      "1(+1)": 1.67
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.887
+    },
+    "Percent Profit": "3.3466952180714316%",
+    "Formula Type": "12"
+  },
+  "Fulham - Arsenal": {
+    "betwinner": {
+      "H1(-0.25)": 4.82
+    },
+    "sportybet": {
+      "1(+1)": 2.45
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.361
+    },
+    "Percent Profit": "33.08151256512262%",
+    "Formula Type": "12"
+  },
+  "Liverpool - Newcastle Utd": {
+    "betwinner": {
+      "H1(-2.25)": 3.295
+    },
+    "sportybet": {
+      "1(-1)": 2.15
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.52
+    },
+    "Percent Profit": "18.78006098864715%",
+    "Formula Type": "12"
+  },
+  "Mansfield Town - Doncaster Rovers": {
+    "betwinner": {
+      "H1(-2.25)": 3.04
+    },
+    "sportybet": {
+      "1(-1)": 2.05
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.555
+    },
+    "Percent Profit": "14.56037939027432%",
+    "Formula Type": "12"
+  },
+  "Gillingham - Sutton Utd": {
+    "betwinner": {
+      "H1(-2.25)": 5.94
+    },
+    "sportybet": {
+      "1(-1)": 3.3
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.2
+    },
+    "Percent Profit": "45.20967248239975%",
+    "Formula Type": "12"
+  },
+  "Wimbledon - Colchester Utd": {
+    "betwinner": {
+      "H1(-2.25)": 4.075
+    },
+    "sportybet": {
+      "1(-1)": 2.45
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.361
+    },
+    "Percent Profit": "28.309461062379697%",
+    "Formula Type": "12"
+  },
+  "Salford City - Grimsby Town": {
+    "sportybet": {
+      "1(-2)": 10.5
+    },
+    "_sportybet": {
+      "1(-1)": 4.6
+    },
+    "betwinner": {
+      "H2(+2)": 1.024
+    },
+    "Percent Profit": "61.50685817805383%",
+    "Formula Type": "4"
+  },
+  "Notts County - Morecambe": {
+    "betwinner": {
+      "H1(-2.25)": 4.085
+    },
+    "sportybet": {
+      "1(-1)": 2.5
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.357
+    },
+    "Percent Profit": "28.990343759863677%",
+    "Formula Type": "12"
+  },
+  "Swindon Town - Forest Green Rovers": {
+    "betwinner": {
+      "H1(-2.25)": 6.43
+    },
+    "sportybet": {
+      "1(-1)": 3.7
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.168
+    },
+    "Percent Profit": "49.454795591449184%",
+    "Formula Type": "12"
+  },
+  "Barrow - Accrington Stanley": {
+    "betwinner": {
+      "H1(-2.25)": 5.43
+    },
+    "sportybet": {
+      "1(-1)": 3.1
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.23
+    },
+    "Percent Profit": "41.716735473128864%",
+    "Formula Type": "12"
+  },
+  "Morecambe - Harrogate Town": {
+    "betwinner": {
+      "H1(-2.25)": 6.14
+    },
+    "sportybet": {
+      "1(-1)": 3.33
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.18
+    },
+    "Percent Profit": "45.951412228476784%",
+    "Formula Type": "12"
+  },
+  "Accrington Stanley - Salford City": {
+    "sportybet": {
+      "1(-2)": 6.4
+    },
+    "_sportybet": {
+      "1(-1)": 3.2
+    },
+    "betwinner": {
+      "H2(+2)": 1.099
+    },
+    "Percent Profit": "43.7903420723385%",
+    "Formula Type": "4"
+  },
+  "Grimsby Town - Walsall": {
+    "sportybet": {
+      "1(-2)": 7.5
+    },
+    "_sportybet": {
+      "1(-1)": 3.6
+    },
+    "betwinner": {
+      "H2(+2)": 1.072
+    },
+    "Percent Profit": "50.15478164731897%",
+    "Formula Type": "4"
+  },
+  "Forest Green Rovers - Wimbledon": {
+    "merrybet": {
+      "1": 3.25
+    },
+    "sportybet": {
+      "1(+1)": 1.67
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.57
+    },
+    "Percent Profit": "8.176982634437152%",
+    "Formula Type": "4"
+  },
+  "Crawley Town - Swindon Town": {
+    "sportybet": {
+      "1(-2)": 9.4
+    },
+    "_sportybet": {
+      "1(-1)": 4.4
+    },
+    "betwinner": {
+      "H2(+2)": 1.037
+    },
+    "Percent Profit": "58.79349932572198%",
+    "Formula Type": "4"
+  },
+  "Colchester Utd - Gillingham": {
+    "sportybet": {
+      "1(-2)": 11.0
+    },
+    "_sportybet": {
+      "1(-1)": 4.8
+    },
+    "betwinner": {
+      "H2(+2)": 1.022
+    },
+    "Percent Profit": "63.07448259503054%",
+    "Formula Type": "4"
+  },
+  "Exeter City - Portsmouth": {
+    "betwinner": {
+      "H1(-0.25)": 3.785
+    },
+    "sportybet": {
+      "1(+1)": 2.1
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.474
+    },
+    "Percent Profit": "21.917906068571043%",
+    "Formula Type": "12"
+  },
+  "Peterborough - Barnsley": {
+    "betwinner": {
+      "H1(-2.25)": 4.475
+    },
+    "sportybet": {
+      "1(-1)": 2.65
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.31
+    },
+    "Percent Profit": "32.94267529185488%",
+    "Formula Type": "12"
+  },
+  "Cheltenham Town - Reading": {
+    "sportybet": {
+      "1(-2)": 13.0
+    },
+    "_sportybet": {
+      "1(-1)": 5.2
+    },
+    "betwinner": {
+      "H2(+2)": 1.008
+    },
+    "Percent Profit": "66.92495538649385%",
+    "Formula Type": "4"
+  },
+  "Oxford Utd - Derby County": {
+    "sportybet": {
+      "1(-2)": 16.0
+    },
+    "_sportybet": {
+      "1(-1)": 6.25
+    },
+    "betwinner": {
+      "H2(+2)": 1.01
+    },
+    "Percent Profit": "72.56188118811882%",
+    "Formula Type": "4"
+  },
+  "Stevenage - Cambridge Utd": {
+    "betwinner": {
+      "H1(-2.25)": 5.18
+    },
+    "sportybet": {
+      "1(-1)": 2.95
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.261
+    },
+    "Percent Profit": "39.53455894701803%",
+    "Formula Type": "12"
+  },
+  "Burton Albion - Shrewsbury Town": {
+    "sportybet": {
+      "1(-2)": 10.5
+    },
+    "_sportybet": {
+      "1(-1)": 4.3
+    },
+    "betwinner": {
+      "H2(+2)": 1.032
+    },
+    "Percent Profit": "60.20671834625323%",
+    "Formula Type": "4"
+  },
+  "Lincoln City - Northampton Town": {
+    "sportybet": {
+      "1(-2)": 12.5
+    },
+    "_sportybet": {
+      "1(-1)": 5.0
+    },
+    "betwinner": {
+      "H2(+2)": 1.015
+    },
+    "Percent Profit": "65.71822660098522%",
+    "Formula Type": "4"
+  },
+  "Port Vale - Blackpool": {
+    "betwinner": {
+      "H1(-0.25)": 2.905
+    },
+    "sportybet": {
+      "1(+1)": 1.72
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.748
+    },
+    "Percent Profit": "7.6615688411709755%",
+    "Formula Type": "12"
+  },
+  "Bristol Rovers - Charlton": {
+    "sportybet": {
+      "1(-2)": 8.9
+    },
+    "_sportybet": {
+      "1(-1)": 4.0
+    },
+    "betwinner": {
+      "H2(+2)": 1.048
+    },
+    "Percent Profit": "55.851702547388285%",
+    "Formula Type": "4"
+  },
+  "Cambridge Utd - Leyton Orient": {
+    "sportybet": {
+      "1(-2)": 11.5
+    },
+    "_sportybet": {
+      "1(-1)": 4.8
+    },
+    "betwinner": {
+      "H2(+2)": 1.013
+    },
+    "Percent Profit": "63.698549293961115%",
+    "Formula Type": "4"
+  },
+  "Derby County - Peterborough": {
+    "sportybet": {
+      "1(-2)": 9.0
+    },
+    "_sportybet": {
+      "1(-1)": 4.1
+    },
+    "betwinner": {
+      "H2(+2)": 1.046
+    },
+    "Percent Profit": "56.58619492504676%",
+    "Formula Type": "4"
+  },
+  "Carlisle Utd - Port Vale": {
+    "sportybet": {
+      "1(-2)": 14.0
+    },
+    "_sportybet": {
+      "1(-1)": 5.6
+    },
+    "betwinner": {
+      "H2(+2)": 1.003
+    },
+    "Percent Profit": "69.15401753921907%",
+    "Formula Type": "4"
+  },
+  "Northampton Town - Cheltenham Town": {
+    "betwinner": {
+      "H1(-2.25)": 7.26
+    },
+    "sportybet": {
+      "1(-1)": 3.6
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.152
+    },
+    "Percent Profit": "51.26530221343384%",
+    "Formula Type": "12"
+  },
+  "Blackpool - Lincoln City": {
+    "betwinner": {
+      "H1(-2.25)": 4.625
+    },
+    "sportybet": {
+      "1(-1)": 2.6
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.301
+    },
+    "Percent Profit": "33.173709578203955%",
+    "Formula Type": "12"
+  },
+  "Southampton - Plymouth Argyle": {
+    "betwinner": {
+      "H1(-2.25)": 2.582
+    },
+    "sportybet": {
+      "1(-1)": 1.83
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.775
+    },
+    "Percent Profit": "6.169051240598421%",
+    "Formula Type": "12"
+  },
+  "Hull City - Blackburn Rovers": {
+    "betwinner": {
+      "H1(-2.25)": 6.08
+    },
+    "sportybet": {
+      "1(-1)": 3.3
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.225
+    },
+    "Percent Profit": "46.11725237859539%",
+    "Formula Type": "12"
+  },
+  "Huddersfield Town - Middlesbrough": {
+    "betwinner": {
+      "H1(-0.25)": 3.235
+    },
+    "sportybet": {
+      "1(+1)": 1.86
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.603
+    },
+    "Percent Profit": "13.388501881152763%",
+    "Formula Type": "12"
+  },
+  "Millwall - Norwich": {
+    "sportybet": {
+      "1(-2)": 11.5
+    },
+    "_sportybet": {
+      "1(-1)": 4.8
+    },
+    "betwinner": {
+      "H2(+2)": 1.018
+    },
+    "Percent Profit": "63.74071068591441%",
+    "Formula Type": "4"
+  },
+  "Cardiff City - Leicester City": {
+    "betwinner": {
+      "H1(-0.25)": 4.275
+    },
+    "sportybet": {
+      "1(+1)": 2.25
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.413
+    },
+    "Percent Profit": "27.398269313297845%",
+    "Formula Type": "12"
+  },
+  "Birmingham City - Bristol City": {
+    "sportybet": {
+      "1(-2)": 14.0
+    },
+    "_sportybet": {
+      "1(-1)": 5.5
+    },
+    "betwinner": {
+      "H2(+2)": 1.003
+    },
+    "Percent Profit": "68.85253330916342%",
+    "Formula Type": "4"
+  },
+  "Coventry City - Swansea": {
+    "betwinner": {
+      "H1(-2.25)": 5.0
+    },
+    "sportybet": {
+      "1(-1)": 2.9
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.271
+    },
+    "Percent Profit": "38.231584596806655%",
+    "Formula Type": "12"
+  },
+  "Bristol City - Millwall": {
+    "sportybet": {
+      "1(-2)": 9.6
+    },
+    "_sportybet": {
+      "1(-1)": 4.1
+    },
+    "betwinner": {
+      "H2(+2)": 1.037
+    },
+    "Percent Profit": "57.68873823019811%",
+    "Formula Type": "4"
+  },
+  "Norwich - Southampton": {
+    "bet9ja": {
+      "1": 3.3
+    },
+    "sportybet": {
+      "1(+1)": 1.67
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.59
+    },
+    "Percent Profit": "8.903747679027305%",
+    "Formula Type": "4"
+  },
+  "Blackburn Rovers - Rotherham": {
+    "betwinner": {
+      "H1(-2.25)": 3.375
+    },
+    "sportybet": {
+      "1(-1)": 2.2
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.479
+    },
+    "Percent Profit": "19.95645938444713%",
+    "Formula Type": "12"
+  },
+  "Leeds Utd - Birmingham City": {
+    "sportybet": {
+      "1(-2)": 2.7
+    },
+    "_sportybet": {
+      "1(-1)": 1.68
+    },
+    "betwinner": {
+      "H2(+2)": 1.7
+    },
+    "Percent Profit": "3.69851644361448%",
+    "Formula Type": "4"
+  },
+  "Plymouth Argyle - Watford": {
+    "bet9ja": {
+      "1": 3.05
+    },
+    "sportybet": {
+      "1(+1)": 1.59
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.69
+    },
+    "Percent Profit": "5.5401917235413265%",
+    "Formula Type": "4"
+  },
+  "Stoke City - Ipswich Town": {
+    "bet9ja": {
+      "1": 3.15
+    },
+    "sportybet": {
+      "1(+1)": 1.63
+    },
+    "betking": {
+      "2(Draw no bet)": 1.64
+    },
+    "Percent Profit": "7.023031667652347%",
+    "Formula Type": "4"
+  },
+  "Sheffield Weds - Hull City": {
+    "bet9ja": {
+      "1": 3.05
+    },
+    "sportybet": {
+      "1(+1)": 1.53
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.74
+    },
+    "Percent Profit": "4.439936894297958%",
+    "Formula Type": "4"
+  },
+  "Middlesbrough - Chelsea": {
+    "bet9ja": {
+      "1": 5.5
+    },
+    "sportybet": {
+      "1(+1)": 2.4
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.23
+    },
+    "Percent Profit": "32.945306725794524%",
+    "Formula Type": "4"
+  },
+  "York City - Gateshead": {
+    "betking": {
+      "1": 5.2
+    },
+    "sportybet": {
+      "1(+1)": 2.3
+    },
+    "betpawa": {
+      "2(Draw no bet)": 1.24
+    },
+    "Percent Profit": "30.143489049519914%",
+    "Formula Type": "4"
+  },
+  "Crystal Palace - Everton": {
+    "sportybet": {
+      "1(-2)": 13.0
+    },
+    "_sportybet": {
+      "1(-1)": 5.4
+    },
+    "betwinner": {
+      "H2(+2)": 1.03
+    },
+    "Percent Profit": "67.74541531823084%",
+    "Formula Type": "4"
+  },
+  "Maidstone Utd - Stevenage": {
+    "betwinner": {
+      "H1(-0.25)": 4.515
+    },
+    "sportybet": {
+      "1(+1)": 2.3
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.373
+    },
+    "Percent Profit": "29.260649669685122%",
+    "Formula Type": "12"
+  },
+  "Coventry City - Oxford Utd": {
+    "betwinner": {
+      "H1(-2.25)": 5.02
+    },
+    "sportybet": {
+      "1(-1)": 2.75
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.271
+    },
+    "Percent Profit": "36.768243615562504%",
+    "Formula Type": "12"
+  },
+  "Wimbledon - Ipswich Town": {
+    "betwinner": {
+      "H1(-0.25)": 4.515
+    },
+    "sportybet": {
+      "1(+1)": 2.35
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.355
+    },
+    "Percent Profit": "29.81436492986272%",
+    "Formula Type": "12"
+  },
+  "Gillingham - Sheffield Utd": {
+    "betwinner": {
+      "H1(+0.75)": 2.62
+    },
+    "sportybet": {
+      "1(+2)": 1.66
+    },
+    "_betwinner": {
+      "H2(-1.25)": 1.88
+    },
+    "Percent Profit": "3.4238513962920933%",
+    "Formula Type": "12"
+  },
+  "Newport County - Eastleigh": {
+    "betwinner": {
+      "H1(-2.25)": 4.4
+    },
+    "sportybet": {
+      "1(-1)": 2.55
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.321
+    },
+    "Percent Profit": "31.386118836860405%",
+    "Formula Type": "12"
+  },
+  "Southampton - Walsall": {
+    "betwinner": {
+      "H1(-2.25)": 2.656
+    },
+    "sportybet": {
+      "1(-1)": 1.79
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.752
+    },
+    "Percent Profit": "6.164271916229708%",
+    "Formula Type": "12"
+  },
+  "Norwich - Bristol Rovers": {
+    "betwinner": {
+      "H1(-2.25)": 3.985
+    },
+    "sportybet": {
+      "1(-1)": 2.35
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.38
+    },
+    "Percent Profit": "26.46748323621705%",
+    "Formula Type": "12"
+  },
+  "Hull City - Birmingham City": {
+    "betwinner": {
+      "H1(-2.25)": 5.56
+    },
+    "sportybet": {
+      "1(-1)": 2.9
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.236
+    },
+    "Percent Profit": "40.520746820834184%",
+    "Formula Type": "12"
+  },
+  "Blackburn Rovers - Cambridge Utd": {
+    "betwinner": {
+      "H1(-2.25)": 3.04
+    },
+    "sportybet": {
+      "1(-1)": 1.95
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.573
+    },
+    "Percent Profit": "12.859722070248381%",
+    "Formula Type": "12"
+  },
+  "Watford - Chesterfield": {
+    "betwinner": {
+      "H1(-2.25)": 3.38
+    },
+    "sportybet": {
+      "1(-1)": 2.15
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.481
+    },
+    "Percent Profit": "19.21042255026599%",
+    "Formula Type": "12"
+  },
+  "Plymouth Argyle - Sutton Utd": {
+    "betwinner": {
+      "H1(-2.25)": 2.94
+    },
+    "sportybet": {
+      "1(-1)": 1.92
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.593
+    },
+    "Percent Profit": "11.253041930404365%",
+    "Formula Type": "12"
+  },
+  "Middlesbrough - Aston Villa": {
+    "betwinner": {
+      "H1(-0.25)": 4.115
+    },
+    "sportybet": {
+      "1(+1)": 2.2
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.412
+    },
+    "Percent Profit": "25.472025363308873%",
+    "Formula Type": "12"
+  },
+  "Estrela Amadora - FC Arouca": {
+    "bet9ja": {
+      "1": 2.72
+    },
+    "sportybet": {
+      "1(+1)": 1.47
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.88
+    },
+    "Percent Profit": "0.6623926166211049%",
+    "Formula Type": "4"
+  },
+  "Leixoes SC - Academico de Viseu FC": {
+    "bet9ja": {
+      "1": 2.83
+    },
+    "sportybet": {
+      "1(+1)": 1.5
+    },
+    "betking": {
+      "2(Draw no bet)": 1.76
+    },
+    "Percent Profit": "1.4776742691936988%",
+    "Formula Type": "4"
+  },
+  "Apollon Limassol - Apoel Nicosia": {
+    "betking": {
+      "1": 3.05
+    },
+    "sportybet": {
+      "1(+1)": 1.55
+    },
+    "_betking": {
+      "2(Draw no bet)": 1.66
+    },
+    "Percent Profit": "4.098679222442385%",
+    "Formula Type": "4"
+  },
+  "Ethnikos Achnas FC - Nea Salamina Famagusta": {
+    "betking": {
+      "1": 2.8
+    },
+    "sportybet": {
+      "1(+1)": 1.53
+    },
+    "_betking": {
+      "2(Draw no bet)": 1.74
+    },
+    "Percent Profit": "1.7434560030908983%",
+    "Formula Type": "4"
+  },
+  "Sydney - Wellington Phoenix": {
+    "sportybet": {
+      "1(Draw no bet)": 1.33
+    },
+    "_sportybet": {
+      "2(+1)": 2.1
+    },
+    "bet9ja": {
+      "2": 5.9
+    },
+    "Percent Profit": "0.2530539423619729%",
+    "Formula Type": "4"
+  },
+  "Northeast Utd - Goa": {
+    "nairabet": {
+      "1": 5.0
+    },
+    "_nairabet": {
+      "1(+1)": 2.2
+    },
+    "betpawa": {
+      "2(Draw no bet)": 1.25
+    },
+    "Percent Profit": "27.63636363636364%",
+    "Formula Type": "4"
+  },
+  "Aberystwyth Town - Haverfordwest County AFC": {
+    "bet9ja": {
+      "1": 3.75
+    },
+    "sportybet": {
+      "1(+1)": 1.89
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.39
+    },
+    "Percent Profit": "15.347975587783736%",
+    "Formula Type": "4"
+  },
+  "Barry Town Utd - Cardiff Metropolitan University": {
+    "sportybet": {
+      "1": 3.25
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.51
+    },
+    "Percent Profit": "8.836009528885526%",
+    "Formula Type": "4"
+  },
+  "Darlington - Scarborough Athletic": {
+    "bet9ja": {
+      "1": 2.94
+    },
+    "nairabet": {
+      "1(+1)": 1.55
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.65
+    },
+    "Percent Profit": "2.8002207725710093%",
+    "Formula Type": "4"
+  },
+  "Rushall Olympic - Tamworth": {
+    "bet9ja": {
+      "1": 3.9
+    },
+    "nairabet": {
+      "1(+1)": 1.8
+    },
+    "betpawa": {
+      "2(Draw no bet)": 1.35
+    },
+    "Percent Profit": "14.055080721747387%",
+    "Formula Type": "4"
+  },
+  "Blyth Spartans - South Shields": {
+    "bet9ja": {
+      "1": 3.05
+    },
+    "nairabet": {
+      "1(+1)": 1.55
+    },
+    "betpawa": {
+      "2(Draw no bet)": 1.55
+    },
+    "Percent Profit": "2.6969857218403064%",
+    "Formula Type": "4"
+  },
+  "Southport - Curzon Ashton": {
+    "bet9ja": {
+      "1": 2.84
+    },
+    "nairabet": {
+      "1(+1)": 1.5
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.7
+    },
+    "Percent Profit": "0.8837337752002128%",
+    "Formula Type": "4"
+  },
+  "Taunton Town - Yeovil Town": {
+    "bet9ja": {
+      "1": 3.4
+    },
+    "nairabet": {
+      "1(+1)": 1.65
+    },
+    "betpawa": {
+      "2(Draw no bet)": 1.45
+    },
+    "Percent Profit": "7.523510971786834%",
+    "Formula Type": "4"
+  },
+  "Hampton & Richmond Borough - Slough Town": {
+    "betpawa": {
+      "1": 2.8
+    },
+    "nairabet": {
+      "1(+1)": 1.5
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.7
+    },
+    "Percent Profit": "0.42016806722688216%",
+    "Formula Type": "4"
+  },
+  "Eastbourne Borough - Worthing": {
+    "bet9ja": {
+      "1": 3.2
+    },
+    "nairabet": {
+      "1(+1)": 1.65
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.5
+    },
+    "Percent Profit": "6.25%",
+    "Formula Type": "4"
+  },
+  "Le Havre - Lyon": {
+    "betwinner": {
+      "H1(-0.25)": 2.565
+    },
+    "sportybet": {
+      "1(+1)": 1.6
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.966
+    },
+    "Percent Profit": "1.5552989264125898%",
+    "Formula Type": "12"
+  },
+  "Valenciennes - Amiens": {
+    "betwinner": {
+      "H1(-0.25)": 2.735
+    },
+    "sportybet": {
+      "1(+1)": 1.56
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.939
+    },
+    "Percent Profit": "2.4208660921897405%",
+    "Formula Type": "12"
+  },
+  "Bastia - Angers": {
+    "betwinner": {
+      "H1(-0.25)": 2.704
+    },
+    "sportybet": {
+      "1(+1)": 1.6
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.918
+    },
+    "Percent Profit": "3.1095081413107977%",
+    "Formula Type": "12"
+  },
+  "Grenoble Foot - USL Dunkerque": {
+    "betwinner": {
+      "H1(-2.25)": 5.95
+    },
+    "sportybet": {
+      "1(-1)": 3.1
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.246
+    },
+    "Percent Profit": "44.19827950206287%",
+    "Formula Type": "12"
+  },
+  "Tottenham - Bournemouth": {
+    "betwinner": {
+      "H1(-2.25)": 4.345
+    },
+    "sportybet": {
+      "1(-1)": 2.65
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.333
+    },
+    "Percent Profit": "32.3836445579817%",
+    "Formula Type": "12"
+  },
+  "Wolves - Everton": {
+    "bet9ja": {
+      "1": 2.64
+    },
+    "sportybet": {
+      "1(+1)": 1.46
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.98
+    },
+    "Percent Profit": "0.44173574684158723%",
+    "Formula Type": "4"
+  },
+  "St Mirren - Celtic": {
+    "bet9ja": {
+      "1": 9.1
+    },
+    "sportybet": {
+      "1(+1)": 3.3
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.1
+    },
+    "Percent Profit": "52.047952047952045%",
+    "Formula Type": "4"
+  },
+  "Troyes - Ajaccio": {
+    "bet9ja": {
+      "1": 2.82
+    },
+    "sportybet": {
+      "1(+1)": 1.46
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.8
+    },
+    "Percent Profit": "0.6336560985351412%",
+    "Formula Type": "4"
+  },
+  "Frosinone - Monza": {
+    "bet9ja": {
+      "1": 2.64
+    },
+    "sportybet": {
+      "1(+1)": 1.47
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.93
+    },
+    "Percent Profit": "0.23556918449590114%",
+    "Formula Type": "4"
+  },
+  "West Brom - Leeds Utd": {
+    "bet9ja": {
+      "1": 3.2
+    },
+    "sportybet": {
+      "1(+1)": 1.63
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.62
+    },
+    "Percent Profit": "7.281962432780432%",
+    "Formula Type": "4"
+  },
+  "Swansea - West Brom": {
+    "bet9ja": {
+      "1": 3.35
+    },
+    "sportybet": {
+      "1(+1)": 1.64
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.59
+    },
+    "Percent Profit": "8.601264272287892%",
+    "Formula Type": "4"
+  },
+  "Othellos Athienou - AEK Larnaca": {
+    "bet9ja": {
+      "1": 5.6
+    },
+    "sportybet": {
+      "1(+1)": 2.5
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.19
+    },
+    "Percent Profit": "34.279711884753894%",
+    "Formula Type": "4"
+  },
+  "Luton Town - Chelsea FC": {
+    "betwinner": {
+      "H1(-0.25)": 4.42
+    },
+    "sportybet": {
+      "1(+1)": 2.35
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.391
+    },
+    "Percent Profit": "29.641288423099013%",
+    "Formula Type": "12"
+  },
+  "Aston Villa - Burnley FC": {
+    "betwinner": {
+      "H1(-2.25)": 2.941
+    },
+    "sportybet": {
+      "1(-1)": 2.0
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.623
+    },
+    "Percent Profit": "13.144271292074492%",
+    "Formula Type": "12"
+  },
+  "Crystal Palace - Brentford FC": {
+    "sportybet": {
+      "1(-2)": 12.0
+    },
+    "_sportybet": {
+      "1(-1)": 4.75
+    },
+    "betwinner": {
+      "H2(+2)": 1.025
+    },
+    "Percent Profit": "64.23833975181857%",
+    "Formula Type": "4"
+  },
+  "Manchester City - Sheffield United": {
+    "betwinner": {
+      "Under(2.75)": 2.947
+    },
+    "merrybet": {
+      "Over(2.5)": 1.33
+    },
+    "_betwinner": {
+      "Under(3)": 2.66
+    },
+    "Percent Profit": "1.0999438613131218%",
+    "Formula Type": "10"
+  },
+  "Crystal Palace - Everton FC": {
+    "sportybet": {
+      "1(-2)": 13.0
+    },
+    "_sportybet": {
+      "1(-1)": 5.4
+    },
+    "betwinner": {
+      "H2(+2)": 1.03
+    },
+    "Percent Profit": "67.74541531823084%",
+    "Formula Type": "4"
+  },
+  "Fulham FC - Rotherham United": {
+    "sportybet": {
+      "1(-2)": 2.5
+    },
+    "betwinner": {
+      "H1(-1.5)": 1.656
+    },
+    "_betwinner": {
+      "H2(+2)": 1.74
+    },
+    "Percent Profit": "0.7796101949025314%",
+    "Formula Type": "4"
+  },
+  "AFC Wimbledon - Ipswich Town": {
+    "betwinner": {
+      "H1(-0.25)": 4.515
+    },
+    "sportybet": {
+      "1(+1)": 2.35
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.355
+    },
+    "Percent Profit": "29.81436492986272%",
+    "Formula Type": "12"
+  },
+  "Coventry City - Oxford United": {
+    "betwinner": {
+      "H1(-2.25)": 5.02
+    },
+    "sportybet": {
+      "1(-1)": 2.75
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.271
+    },
+    "Percent Profit": "36.768243615562504%",
+    "Formula Type": "12"
+  },
+  "Maidstone United FC - Stevenage FC": {
+    "betwinner": {
+      "H1(-0.25)": 4.515
+    },
+    "sportybet": {
+      "1(+1)": 2.3
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.373
+    },
+    "Percent Profit": "29.260649669685122%",
+    "Formula Type": "12"
+  },
+  "Millwall FC - Leicester City": {
+    "betwinner": {
+      "H1(-0.25)": 3.235
+    },
+    "sportybet": {
+      "1(+1)": 1.85
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.592
+    },
+    "Percent Profit": "13.060163446562228%",
+    "Formula Type": "12"
+  },
+  "Sunderland AFC - Newcastle United": {
+    "betwinner": {
+      "H1(-0.25)": 3.26
+    },
+    "sportybet": {
+      "1(+1)": 1.95
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.583
+    },
+    "Percent Profit": "15.377745009137016%",
+    "Formula Type": "12"
+  },
+  "Blackburn Rovers - Cambridge United": {
+    "betwinner": {
+      "H1(-2.25)": 3.04
+    },
+    "sportybet": {
+      "1(-1)": 1.95
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.573
+    },
+    "Percent Profit": "12.859722070248381%",
+    "Formula Type": "12"
+  },
+  "Gillingham FC - Sheffield United": {
+    "betwinner": {
+      "H1(+0.75)": 2.62
+    },
+    "sportybet": {
+      "1(+2)": 1.66
+    },
+    "_betwinner": {
+      "H2(-1.25)": 1.88
+    },
+    "Percent Profit": "3.4238513962920933%",
+    "Formula Type": "12"
+  },
+  "Newport County - Eastleigh FC": {
+    "betwinner": {
+      "H1(-2.25)": 4.4
+    },
+    "sportybet": {
+      "1(-1)": 2.55
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.321
+    },
+    "Percent Profit": "31.386118836860405%",
+    "Formula Type": "12"
+  },
+  "Norwich City - Bristol Rovers": {
+    "betwinner": {
+      "H1(-2.25)": 3.985
+    },
+    "sportybet": {
+      "1(-1)": 2.35
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.38
+    },
+    "Percent Profit": "26.46748323621705%",
+    "Formula Type": "12"
+  },
+  "Plymouth Argyle - Sutton United": {
+    "betwinner": {
+      "H1(-2.25)": 2.94
+    },
+    "sportybet": {
+      "1(-1)": 1.92
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.593
+    },
+    "Percent Profit": "11.253041930404365%",
+    "Formula Type": "12"
+  },
+  "Queens Park Rangers - AFC Bournemouth": {
+    "betwinner": {
+      "H1(-0.25)": 3.86
+    },
+    "sportybet": {
+      "1(+1)": 2.15
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.438
+    },
+    "Percent Profit": "23.008423703526333%",
+    "Formula Type": "12"
+  },
+  "Southampton FC - Walsall FC": {
+    "betwinner": {
+      "H1(-2.25)": 2.656
+    },
+    "sportybet": {
+      "1(-1)": 1.79
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.752
+    },
+    "Percent Profit": "6.164271916229708%",
+    "Formula Type": "12"
+  },
+  "Watford FC - Chesterfield FC": {
+    "betwinner": {
+      "H1(-2.25)": 3.38
+    },
+    "sportybet": {
+      "1(-1)": 2.15
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.481
+    },
+    "Percent Profit": "19.21042255026599%",
+    "Formula Type": "12"
+  },
+  "Southampton FC - Plymouth Argyle": {
+    "betwinner": {
+      "H1(-2.25)": 2.582
+    },
+    "sportybet": {
+      "1(-1)": 1.83
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.775
+    },
+    "Percent Profit": "6.169051240598421%",
+    "Formula Type": "12"
+  },
+  "Coventry City - Swansea City": {
+    "betwinner": {
+      "H1(-2.25)": 5.0
+    },
+    "sportybet": {
+      "1(-1)": 2.9
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.271
+    },
+    "Percent Profit": "38.231584596806655%",
+    "Formula Type": "12"
+  },
+  "Huddersfield Town - Middlesbrough FC": {
+    "betwinner": {
+      "H1(-0.25)": 3.235
+    },
+    "sportybet": {
+      "1(+1)": 1.86
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.603
+    },
+    "Percent Profit": "13.388501881152763%",
+    "Formula Type": "12"
+  },
+  "Ipswich Town - Queens Park Rangers": {
+    "betwinner": {
+      "H1(-2.25)": 3.56
+    },
+    "sportybet": {
+      "1(-1)": 2.15
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.454
+    },
+    "Percent Profit": "20.632612043195238%",
+    "Formula Type": "12"
+  },
+  "Millwall FC - Norwich City": {
+    "sportybet": {
+      "1(-2)": 11.5
+    },
+    "_sportybet": {
+      "1(-1)": 4.8
+    },
+    "betwinner": {
+      "H2(+2)": 1.018
+    },
+    "Percent Profit": "63.74071068591441%",
+    "Formula Type": "4"
+  },
+  "Preston North End - Sheffield Wednesday": {
+    "sportybet": {
+      "1(-2)": 12.0
+    },
+    "_sportybet": {
+      "1(-1)": 4.8
+    },
+    "betwinner": {
+      "H2(+2)": 1.018
+    },
+    "Percent Profit": "64.38345885177908%",
+    "Formula Type": "4"
+  },
+  "Rotherham United - Sunderland AFC": {
+    "betwinner": {
+      "H1(-0.25)": 4.675
+    },
+    "sportybet": {
+      "1(+1)": 2.35
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.354
+    },
+    "Percent Profit": "30.74854319442842%",
+    "Formula Type": "12"
+  },
+  "West Bromwich Albion - Leeds United": {
+    "betwinner": {
+      "H1(-0.25)": 2.71
+    },
+    "sportybet": {
+      "1(+1)": 1.63
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.88
+    },
+    "Percent Profit": "3.8005050629327144%",
+    "Formula Type": "12"
+  },
+  "Sunderland AFC - Preston North End": {
+    "betwinner": {
+      "H1(-2.25)": 4.81
+    },
+    "sportybet": {
+      "1(-1)": 2.65
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.29
+    },
+    "Percent Profit": "34.72122156144128%",
+    "Formula Type": "12"
+  },
+  "Blackburn Rovers - Rotherham United": {
+    "betwinner": {
+      "H1(-2.25)": 3.375
+    },
+    "sportybet": {
+      "1(-1)": 2.2
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.479
+    },
+    "Percent Profit": "19.95645938444713%",
+    "Formula Type": "12"
+  },
+  "Leeds United - Birmingham City": {
+    "sportybet": {
+      "1(-2)": 2.7
+    },
+    "_sportybet": {
+      "1(-1)": 1.68
+    },
+    "betwinner": {
+      "H2(+2)": 1.7
+    },
+    "Percent Profit": "3.69851644361448%",
+    "Formula Type": "4"
+  },
+  "Queens Park Rangers - Cardiff City": {
+    "sportybet": {
+      "1(-2)": 12.0
+    },
+    "_sportybet": {
+      "1(-1)": 4.9
+    },
+    "betwinner": {
+      "H2(+2)": 1.013
+    },
+    "Percent Profit": "64.73279341351545%",
+    "Formula Type": "4"
+  },
+  "Wigan Athletic - Carlisle United": {
+    "betwinner": {
+      "H1(-2.25)": 6.89
+    },
+    "sportybet": {
+      "1(-1)": 3.7
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.161
+    },
+    "Percent Profit": "50.92545056864412%",
+    "Formula Type": "12"
+  },
+  "Bristol Rovers - Charlton Athletic": {
+    "sportybet": {
+      "1(-2)": 8.9
+    },
+    "_sportybet": {
+      "1(-1)": 4.0
+    },
+    "betwinner": {
+      "H2(+2)": 1.048
+    },
+    "Percent Profit": "55.851702547388285%",
+    "Formula Type": "4"
+  },
+  "Cheltenham Town - Reading FC": {
+    "sportybet": {
+      "1(-2)": 13.0
+    },
+    "_sportybet": {
+      "1(-1)": 5.2
+    },
+    "betwinner": {
+      "H2(+2)": 1.008
+    },
+    "Percent Profit": "66.92495538649385%",
+    "Formula Type": "4"
+  },
+  "Exeter City - Portsmouth FC": {
+    "betwinner": {
+      "H1(-0.25)": 3.785
+    },
+    "sportybet": {
+      "1(+1)": 2.1
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.474
+    },
+    "Percent Profit": "21.917906068571043%",
+    "Formula Type": "12"
+  },
+  "Fleetwood Town - Bolton Wanderers": {
+    "betwinner": {
+      "H1(-0.25)": 3.24
+    },
+    "sportybet": {
+      "1(+1)": 1.92
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.571
+    },
+    "Percent Profit": "14.433323054873526%",
+    "Formula Type": "12"
+  },
+  "Leyton Orient London - Wycombe Wanderers": {
+    "sportybet": {
+      "1(-2)": 10.5
+    },
+    "_sportybet": {
+      "1(-1)": 4.4
+    },
+    "betwinner": {
+      "H2(+2)": 1.029
+    },
+    "Percent Profit": "60.65801707201125%",
+    "Formula Type": "4"
+  },
+  "Oxford United - Derby County": {
+    "sportybet": {
+      "1(-2)": 16.0
+    },
+    "_sportybet": {
+      "1(-1)": 6.25
+    },
+    "betwinner": {
+      "H2(+2)": 1.01
+    },
+    "Percent Profit": "72.56188118811882%",
+    "Formula Type": "4"
+  },
+  "Peterborough United - Barnsley": {
+    "betwinner": {
+      "H1(-2.25)": 4.475
+    },
+    "sportybet": {
+      "1(-1)": 2.65
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.31
+    },
+    "Percent Profit": "32.94267529185488%",
+    "Formula Type": "12"
+  },
+  "Stevenage FC - Cambridge United": {
+    "betwinner": {
+      "H1(-2.25)": 5.18
+    },
+    "sportybet": {
+      "1(-1)": 2.95
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.261
+    },
+    "Percent Profit": "39.53455894701803%",
+    "Formula Type": "12"
+  },
+  "Carlisle United - Port Vale": {
+    "sportybet": {
+      "1(-2)": 14.0
+    },
+    "_sportybet": {
+      "1(-1)": 5.6
+    },
+    "betwinner": {
+      "H2(+2)": 1.003
+    },
+    "Percent Profit": "69.15401753921907%",
+    "Formula Type": "4"
+  },
+  "Derby County - Peterborough United": {
+    "sportybet": {
+      "1(-2)": 9.0
+    },
+    "_sportybet": {
+      "1(-1)": 4.1
+    },
+    "betwinner": {
+      "H2(+2)": 1.046
+    },
+    "Percent Profit": "56.58619492504676%",
+    "Formula Type": "4"
+  },
+  "AFC Wimbledon - Colchester United": {
+    "betwinner": {
+      "H1(-2.25)": 4.075
+    },
+    "sportybet": {
+      "1(-1)": 2.45
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.361
+    },
+    "Percent Profit": "28.309461062379697%",
+    "Formula Type": "12"
+  },
+  "Barrow AFC - Accrington Stanley": {
+    "betwinner": {
+      "H1(-2.25)": 5.43
+    },
+    "sportybet": {
+      "1(-1)": 3.1
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.23
+    },
+    "Percent Profit": "41.716735473128864%",
+    "Formula Type": "12"
+  },
+  "Bradford City - Stockport County FC": {
+    "betwinner": {
+      "H1(-0.25)": 2.551
+    },
+    "sportybet": {
+      "1(+1)": 1.59
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.941
+    },
+    "Percent Profit": "0.9092604778774813%",
+    "Formula Type": "12"
+  },
+  "Gillingham FC - Sutton United": {
+    "betwinner": {
+      "H1(-2.25)": 5.94
+    },
+    "sportybet": {
+      "1(-1)": 3.3
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.2
+    },
+    "Percent Profit": "45.20967248239975%",
+    "Formula Type": "12"
+  },
+  "Harrogate Town - Tranmere Rovers FC": {
+    "sportybet": {
+      "1(-2)": 11.5
+    },
+    "_sportybet": {
+      "1(-1)": 4.9
+    },
+    "betwinner": {
+      "H2(+2)": 1.017
+    },
+    "Percent Profit": "64.12051033059113%",
+    "Formula Type": "4"
+  },
+  "Milton Keynes Dons - Crawley Town": {
+    "betwinner": {
+      "H1(-2.25)": 4.58
+    },
+    "sportybet": {
+      "1(-1)": 2.65
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.29
+    },
+    "Percent Profit": "33.338061352303825%",
+    "Formula Type": "12"
+  },
+  "Newport County - Crewe Alexandra": {
+    "sportybet": {
+      "1(-2)": 8.6
+    },
+    "_sportybet": {
+      "1(-1)": 3.9
+    },
+    "betwinner": {
+      "H2(+2)": 1.052
+    },
+    "Percent Profit": "54.65943847763637%",
+    "Formula Type": "4"
+  },
+  "Notts County - Morecambe FC": {
+    "betwinner": {
+      "H1(-2.25)": 4.085
+    },
+    "sportybet": {
+      "1(-1)": 2.5
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.357
+    },
+    "Percent Profit": "28.990343759863677%",
+    "Formula Type": "12"
+  },
+  "Walsall FC - Wrexham AFC": {
+    "merrybet": {
+      "1": 3.5
+    },
+    "sportybet": {
+      "1(+1)": 1.77
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.5
+    },
+    "Percent Profit": "12.025827280064576%",
+    "Formula Type": "4"
+  },
+  "Colchester United - Gillingham FC": {
+    "sportybet": {
+      "1(-2)": 11.0
+    },
+    "_sportybet": {
+      "1(-1)": 4.8
+    },
+    "betwinner": {
+      "H2(+2)": 1.022
+    },
+    "Percent Profit": "63.07448259503054%",
+    "Formula Type": "4"
+  },
+  "Crewe Alexandra - Bradford City": {
+    "sportybet": {
+      "1(-2)": 9.9
+    },
+    "_sportybet": {
+      "1(-1)": 4.4
+    },
+    "betwinner": {
+      "H2(+2)": 1.033
+    },
+    "Percent Profit": "59.689075921584944%",
+    "Formula Type": "4"
+  },
+  "Forest Green Rovers - AFC Wimbledon": {
+    "merrybet": {
+      "1": 3.25
+    },
+    "sportybet": {
+      "1(+1)": 1.67
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.57
+    },
+    "Percent Profit": "8.176982634437152%",
+    "Formula Type": "4"
+  },
+  "Grimsby Town - Walsall FC": {
+    "sportybet": {
+      "1(-2)": 7.5
+    },
+    "_sportybet": {
+      "1(-1)": 3.6
+    },
+    "betwinner": {
+      "H2(+2)": 1.072
+    },
+    "Percent Profit": "50.15478164731897%",
+    "Formula Type": "4"
+  },
+  "Tranmere Rovers FC - Notts County": {
+    "merrybet": {
+      "1": 3.2
+    },
+    "sportybet": {
+      "1(+1)": 1.69
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.57
+    },
+    "Percent Profit": "8.165068028492811%",
+    "Formula Type": "4"
+  },
+  "Middlesbrough FC - Chelsea FC": {
+    "betking": {
+      "1": 5.5
+    },
+    "sportybet": {
+      "1(+1)": 2.4
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.23
+    },
+    "Percent Profit": "32.945306725794524%",
+    "Formula Type": "4"
+  },
+  "York City FC - Gateshead FC": {
+    "betking": {
+      "1": 5.2
+    },
+    "sportybet": {
+      "1(+1)": 2.3
+    },
+    "betpawa": {
+      "2(Draw no bet)": 1.24
+    },
+    "Percent Profit": "30.143489049519914%",
+    "Formula Type": "4"
+  },
+  "Getafe CF - Rayo Vallecano": {
+    "sportybet": {
+      "1(-2)": 13.5
+    },
+    "_sportybet": {
+      "1(-1)": 5.1
+    },
+    "betwinner": {
+      "H2(+2)": 1.009
+    },
+    "Percent Profit": "67.0958468914123%",
+    "Formula Type": "4"
+  },
+  "Real Sociedad - Deportivo Alaves": {
+    "betwinner": {
+      "H1(-2.25)": 4.945
+    },
+    "sportybet": {
+      "1(-1)": 2.65
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.31
+    },
+    "Percent Profit": "35.729549620717236%",
+    "Formula Type": "12"
+  },
+  "Valencia CF - Villarreal CF": {
+    "sportybet": {
+      "1(-2)": 10.0
+    },
+    "_sportybet": {
+      "1(-1)": 4.4
+    },
+    "betwinner": {
+      "H2(+2)": 1.031
+    },
+    "Percent Profit": "59.846133497927866%",
+    "Formula Type": "4"
+  },
+  "Real Madrid - RCD Mallorca": {
+    "betwinner": {
+      "H1(-2.25)": 2.444
+    },
+    "sportybet": {
+      "1(-1)": 1.69
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.9
+    },
+    "Percent Profit": "1.7276944382572026%",
+    "Formula Type": "12"
+  },
+  "Girona FC - Atletico Madrid": {
+    "sportybet": {
+      "1(-2)": 11.5
+    },
+    "_sportybet": {
+      "1(-1)": 4.9
+    },
+    "betwinner": {
+      "H2(+2)": 1.027
+    },
+    "Percent Profit": "64.20376541455244%",
+    "Formula Type": "4"
+  },
+  "CA Osasuna - UD Almeria": {
+    "betwinner": {
+      "H1(-2.25)": 5.1
+    },
+    "sportybet": {
+      "1(-1)": 2.8
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.285
+    },
+    "Percent Profit": "37.92039108637084%",
+    "Formula Type": "12"
+  },
+  "Sevilla FC - Athletic Bilbao": {
+    "betwinner": {
+      "H1(-0.25)": 2.592
+    },
+    "sportybet": {
+      "1(+1)": 1.64
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.908
+    },
+    "Percent Profit": "2.68298457132299%",
+    "Formula Type": "12"
+  },
+  "UD Las Palmas - FC Barcelona": {
+    "betwinner": {
+      "H1(-0.25)": 4.82
+    },
+    "sportybet": {
+      "1(+1)": 2.4
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.351
+    },
+    "Percent Profit": "32.25852589013331%",
+    "Formula Type": "12"
+  },
+  "UD Las Palmas - Villarreal CF": {
+    "sportybet": {
+      "1(-2)": 12.0
+    },
+    "_sportybet": {
+      "1(-1)": 5.0
+    },
+    "betwinner": {
+      "H2(+2)": 1.018
+    },
+    "Percent Profit": "65.14734774066798%",
+    "Formula Type": "4"
+  },
+  "Athletic Bilbao - Real Sociedad": {
+    "sportybet": {
+      "1(-2)": 10.5
+    },
+    "_sportybet": {
+      "1(-1)": 4.3
+    },
+    "betwinner": {
+      "H2(+2)": 1.035
+    },
+    "Percent Profit": "60.23346761466074%",
+    "Formula Type": "4"
+  },
+  "UD Almeria - Girona FC": {
+    "betwinner": {
+      "H1(-0.25)": 3.28
+    },
+    "sportybet": {
+      "1(+1)": 2.05
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.563
+    },
+    "Percent Profit": "17.32497511056839%",
+    "Formula Type": "12"
+  },
+  "Cadiz CF - Valencia CF": {
+    "betking": {
+      "1": 2.72
+    },
+    "sportybet": {
+      "1(+1)": 1.44
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.93
+    },
+    "Percent Profit": "0.2728250194723927%",
+    "Formula Type": "4"
+  },
+  "Fiorentina - Torino FC": {
+    "sportybet": {
+      "1(-2)": 11.5
+    },
+    "_sportybet": {
+      "1(-1)": 4.5
+    },
+    "betwinner": {
+      "H2(+2)": 1.032
+    },
+    "Percent Profit": "62.588473205257834%",
+    "Formula Type": "4"
+  },
+  "Atalanta - US Lecce": {
+    "betwinner": {
+      "H1(-2.25)": 3.675
+    },
+    "sportybet": {
+      "1(-1)": 2.3
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.459
+    },
+    "Percent Profit": "24.123305757901832%",
+    "Formula Type": "12"
+  },
+  "Hellas Verona - US Salernitana": {
+    "betwinner": {
+      "H1(-2.25)": 6.93
+    },
+    "sportybet": {
+      "1(-1)": 3.5
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.205
+    },
+    "Percent Profit": "50.287942385206826%",
+    "Formula Type": "12"
+  },
+  "Juventus - AS Roma": {
+    "betwinner": {
+      "H1(-2.25)": 11.0
+    },
+    "sportybet": {
+      "1(-1)": 4.3
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.129
+    },
+    "Percent Profit": "62.32416971131062%",
+    "Formula Type": "12"
+  },
+  "Sassuolo Calcio - Fiorentina": {
+    "betwinner": {
+      "H1(-0.25)": 2.51
+    },
+    "sportybet": {
+      "1(+1)": 1.62
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.966
+    },
+    "Percent Profit": "1.3331411523998185%",
+    "Formula Type": "12"
+  },
+  "Empoli FC - Milan": {
+    "betwinner": {
+      "H1(-0.25)": 4.06
+    },
+    "sportybet": {
+      "1(+1)": 2.2
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.442
+    },
+    "Percent Profit": "25.41048526113319%",
+    "Formula Type": "12"
+  },
+  "US Salernitana - Juventus": {
+    "sportybet": {
+      "1": 6.54
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.19
+    },
+    "Percent Profit": "39.27973447671235%",
+    "Formula Type": "4"
+  },
+  "Bayern Munich - TSG Hoffenheim": {
+    "betwinner": {
+      "Under(2.75)": 3.48
+    },
+    "betking": {
+      "Over(2.5)": 1.24
+    },
+    "_betwinner": {
+      "Under(3)": 3.2
+    },
+    "Percent Profit": "0.9421242457949859%",
+    "Formula Type": "10"
+  },
+  "SC Freiburg - Union Berlin": {
+    "sportybet": {
+      "1(-2)": 9.25
+    },
+    "_sportybet": {
+      "1(-1)": 4.0
+    },
+    "betwinner": {
+      "H2(+2)": 1.048
+    },
+    "Percent Profit": "56.57623272127089%",
+    "Formula Type": "4"
+  },
+  "SV Darmstadt 98 - Borussia Dortmund": {
+    "betwinner": {
+      "H1(-0.25)": 4.22
+    },
+    "sportybet": {
+      "1(+1)": 2.4
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.392
+    },
+    "Percent Profit": "29.05783549047527%",
+    "Formula Type": "12"
+  },
+  "FSV Mainz - Union Berlin": {
+    "sportybet": {
+      "1(-2)": 10.5
+    },
+    "_sportybet": {
+      "1(-1)": 4.5
+    },
+    "betwinner": {
+      "H2(+2)": 1.032
+    },
+    "Percent Profit": "61.141872769779745%",
+    "Formula Type": "4"
+  },
+  "1. FC Heidenheim - VfL Wolfsburg": {
+    "betwinner": {
+      "H1(-0.25)": 2.536
+    },
+    "sportybet": {
+      "1(+1)": 1.63
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.908
+    },
+    "Percent Profit": "1.6063553760593834%",
+    "Formula Type": "12"
+  },
+  "SC Freiburg - TSG Hoffenheim": {
+    "sportybet": {
+      "1(-2)": 9.4
+    },
+    "_sportybet": {
+      "1(-1)": 4.25
+    },
+    "betwinner": {
+      "H2(+2)": 1.042
+    },
+    "Percent Profit": "58.1259203562995%",
+    "Formula Type": "4"
+  },
+  "SV Darmstadt 98 - Eintracht Frankfurt": {
+    "betwinner": {
+      "H1(-0.25)": 3.92
+    },
+    "sportybet": {
+      "1(+1)": 2.2
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.451
+    },
+    "Percent Profit": "24.46897026662687%",
+    "Formula Type": "12"
+  },
+  "VfL Bochum - VfB Stuttgart": {
+    "betwinner": {
+      "H1(-0.25)": 3.82
+    },
+    "sportybet": {
+      "1(+1)": 2.2
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.463
+    },
+    "Percent Profit": "23.814155648573617%",
+    "Formula Type": "12"
+  },
+  "Lille OSC - FC Lorient": {
+    "betwinner": {
+      "H1(-2.25)": 3.2
+    },
+    "sportybet": {
+      "1(-1)": 2.05
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.553
+    },
+    "Percent Profit": "16.37206703263614%",
+    "Formula Type": "12"
+  },
+  "FC Nantes - Clermont Foot 63": {
+    "sportybet": {
+      "1(-2)": 8.7
+    },
+    "_sportybet": {
+      "1(-1)": 3.75
+    },
+    "betwinner": {
+      "H2(+2)": 1.065
+    },
+    "Percent Profit": "54.11148885651072%",
+    "Formula Type": "4"
+  },
+  "PEC Zwolle - SC Heerenveen": {
+    "betking": {
+      "1": 2.68
+    },
+    "sportybet": {
+      "1(+1)": 1.5
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.84
+    },
+    "Percent Profit": "0.6164828033744385%",
+    "Formula Type": "4"
+  },
+  "Vitesse Arnhem - FC Utrecht": {
+    "betking": {
+      "1": 3.0
+    },
+    "sportybet": {
+      "1(+1)": 1.6
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.67
+    },
+    "Percent Profit": "5.039920159680648%",
+    "Formula Type": "4"
+  },
+  "Livingston FC - Heart of Midlothian FC": {
+    "sportybet": {
+      "1": 3.33
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.53
+    },
+    "Percent Profit": "10.129872942584228%",
+    "Formula Type": "4"
+  },
+  "Ross County FC - Aberdeen FC": {
+    "betking": {
+      "1": 3.0
+    },
+    "nairabet": {
+      "1(+1)": 1.6
+    },
+    "sportybet": {
+      "2(Draw no bet)": 1.67
+    },
+    "Percent Profit": "5.039920159680648%",
+    "Formula Type": "4"
+  },
+  "Dundee United - Partick Thistle FC": {
+    "betwinner": {
+      "H1(-2.25)": 4.15
+    },
+    "sportybet": {
+      "1(-1)": 2.55
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.341
+    },
+    "Percent Profit": "29.895703679233947%",
+    "Formula Type": "12"
+  },
+  "Ayr United FC - Dunfermline Athletic FC": {
+    "sportybet": {
+      "1(-2)": 12.0
+    },
+    "_sportybet": {
+      "1(-1)": 5.0
+    },
+    "betwinner": {
+      "H2(+2)": 1.01
+    },
+    "Percent Profit": "65.08250825082509%",
+    "Formula Type": "4"
+  },
+  "Queens Park FC - Airdrieonians FC": {
+    "sportybet": {
+      "1(-2)": 12.5
+    },
+    "_sportybet": {
+      "1(-1)": 5.2
+    },
+    "betwinner": {
+      "H2(+2)": 1.013
+    },
+    "Percent Profit": "66.41035765813653%",
+    "Formula Type": "4"
+  },
+  "Raith Rovers FC - Arbroath FC": {
+    "betwinner": {
+      "H1(-2.25)": 3.175
+    },
+    "sportybet": {
+      "1(-1)": 2.1
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.509
+    },
+    "Percent Profit": "16.492475110581452%",
+    "Formula Type": "12"
+  },
+  "Sydney FC - Wellington Phoenix FC": {
+    "betwinner": {
+      "H1(-2.25)": 5.21
+    },
+    "sportybet": {
+      "1(-1)": 2.8
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.25
+    },
+    "Percent Profit": "38.00840873777533%",
+    "Formula Type": "12"
+  },
+  "Melbourne Victory - Adelaide United FC": {
+    "betwinner": {
+      "H1(-2.25)": 4.295
+    },
+    "sportybet": {
+      "1(-1)": 2.65
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.331
+    },
+    "Percent Profit": "32.008503595689646%",
+    "Formula Type": "12"
+  },
+  "Central Coast Mariners - Perth Glory FC": {
+    "betwinner": {
+      "H1(-2.25)": 3.79
+    },
+    "sportybet": {
+      "1(-1)": 2.4
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.389
+    },
+    "Percent Profit": "25.696829123272508%",
+    "Formula Type": "12"
+  },
+  "Adelaide United FC - Wellington Phoenix FC": {
+    "sportybet": {
+      "1(-2)": 8.2
+    },
+    "_sportybet": {
+      "1(-1)": 3.9
+    },
+    "betwinner": {
+      "H2(+2)": 1.059
+    },
+    "Percent Profit": "53.77511086071854%",
+    "Formula Type": "4"
+  },
+  "Brisbane Roar FC - Sydney FC": {
+    "sportybet": {
+      "1(-2)": 9.1
+    },
+    "_sportybet": {
+      "1(-1)": 4.3
+    },
+    "betwinner": {
+      "H2(+2)": 1.035
+    },
+    "Percent Profit": "57.69335708668367%",
+    "Formula Type": "4"
+  },
+  "Perth Glory FC - Melbourne Victory": {
+    "betwinner": {
+      "H1(-0.25)": 3.235
+    },
+    "sportybet": {
+      "1(+1)": 1.98
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.563
+    },
+    "Percent Profit": "15.520850053340268%",
+    "Formula Type": "12"
+  },
+  "Western United FC - Melbourne City FC": {
+    "betwinner": {
+      "H1(-0.25)": 3.235
+    },
+    "sportybet": {
+      "1(+1)": 1.92
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.573
+    },
+    "Percent Profit": "14.401465434415925%",
+    "Formula Type": "12"
+  },
+  "Canberra United FC (W) - Western United FC (W)": {
+    "merrybet": {
+      "1": 3.4
+    },
+    "sportybet": {
+      "1(+1)": 1.78
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.45
+    },
+    "Percent Profit": "10.647947671900994%",
+    "Formula Type": "4"
+  },
+  "Western Sydney Wanderers (W) - Melbourne Victory (W)": {
+    "betking": {
+      "1": 3.95
+    },
+    "sportybet": {
+      "1(+1)": 1.93
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.34
+    },
+    "Percent Profit": "17.09452997359891%",
+    "Formula Type": "4"
+  },
+  "Central Coast Mariners (W) - Perth Glory FC (W)": {
+    "merrybet": {
+      "1": 2.84
+    },
+    "sportybet": {
+      "1(+1)": 1.56
+    },
+    "betking": {
+      "2(Draw no bet)": 1.68
+    },
+    "Percent Profit": "2.298405819532576%",
+    "Formula Type": "4"
+  },
+  "Talaea El Gaish - Zed FC": {
+    "betking": {
+      "1": 2.92
+    },
+    "sportybet": {
+      "1(+1)": 1.5
+    },
+    "_betking": {
+      "2(Draw no bet)": 1.75
+    },
+    "Percent Profit": "2.3483365949119417%",
+    "Formula Type": "4"
+  },
+  "Asteras Tripolis - Aris Thessaloniki": {
+    "betking": {
+      "1": 3.25
+    },
+    "sportybet": {
+      "1(+1)": 1.6
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.58
+    },
+    "Percent Profit": "6.487341772151893%",
+    "Formula Type": "4"
+  },
+  "PAS Lamia 1964 - Olympiacos Piraeus": {
+    "betking": {
+      "1": 8.7
+    },
+    "sportybet": {
+      "1(+1)": 2.95
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.12
+    },
+    "Percent Profit": "48.24107316801647%",
+    "Formula Type": "4"
+  },
+  "Aris Thessaloniki - PAOK Thessaloniki": {
+    "betking": {
+      "1": 3.2
+    },
+    "sportybet": {
+      "1(+1)": 1.6
+    },
+    "_betking": {
+      "2(Draw no bet)": 1.58
+    },
+    "Percent Profit": "6.002768987341781%",
+    "Formula Type": "4"
+  },
+  "Hapoel Petah Tikva FC - Hapoel Jerusalem FC": {
+    "sportybet": {
+      "1(-2)": 15.0
+    },
+    "_sportybet": {
+      "1(-1)": 6.0
+    },
+    "betwinner": {
+      "H2(+2)": 1.01
+    },
+    "Percent Profit": "71.17711771177117%",
+    "Formula Type": "4"
+  },
+  "Hapoel Hadera FC - Maccabi Netanya FC": {
+    "merrybet": {
+      "1": 3.5
+    },
+    "sportybet": {
+      "1(+1)": 1.77
+    },
+    "betpawa": {
+      "2(Draw no bet)": 1.51
+    },
+    "Percent Profit": "12.151970452565351%",
+    "Formula Type": "4"
+  },
+  "Maccabi Bney Reine - Bnei Sakhnin FC": {
+    "sportybet": {
+      "1(-2)": 9.75
+    },
+    "_sportybet": {
+      "1(-1)": 4.1
+    },
+    "paripesa": {
+      "H2(+2)": 1.039
+    },
+    "Percent Profit": "57.983484624955075%",
+    "Formula Type": "4"
+  },
+  "FC Ashdod - Hapoel Be`er Sheva FC": {
+    "betwinner": {
+      "H1(-0.25)": 3.42
+    },
+    "sportybet": {
+      "1(+1)": 1.97
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.533
+    },
+    "Percent Profit": "16.859324886286615%",
+    "Formula Type": "12"
+  },
+  "Beitar Jerusalem FC - Maccabi Petah Tikva FC": {
+    "sportybet": {
+      "1(-2)": 7.9
+    },
+    "_sportybet": {
+      "1(-1)": 3.7
+    },
+    "betwinner": {
+      "H2(+2)": 1.066
+    },
+    "Percent Profit": "51.86137761006548%",
+    "Formula Type": "4"
+  },
+  "Hapoel Haifa FC - Maccabi Tel Aviv FC": {
+    "betwinner": {
+      "H1(+0.75)": 2.711
+    },
+    "sportybet": {
+      "1(+2)": 1.73
+    },
+    "_betwinner": {
+      "H2(-1.25)": 1.788
+    },
+    "Percent Profit": "5.789846289902414%",
+    "Formula Type": "12"
+  },
+  "Hapoel Tel Aviv FC - Maccabi Haifa FC": {
+    "betwinner": {
+      "H1(-0.25)": 4.4
+    },
+    "sportybet": {
+      "1(+1)": 2.3
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.363
+    },
+    "Percent Profit": "28.430101814151385%",
+    "Formula Type": "12"
+  },
+  "Maccabi Haifa FC - Maccabi Tel Aviv FC": {
+    "sportybet": {
+      "1": 8.9
+    },
+    "_sportybet": {
+      "1(+1)": 3.2
+    },
+    "betking": {
+      "2(Draw no bet)": 5.5
+    },
+    "Percent Profit": "58.98237997957099%",
+    "Formula Type": "4"
+  },
+  "Middlesbrough FC - Aston Villa": {
+    "betwinner": {
+      "H1(-0.25)": 4.115
+    },
+    "sportybet": {
+      "1(+1)": 2.2
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.412
+    },
+    "Percent Profit": "25.472025363308873%",
+    "Formula Type": "12"
+  },
+  "Bristol City - Millwall FC": {
+    "sportybet": {
+      "1(-2)": 9.6
+    },
+    "_sportybet": {
+      "1(-1)": 4.1
+    },
+    "betwinner": {
+      "H2(+2)": 1.037
+    },
+    "Percent Profit": "57.68873823019811%",
+    "Formula Type": "4"
+  },
+  "Barnsley - Wigan Athletic": {
+    "betwinner": {
+      "H1(-2.25)": 4.625
+    },
+    "sportybet": {
+      "1(-1)": 2.65
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.301
+    },
+    "Percent Profit": "33.77197422141242%",
+    "Formula Type": "12"
+  },
+  "Bolton Wanderers - Burton Albion": {
+    "betwinner": {
+      "H1(-2.25)": 3.15
+    },
+    "sportybet": {
+      "1(-1)": 2.0
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.533
+    },
+    "Percent Profit": "14.666021297192643%",
+    "Formula Type": "12"
+  },
+  "Cambridge United - Leyton Orient London": {
+    "sportybet": {
+      "1(-2)": 11.5
+    },
+    "_sportybet": {
+      "1(-1)": 4.8
+    },
+    "betwinner": {
+      "H2(+2)": 1.013
+    },
+    "Percent Profit": "63.698549293961115%",
+    "Formula Type": "4"
+  },
+  "Doncaster Rovers - Milton Keynes Dons": {
+    "betwinner": {
+      "H1(-2.5)": 10.0
+    },
+    "sportybet": {
+      "1(-1)": 5.8
+    },
+    "_betwinner": {
+      "H2(+2)": 1.003
+    },
+    "Percent Profit": "64.51266888988206%",
+    "Formula Type": "4"
+  },
+  "Morecambe FC - Harrogate Town": {
+    "betwinner": {
+      "H1(-2.25)": 6.14
+    },
+    "sportybet": {
+      "1(-1)": 3.33
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.18
+    },
+    "Percent Profit": "45.951412228476784%",
+    "Formula Type": "12"
+  },
+  "Edinburgh City FC - Hamilton Academical FC": {
+    "paripesa": {
+      "H1(+0.75)": 4.0
+    },
+    "sportybet": {
+      "1(+2)": 2.2
+    },
+    "betwinner": {
+      "H2(-1.25)": 1.426
+    },
+    "Percent Profit": "24.79628902415078%",
+    "Formula Type": "12"
+  },
+  "Falkirk FC - Stirling Albion FC": {
+    "betwinner": {
+      "H1(-2.25)": 2.419
+    },
+    "sportybet": {
+      "1(-1)": 1.74
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.841
+    },
+    "Percent Profit": "2.0840392827130074%",
+    "Formula Type": "12"
+  },
+  "Kelty Hearts FC - Alloa Athletic FC": {
+    "sportybet": {
+      "1(-2)": 8.8
+    },
+    "_sportybet": {
+      "1(-1)": 4.0
+    },
+    "betwinner": {
+      "H2(+2)": 1.041
+    },
+    "Percent Profit": "55.561195528774775%",
+    "Formula Type": "4"
+  },
+  "Montrose FC - Cove Rangers FC": {
+    "betwinner": {
+      "H1(-0.25)": 2.797
+    },
+    "sportybet": {
+      "1(+1)": 1.75
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.731
+    },
+    "Percent Profit": "6.94688588782499%",
+    "Formula Type": "12"
+  },
+  "Queen of The South FC - Annan Athletic FC": {
+    "betwinner": {
+      "H1(-2.25)": 4.395
+    },
+    "sportybet": {
+      "1(-1)": 2.55
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.308
+    },
+    "Percent Profit": "31.173442580154415%",
+    "Formula Type": "12"
+  },
+  "Bonnyrigg Rose - Spartans FC": {
+    "betwinner": {
+      "H1(-0.25)": 2.606
+    },
+    "sportybet": {
+      "1(+1)": 1.59
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.84
+    },
+    "Percent Profit": "0.9852344152476462%",
+    "Formula Type": "12"
+  },
+  "Clyde FC - Stenhousemuir FC": {
+    "betwinner": {
+      "H1(-0.25)": 4.045
+    },
+    "sportybet": {
+      "1(+1)": 2.15
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.412
+    },
+    "Percent Profit": "24.114120066025876%",
+    "Formula Type": "12"
+  },
+  "Elgin City FC - Peterhead FC": {
+    "betwinner": {
+      "H1(-0.25)": 3.875
+    },
+    "sportybet": {
+      "1(+1)": 2.1
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.436
+    },
+    "Percent Profit": "22.215657699528663%",
+    "Formula Type": "12"
+  },
+  "Forfar Athletic FC - East Fife FC": {
+    "sportybet": {
+      "1(-2)": 9.3
+    },
+    "_sportybet": {
+      "1(-1)": 4.1
+    },
+    "betwinner": {
+      "H2(+2)": 1.029
+    },
+    "Percent Profit": "57.03002642741559%",
+    "Formula Type": "4"
+  },
+  "Stranraer FC - Dumbarton FC": {
+    "betwinner": {
+      "H1(-0.25)": 2.759
+    },
+    "sportybet": {
+      "1(+1)": 1.7
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.759
+    },
+    "Percent Profit": "5.431023488440317%",
+    "Formula Type": "12"
+  },
+  "Plymouth Argyle - Watford FC": {
+    "betking": {
+      "1": 2.97
+    },
+    "sportybet": {
+      "1(+1)": 1.59
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.69
+    },
+    "Percent Profit": "4.689909527838893%",
+    "Formula Type": "4"
+  },
+  "Sheffield Wednesday - Hull City": {
+    "betking": {
+      "1": 2.97
+    },
+    "sportybet": {
+      "1(+1)": 1.53
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.74
+    },
+    "Percent Profit": "3.6264530968159505%",
+    "Formula Type": "4"
+  },
+  "Northeast United FC - FC Goa": {
+    "nairabet": {
+      "1": 5.0
+    },
+    "_nairabet": {
+      "1(+1)": 2.2
+    },
+    "betking": {
+      "2(Draw no bet)": 1.25
+    },
+    "Percent Profit": "27.63636363636364%",
+    "Formula Type": "4"
+  },
+  "Peterborough United - Leeds United": {
+    "betking": {
+      "1": 6.5
+    },
+    "sportybet": {
+      "1(+1)": 2.7
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.16
+    },
+    "Percent Profit": "40.01375380685725%",
+    "Formula Type": "4"
+  },
+  "Apollon Limassol - APOEL Nikosia": {
+    "betking": {
+      "1": 3.05
+    },
+    "sportybet": {
+      "1(+1)": 1.55
+    },
+    "_betking": {
+      "2(Draw no bet)": 1.66
+    },
+    "Percent Profit": "4.098679222442385%",
+    "Formula Type": "4"
+  },
+  "Atalanta BC - US Lecce": {
+    "betwinner": {
+      "H1(-2.25)": 3.675
+    },
+    "sportybet": {
+      "1(-1)": 2.3
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.459
+    },
+    "Percent Profit": "24.123305757901832%",
+    "Formula Type": "12"
+  },
+  "Nottingham Forest - Manchester United": {
+    "betwinner": {
+      "H1(-0.25)": 2.592
+    },
+    "nairabet": {
+      "1(+1)": 1.67
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.887
+    },
+    "Percent Profit": "3.3466952180714316%",
+    "Formula Type": "12"
+  },
+  "Montpellier HSC - Lille OSC": {
+    "sportybet": {
+      "1(-2)": 14.0
+    },
+    "_sportybet": {
+      "1(-1)": 5.7
+    },
+    "betwinner": {
+      "H2(+2)": 1.003
+    },
+    "Percent Profit": "69.44492337523769%",
+    "Formula Type": "4"
+  },
+  "Toulouse FC - RC Lens": {
+    "betwinner": {
+      "H1(-0.25)": 2.875
+    },
+    "sportybet": {
+      "1(+1)": 1.75
+    },
+    "_betwinner": {
+      "H2(-0.25)": 1.771
+    },
+    "Percent Profit": "8.23873215690682%",
+    "Formula Type": "12"
+  },
+  "SV 07 Elversberg - Hannover 96": {
+    "sportybet": {
+      "1(-2)": 8.2
+    },
+    "_sportybet": {
+      "1(-1)": 3.9
+    },
+    "betwinner": {
+      "H2(+2)": 1.05
+    },
+    "Percent Profit": "53.67640489591709%",
+    "Formula Type": "4"
+  },
+  "SC Paderborn 07 - Greuther Furth": {
+    "sportybet": {
+      "1(-2)": 8.3
+    },
+    "_sportybet": {
+      "1(-1)": 4.0
+    },
+    "betwinner": {
+      "H2(+2)": 1.044
+    },
+    "Percent Profit": "54.42344088999677%",
+    "Formula Type": "4"
+  },
+  "1. FC Magdeburg - SV Wehen Wiesbaden": {
+    "betwinner": {
+      "H1(-2.25)": 4.795
+    },
+    "sportybet": {
+      "1(-1)": 2.8
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.262
+    },
+    "Percent Profit": "35.91400006177538%",
+    "Formula Type": "12"
+  },
+  "Hertha BSC - 1 FC Kaiserslautern": {
+    "betwinner": {
+      "H1(-2.25)": 6.27
+    },
+    "sportybet": {
+      "1(-1)": 3.4
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.209
+    },
+    "Percent Profit": "47.39124687335876%",
+    "Formula Type": "12"
+  },
+  "Bayer Leverkusen - VfB Stuttgart": {
+    "betwinner": {
+      "H1(-2.25)": 4.545
+    },
+    "sportybet": {
+      "1(-1)": 2.65
+    },
+    "_betwinner": {
+      "H2(+1.75)": 1.329
+    },
+    "Percent Profit": "33.64681849071175%",
+    "Formula Type": "12"
+  },
+  "US Salernitana - Juventus Turin": {
+    "merrybet": {
+      "1": 6.54
+    },
+    "sportybet": {
+      "1(+1)": 2.6
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.19
+    },
+    "Percent Profit": "39.27973447671235%",
+    "Formula Type": "4"
+  },
+  "Canberra United FC - Western United FC": {
+    "merrybet": {
+      "1": 3.4
+    },
+    "sportybet": {
+      "1(+1)": 1.78
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.45
+    },
+    "Percent Profit": "10.647947671900994%",
+    "Formula Type": "4"
+  },
+  "Western Sydney Wanderers - Melbourne Victory": {
+    "merrybet": {
+      "1": 4.0
+    },
+    "sportybet": {
+      "1(+1)": 1.93
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.34
+    },
+    "Percent Profit": "17.48317995514654%",
+    "Formula Type": "4"
+  },
+  "Darlington FC - Scarborough Athletic": {
+    "betpawa": {
+      "1": 2.9
+    },
+    "nairabet": {
+      "1(+1)": 1.55
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.65
+    },
+    "Percent Profit": "2.3494118043617505%",
+    "Formula Type": "4"
+  },
+  "Rushall Olympic - Tamworth FCPre": {
+    "betpawa": {
+      "1": 3.85
+    },
+    "nairabet": {
+      "1(+1)": 1.8
+    },
+    "_betpawa": {
+      "2(Draw no bet)": 1.35
+    },
+    "Percent Profit": "13.660413660413667%",
+    "Formula Type": "4"
+  },
+  "Farsley Celtic FC - Scunthorpe United": {
+    "betpawa": {
+      "1": 4.8
+    },
+    "nairabet": {
+      "1(+1)": 2.15
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.25
+    },
+    "Percent Profit": "25.678294573643413%",
+    "Formula Type": "4"
+  },
+  "Blyth Spartans AFC - South Shields": {
+    "betpawa": {
+      "1": 3.0
+    },
+    "nairabet": {
+      "1(+1)": 1.55
+    },
+    "_betpawa": {
+      "2(Draw no bet)": 1.55
+    },
+    "Percent Profit": "2.1505376344086073%",
+    "Formula Type": "4"
+  },
+  "Southport FC - Curzon Ashton FC": {
+    "betpawa": {
+      "1": 2.8
+    },
+    "nairabet": {
+      "1(+1)": 1.5
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.7
+    },
+    "Percent Profit": "0.42016806722688216%",
+    "Formula Type": "4"
+  },
+  "Hampton & Richmond Borough - Slough Town FC": {
+    "betpawa": {
+      "1": 2.8
+    },
+    "nairabet": {
+      "1(+1)": 1.5
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.7
+    },
+    "Percent Profit": "0.42016806722688216%",
+    "Formula Type": "4"
+  },
+  "Eastbourne Borough - Worthing FC": {
+    "betpawa": {
+      "1": 3.2
+    },
+    "nairabet": {
+      "1(+1)": 1.65
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.5
+    },
+    "Percent Profit": "6.25%",
+    "Formula Type": "4"
+  },
+  "SC Hapoel Lod - AS Nordia Jerusalem": {
+    "betpawa": {
+      "1": 2.85
+    },
+    "sportybet": {
+      "1(+1)": 1.6
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.65
+    },
+    "Percent Profit": "3.076820839978737%",
+    "Formula Type": "4"
+  },
+  "Maccabi Shaaraim - Shimshon Tel Aviv": {
+    "betpawa": {
+      "1": 4.1
+    },
+    "sportybet": {
+      "1(+1)": 1.95
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.34
+    },
+    "Percent Profit": "18.633847647316884%",
+    "Formula Type": "4"
+  },
+  "Maccabi Nujeidat Ahmad - Hapoel Ra`anana FC": {
+    "sportybet": {
+      "1": 6.25
+    },
+    "_sportybet": {
+      "1(+1)": 2.4
+    },
+    "betpawa": {
+      "2(Draw no bet)": 1.21
+    },
+    "Percent Profit": "35.77685950413223%",
+    "Formula Type": "4"
+  },
+  "Shimshon Kafr Qasim - Hapoel Herzelia FC": {
+    "sportybet": {
+      "1": 3.9
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.39
+    },
+    "Percent Profit": "15.055614004147472%",
+    "Formula Type": "4"
+  },
+  "Maccabi Ironi Ashdod FC - FC Holon Yirmiyahu": {
+    "sportybet": {
+      "1": 3.5
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.48
+    },
+    "Percent Profit": "10.106745400863048%",
+    "Formula Type": "4"
+  },
+  "Maccabi Ironi Kiryat Malakhi - Hapoel Ashdod FC": {
+    "sportybet": {
+      "1": 2.8
+    },
+    "_sportybet": {
+      "1(+1)": 1.52
+    },
+    "betpawa": {
+      "2(Draw no bet)": 1.93
+    },
+    "Percent Profit": "3.487669952082271%",
+    "Formula Type": "4"
+  },
+  "Al-Taawoun FC - Al-Nassr FC": {
+    "sportybet": {
+      "1": 5.2
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.22
+    },
+    "Percent Profit": "33.33209702544322%",
+    "Formula Type": "4"
+  },
+  "Clermont Foot 63 - Strasbourg Alsace": {
+    "sportybet": {
+      "1": 2.97
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.7
+    },
+    "Percent Profit": "5.579640510649966%",
+    "Formula Type": "4"
+  },
+  "Oud-Heverlee Leuven - RSC Anderlecht": {
+    "betpawa": {
+      "1": 4.7
+    },
+    "sportybet": {
+      "1(+1)": 2.0
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.31
+    },
+    "Percent Profit": "23.12002598668184%",
+    "Formula Type": "4"
+  },
+  "Wolfsberger AC - SK Rapid": {
+    "betpawa": {
+      "1": 3.4
+    },
+    "sportybet": {
+      "1(+1)": 1.71
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.55
+    },
+    "Percent Profit": "10.333233463164547%",
+    "Formula Type": "4"
+  },
+  "Casa Pia Lisbon - SC Braga": {
+    "betpawa": {
+      "1": 5.25
+    },
+    "sportybet": {
+      "1(+1)": 2.25
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.25
+    },
+    "Percent Profit": "29.735449735449734%",
+    "Formula Type": "4"
+  },
+  "Portimonense SC - Sporting Lisbon": {
+    "betpawa": {
+      "1": 8.5
+    },
+    "sportybet": {
+      "1(+1)": 3.4
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.11
+    },
+    "Percent Profit": "51.68490289597556%",
+    "Formula Type": "4"
+  },
+  "Aberystwyth Town FC - Haverfordwest County AFC": {
+    "sportybet": {
+      "1": 3.75
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.39
+    },
+    "Percent Profit": "15.347975587783736%",
+    "Formula Type": "4"
+  },
+  "Barry Town United FC - Cardiff Metropolitan University FC": {
+    "sportybet": {
+      "1": 3.25
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.51
+    },
+    "Percent Profit": "8.836009528885526%",
+    "Formula Type": "4"
+  },
+  "Connah's Quay Nomads FC - The New Saints FC": {
+    "betpawa": {
+      "1": 4.5
+    },
+    "sportybet": {
+      "1(+1)": 2.15
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.28
+    },
+    "Percent Profit": "24.240956072351423%",
+    "Formula Type": "4"
+  },
+  "Hungary - Switzerland (n)": {
+    "sportybet": {
+      "1": 2.86
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.76
+    },
+    "Percent Profit": "3.210425937698659%",
+    "Formula Type": "4"
+  },
+  "Slovenia - Denmark (n)": {
+    "sportybet": {
+      "1": 4.42
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.36
+    },
+    "Percent Profit": "20.648985451681895%",
+    "Formula Type": "4"
+  },
+  "Serbia - England (n)": {
+    "sportybet": {
+      "1": 5.47
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.25
+    },
+    "Percent Profit": "29.948479308625565%",
+    "Formula Type": "4"
+  },
+  "Austria - France (n)": {
+    "sportybet": {
+      "1": 6.45
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.18
+    },
+    "Percent Profit": "39.47191626816202%",
+    "Formula Type": "4"
+  },
+  "Indonesia - Iraq (n)": {
+    "sportybet": {
+      "1": 8.6
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.09
+    },
+    "Percent Profit": "52.45511902221951%",
+    "Formula Type": "4"
+  },
+  "Malaysia - Jordan (n)": {
+    "sportybet": {
+      "1": 4.5
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.31
+    },
+    "Percent Profit": "21.92536047497879%",
+    "Formula Type": "4"
+  },
+  "RB Leipzig - Real Madrid": {
+    "betpawa": {
+      "1": 3.2
+    },
+    "sportybet": {
+      "1(+1)": 1.7
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.6
+    },
+    "Percent Profit": "8.777573529411768%",
+    "Formula Type": "4"
+  },
+  "Young Boys Bern - Sporting Lisbon": {
+    "betpawa": {
+      "1": 3.25
+    },
+    "sportybet": {
+      "1(+1)": 1.7
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.6
+    },
+    "Percent Profit": "9.2760180995475%",
+    "Formula Type": "4"
+  },
+  "Maccabi Haifa FC - KAA Gent": {
+    "sportybet": {
+      "1": 2.67
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.87
+    },
+    "Percent Profit": "1.0966433262384925%",
+    "Formula Type": "4"
+  },
+  "Sydney FC [W] vs Wellington Phoenix [W]": {
+    "nairabet": {
+      "1(Draw no bet)": 1.36
+    },
+    "livescorebet": {
+      "2X": 2.55
+    },
+    "_livescorebet": {
+      "2": 5.25
+    },
+    "Percent Profit": "2.0843631570275107%",
+    "Formula Type": "4"
+  },
+  "Central Coast Mariners [W] vs Perth Glory [W]": {
+    "livescorebet": {
+      "1(Draw no bet)": 1.8
+    },
+    "nairabet": {
+      "2(+1)": 2.38
+    },
+    "_nairabet": {
+      "2": 4.75
+    },
+    "Percent Profit": "14.074401690500764%",
+    "Formula Type": "4"
+  },
+  "Birmingham vs Bristol City": {
+    "nairabet": {
+      "1": 2.62
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.91
+    },
+    "Percent Profit": "1.4357351589370921%",
+    "Formula Type": "4"
+  },
+  "Cardiff vs Leicester": {
+    "livescorebet": {
+      "1": 5.25
+    },
+    "nairabet": {
+      "1(+1)": 2.2
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.29
+    },
+    "Percent Profit": "29.390247994899156%",
+    "Formula Type": "4"
+  },
+  "Huddersfield vs Middlesbrough": {
+    "livescorebet": {
+      "1": 3.75
+    },
+    "nairabet": {
+      "1(+1)": 1.85
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.44
+    },
+    "Percent Profit": "15.17517517517517%",
+    "Formula Type": "4"
+  },
+  "Rotherham vs Sunderland": {
+    "livescorebet": {
+      "1": 5.5
+    },
+    "nairabet": {
+      "1(+1)": 2.38
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.25
+    },
+    "Percent Profit": "32.89533995416349%",
+    "Formula Type": "4"
+  },
+  "West Brom vs Leeds": {
+    "livescorebet": {
+      "1": 3.1
+    },
+    "nairabet": {
+      "1(+1)": 1.67
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.67
+    },
+    "Percent Profit": "7.86169596291289%",
+    "Formula Type": "4"
+  },
+  "Norwich vs Southampton": {
+    "nairabet": {
+      "1": 3.2
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.6
+    },
+    "Percent Profit": "9.47886560693641%",
+    "Formula Type": "4"
+  },
+  "Plymouth vs Watford": {
+    "nairabet": {
+      "1": 2.88
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.75
+    },
+    "Percent Profit": "4.637896825396837%",
+    "Formula Type": "4"
+  },
+  "Swansea vs West Brom": {
+    "nairabet": {
+      "1": 3.2
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.62
+    },
+    "Percent Profit": "8.292211872551206%",
+    "Formula Type": "4"
+  },
+  "FC Copenhagen vs Man City": {
+    "nairabet": {
+      "1": 10.0
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.08
+    },
+    "Percent Profit": "55.74074074074074%",
+    "Formula Type": "4"
+  },
+  "RB Leipzig vs Real Madrid": {
+    "nairabet": {
+      "1": 3.2
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.62
+    },
+    "Percent Profit": "9.719992150146297%",
+    "Formula Type": "4"
+  },
+  "Lazio vs Bayern Munich": {
+    "nairabet": {
+      "1": 6.0
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.22
+    },
+    "Percent Profit": "34.94990892531875%",
+    "Formula Type": "4"
+  },
+  "Napoli vs Barcelona": {
+    "nairabet": {
+      "1": 2.6
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.91
+    },
+    "Percent Profit": "1.1803137149610876%",
+    "Formula Type": "4"
+  },
+  "Porto vs Arsenal": {
+    "nairabet": {
+      "1": 4.33
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.36
+    },
+    "Percent Profit": "22.40913714666287%",
+    "Formula Type": "4"
+  },
+  "Lens vs Freiburg": {
+    "nairabet": {
+      "1": 2.1
+    },
+    "paripesa": {
+      "2X": 1.916
+    },
+    "Percent Profit": "0.1888855751068661%",
+    "Formula Type": "1"
+  },
+  "Metz vs Toulouse": {
+    "nairabet": {
+      "1": 3.0
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.75
+    },
+    "Percent Profit": "5.952380952380963%",
+    "Formula Type": "4"
+  },
+  "Le Havre vs Lyon": {
+    "nairabet": {
+      "1": 3.0
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.73
+    },
+    "Percent Profit": "5.732177263969177%",
+    "Formula Type": "4"
+  },
+  "Lens vs PSG": {
+    "livescorebet": {
+      "1": 3.6
+    },
+    "nairabet": {
+      "1(+1)": 1.85
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.5
+    },
+    "Percent Profit": "14.664664664664656%",
+    "Formula Type": "4"
+  },
+  "Augsburg vs Leverkusen": {
+    "nairabet": {
+      "1": 6.0
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.2
+    },
+    "Percent Profit": "37.637828668363014%",
+    "Formula Type": "4"
+  },
+  "NorthEast United vs FC Goa": {
+    "nairabet": {
+      "1": 5.0
+    },
+    "_nairabet": {
+      "1(+1)": 2.2
+    },
+    "sportybet": {
+      "2(Draw no bet)": 1.25
+    },
+    "Percent Profit": "27.63636363636364%",
+    "Formula Type": "4"
+  },
+  "Genoa vs Inter Milan": {
+    "livescorebet": {
+      "1": 5.5
+    },
+    "nairabet": {
+      "1(+1)": 2.25
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.25
+    },
+    "Percent Profit": "30.909090909090907%",
+    "Formula Type": "4"
+  },
+  "Udinese vs Bologna": {
+    "nairabet": {
+      "1": 3.4
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.62
+    },
+    "Percent Profit": "8.85984023238926%",
+    "Formula Type": "4"
+  },
+  "Frosinone vs Monza": {
+    "nairabet": {
+      "1": 2.7
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.91
+    },
+    "Percent Profit": "1.5965354534289986%",
+    "Formula Type": "4"
+  },
+  "Sassuolo vs Fiorentina": {
+    "nairabet": {
+      "1": 3.0
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.7
+    },
+    "Percent Profit": "7.138663848773035%",
+    "Formula Type": "4"
+  },
+  "Empoli vs AC Milan": {
+    "nairabet": {
+      "1": 5.25
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.29
+    },
+    "Percent Profit": "30.20794881259998%",
+    "Formula Type": "4"
+  },
+  "Torino vs Napoli": {
+    "nairabet": {
+      "1": 3.0
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.73
+    },
+    "Percent Profit": "5.732177263969177%",
+    "Formula Type": "4"
+  },
+  "Udinese vs Lazio": {
+    "nairabet": {
+      "1": 3.4
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.6
+    },
+    "Percent Profit": "9.937477985206058%",
+    "Formula Type": "4"
+  },
+  "Salernitana vs Juventus": {
+    "nairabet": {
+      "1": 7.0
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.17
+    },
+    "Percent Profit": "40.7888972774469%",
+    "Formula Type": "4"
+  },
+  "Richards Bay FC vs SuperSport United": {
+    "nairabet": {
+      "1": 4.0
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.4
+    },
+    "Percent Profit": "16.159250585480095%",
+    "Formula Type": "4"
+  },
+  "Sekhukhune United vs Kaizer Chiefs": {
+    "nairabet": {
+      "1": 3.1
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.67
+    },
+    "Percent Profit": "5.277999579226588%",
+    "Formula Type": "4"
+  },
+  "Cape Town Spurs vs Cape Town City": {
+    "nairabet": {
+      "1": 5.5
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.2
+    },
+    "Percent Profit": "32.289279348102866%",
+    "Formula Type": "4"
+  },
+  "Sevilla vs Athletic Bilbao": {
+    "nairabet": {
+      "1": 3.2
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.67
+    },
+    "Percent Profit": "8.869760479041915%",
+    "Formula Type": "4"
+  },
+  "Las Palmas vs Barcelona": {
+    "nairabet": {
+      "1": 5.5
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.22
+    },
+    "Percent Profit": "32.82414307004471%",
+    "Formula Type": "4"
+  },
+  "Almeria vs Girona": {
+    "nairabet": {
+      "1": 4.0
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.4
+    },
+    "Percent Profit": "20.557491289198595%",
+    "Formula Type": "4"
+  },
+  "Cadiz vs Valencia": {
+    "nairabet": {
+      "1": 2.7
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.95
+    },
+    "Percent Profit": "0.24533080088635018%",
+    "Formula Type": "4"
+  },
+  "Peru vs Chile": {
+    "sportybet": {
+      "1": 3.8
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.42
+    },
+    "Percent Profit": "13.522466945592683%",
+    "Formula Type": "4"
+  },
+  "Livingston FC - Heart of Midlothian": {
+    "nairabet": {
+      "1": 3.8
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.44
+    },
+    "Percent Profit": "14.473684210526315%",
+    "Formula Type": "4"
+  },
+  "Elgin City - Peterhead FC": {
+    "merrybet": {
+      "1": 4.75
+    },
+    "nairabet": {
+      "1(+1)": 2.05
+    },
+    "_nairabet": {
+      "2(Draw no bet)": 1.27
+    },
+    "Percent Profit": "23.85958173713523%",
+    "Formula Type": "4"
+  },
+  "Everton - Aston Villa": {
+    "sportybet": {
+      "1(-2)": 12.0
+    },
+    "_sportybet": {
+      "1(-1)": 5.2
+    },
+    "paripesa": {
+      "H2(+2)": 1.028
+    },
+    "Percent Profit": "65.93210615584157%",
+    "Formula Type": "4"
+  },
+  "Rotherham Utd - Sunderland AFC": {
+    "paripesa": {
+      "H1(-0.25)": 4.675
+    },
+    "sportybet": {
+      "1(+1)": 2.35
+    },
+    "_paripesa": {
+      "H2(-0.25)": 1.354
+    },
+    "Percent Profit": "30.74854319442842%",
+    "Formula Type": "12"
+  },
+  "Blackburn Rovers - Rotherham Utd": {
+    "paripesa": {
+      "H1(-2.25)": 3.375
+    },
+    "sportybet": {
+      "1(-1)": 2.2
+    },
+    "_paripesa": {
+      "H2(+1.75)": 1.479
+    },
+    "Percent Profit": "19.95645938444713%",
+    "Formula Type": "12"
+  },
+  "Wigan Athletic - Carlisle Utd": {
+    "paripesa": {
+      "H1(-2.25)": 6.89
+    },
+    "sportybet": {
+      "1(-1)": 3.7
+    },
+    "_paripesa": {
+      "H2(+1.75)": 1.161
+    },
+    "Percent Profit": "50.92545056864412%",
+    "Formula Type": "12"
+  },
+  "Leyton Orient - Wycombe Wanderers": {
+    "sportybet": {
+      "1(-2)": 10.5
+    },
+    "_sportybet": {
+      "1(-1)": 4.4
+    },
+    "paripesa": {
+      "H2(+2)": 1.029
+    },
+    "Percent Profit": "60.65801707201125%",
+    "Formula Type": "4"
+  },
+  "Port Vale FC - Blackpool FC": {
+    "paripesa": {
+      "H1(-0.25)": 2.905
+    },
+    "sportybet": {
+      "1(+1)": 1.72
+    },
+    "_paripesa": {
+      "H2(-0.25)": 1.748
+    },
+    "Percent Profit": "7.6615688411709755%",
+    "Formula Type": "12"
+  },
+  "Peterborough United - Barnsley FC": {
+    "paripesa": {
+      "H1(-2.25)": 4.475
+    },
+    "sportybet": {
+      "1(-1)": 2.65
+    },
+    "_paripesa": {
+      "H2(+1.75)": 1.31
+    },
+    "Percent Profit": "32.94267529185488%",
+    "Formula Type": "12"
+  },
+  "Stevenage FC - Cambridge Utd FC": {
+    "paripesa": {
+      "H1(-2.25)": 5.18
+    },
+    "sportybet": {
+      "1(-1)": 2.95
+    },
+    "_paripesa": {
+      "H2(+1.75)": 1.261
+    },
+    "Percent Profit": "39.53455894701803%",
+    "Formula Type": "12"
+  },
+  "Barnsley FC - Wigan Athletic": {
+    "paripesa": {
+      "H1(-2.25)": 4.625
+    },
+    "sportybet": {
+      "1(-1)": 2.65
+    },
+    "_paripesa": {
+      "H2(+1.75)": 1.301
+    },
+    "Percent Profit": "33.77197422141242%",
+    "Formula Type": "12"
+  },
+  "Carlisle Utd - Port Vale FC": {
+    "sportybet": {
+      "1(-2)": 14.0
+    },
+    "_sportybet": {
+      "1(-1)": 5.6
+    },
+    "paripesa": {
+      "H2(+2)": 1.003
+    },
+    "Percent Profit": "69.15401753921907%",
+    "Formula Type": "4"
+  },
+  "Blackpool FC - Lincoln City": {
+    "paripesa": {
+      "H1(-2.25)": 4.625
+    },
+    "sportybet": {
+      "1(-1)": 2.6
+    },
+    "_paripesa": {
+      "H2(+1.75)": 1.301
+    },
+    "Percent Profit": "33.173709578203955%",
+    "Formula Type": "12"
+  },
+  "Wimbledon - Colchester United": {
+    "paripesa": {
+      "H1(-2.25)": 4.075
+    },
+    "sportybet": {
+      "1(-1)": 2.45
+    },
+    "_paripesa": {
+      "H2(+1.75)": 1.361
+    },
+    "Percent Profit": "28.309461062379697%",
+    "Formula Type": "12"
+  },
+  "Bradford City - Stockport County": {
+    "paripesa": {
+      "H1(-0.25)": 2.551
+    },
+    "sportybet": {
+      "1(+1)": 1.59
+    },
+    "_paripesa": {
+      "H2(-0.25)": 1.941
+    },
+    "Percent Profit": "0.9092604778774813%",
+    "Formula Type": "12"
+  },
+  "Barrow FC - Accrington Stanley": {
+    "paripesa": {
+      "H1(-2.25)": 5.43
+    },
+    "sportybet": {
+      "1(-1)": 3.1
+    },
+    "_paripesa": {
+      "H2(+1.75)": 1.23
+    },
+    "Percent Profit": "41.716735473128864%",
+    "Formula Type": "12"
+  },
+  "Walsall - Wrexham FC": {
+    "paripesa": {
+      "H1(-0.25)": 2.906
+    },
+    "sportybet": {
+      "1(+1)": 1.77
+    },
+    "_paripesa": {
+      "H2(-0.25)": 1.74
+    },
+    "Percent Profit": "8.85608240512424%",
+    "Formula Type": "12"
+  },
+  "Newport County - Crewe Alexandra FC": {
+    "sportybet": {
+      "1(-2)": 8.6
+    },
+    "_sportybet": {
+      "1(-1)": 3.9
+    },
+    "paripesa": {
+      "H2(+2)": 1.052
+    },
+    "Percent Profit": "54.65943847763637%",
+    "Formula Type": "4"
+  },
+  "Colchester United - Gillingham": {
+    "sportybet": {
+      "1(-2)": 11.0
+    },
+    "_sportybet": {
+      "1(-1)": 4.8
+    },
+    "paripesa": {
+      "H2(+2)": 1.022
+    },
+    "Percent Profit": "63.07448259503054%",
+    "Formula Type": "4"
+  },
+  "Crewe Alexandra FC - Bradford City": {
+    "sportybet": {
+      "1(-2)": 9.9
+    },
+    "_sportybet": {
+      "1(-1)": 4.4
+    },
+    "paripesa": {
+      "H2(+2)": 1.033
+    },
+    "Percent Profit": "59.689075921584944%",
+    "Formula Type": "4"
+  },
+  "SC Freiburg - FC Union Berlin": {
+    "sportybet": {
+      "1(-2)": 9.25
+    },
+    "_sportybet": {
+      "1(-1)": 4.0
+    },
+    "paripesa": {
+      "H2(+2)": 1.048
+    },
+    "Percent Profit": "56.57623272127089%",
+    "Formula Type": "4"
+  },
+  "FC Magdeburg - Wehen Wiesbaden": {
+    "paripesa": {
+      "H1(-2.25)": 4.795
+    },
+    "sportybet": {
+      "1(-1)": 2.8
+    },
+    "_paripesa": {
+      "H2(+1.75)": 1.262
+    },
+    "Percent Profit": "35.91400006177538%",
+    "Formula Type": "12"
+  },
+  "SC Paderborn - Greuther Furth": {
+    "sportybet": {
+      "1(-2)": 8.3
+    },
+    "_sportybet": {
+      "1(-1)": 4.0
+    },
+    "paripesa": {
+      "H2(+2)": 1.044
+    },
+    "Percent Profit": "54.42344088999677%",
+    "Formula Type": "4"
+  },
+  "AC Fiorentina - FC Torino": {
+    "sportybet": {
+      "1(-2)": 11.5
+    },
+    "_sportybet": {
+      "1(-1)": 4.5
+    },
+    "paripesa": {
+      "H2(+2)": 1.032
+    },
+    "Percent Profit": "62.588473205257834%",
+    "Formula Type": "4"
+  },
+  "FC Sevilla - Athletic Bilbao": {
+    "paripesa": {
+      "H1(-0.25)": 2.592
+    },
+    "sportybet": {
+      "1(+1)": 1.64
+    },
+    "_paripesa": {
+      "H2(-0.25)": 1.908
+    },
+    "Percent Profit": "2.68298457132299%",
+    "Formula Type": "12"
+  },
+  "FC Nantes - Clermont Foot": {
+    "sportybet": {
+      "1(-2)": 8.7
+    },
+    "_sportybet": {
+      "1(-1)": 3.75
+    },
+    "paripesa": {
+      "H2(+2)": 1.065
+    },
+    "Percent Profit": "54.11148885651072%",
+    "Formula Type": "4"
+  },
+  "Clermont Foot - Racing Strasbourg": {
+    "paripesa": {
+      "H1(-0.25)": 2.51
+    },
+    "sportybet": {
+      "1(+1)": 1.62
+    },
+    "_paripesa": {
+      "H2(-0.25)": 1.956
+    },
+    "Percent Profit": "1.268619728115084%",
+    "Formula Type": "12"
+  },
+  "Newcastle United Jets - Western United": {
+    "paripesa": {
+      "H1(-2.25)": 7.27
+    },
+    "sportybet": {
+      "1(-1)": 3.8
+    },
+    "_paripesa": {
+      "H2(+1.75)": 1.152
+    },
+    "Percent Profit": "52.578459253508406%",
+    "Formula Type": "12"
+  },
+  "Western Sydney - Central Coast Mariners": {
+    "sportybet": {
+      "1(-1)": 4.0
+    },
+    "paripesa": {
+      "1": 2.32
+    },
+    "_paripesa": {
+      "H2(+1)": 1.325
+    },
+    "Percent Profit": "23.80448926480156%",
+    "Formula Type": "4"
+  },
+  "Ashdod SC - Hapoel Beer Sheva": {
+    "paripesa": {
+      "H1(-0.25)": 3.42
+    },
+    "sportybet": {
+      "1(+1)": 1.97
+    },
+    "_paripesa": {
+      "H2(-0.25)": 1.533
+    },
+    "Percent Profit": "16.859324886286615%",
+    "Formula Type": "12"
+  },
+  "Beitar Jerusalem - Maccabi Petach Tikva": {
+    "sportybet": {
+      "1(-2)": 7.9
+    },
+    "_sportybet": {
+      "1(-1)": 3.7
+    },
+    "paripesa": {
+      "H2(+2)": 1.066
+    },
+    "Percent Profit": "51.86137761006548%",
+    "Formula Type": "4"
+  },
+  "Sheffield Utd - West Ham United": {
+    "merrybet": {
+      "1": 4.51
+    },
+    "sportybet": {
+      "1(+1)": 2.0
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.34
+    },
+    "Percent Profit": "22.366548631565024%",
+    "Formula Type": "4"
+  },
+  "Bournemouth AFC - Liverpool FC": {
+    "merrybet": {
+      "1": 4.71
+    },
+    "sportybet": {
+      "1(+1)": 2.2
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.3
+    },
+    "Percent Profit": "26.632815167847014%",
+    "Formula Type": "4"
+  },
+  "Norwich City - Southampton": {
+    "merrybet": {
+      "1": 3.23
+    },
+    "sportybet": {
+      "1(+1)": 1.67
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.59
+    },
+    "Percent Profit": "8.227239661689524%",
+    "Formula Type": "4"
+  },
+  "US Sassuolo - AC Fiorentina": {
+    "merrybet": {
+      "1": 2.97
+    },
+    "sportybet": {
+      "1(+1)": 1.62
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.7
+    },
+    "Percent Profit": "5.579640510649966%",
+    "Formula Type": "4"
+  },
+  "FC Torino - SSC Napoli": {
+    "merrybet": {
+      "1": 2.98
+    },
+    "sportybet": {
+      "1(+1)": 1.58
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.72
+    },
+    "Percent Profit": "4.8805400738511935%",
+    "Formula Type": "4"
+  },
+  "Pau FC - FC Nantes": {
+    "merrybet": {
+      "1": 3.55
+    },
+    "sportybet": {
+      "1(+1)": 1.8
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.43
+    },
+    "Percent Profit": "12.22627138120096%",
+    "Formula Type": "4"
+  },
+  "Amiens SC - Montpellier HSC": {
+    "merrybet": {
+      "1": 3.15
+    },
+    "sportybet": {
+      "1(+1)": 1.65
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.55
+    },
+    "Percent Profit": "6.406616084035434%",
+    "Formula Type": "4"
+  },
+  "Canberra United - Western United FC": {
+    "merrybet": {
+      "1": 3.4
+    },
+    "sportybet": {
+      "1(+1)": 1.78
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.45
+    },
+    "Percent Profit": "10.647947671900994%",
+    "Formula Type": "4"
+  },
+  "Hapoel Hadera - Maccabi Netanya": {
+    "merrybet": {
+      "1": 3.5
+    },
+    "sportybet": {
+      "1(+1)": 1.77
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.47
+    },
+    "Percent Profit": "11.637100360725412%",
+    "Formula Type": "4"
+  },
+  "Arsenal vs West Ham": {
+    "paripesa": {
+      "H1(-2.25)": 2.852
+    },
+    "sportybet": {
+      "1(-1)": 1.92
+    },
+    "_paripesa": {
+      "H2(+1.75)": 1.651
+    },
+    "Percent Profit": "10.71954423841862%",
+    "Formula Type": "12"
+  },
+  "Luton  vs Chelsea": {
+    "paripesa": {
+      "H1(-0.25)": 4.42
+    },
+    "sportybet": {
+      "1(+1)": 2.35
+    },
+    "_paripesa": {
+      "H2(-0.25)": 1.391
+    },
+    "Percent Profit": "29.641288423099013%",
+    "Formula Type": "12"
+  },
+  "Aston Villa vs Burnley": {
+    "paripesa": {
+      "H1(-2.25)": 2.941
+    },
+    "sportybet": {
+      "1(-1)": 2.0
+    },
+    "_paripesa": {
+      "H2(+1.75)": 1.623
+    },
+    "Percent Profit": "13.144271292074492%",
+    "Formula Type": "12"
+  },
+  "Man City vs Sheffield Utd": {
+    "paripesa": {
+      "Under(2.75)": 2.947
+    },
+    "sportybet": {
+      "Over(2.5)": 1.34
+    },
+    "_paripesa": {
+      "Under(3)": 2.66
+    },
+    "Percent Profit": "1.5084999530456713%",
+    "Formula Type": "10"
+  },
+  "Crystal Palace vs Brentford": {
+    "sportybet": {
+      "1(-2)": 12.0
+    },
+    "_sportybet": {
+      "1(-1)": 4.75
+    },
+    "paripesa": {
+      "H2(+2)": 1.025
+    },
+    "Percent Profit": "64.23833975181857%",
+    "Formula Type": "4"
+  },
+  "Nottingham Forest vs Man Utd": {
+    "paripesa": {
+      "H1(-0.25)": 2.592
+    },
+    "nairabet": {
+      "1(+1)": 1.67
+    },
+    "_paripesa": {
+      "H2(-0.25)": 1.887
+    },
+    "Percent Profit": "3.3466952180714316%",
+    "Formula Type": "12"
+  },
+  "Fulham vs Arsenal": {
+    "paripesa": {
+      "H1(-0.25)": 4.82
+    },
+    "sportybet": {
+      "1(+1)": 2.45
+    },
+    "_paripesa": {
+      "H2(-0.25)": 1.361
+    },
+    "Percent Profit": "33.08151256512262%",
+    "Formula Type": "12"
+  },
+  "Liverpool vs Newcastle": {
+    "paripesa": {
+      "H1(-2.25)": 3.295
+    },
+    "sportybet": {
+      "1(-1)": 2.15
+    },
+    "_paripesa": {
+      "H2(+1.75)": 1.52
+    },
+    "Percent Profit": "18.78006098864715%",
+    "Formula Type": "12"
+  },
+  "Lens vs SC Freiburg": {
+    "nairabet": {
+      "1": 2.1
+    },
+    "paripesa": {
+      "2X": 1.916
+    },
+    "Percent Profit": "0.1888855751068661%",
+    "Formula Type": "1"
+  },
+  "Cerezo Osaka W vs Albirex Niigata W": {
+    "sportybet": {
+      "1": 3.1
+    },
+    "_sportybet": {
+      "1(+1)": 1.59
+    },
+    "nairabet": {
+      "2(Draw no bet)": 1.55
+    },
+    "Percent Profit": "4.32529008697702%",
+    "Formula Type": "4"
+  },
+  "Al Taawon vs Al Nassr": {
+    "sportybet": {
+      "1": 5.2
+    },
+    "nairabet": {
+      "1(+1)": 2.6
+    },
+    "_sportybet": {
+      "2(Draw no bet)": 1.22
+    },
+    "Percent Profit": "33.94121641284316%",
+    "Formula Type": "4"
+  }
+}

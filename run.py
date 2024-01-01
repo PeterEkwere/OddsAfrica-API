@@ -15,6 +15,8 @@ from engine.bookie_models.sportybet_model import SportyBet
 from engine.bookie_models.xbet_model import xbet
 from utils.arrange import arrange_games
 from utils.process import process_games
+from utils.combine import Combine_markets
+from utils.calculate_arb import get_arbs
 from utils.logger.log import log_exception, log_success, log_error
 #from timeout_decorator import timeout
 
@@ -69,4 +71,9 @@ arrange_games()
 
 # Calling The Process Function to Extract the needed markets for Cross Market Creation
 process_games()
-    
+
+# Calling the Combine function to Create the needed cross market combination as per its respective formula and save them as values for each game
+Combine_markets()
+
+#Calling the get arbs function to extract each combination and pass it to a function to calculate if there is an arbitrage opportunity
+get_arbs()
