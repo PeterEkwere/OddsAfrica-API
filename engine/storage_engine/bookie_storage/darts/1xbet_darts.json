@@ -1,106 +1,554 @@
 {
   "international": {
-    "World Championship": {
-      "Joe Cullen VS Ryan Searle": {
-        "time": "2023-12-28 14:15:00",
+    "World Championship. 2024. Results": {
+      "Colin Osborne VS Robert Thornton": {
+        "time": "2024-01-02 09:35:00",
         "Dont Know market name": {
-          "Don't Know The Outcome": 1.76
+          "Don't Know The Outcome": 1.833
         },
         "1X2": {
-          "1": 2.11,
-          "2": 1.727
+          "1": 1.85,
+          "2": 1.85
+        },
+        "Over": {
+          "4.5": 1.1,
+          "5.5": 1.52,
+          "6.5": 2.75
+        },
+        "Under": {
+          "4.5": 5.8,
+          "5.5": 2.36,
+          "6.5": 1.4
+        },
+        "Handicap Home": {
+          "-3.5": 15,
+          "-2.5": 4.33,
+          "-1.5": 2.57,
+          "0.5": 1.83,
+          "1.5": 1.45,
+          "2.5": 1.167
+        },
+        "Handicap Away": {
+          "3.5": 1.03,
+          "2.5": 1.2,
+          "1.5": 1.444,
+          "-0.5": 1.83,
+          "-1.5": 2.55,
+          "-2.5": 5
         }
       },
-      "Ross Smith VS Chris Dobey": {
-        "time": "2023-12-28 15:45:00",
+      "Modus Super Series. 2024. Week 7. Group A. Winner VS ": {
+        "time": "2024-01-02 09:35:00",
         "Dont Know market name": {
-          "Don't Know The Outcome": 1.77
+          "Don't Know The Outcome": 41
+        }
+      },
+      "Modus Super Series. 2024. Week 7. Winner VS ": {
+        "time": "2024-01-02 09:35:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 41
+        }
+      },
+      "Darryl Pilgrim VS Chris Landman": {
+        "time": "2024-01-02 09:50:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 2.1
         },
         "1X2": {
-          "1": 1.9,
-          "2": 1.9
+          "1": 1.553,
+          "2": 2.318
+        },
+        "Over": {
+          "4.5": 1.1,
+          "5.5": 1.56,
+          "6.5": 3
+        },
+        "Under": {
+          "4.5": 5.8,
+          "5.5": 2.27,
+          "6.5": 1.364
+        },
+        "Handicap Home": {
+          "-3.5": 10,
+          "-2.5": 3.25,
+          "-1.5": 2.03,
+          "1.5": 1.4,
+          "2.5": 1.083
+        },
+        "Handicap Away": {
+          "3.5": 1.062,
+          "2.5": 1.333,
+          "1.5": 1.7,
+          "-1.5": 2.75,
+          "-2.5": 8
         }
       },
-      "Gerwyn Price VS Brendan Dolan": {
-        "time": "2023-12-28 19:15:00",
+      "Jeroen Caron VS Conan Whitehead": {
+        "time": "2024-01-02 10:10:00",
         "Dont Know market name": {
-          "Don't Know The Outcome": 2.11
+          "Don't Know The Outcome": 1.444
         },
         "1X2": {
-          "1": 1.107,
-          "2": 6.85
+          "1": 3.635,
+          "2": 1.25
+        },
+        "Over": {
+          "4.5": 1.16,
+          "5.5": 1.74,
+          "6.5": 3.75
+        },
+        "Under": {
+          "4.5": 4.6,
+          "5.5": 1.98,
+          "6.5": 1.25
+        },
+        "Handicap Home": {
+          "-2.5": 11,
+          "-1.5": 6.5,
+          "1.5": 2.2,
+          "2.5": 1.55,
+          "3.5": 1.143
+        },
+        "Handicap Away": {
+          "2.5": 1.05,
+          "1.5": 1.111,
+          "-1.5": 1.6,
+          "-2.5": 2.29,
+          "-3.5": 5.5
         }
       },
-      "PDC World Championship. 2024. Day 11. Evening Session. Special bets VS ": {
-        "time": "2023-12-28 19:15:00",
+      "Robert Thornton VS Darryl Pilgrim": {
+        "time": "2024-01-02 10:25:00",
         "Dont Know market name": {
-          "Don't Know The Outcome": 1.3
-        }
-      },
-      "Luke Humphries VS Ricardo Pietreczko": {
-        "time": "2023-12-28 20:45:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 2.01
+          "Don't Know The Outcome": 1.667
         },
         "1X2": {
-          "1": 1.17,
-          "2": 5.15
+          "1": 2.202,
+          "2": 1.61
+        },
+        "Over": {
+          "4.5": 1.1,
+          "5.5": 1.54,
+          "6.5": 3
+        },
+        "Under": {
+          "4.5": 5.7,
+          "5.5": 2.32,
+          "6.5": 1.364
+        },
+        "Handicap Home": {
+          "-2.5": 6,
+          "-1.5": 3.75,
+          "1.5": 1.64,
+          "2.5": 1.25,
+          "3.5": 1.071
+        },
+        "Handicap Away": {
+          "2.5": 1.125,
+          "1.5": 1.25,
+          "-1.5": 2.12,
+          "-2.5": 3.75,
+          "-3.5": 9
         }
       },
-      "Ricky Evans VS Daryl Gurney": {
-        "time": "2023-12-28 22:15:00",
+      "Conan Whitehead VS Colin Osborne": {
+        "time": "2024-01-02 10:45:00",
         "Dont Know market name": {
-          "Don't Know The Outcome": 1.78
+          "Don't Know The Outcome": 2
         },
         "1X2": {
-          "1": 2.521,
-          "2": 1.53
+          "1": 1.59,
+          "2": 2.24
+        },
+        "Over": {
+          "4.5": 1.11,
+          "5.5": 1.55,
+          "6.5": 2.75
+        },
+        "Under": {
+          "4.5": 5.6,
+          "5.5": 2.29,
+          "6.5": 1.4
+        },
+        "Handicap Home": {
+          "-3.5": 11,
+          "-2.5": 3.5,
+          "-1.5": 2.09,
+          "1.5": 1.364,
+          "2.5": 1.1
+        },
+        "Handicap Away": {
+          "3.5": 1.05,
+          "2.5": 1.286,
+          "1.5": 1.66,
+          "-1.5": 3,
+          "-2.5": 7
         }
       },
-      "Damon Heta VS Berry van Peer": {
-        "time": "2023-12-29 12:45:00",
+      "Chris Landman VS Jeroen Caron": {
+        "time": "2024-01-02 11:00:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 2.75
+        },
+        "1X2": {
+          "1": 1.183,
+          "2": 4.375
+        },
+        "Over": {
+          "4.5": 1.25,
+          "5.5": 1.833,
+          "6.5": 3.75
+        },
+        "Under": {
+          "4.5": 3.5,
+          "5.5": 1.87,
+          "6.5": 1.25
+        },
+        "Handicap Home": {
+          "-3.5": 5,
+          "-2.5": 1.98,
+          "-1.5": 1.4,
+          "1.5": 1.1
+        },
+        "Handicap Away": {
+          "3.5": 1.167,
+          "2.5": 1.736,
+          "1.5": 2.838,
+          "-1.5": 7
+        }
+      },
+      "Robert Thornton VS Conan Whitehead": {
+        "time": "2024-01-02 11:20:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 1.8
+        },
+        "1X2": {
+          "1": 1.83,
+          "2": 1.87
+        },
+        "Over": {
+          "4.5": 1.1,
+          "5.5": 1.52,
+          "6.5": 2.75
+        },
+        "Under": {
+          "4.5": 5.8,
+          "5.5": 2.36,
+          "6.5": 1.4
+        },
+        "Handicap Home": {
+          "-2.5": 5,
+          "-1.5": 2.52,
+          "0.5": 1.8,
+          "1.5": 1.45,
+          "2.5": 1.182,
+          "3.5": 1.05
+        },
+        "Handicap Away": {
+          "2.5": 1.167,
+          "1.5": 1.46,
+          "-0.5": 1.91,
+          "-1.5": 2.55,
+          "-2.5": 4.5,
+          "-3.5": 11
+        }
+      },
+      "Darryl Pilgrim VS Jeroen Caron": {
+        "time": "2024-01-02 11:35:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 3.4
+        },
+        "1X2": {
+          "1": 1.108,
+          "2": 5.79
+        },
+        "Over": {
+          "4.5": 1.31,
+          "5.5": 2,
+          "6.5": 4.33
+        },
+        "Under": {
+          "4.5": 3.1,
+          "5.5": 1.72,
+          "6.5": 1.2
+        },
+        "Handicap Home": {
+          "-3.5": 4,
+          "-2.5": 1.833,
+          "-1.5": 1.333,
+          "1.5": 1.062
+        },
+        "Handicap Away": {
+          "3.5": 1.222,
+          "2.5": 1.87,
+          "1.5": 3.25,
+          "-1.5": 10
+        }
+      },
+      "Colin Osborne VS Chris Landman": {
+        "time": "2024-01-02 11:55:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 1.727
+        },
+        "1X2": {
+          "1": 2.06,
+          "2": 1.68
+        },
+        "Over": {
+          "4.5": 1.1,
+          "5.5": 1.53,
+          "6.5": 3
+        },
+        "Under": {
+          "4.5": 7,
+          "5.5": 2.34,
+          "6.5": 1.364
+        },
+        "Handicap Home": {
+          "-2.5": 5.5,
+          "-1.5": 3.4,
+          "0.5": 2.1,
+          "1.5": 1.56,
+          "2.5": 1.222,
+          "3.5": 1.062
+        },
+        "Handicap Away": {
+          "2.5": 1.143,
+          "1.5": 1.3,
+          "-0.5": 1.67,
+          "-1.5": 2.27,
+          "-2.5": 4,
+          "-3.5": 10
+        }
+      },
+      "Conan Whitehead VS Darryl Pilgrim": {
+        "time": "2024-01-02 12:10:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 1.727
+        },
+        "1X2": {
+          "1": 2.02,
+          "2": 1.71
+        },
+        "Over": {
+          "4.5": 1.1,
+          "5.5": 1.53,
+          "6.5": 3
+        },
+        "Under": {
+          "4.5": 5.8,
+          "5.5": 2.34,
+          "6.5": 1.364
+        },
+        "Handicap Home": {
+          "-2.5": 5.5,
+          "-1.5": 3.4,
+          "0.5": 2.1,
+          "1.5": 1.53,
+          "2.5": 1.2,
+          "3.5": 1.062
+        },
+        "Handicap Away": {
+          "2.5": 1.143,
+          "1.5": 1.3,
+          "-0.5": 1.67,
+          "-1.5": 2.34,
+          "-2.5": 4.33,
+          "-3.5": 10
+        }
+      },
+      "Chris Landman VS Robert Thornton": {
+        "time": "2024-01-02 12:30:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 2.1
+        },
+        "1X2": {
+          "1": 1.59,
+          "2": 2.24
+        },
+        "Over": {
+          "4.5": 1.11,
+          "5.5": 1.55,
+          "6.5": 3
+        },
+        "Under": {
+          "4.5": 5.6,
+          "5.5": 2.29,
+          "6.5": 1.364
+        },
+        "Handicap Home": {
+          "-3.5": 11,
+          "-2.5": 3.5,
+          "-1.5": 2.11,
+          "1.5": 1.333,
+          "2.5": 1.1
+        },
+        "Handicap Away": {
+          "3.5": 1.05,
+          "2.5": 1.286,
+          "1.5": 1.65,
+          "-1.5": 3.25,
+          "-2.5": 7
+        }
+      },
+      "Jeroen Caron VS Colin Osborne": {
+        "time": "2024-01-02 12:45:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 1.533
+        },
+        "1X2": {
+          "1": 2.937,
+          "2": 1.36
+        },
+        "Over": {
+          "4.5": 1.13,
+          "5.5": 1.63,
+          "6.5": 3.4
+        },
+        "Under": {
+          "4.5": 5.2,
+          "5.5": 2.14,
+          "6.5": 1.3
+        },
+        "Handicap Home": {
+          "-2.5": 9,
+          "-1.5": 5,
+          "1.5": 2,
+          "2.5": 1.364,
+          "3.5": 1.111
+        },
+        "Handicap Away": {
+          "2.5": 1.071,
+          "1.5": 1.167,
+          "-1.5": 1.72,
+          "-2.5": 3,
+          "-3.5": 6.5
+        }
+      },
+      "Chris Landman VS Conan Whitehead": {
+        "time": "2024-01-02 13:05:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 1.909
+        },
+        "1X2": {
+          "1": 1.68,
+          "2": 2.085
+        },
+        "Over": {
+          "4.5": 1.1,
+          "5.5": 1.53,
+          "6.5": 2.75
+        },
+        "Under": {
+          "4.5": 5.7,
+          "5.5": 2.34,
+          "6.5": 1.4
+        },
+        "Handicap Home": {
+          "-3.5": 13,
+          "-2.5": 4,
+          "-1.5": 2.25,
+          "0.5": 1.67,
+          "1.5": 1.444,
+          "2.5": 1.125
+        },
+        "Handicap Away": {
+          "3.5": 1.04,
+          "2.5": 1.222,
+          "1.5": 1.57,
+          "-0.5": 2.1,
+          "-1.5": 2.625,
+          "-2.5": 6
+        }
+      },
+      "Colin Osborne VS Darryl Pilgrim": {
+        "time": "2024-01-02 13:20:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 1.615
+        },
+        "1X2": {
+          "1": 2.24,
+          "2": 1.59
+        },
+        "Over": {
+          "4.5": 1.1,
+          "5.5": 1.55,
+          "6.5": 3
+        },
+        "Under": {
+          "4.5": 5.7,
+          "5.5": 2.29,
+          "6.5": 1.364
+        },
+        "Handicap Home": {
+          "-2.5": 6.5,
+          "-1.5": 4,
+          "1.5": 1.66,
+          "2.5": 1.286,
+          "3.5": 1.083
+        },
+        "Handicap Away": {
+          "2.5": 1.111,
+          "1.5": 1.222,
+          "-1.5": 2.09,
+          "-2.5": 3.5,
+          "-3.5": 8
+        }
+      },
+      "Robert Thornton VS Jeroen Caron": {
+        "time": "2024-01-02 13:35:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 2.625
+        },
+        "1X2": {
+          "1": 1.25,
+          "2": 3.635
+        },
+        "Over": {
+          "4.5": 1.16,
+          "5.5": 1.73,
+          "6.5": 3.4
+        },
+        "Under": {
+          "4.5": 4.6,
+          "5.5": 1.99,
+          "6.5": 1.3
+        },
+        "Handicap Home": {
+          "-3.5": 6,
+          "-2.5": 2.29,
+          "-1.5": 1.6,
+          "1.5": 1.143,
+          "2.5": 1.04
+        },
+        "Handicap Away": {
+          "3.5": 1.125,
+          "2.5": 1.55,
+          "1.5": 2.2,
+          "-1.5": 5.5,
+          "-2.5": 13
+        }
+      },
+      "PDC World Championship. 2024. Day 15. Special bets VS ": {
+        "time": "2024-01-02 19:45:00",
+        "Dont Know market name": {
+          "Don't Know The Outcome": 1.615
+        }
+      },
+      "Robert Cross VS Luke Littler": {
+        "time": "2024-01-02 19:45:00",
         "Dont Know market name": {
           "Don't Know The Outcome": 1.9
         },
         "1X2": {
-          "1": 1.33,
-          "2": 3.365
+          "1": 2.217,
+          "2": 1.67
         }
       },
-      "PDC World Championship. 2024. Day 12. Afternoon Session. Special bets VS ": {
-        "time": "2023-12-29 12:45:00",
+      "PDC World Championship. 2024. To Hit Nine Dart Finish VS ": {
+        "time": "2024-01-02 19:45:00",
         "Dont Know market name": {
-          "Don't Know The Outcome": 1.25
-        }
-      },
-      "Jonny Clayton VS Krzysztof Ratajski": {
-        "time": "2023-12-29 14:15:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.82
-        },
-        "1X2": {
-          "1": 1.79,
-          "2": 2.02
-        }
-      },
-      "Jim Williams VS Raymond van Barneveld": {
-        "time": "2023-12-29 15:45:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.76
-        },
-        "1X2": {
-          "1": 1.89,
-          "2": 1.909
-        }
-      },
-      "Boris Krcmar VS Gary Anderson": {
-        "time": "2023-12-29 19:15:00",
-        "Dont Know market name": {
-          "Don't Know The Outcome": 1.85
-        },
-        "1X2": {
-          "1": 4.945,
-          "2": 1.18
+          "Don't Know The Outcome": 1.02
         }
       }
     }

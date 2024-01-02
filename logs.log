@@ -1,10 +1,592 @@
-2024-01-01 15:04:24,200 - INFO - Number of Arbitrage found in this historical data is 0
-2024-01-01 15:04:24,203 - INFO - Saving engine/storage_engine/combined_data/basketball.json
-2024-01-01 15:04:24,250 - INFO - Number of Arbitrage found in this historical data is 0
-2024-01-01 15:04:24,252 - INFO - Saving engine/storage_engine/combined_data/darts.json
-2024-01-01 15:04:27,854 - INFO - Number of Arbitrage found in this historical data is 2117
-2024-01-01 15:04:27,856 - INFO - Saving engine/storage_engine/combined_data/football.json
-2024-01-01 15:04:28,925 - INFO - Number of Arbitrage found in this historical data is 60
-2024-01-01 15:04:28,944 - INFO - Saving engine/storage_engine/combined_data/icehockey.json
-2024-01-01 15:04:29,135 - INFO - Number of Arbitrage found in this historical data is 0
-2024-01-01 15:04:29,138 - INFO - Saving engine/storage_engine/combined_data/volleyball.json
+2024-01-01 23:57:13,805 - INFO - Scraped Premier League
+2024-01-01 23:57:19,680 - INFO - Scraped FA Cup
+2024-01-01 23:57:21,571 - INFO - Scraped League Cup
+2024-01-01 23:57:25,686 - INFO - Scraped Championship
+2024-01-01 23:57:32,048 - INFO - Scraped League One
+2024-01-01 23:57:37,659 - INFO - Scraped League Two
+2024-01-01 23:57:41,592 - INFO - Scraped DFB Pokal
+2024-01-01 23:57:48,208 - INFO - Scraped Bundesliga
+2024-01-01 23:57:53,463 - INFO - Scraped Serie A
+2024-01-01 23:57:59,074 - INFO - Scraped Serie A
+2024-01-01 23:58:02,507 - INFO - Scraped Serie B
+2024-01-01 23:58:04,797 - INFO - Scraped Italia
+2024-01-01 23:58:09,897 - INFO - Scraped La Liga
+2024-01-01 23:58:13,599 - INFO - Scraped Segunda Division
+2024-01-01 23:58:19,638 - INFO - Scraped Primera Division. Women
+2024-01-01 23:58:23,741 - INFO - Scraped Ligue 2
+2024-01-01 23:58:26,687 - INFO - Scraped Champions League
+2024-01-01 23:58:29,968 - INFO - Scraped Europa League
+2024-01-01 23:58:32,606 - INFO - Scraped Championship. Women
+2024-01-01 23:58:38,071 - INFO - Scraped A League
+2024-01-01 23:58:43,910 - INFO - Scraped Serie A
+2024-01-01 23:58:47,372 - INFO - Scraped Premier League
+2024-01-01 23:58:50,788 - INFO - Scraped Championship
+2024-01-01 23:58:53,130 - INFO - Scraped League One
+2024-01-01 23:58:55,216 - INFO - Scraped League Two
+2024-01-01 23:59:00,699 - INFO - Scraped Serie A
+2024-01-01 23:59:03,055 - INFO - Scraped Arabia. Division 1
+2024-01-01 23:59:09,001 - INFO - Scraped Serie A
+2024-01-01 23:59:15,138 - INFO - Scraped Serie A
+2024-01-01 23:59:18,300 - INFO - Scraped First Division
+2024-01-01 23:59:21,139 - INFO - Scraped Premier League
+2024-01-01 23:59:27,126 - INFO - Scraped Serie A
+2024-01-01 23:59:33,072 - INFO - Scraped Serie A
+2024-01-01 23:59:39,309 - INFO - Scraped Serie A
+2024-01-01 23:59:41,034 - INFO - Scraped Cup of Nations
+2024-01-01 23:59:41,396 - INFO - Successfully Scraped and Saved 22bet football
+2024-01-01 23:59:46,459 - INFO - Scraped NBA
+2024-01-01 23:59:52,108 - INFO - Scraped NBA
+2024-01-01 23:59:57,721 - INFO - Scraped Collegiate Athletic Association (NCAA)
+2024-01-01 23:59:59,974 - INFO - Scraped NBL
+2024-01-02 00:00:01,955 - INFO - Scraped WNBL
+2024-01-02 00:00:03,470 - INFO - Scraped Championship
+2024-01-02 00:00:09,432 - INFO - Scraped NBA
+2024-01-02 00:00:15,044 - INFO - Scraped NBA
+2024-01-02 00:00:17,485 - INFO - Scraped SuperLeague
+2024-01-02 00:00:20,720 - INFO - Scraped Euroleague
+2024-01-02 00:00:26,519 - INFO - Scraped NBA
+2024-01-02 00:00:32,453 - INFO - Scraped NBA
+2024-01-02 00:00:38,087 - INFO - Scraped NBA
+2024-01-02 00:00:43,750 - INFO - Scraped NBA
+2024-01-02 00:00:49,140 - INFO - Scraped NBA
+2024-01-02 00:00:54,184 - INFO - Scraped NBA
+2024-01-02 00:00:59,712 - INFO - Scraped NBA
+2024-01-02 00:00:59,932 - INFO - Successfully Scraped and Saved 22bet basketball
+2024-01-02 00:01:05,945 - INFO - Scraped Superleague. Women
+2024-01-02 00:01:11,712 - INFO - Scraped Superleague. Women
+2024-01-02 00:01:11,777 - INFO - Successfully Scraped and Saved 22bet volleyball
+2024-01-02 00:01:17,745 - INFO - Scraped World Championship. 2024. Results
+2024-01-02 00:01:22,954 - INFO - Scraped World Championship. 2024. Results
+2024-01-02 00:01:28,744 - INFO - Scraped World Championship. 2024. Results
+2024-01-02 00:01:34,344 - INFO - Scraped World Championship. 2024. Results
+2024-01-02 00:01:34,365 - INFO - Successfully Scraped and Saved 22bet darts
+2024-01-02 00:01:36,962 - INFO - Scraped Republic. Chance Liga
+2024-01-02 00:01:39,408 - INFO - Scraped Republic. Extraliga
+2024-01-02 00:01:44,563 - INFO - Scraped Hockey League
+2024-01-02 00:01:49,778 - INFO - Scraped Hockey League
+2024-01-02 00:01:51,646 - INFO - Scraped Elite League
+2024-01-02 00:02:00,026 - INFO - Scraped Hockey League
+2024-01-02 00:02:02,793 - INFO - Scraped 2. Bundesliga
+2024-01-02 00:02:05,351 - INFO - Scraped DEL
+2024-01-02 00:02:07,778 - INFO - Scraped VHL
+2024-01-02 00:02:10,029 - INFO - Scraped Hockey League
+2024-01-02 00:02:15,163 - INFO - Scraped Hockey League
+2024-01-02 00:02:20,483 - INFO - Scraped Hockey League
+2024-01-02 00:02:26,132 - INFO - Scraped Hockey League
+2024-01-02 00:02:28,969 - INFO - Scraped Allsvenskan
+2024-01-02 00:02:34,219 - INFO - Scraped Hockey League
+2024-01-02 00:02:37,147 - INFO - Scraped Elitserien
+2024-01-02 00:02:38,845 - INFO - Scraped NCAA
+2024-01-02 00:02:42,293 - INFO - Scraped AHL
+2024-01-02 00:02:42,432 - INFO - Successfully Scraped and Saved 22bet icehockey
+2024-01-02 00:02:42,432 - INFO - SUCCESSFULLY SCRAPED 22bet
+
+
+2024-01-02 00:02:43,555 - INFO - Scraped Kategoria Superiore
+2024-01-02 00:02:44,429 - INFO - Scraped Girabola
+2024-01-02 00:02:45,271 - INFO - Scraped Trofeo de Campeones
+2024-01-02 00:02:46,069 - INFO - Scraped A-League, Women
+2024-01-02 00:02:46,858 - INFO - Scraped A-League
+2024-01-02 00:02:47,580 - INFO - Scraped Bundesliga
+2024-01-02 00:02:48,323 - INFO - Scraped OFB Cup
+2024-01-02 00:02:49,247 - INFO - Scraped 2. Liga
+2024-01-02 00:02:50,256 - INFO - Scraped Premier League
+2024-01-02 00:02:50,994 - INFO - Scraped Premier League
+2024-01-02 00:02:51,711 - INFO - Scraped Premier League
+2024-01-02 00:02:52,358 - INFO - Scraped Pro League
+2024-01-02 00:02:53,234 - INFO - Scraped Beker van Belgie
+2024-01-02 00:02:54,158 - INFO - Scraped Challenger Pro League
+2024-01-02 00:02:55,038 - INFO - Scraped Brasileiro Serie A
+2024-01-02 00:02:55,878 - INFO - Scraped Parva Liga
+2024-01-02 00:02:56,650 - INFO - Scraped Cambodian Premier League
+2024-01-02 00:02:57,536 - INFO - Scraped Elite One
+2024-01-02 00:02:58,854 - INFO - Scraped HNL
+2024-01-02 00:02:59,589 - INFO - Scraped 1st Division
+2024-01-02 00:03:00,298 - INFO - Scraped 1. Liga
+2024-01-02 00:03:01,221 - INFO - Scraped 2nd Division
+2024-01-02 00:03:02,146 - INFO - Scraped DBU Pokalen
+2024-01-02 00:03:02,931 - INFO - Scraped Superliga
+2024-01-02 00:03:03,783 - INFO - Scraped Kvindeligaen, Women
+2024-01-02 00:03:04,523 - INFO - Scraped 1. Division
+2024-01-02 00:03:05,422 - INFO - Scraped Premier League
+2024-01-02 00:03:06,323 - INFO - Scraped Primera Division, Apertura
+2024-01-02 00:03:07,053 - INFO - Scraped Primera Division, Reserves, Apertura
+2024-01-02 00:03:07,711 - INFO - Scraped EFL Cup
+2024-01-02 00:03:08,729 - INFO - Scraped FA Cup
+2024-01-02 00:03:09,622 - INFO - Scraped EFL Trophy
+2024-01-02 00:03:10,573 - INFO - Scraped Premier League
+2024-01-02 00:03:11,240 - INFO - Scraped Championship
+2024-01-02 00:03:12,021 - INFO - Scraped National League
+2024-01-02 00:03:13,013 - INFO - Scraped League One
+2024-01-02 00:03:14,143 - INFO - Scraped League Two
+2024-01-02 00:03:14,958 - INFO - Scraped National League North
+2024-01-02 00:03:15,721 - INFO - Scraped Northern Premier League, Premier Division
+2024-01-02 00:03:16,487 - INFO - Scraped Southern Football League,Premier Division Central
+2024-01-02 00:03:17,405 - INFO - Scraped Southern League Premier South
+2024-01-02 00:03:18,441 - INFO - Scraped National League South
+2024-01-02 00:03:19,230 - INFO - Scraped Isthmian League, Pr. Div
+2024-01-02 00:03:20,041 - INFO - Scraped The FA Women's Super League
+2024-01-02 00:03:21,369 - INFO - Scraped Ligue 1
+2024-01-02 00:03:22,440 - INFO - Scraped Coupe de France
+2024-01-02 00:03:23,354 - INFO - Scraped Championnat National U19
+2024-01-02 00:03:24,108 - INFO - Scraped Trophee des Champions
+2024-01-02 00:03:25,221 - INFO - Scraped Ligue 2
+2024-01-02 00:03:26,032 - INFO - Scraped DFB Pokal
+2024-01-02 00:03:26,942 - INFO - Scraped Bundesliga
+2024-01-02 00:03:27,854 - INFO - Scraped 2nd Bundesliga
+2024-01-02 00:03:28,626 - INFO - Scraped 3. Liga
+2024-01-02 00:03:29,381 - INFO - Scraped Premier League
+2024-01-02 00:03:30,178 - INFO - Scraped Super League
+2024-01-02 00:03:30,966 - INFO - Scraped Greece Cup
+2024-01-02 00:03:31,943 - INFO - Scraped Liga Nacional. Apertura
+2024-01-02 00:03:32,727 - INFO - Scraped Sapling Cup
+2024-01-02 00:03:33,462 - INFO - Scraped NB I
+2024-01-02 00:03:34,162 - INFO - Scraped Indian Super League
+2024-01-02 00:13:45,570 - INFO - Scraped Kategoria Superiore
+2024-01-02 00:13:46,529 - INFO - Scraped Girabola
+2024-01-02 00:13:47,443 - INFO - Scraped Trofeo de Campeones
+2024-01-02 00:13:48,234 - INFO - Scraped A-League, Women
+2024-01-02 00:13:48,995 - INFO - Scraped A-League
+2024-01-02 00:13:49,805 - INFO - Scraped Bundesliga
+2024-01-02 00:13:50,726 - INFO - Scraped OFB Cup
+2024-01-02 00:13:51,507 - INFO - Scraped 2. Liga
+2024-01-02 00:13:52,295 - INFO - Scraped Premier League
+2024-01-02 00:13:53,045 - INFO - Scraped Premier League
+2024-01-02 00:13:54,005 - INFO - Scraped Premier League
+2024-01-02 00:13:54,931 - INFO - Scraped Pro League
+2024-01-02 00:13:56,296 - INFO - Scraped Beker van Belgie
+2024-01-02 00:13:57,103 - INFO - Scraped Challenger Pro League
+2024-01-02 00:13:58,102 - INFO - Scraped Brasileiro Serie A
+2024-01-02 00:13:59,033 - INFO - Scraped Parva Liga
+2024-01-02 00:13:59,842 - INFO - Scraped Cambodian Premier League
+2024-01-02 00:14:00,579 - INFO - Scraped Elite One
+2024-01-02 00:14:01,379 - INFO - Scraped HNL
+2024-01-02 00:14:02,504 - INFO - Scraped 1st Division
+2024-01-02 00:14:03,662 - INFO - Scraped 1. Liga
+2024-01-02 00:14:04,406 - INFO - Scraped 2nd Division
+2024-01-02 00:14:06,724 - INFO - Scraped DBU Pokalen
+2024-01-02 00:14:07,523 - INFO - Scraped Superliga
+2024-01-02 00:14:08,439 - INFO - Scraped Kvindeligaen, Women
+2024-01-02 00:14:09,362 - INFO - Scraped 1. Division
+2024-01-02 00:14:10,282 - INFO - Scraped Premier League
+2024-01-02 00:14:11,206 - INFO - Scraped Primera Division, Apertura
+2024-01-02 00:14:11,946 - INFO - Scraped Primera Division, Reserves, Apertura
+2024-01-02 00:14:12,610 - INFO - Scraped EFL Cup
+2024-01-02 00:14:13,489 - INFO - Scraped FA Cup
+2024-01-02 00:14:14,377 - INFO - Scraped EFL Trophy
+2024-01-02 00:14:15,339 - INFO - Scraped Premier League
+2024-01-02 00:14:16,019 - INFO - Scraped Championship
+2024-01-02 00:14:16,837 - INFO - Scraped National League
+2024-01-02 00:14:17,569 - INFO - Scraped League One
+2024-01-02 00:14:18,491 - INFO - Scraped League Two
+2024-01-02 00:14:19,393 - INFO - Scraped National League North
+2024-01-02 00:14:20,152 - INFO - Scraped Northern Premier League, Premier Division
+2024-01-02 00:14:20,919 - INFO - Scraped Southern Football League,Premier Division Central
+2024-01-02 00:14:21,752 - INFO - Scraped Southern League Premier South
+2024-01-02 00:14:22,672 - INFO - Scraped National League South
+2024-01-02 00:14:26,664 - INFO - Scraped Isthmian League, Pr. Div
+2024-01-02 00:14:27,586 - INFO - Scraped The FA Women's Super League
+2024-01-02 00:14:28,663 - INFO - Scraped Ligue 1
+2024-01-02 00:14:29,439 - INFO - Scraped Coupe de France
+2024-01-02 00:14:30,556 - INFO - Scraped Championnat National U19
+2024-01-02 00:14:31,408 - INFO - Scraped Trophee des Champions
+2024-01-02 00:14:32,235 - INFO - Scraped Ligue 2
+2024-01-02 00:14:32,892 - INFO - Scraped DFB Pokal
+2024-01-02 00:14:33,761 - INFO - Scraped Bundesliga
+2024-01-02 00:14:34,652 - INFO - Scraped 2nd Bundesliga
+2024-01-02 00:14:35,533 - INFO - Scraped 3. Liga
+2024-01-02 00:14:36,268 - INFO - Scraped Premier League
+2024-01-02 00:14:37,047 - INFO - Scraped Super League
+2024-01-02 00:14:37,936 - INFO - Scraped Greece Cup
+2024-01-02 00:14:38,810 - INFO - Scraped Liga Nacional. Apertura
+2024-01-02 00:14:39,660 - INFO - Scraped Sapling Cup
+2024-01-02 00:14:40,421 - INFO - Scraped NB I
+2024-01-02 00:14:41,131 - INFO - Scraped Indian Super League
+2024-01-02 00:14:42,026 - INFO - Scraped I-League
+2024-01-02 00:14:42,850 - INFO - Scraped Africa Cup of Nations
+2024-01-02 00:14:43,719 - INFO - Scraped AFC Asian Cup
+2024-01-02 00:14:44,482 - INFO - Scraped Euro Cup
+2024-01-02 00:14:45,170 - INFO - Scraped Ballon dor
+2024-01-02 00:14:46,129 - INFO - Scraped UEFA EURO, Qualification
+2024-01-02 00:14:47,147 - INFO - Scraped Copa America
+2024-01-02 00:14:47,895 - INFO - Scraped WC Qual, CONMEBOL
+2024-01-02 00:14:48,653 - INFO - Scraped World Cup
+2024-01-02 00:14:49,468 - INFO - Scraped Int. Friendly Games
+2024-01-02 00:14:50,425 - INFO - Scraped UEFA Europa League
+2024-01-02 00:14:51,353 - INFO - Scraped UEFA Europa Conference League
+2024-01-02 00:14:52,109 - INFO - Scraped AFC Champions League
+2024-01-02 00:14:52,877 - INFO - Scraped UEFA Champions League
+2024-01-02 00:14:53,636 - INFO - Scraped UEFA Champions League Women
+2024-01-02 00:14:54,725 - INFO - Scraped Club Friendly Games
+2024-01-02 00:14:55,630 - INFO - Scraped CAF Champions League
+2024-01-02 00:14:56,367 - INFO - Scraped Pro League
+2024-01-02 00:14:57,178 - INFO - Scraped Premier League
+2024-01-02 00:14:58,003 - INFO - Scraped Liga Alef
+2024-01-02 00:14:58,923 - INFO - Scraped Israel Cup
+2024-01-02 00:14:59,797 - INFO - Scraped Coppa Italia
+2024-01-02 00:15:00,595 - INFO - Scraped Serie B
+2024-01-02 00:15:01,402 - INFO - Scraped Serie C, Group C
+2024-01-02 00:15:02,406 - INFO - Scraped Serie C, Group B
+2024-01-02 00:15:03,429 - INFO - Scraped Campionato Primavera 2
+2024-01-02 00:15:04,257 - INFO - Scraped Serie A
+2024-01-02 00:15:04,960 - INFO - Scraped Super Cup
+2024-01-02 00:15:05,784 - INFO - Scraped Campionato Primavera 1
+2024-01-02 00:15:06,805 - INFO - Scraped Serie C, Group A
+2024-01-02 00:15:07,669 - INFO - Scraped Coppa Italia Serie D
+2024-01-02 00:15:08,382 - INFO - Scraped WE League, Women
+2024-01-02 00:15:09,091 - INFO - Scraped Ligue 1
+2024-01-02 00:15:09,988 - INFO - Scraped Liga MX, Clausura
+2024-01-02 00:15:10,902 - INFO - Scraped Botola Pro D1
+2024-01-02 00:15:11,840 - INFO - Scraped Eredivisie
+2024-01-02 00:15:12,578 - INFO - Scraped Eerste Divisie
+2024-01-02 00:15:13,323 - INFO - Scraped Primera Division
+2024-01-02 00:15:14,181 - INFO - Scraped Championship
+2024-01-02 00:15:15,106 - INFO - Scraped Premiership
+2024-01-02 00:15:15,898 - INFO - Scraped Ekstraklasa
+2024-01-02 00:15:16,607 - INFO - Scraped League Cup
+2024-01-02 00:15:17,374 - INFO - Scraped Liga Portugal 2
+2024-01-02 00:15:18,275 - INFO - Scraped U19 Campeonato Nacional
+2024-01-02 00:15:19,196 - INFO - Scraped Liga Portugal
+2024-01-02 00:15:20,014 - INFO - Scraped U23 Liga Revelacao
+2024-01-02 00:15:20,739 - INFO - Scraped 2nd Division
+2024-01-02 00:15:21,476 - INFO - Scraped Liga 2
+2024-01-02 00:15:22,370 - INFO - Scraped Premier League
+2024-01-02 00:15:23,349 - INFO - Scraped 1. Liga
+2024-01-02 00:15:24,411 - INFO - Scraped Saudi Pro League
+2024-01-02 00:15:25,201 - INFO - Scraped League 1
+2024-01-02 00:15:26,057 - INFO - Scraped Scottish Cup
+2024-01-02 00:15:26,883 - INFO - Scraped Premiership
+2024-01-02 00:15:27,933 - INFO - Scraped League 2
+2024-01-02 00:15:28,697 - INFO - Scraped Championship
+2024-01-02 00:15:29,420 - INFO - Scraped Premier League
+2024-01-02 00:15:30,360 - INFO - Scraped Superliga
+2024-01-02 00:15:31,434 - INFO - Scraped PrvaLiga
+2024-01-02 00:15:32,212 - INFO - Scraped Premiership
+2024-01-02 00:15:32,924 - INFO - Scraped Supercopa
+2024-01-02 00:15:33,736 - INFO - Scraped LaLiga
+2024-01-02 00:15:34,675 - INFO - Scraped Copa del Rey
+2024-01-02 00:15:35,582 - INFO - Scraped Tercera Federacion, Group 9
+2024-01-02 00:15:36,437 - INFO - Scraped Tercera Federacion, Group 11
+2024-01-02 00:15:37,171 - INFO - Scraped Tercera Federacion, Group 10
+2024-01-02 00:15:37,887 - INFO - Scraped Allsvenskan
+2024-01-02 00:15:38,754 - INFO - Scraped Super League
+2024-01-02 00:15:39,678 - INFO - Scraped Premier League
+2024-01-02 00:15:40,393 - INFO - Scraped Premier League
+2024-01-02 00:15:41,116 - INFO - Scraped Thai League Championship
+2024-01-02 00:15:42,031 - INFO - Scraped Thai League 1
+2024-01-02 00:15:42,889 - INFO - Scraped Super Lig
+2024-01-02 00:15:43,755 - INFO - Scraped 1. Lig
+2024-01-02 00:15:44,485 - INFO - Scraped Super Kupa
+2024-01-02 00:15:45,224 - INFO - Scraped 2. Lig
+2024-01-02 00:15:45,950 - INFO - Scraped Premier League
+2024-01-02 00:15:46,844 - INFO - Scraped Arabian Gulf League
+2024-01-02 00:15:47,753 - INFO - Scraped Division 1
+2024-01-02 00:15:48,510 - INFO - Scraped V-League 1
+2024-01-02 00:15:49,187 - INFO - Scraped V-League 2
+2024-01-02 00:15:49,916 - INFO - Scraped Cymru Premier
+2024-01-02 00:15:50,838 - INFO - Scraped Cymru Championship South
+2024-01-02 00:15:51,759 - INFO - Scraped Super League
+2024-01-02 00:15:52,065 - INFO - Successfully Scraped and Saved sportybet football
+2024-01-02 00:15:52,783 - INFO - Scraped WNBL
+2024-01-02 00:15:53,452 - INFO - Scraped NBL
+2024-01-02 00:15:54,221 - INFO - Scraped Superliga
+2024-01-02 00:15:55,138 - INFO - Scraped Premier League
+2024-01-02 00:15:55,890 - INFO - Scraped 1st Division
+2024-01-02 00:15:56,658 - INFO - Scraped NBB
+2024-01-02 00:15:57,459 - INFO - Scraped NBL
+2024-01-02 00:15:58,328 - INFO - Scraped CBA
+2024-01-02 00:15:59,337 - INFO - Scraped WCBA
+2024-01-02 00:16:00,147 - INFO - Scraped Croatian Cup
+2024-01-02 00:16:00,866 - INFO - Scraped BBL
+2024-01-02 00:16:01,605 - INFO - Scraped Pro A
+2024-01-02 00:16:02,282 - INFO - Scraped Nationale 1
+2024-01-02 00:16:03,022 - INFO - Scraped Pro B
+2024-01-02 00:16:03,806 - INFO - Scraped Pro A
+2024-01-02 00:16:04,562 - INFO - Scraped 1. DBBL
+2024-01-02 00:16:05,517 - INFO - Scraped BBL
+2024-01-02 00:16:06,214 - INFO - Scraped Elite League
+2024-01-02 00:16:06,896 - INFO - Scraped Basket League
+2024-01-02 00:16:07,577 - INFO - Scraped United League
+2024-01-02 00:16:08,359 - INFO - Scraped Estonian-Latvian League
+2024-01-02 00:16:09,271 - INFO - Scraped Liga ABA
+2024-01-02 00:16:10,071 - INFO - Scraped Champions League
+2024-01-02 00:16:10,789 - INFO - Scraped Eurocup
+2024-01-02 00:16:11,463 - INFO - Scraped Super League
+2024-01-02 00:16:12,261 - INFO - Scraped Serie B
+2024-01-02 00:16:13,369 - INFO - Scraped Serie A
+2024-01-02 00:16:14,157 - INFO - Scraped Serie A2
+2024-01-02 00:16:14,867 - INFO - Scraped A1 Women
+2024-01-02 00:16:15,540 - INFO - Scraped A2, Women
+2024-01-02 00:16:16,342 - INFO - Scraped B2 League
+2024-01-02 00:16:17,164 - INFO - Scraped B1 League
+2024-01-02 00:16:17,966 - INFO - Scraped W League
+2024-01-02 00:16:18,622 - INFO - Scraped First Division
+2024-01-02 00:16:19,320 - INFO - Scraped NKL
+2024-01-02 00:16:20,024 - INFO - Scraped LKL
+2024-01-02 00:16:20,850 - INFO - Scraped BNXT Dutch League
+2024-01-02 00:16:21,666 - INFO - Scraped First League
+2024-01-02 00:16:22,446 - INFO - Scraped PBA, Commissioner Cup
+2024-01-02 00:16:23,180 - INFO - Scraped Basket Liga, Women
+2024-01-02 00:16:24,329 - INFO - Scraped 1. Liga
+2024-01-02 00:16:25,146 - INFO - Scraped PLK
+2024-01-02 00:16:26,043 - INFO - Scraped LPB
+2024-01-02 00:16:26,742 - INFO - Scraped QBL
+2024-01-02 00:16:27,659 - INFO - Scraped KBL
+2024-01-02 00:16:28,423 - INFO - Scraped WKBL
+2024-01-02 00:16:30,060 - INFO - Scraped Liga Nationala
+2024-01-02 00:16:31,086 - INFO - Scraped Sbl
+2024-01-02 00:16:31,900 - INFO - Scraped KLS
+2024-01-02 00:16:32,719 - INFO - Scraped Extraliga
+2024-01-02 00:16:33,540 - INFO - Scraped 1. A SKL
+2024-01-02 00:16:34,291 - INFO - Scraped Liga Femenina
+2024-01-02 00:16:35,005 - INFO - Scraped Liga ACB
+2024-01-02 00:16:35,681 - INFO - Scraped Super Lig, Women
+2024-01-02 00:16:36,512 - INFO - Scraped TB2L
+2024-01-02 00:16:37,448 - INFO - Scraped Super Lig
+2024-01-02 00:16:38,234 - INFO - Scraped 1. Lig
+2024-01-02 00:16:39,176 - INFO - Scraped NCAA, Regular Season
+2024-01-02 00:16:39,838 - INFO - Scraped WNBA
+2024-01-02 00:16:40,840 - INFO - Scraped NBA
+2024-01-02 00:16:41,901 - INFO - Scraped NCAA Women, Regular Season
+2024-01-02 00:16:42,123 - INFO - Successfully Scraped and Saved sportybet basketball
+2024-01-02 00:16:44,004 - INFO - Scraped Superliga
+2024-01-02 00:16:45,387 - INFO - Scraped China Volleyball League
+2024-01-02 00:16:46,231 - INFO - Scraped China Volleyball League, Women
+2024-01-02 00:16:47,428 - INFO - Scraped Ligue A Women
+2024-01-02 00:16:48,136 - INFO - Scraped 1st Bundesliga
+2024-01-02 00:16:48,813 - INFO - Scraped 1st Bundesliga Women
+2024-01-02 00:16:49,470 - INFO - Scraped Volley League, Women
+2024-01-02 00:16:50,155 - INFO - Scraped A1
+2024-01-02 00:16:50,816 - INFO - Scraped Extraliga, Women
+2024-01-02 00:16:51,493 - INFO - Scraped SuperLega
+2024-01-02 00:16:52,181 - INFO - Scraped Serie A1 Women
+2024-01-02 00:16:53,001 - INFO - Scraped Serie A2, Women
+2024-01-02 00:16:53,817 - INFO - Scraped V League
+2024-01-02 00:16:54,557 - INFO - Scraped V League, Women
+2024-01-02 00:16:55,223 - INFO - Scraped 1. Liga
+2024-01-02 00:16:55,912 - INFO - Scraped Liga Siatkowki, Women
+2024-01-02 00:16:56,693 - INFO - Scraped Liga Siatkowki
+2024-01-02 00:16:57,502 - INFO - Scraped V League, Women
+2024-01-02 00:16:58,249 - INFO - Scraped V League
+2024-01-02 00:16:58,945 - INFO - Scraped Division A1
+2024-01-02 00:16:59,668 - INFO - Scraped Pro League
+2024-01-02 00:17:00,371 - INFO - Scraped Superliga
+2024-01-02 00:17:01,189 - INFO - Scraped Superliga, Women
+2024-01-02 00:17:02,005 - INFO - Scraped 1. DOL
+2024-01-02 00:17:02,645 - INFO - Scraped Efeler Ligi
+2024-01-02 00:17:02,659 - INFO - Successfully Scraped and Saved sportybet volleyball
+2024-01-02 00:17:03,332 - INFO - Scraped PDC World Championship
+2024-01-02 00:17:03,377 - INFO - Successfully Scraped and Saved sportybet darts
+2024-01-02 00:17:04,095 - INFO - Scraped ICE Hockey League
+2024-01-02 00:17:04,899 - INFO - Scraped Extraliga
+2024-01-02 00:17:05,730 - INFO - Scraped 1. Liga
+2024-01-02 00:17:07,209 - INFO - Scraped Elite League
+2024-01-02 00:17:07,927 - INFO - Scraped Liiga
+2024-01-02 00:17:08,767 - INFO - Scraped Mestis
+2024-01-02 00:17:09,716 - INFO - Scraped DEL
+2024-01-02 00:17:10,713 - INFO - Scraped Alps Hockey League
+2024-01-02 00:17:11,531 - INFO - Scraped Spengler Cup
+2024-01-02 00:17:12,362 - INFO - Scraped U20 World Championship
+2024-01-02 00:17:13,017 - INFO - Scraped Asia League
+2024-01-02 00:17:13,700 - INFO - Scraped Pro Hockey League
+2024-01-02 00:17:14,604 - INFO - Scraped Latvian Hockey League
+2024-01-02 00:17:15,423 - INFO - Scraped VHL
+2024-01-02 00:17:16,273 - INFO - Scraped MHL
+2024-01-02 00:17:17,156 - INFO - Scraped KHL
+2024-01-02 00:17:18,047 - INFO - Scraped SHL
+2024-01-02 00:17:19,010 - INFO - Scraped Allsvenskan
+2024-01-02 00:17:19,827 - INFO - Scraped Swiss League
+2024-01-02 00:17:20,667 - INFO - Scraped National League
+2024-01-02 00:17:21,439 - INFO - Scraped AHL
+2024-01-02 00:17:22,288 - INFO - Scraped ECHL
+2024-01-02 00:17:23,637 - INFO - Scraped NHL
+2024-01-02 00:17:23,748 - INFO - Successfully Scraped and Saved sportybet icehockey
+2024-01-02 00:17:23,752 - INFO - SUCCESSFULLY SCRAPED sportybet
+
+
+2024-01-02 00:17:32,101 - INFO - Scraped Premier League
+2024-01-02 00:17:40,361 - INFO - Scraped FA Cup
+2024-01-02 00:17:42,780 - INFO - Scraped League Cup
+2024-01-02 00:17:49,290 - INFO - Scraped Championship
+2024-01-02 00:17:57,468 - INFO - Scraped League One
+2024-01-02 00:18:05,657 - INFO - Scraped League Two
+2024-01-02 00:18:08,991 - INFO - Scraped DFB Pokal
+2024-01-02 00:18:17,337 - INFO - Scraped Bundesliga
+2024-01-02 00:18:23,353 - INFO - Scraped 2. Bundesliga
+2024-01-02 00:18:31,977 - INFO - Scraped Serie A
+2024-01-02 00:18:40,359 - INFO - Scraped Serie A
+2024-01-02 00:18:46,074 - INFO - Scraped Serie B
+2024-01-02 00:18:49,662 - INFO - Scraped Italia
+2024-01-02 00:18:57,914 - INFO - Scraped La Liga
+2024-01-02 00:19:05,181 - INFO - Scraped Copa del Rey
+2024-01-02 00:19:11,200 - INFO - Scraped Segunda Division
+2024-01-02 00:19:16,918 - INFO - Scraped Primera Division. Women
+2024-01-02 00:19:25,588 - INFO - Scraped Primera Division. Women
+2024-01-02 00:19:34,287 - INFO - Scraped de France
+2024-01-02 00:19:39,564 - INFO - Scraped Ligue 2
+2024-01-02 00:19:43,937 - INFO - Scraped Champions League
+2024-01-02 00:19:47,914 - INFO - Scraped Europa League
+2024-01-02 00:19:52,235 - INFO - Scraped Championship. Women
+2024-01-02 00:19:59,888 - INFO - Scraped A League
+2024-01-02 00:20:08,945 - INFO - Scraped Serie A
+2024-01-02 00:20:15,147 - INFO - Scraped Premier League
+2024-01-02 00:20:21,024 - INFO - Scraped Championship
+2024-01-02 00:20:25,073 - INFO - Scraped League One
+2024-01-02 00:20:29,250 - INFO - Scraped League Two
+2024-01-02 00:20:40,309 - INFO - Scraped Serie A
+2024-01-02 00:20:44,833 - INFO - Scraped Arabia. Division 1
+2024-01-02 00:20:53,395 - INFO - Scraped Serie A
+2024-01-02 00:21:02,650 - INFO - Scraped Serie A
+2024-01-02 00:21:07,516 - INFO - Scraped First Division
+2024-01-02 00:21:12,101 - INFO - Scraped Premier League
+2024-01-02 00:21:22,169 - INFO - Scraped Serie A
+2024-01-02 00:21:33,504 - INFO - Scraped Serie A
+2024-01-02 00:21:43,207 - INFO - Scraped Serie A
+2024-01-02 00:21:45,603 - INFO - Scraped Cup of Nations
+2024-01-02 00:21:50,182 - INFO - Successfully Scraped and Saved 1xbet football
+2024-01-02 00:22:00,396 - INFO - Scraped NBA
+2024-01-02 00:22:09,343 - INFO - Scraped NBA
+2024-01-02 00:22:17,208 - INFO - Scraped Collegiate Athletic Association (NCAA)
+2024-01-02 00:22:20,916 - INFO - Scraped NBL
+2024-01-02 00:22:24,816 - INFO - Scraped WNBL
+2024-01-02 00:22:28,065 - INFO - Scraped Championship
+2024-01-02 00:22:37,777 - INFO - Scraped NBA
+2024-01-02 09:43:07,324 - INFO - Scraped Premier League
+2024-01-02 09:43:15,589 - INFO - Scraped FA Cup
+2024-01-02 09:43:18,219 - INFO - Scraped League Cup
+2024-01-02 09:43:24,507 - INFO - Scraped Championship
+2024-01-02 09:43:31,865 - INFO - Scraped League One
+2024-01-02 09:43:39,622 - INFO - Scraped League Two
+2024-01-02 09:43:43,087 - INFO - Scraped DFB Pokal
+2024-01-02 09:43:51,959 - INFO - Scraped Bundesliga
+2024-01-02 09:43:57,902 - INFO - Scraped 2. Bundesliga
+2024-01-02 09:44:06,164 - INFO - Scraped Championship
+2024-01-02 09:44:15,231 - INFO - Scraped Serie A
+2024-01-02 09:44:21,468 - INFO - Scraped Serie B
+2024-01-02 09:44:25,211 - INFO - Scraped Italia
+2024-01-02 09:44:33,655 - INFO - Scraped La Liga
+2024-01-02 09:44:40,710 - INFO - Scraped Copa del Rey
+2024-01-02 09:44:53,110 - INFO - Scraped Segunda Division
+2024-01-02 09:44:57,660 - INFO - Scraped Primera Division. Women
+2024-01-02 09:45:05,985 - INFO - Scraped Primera Division. Women
+2024-01-02 09:45:14,993 - INFO - Scraped de France
+2024-01-02 09:45:21,318 - INFO - Scraped Ligue 2
+2024-01-02 09:45:25,915 - INFO - Scraped Champions League
+2024-01-02 09:45:31,578 - INFO - Scraped Europa League
+2024-01-02 09:45:35,845 - INFO - Scraped Championship. Women
+2024-01-02 09:45:41,973 - INFO - Scraped A League
+2024-01-02 09:45:49,593 - INFO - Scraped Championship
+2024-01-02 09:45:54,261 - INFO - Scraped Premier League
+2024-01-02 09:46:01,850 - INFO - Scraped Championship
+2024-01-02 09:46:05,804 - INFO - Scraped League One
+2024-01-02 09:46:08,902 - INFO - Scraped League Two
+2024-01-02 09:46:16,633 - INFO - Scraped Championship
+2024-01-02 09:46:20,018 - INFO - Scraped Arabia. Division 1
+2024-01-02 09:46:26,826 - INFO - Scraped Championship
+2024-01-02 09:46:33,808 - INFO - Scraped Championship
+2024-01-02 09:46:37,683 - INFO - Scraped First Division
+2024-01-02 09:46:41,506 - INFO - Scraped Premier League
+2024-01-02 09:46:49,588 - INFO - Scraped Championship
+2024-01-02 09:46:58,082 - INFO - Scraped Championship
+2024-01-02 09:47:06,944 - INFO - Scraped Championship
+2024-01-02 09:47:09,253 - INFO - Scraped Cup of Nations
+2024-01-02 09:47:10,216 - INFO - Successfully Scraped and Saved 1xbet football
+2024-01-02 09:47:16,042 - INFO - Scraped NBA
+2024-01-02 09:47:23,062 - INFO - Scraped NBA
+2024-01-02 09:47:32,305 - INFO - Scraped Collegiate Athletic Association (NCAA)
+2024-01-02 09:47:37,379 - INFO - Scraped NBL
+2024-01-02 09:47:39,751 - INFO - Scraped WNBL
+2024-01-02 09:47:42,219 - INFO - Scraped Championship
+2024-01-02 09:47:49,811 - INFO - Scraped NBA
+2024-01-02 09:47:56,692 - INFO - Scraped NBA
+2024-01-02 09:47:59,485 - INFO - Scraped SuperLeague
+2024-01-02 09:48:03,882 - INFO - Scraped Euroleague
+2024-01-02 09:48:11,877 - INFO - Scraped NBA
+2024-01-02 09:48:20,364 - INFO - Scraped NBA
+2024-01-02 09:48:28,761 - INFO - Scraped NBA
+2024-01-02 09:48:35,827 - INFO - Scraped NBA
+2024-01-02 09:48:44,055 - INFO - Scraped NBA
+2024-01-02 09:48:51,537 - INFO - Scraped NBA
+2024-01-02 09:48:59,940 - INFO - Scraped NBA
+2024-01-02 09:49:00,245 - INFO - Successfully Scraped and Saved 1xbet basketball
+2024-01-02 09:49:07,950 - INFO - Scraped Superleague. Women
+2024-01-02 09:49:15,631 - INFO - Scraped Superleague. Women
+2024-01-02 09:49:15,646 - INFO - Successfully Scraped and Saved 1xbet volleyball
+2024-01-02 09:49:23,268 - INFO - Scraped World Championship. 2024. Results
+2024-01-02 09:49:30,987 - INFO - Scraped World Championship. 2024. Results
+2024-01-02 09:49:38,112 - INFO - Scraped World Championship. 2024. Results
+2024-01-02 09:49:44,855 - INFO - Scraped World Championship. 2024. Results
+2024-01-02 09:49:44,882 - INFO - Successfully Scraped and Saved 1xbet darts
+2024-01-02 09:49:48,415 - INFO - Scraped Republic. Chance Liga
+2024-01-02 09:49:51,651 - INFO - Scraped Republic. Extraliga
+2024-01-02 09:49:53,462 - INFO - Scraped Republic. Extraliga U20
+2024-01-02 09:50:00,099 - INFO - Scraped Hockey League
+2024-01-02 09:50:03,269 - INFO - Scraped Elite League
+2024-01-02 09:50:05,092 - INFO - Scraped Mestis Liiga
+2024-01-02 09:50:08,725 - INFO - Scraped 2. Bundesliga
+2024-01-02 09:50:12,855 - INFO - Scraped DEL
+2024-01-02 09:50:16,070 - INFO - Scraped VHL
+2024-01-02 09:50:18,663 - INFO - Scraped Hockey League
+2024-01-02 09:50:25,461 - INFO - Scraped Hockey League
+2024-01-02 09:50:32,523 - INFO - Scraped Hockey League
+2024-01-02 09:50:40,414 - INFO - Scraped Hockey League
+2024-01-02 09:50:43,584 - INFO - Scraped Allsvenskan
+2024-01-02 09:50:51,087 - INFO - Scraped Hockey League
+2024-01-02 09:50:54,906 - INFO - Scraped Elitserien
+2024-01-02 09:50:57,116 - INFO - Scraped NCAA
+2024-01-02 09:51:02,069 - INFO - Scraped AHL
+2024-01-02 09:51:02,279 - INFO - Successfully Scraped and Saved 1xbet icehockey
+2024-01-02 09:51:02,288 - INFO - SUCCESSFULLY SCRAPED 1xbet
+
+
+2024-01-02 09:51:27,772 - INFO - Saving basketball
+2024-01-02 09:51:29,714 - INFO - Saving darts
+2024-01-02 09:51:30,045 - INFO - Saving esoccer
+2024-01-02 09:52:30,399 - INFO - Saving football
+2024-01-02 09:52:39,719 - INFO - Saving icehockey
+2024-01-02 09:52:42,647 - INFO - Saving tennis
+2024-01-02 09:52:44,115 - INFO - Saving volleyball
+2024-01-02 09:52:44,143 - INFO - SUCCESS Arranging GAMES
+
+
+2024-01-02 09:52:44,293 - INFO - Saving engine/storage_engine/arranged_data/basketball.json
+2024-01-02 09:52:44,824 - INFO - Saving engine/storage_engine/arranged_data/darts.json
+2024-01-02 09:52:44,831 - ERROR - Sport File esoccer is not in special function
+2024-01-02 09:52:45,971 - INFO - Saving engine/storage_engine/arranged_data/football.json
+2024-01-02 09:52:48,482 - INFO - Saving engine/storage_engine/arranged_data/icehockey.json
+2024-01-02 09:52:48,710 - ERROR - Sport File tennis is not in special function
+2024-01-02 09:52:48,777 - INFO - Saving engine/storage_engine/arranged_data/volleyball.json
+2024-01-02 09:52:48,867 - INFO - SUCCESS PROCESSING THE NEEDED MARKETS FOR CROSS MARKET CREATIONS
+
+
+2024-01-02 09:52:49,065 - INFO - Saving engine/storage_engine/processed_data/basketball.json
+2024-01-02 09:52:49,230 - INFO - Saving engine/storage_engine/processed_data/darts.json
+2024-01-02 09:52:54,940 - INFO - Saving engine/storage_engine/processed_data/football.json
+2024-01-02 09:53:30,293 - INFO - Saving engine/storage_engine/processed_data/icehockey.json
+2024-01-02 09:53:32,039 - INFO - Saving engine/storage_engine/processed_data/volleyball.json
+2024-01-02 09:53:32,060 - INFO - SUCCESS COMBINING ALL BOOKIES TO CROSS MARKETS FOR EACH GAMES
+
+
+2024-01-02 09:53:32,432 - INFO - Number of Arbitrage found in basketball is 0
+
+
+2024-01-02 09:53:32,433 - INFO - Saving engine/storage_engine/combined_data/basketball.json
+2024-01-02 09:53:32,501 - INFO - Number of Arbitrage found in darts is 0
+
+
+2024-01-02 09:53:32,507 - INFO - Saving engine/storage_engine/combined_data/darts.json
+2024-01-02 09:53:36,291 - INFO - Number of Arbitrage found in football is 2350
+
+
+2024-01-02 09:53:36,324 - INFO - Saving engine/storage_engine/combined_data/football.json
+2024-01-02 09:53:36,986 - INFO - Number of Arbitrage found in icehockey is 40
+
+
+2024-01-02 09:53:37,023 - INFO - Saving engine/storage_engine/combined_data/icehockey.json
+2024-01-02 09:53:37,081 - INFO - Number of Arbitrage found in volleyball is 1
+
+
+2024-01-02 09:53:37,081 - INFO - Saving engine/storage_engine/combined_data/volleyball.json
+2024-01-02 09:53:37,084 - INFO - SUCCESS FINDING ARBS YOU CAN FIND YOUR ARBS IN THE ARBS FOLDER IN engine/storage_engine/arbs_found file
+
+

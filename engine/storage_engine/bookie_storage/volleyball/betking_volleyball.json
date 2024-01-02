@@ -2,157 +2,102 @@
   "Champions League": {},
   "Poland": {
     "Liga Siatkowski": {
-      "Cuprum Lubin SA - Resovia Rzeszow": {
+      "AZS Olsztyn - Projekt Warsaw": {
         "1-2": {
-          "1": 4.75,
-          "2": 1.15
+          "1": 4.15,
+          "2": 1.19
         }
       },
-      "Projekt Warsaw - Stal Nysa SA": {
+      "Wks Czarni Radom - Barkom-Kazhany Lviv": {
         "1-2": {
-          "1": 1.12,
-          "2": 5.4
-        }
-      },
-      "Warta Zawiercie - Jastrzebski Wegiel": {
-        "1-2": {
-          "1": 1.98,
-          "2": 1.74
+          "1": 2.43,
+          "2": 1.5
         },
         "Handicap": {
           "1 AH": 1.86,
-          "2 AH": 1.84
+          "2 AH": 1.85
         }
       },
-      "AZS Olsztyn - Skra Belchatow": {
+      "Skra Belchatow - Jastrzebski Wegiel": {
         "1-2": {
-          "1": 1.46,
-          "2": 2.53
-        },
-        "Handicap": {
-          "1 AH": 1.88,
-          "2 AH": 1.82
+          "1": 5.0,
+          "2": 1.13
         }
       },
-      "Barkom-Kazhany Lviv - GKS Katowice": {
+      "Exact Systems Norwid Czestochowa - Trefl Gdansk": {
         "1-2": {
-          "1": 1.43,
-          "2": 2.63
+          "1": 4.0,
+          "2": 1.2
+        }
+      },
+      "ZAKSA Kedzierzyn-Kozle - Warta Zawiercie": {
+        "1-2": {
+          "1": 2.25,
+          "2": 1.57
         },
         "Handicap": {
-          "1 AH": 1.82,
-          "2 AH": 1.88
+          "1 AH": 1.83,
+          "2 AH": 1.87
+        }
+      },
+      "Resovia Rzeszow - LKPS Lublin": {
+        "1-2": {
+          "1": 1.11,
+          "2": 5.6
+        }
+      },
+      "Stal Nysa SA - MKS Slepsk Suwalki": {
+        "1-2": {
+          "1": 1.24,
+          "2": 3.6
+        }
+      },
+      "GKS Katowice - Cuprum Lubin SA": {
+        "1-2": {
+          "1": 1.42,
+          "2": 2.65
+        },
+        "Handicap": {
+          "1 AH": 1.8,
+          "2 AH": 1.9
         }
       }
     }
   },
   "Belgium": {},
   "Brazil": {},
-  "Bulgaria": {
-    "Super League": {
-      "Marek Dupnitsa - Pirin Razlog": {
-        "1-2": {
-          "1": 1.85,
-          "2": 1.85
-        }
-      },
-      "Montana - Beroe Stara Zagora": {
-        "1-2": {
-          "1": 1.43,
-          "2": 2.62
-        },
-        "Handicap": {
-          "1 AH": 1.9,
-          "2 AH": 1.81
-        }
-      },
-      "Hebar Pazardzhik - Dobrudja Dobrich": {
-        "1-2": {
-          "1": 11.75
-        }
-      },
-      "Deya Volley Burgas - Neftochimik 2010": {
-        "1-2": {
-          "1": 1.68,
-          "2": 2.05
-        },
-        "Handicap": {
-          "1 AH": 1.86,
-          "2 AH": 1.84
-        }
-      },
-      "Levski Sofia - CSKA Sofia": {
-        "1-2": {
-          "1": 1.67,
-          "2": 2.08
-        },
-        "Handicap": {
-          "1 AH": 1.84,
-          "2 AH": 1.86
-        }
-      }
-    }
-  },
+  "Bulgaria": {},
   "CEV Cup Men": {},
   "Challenge Cup": {},
   "Czech Republic": {},
   "European Leagues": {},
   "Greece": {},
   "International": {},
-  "Russia": {
-    "Superliga, Women": {
-      "Minchanka Minsk - Dinamo Metar Chelyabinsk": {
-        "1-2": {
-          "1": 4.45,
-          "2": 1.17
-        }
-      },
-      "Zarechie-Odintsovo - Proton Saratov": {
-        "1-2": {
-          "1": 3.75,
-          "2": 1.23
-        }
-      },
-      "Yenisey Krasnoyarsk - VK Dinamo Kazan": {
-        "1-2": {
-          "1": 4.75,
-          "2": 1.15
-        }
-      },
-      "VK Uralochka - Dinamo Moscow": {
-        "1-2": {
-          "1": 5.7,
-          "2": 1.1
-        }
-      },
-      "Sparta Nizhniy Novgorod - Lokomotiv Kaliningrad Region": {
-        "1-2": {
-          "1": 5.9,
-          "2": 1.1
-        }
-      }
-    }
-  },
+  "Russia": {},
   "Serbia": {},
   "Slovakia": {},
   "South Korea": {
     "V League": {
-      "Ansan Volleyball Team - Incheon Jumbos": {
+      "Ansan Volleyball Team - Daejeon Bluefangs": {
         "1-2": {
-          "1": 2.92,
-          "2": 1.36
+          "1": 2.0,
+          "2": 1.71
         },
         "Handicap": {
-          "1 AH": 1.78,
-          "2 AH": 1.9
+          "1 AH": 1.87,
+          "2 AH": 1.8
         }
       }
     },
     "V League, Women": {
-      "Gimcheon Hi-Pass - Seoul KIXX": {
+      "Seoul KIXX - Gwangju Ai Peppers": {
         "1-2": {
-          "1": 3.15,
-          "2": 1.31
+          "1": 1.19,
+          "2": 4.2
+        },
+        "Handicap": {
+          "1 AH": 1.91,
+          "2 AH": 1.77
         }
       }
     }

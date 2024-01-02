@@ -1,83 +1,329 @@
 {
-  "Joe Cullen VS Ryan Searle": {
+  "Colin Osborne VS Robert Thornton": {
     "1xbet": {
-      "1": 2.11,
-      "2": 1.727
+      "1": 1.85,
+      "2": 1.85
     },
     "22bet": {
-      "1": 2.11,
-      "2": 1.727
+      "1": 1.85,
+      "2": 1.85
     },
     "betwinner": {
-      "1": 2.11,
-      "2": 1.727
+      "1": 1.85,
+      "2": 1.85
     },
-    "livescorebet": {
-      "1": 2.1,
-      "2": 1.74074075
+    "paripesa": {
+      "1": 1.85,
+      "2": 1.85
+    }
+  },
+  "Modus Super Series. 2024. Week 7. Group A. Winner VS ": {
+    "1xbet": {
+      "1": null,
+      "2": null
     },
-    "merrybet": {
-      "1": 2.04,
+    "22bet": {
+      "1": null,
+      "2": null
+    },
+    "betwinner": {
+      "1": null,
+      "2": null
+    },
+    "paripesa": {
+      "1": null,
+      "2": null
+    }
+  },
+  "Modus Super Series. 2024. Week 7. Winner VS ": {
+    "1xbet": {
+      "1": null,
+      "2": null
+    },
+    "22bet": {
+      "1": null,
+      "2": null
+    },
+    "betwinner": {
+      "1": null,
+      "2": null
+    },
+    "paripesa": {
+      "1": null,
+      "2": null
+    }
+  },
+  "Darryl Pilgrim VS Chris Landman": {
+    "1xbet": {
+      "1": 1.553,
+      "2": 2.318
+    },
+    "22bet": {
+      "1": 1.58,
+      "2": 2.26
+    },
+    "betwinner": {
+      "1": 1.58,
+      "2": 2.26
+    },
+    "paripesa": {
+      "1": 1.58,
+      "2": 2.26
+    }
+  },
+  "Jeroen Caron VS Conan Whitehead": {
+    "1xbet": {
+      "1": 3.635,
+      "2": 1.25
+    },
+    "22bet": {
+      "1": 3.635,
+      "2": 1.25
+    },
+    "betwinner": {
+      "1": 3.635,
+      "2": 1.25
+    },
+    "paripesa": {
+      "1": 3.635,
+      "2": 1.25
+    }
+  },
+  "Robert Thornton VS Darryl Pilgrim": {
+    "1xbet": {
+      "1": 2.202,
+      "2": 1.61
+    },
+    "22bet": {
+      "1": 2.163,
+      "2": 1.63
+    },
+    "betwinner": {
+      "1": 2.163,
+      "2": 1.63
+    },
+    "paripesa": {
+      "1": 2.163,
+      "2": 1.63
+    }
+  },
+  "Conan Whitehead VS Colin Osborne": {
+    "1xbet": {
+      "1": 1.59,
+      "2": 2.24
+    },
+    "22bet": {
+      "1": 1.59,
+      "2": 2.24
+    },
+    "betwinner": {
+      "1": 1.59,
+      "2": 2.24
+    },
+    "paripesa": {
+      "1": 1.59,
+      "2": 2.24
+    }
+  },
+  "Chris Landman VS Jeroen Caron": {
+    "1xbet": {
+      "1": 1.183,
+      "2": 4.375
+    },
+    "22bet": {
+      "1": 1.183,
+      "2": 4.375
+    },
+    "betwinner": {
+      "1": 1.183,
+      "2": 4.375
+    },
+    "paripesa": {
+      "1": 1.183,
+      "2": 4.375
+    }
+  },
+  "Robert Thornton VS Conan Whitehead": {
+    "1xbet": {
+      "1": 1.83,
+      "2": 1.87
+    },
+    "22bet": {
+      "1": 1.92,
+      "2": 1.79
+    },
+    "betwinner": {
+      "1": 1.92,
+      "2": 1.79
+    },
+    "paripesa": {
+      "1": 1.92,
+      "2": 1.79
+    }
+  },
+  "Darryl Pilgrim VS Jeroen Caron": {
+    "1xbet": {
+      "1": 1.108,
+      "2": 5.79
+    },
+    "22bet": {
+      "1": 1.108,
+      "2": 5.79
+    },
+    "betwinner": {
+      "1": 1.108,
+      "2": 5.79
+    },
+    "paripesa": {
+      "1": 1.108,
+      "2": 5.79
+    }
+  },
+  "Colin Osborne VS Chris Landman": {
+    "1xbet": {
+      "1": 2.06,
+      "2": 1.68
+    },
+    "22bet": {
+      "1": 2.114,
+      "2": 1.66
+    },
+    "betwinner": {
+      "1": 2.114,
+      "2": 1.66
+    },
+    "paripesa": {
+      "1": 2.114,
+      "2": 1.66
+    }
+  },
+  "Conan Whitehead VS Darryl Pilgrim": {
+    "1xbet": {
+      "1": 2.02,
+      "2": 1.71
+    },
+    "22bet": {
+      "1": 2.02,
+      "2": 1.71
+    },
+    "betwinner": {
+      "1": 2.02,
+      "2": 1.71
+    },
+    "paripesa": {
+      "1": 2.02,
+      "2": 1.71
+    }
+  },
+  "Chris Landman VS Robert Thornton": {
+    "1xbet": {
+      "1": 1.59,
+      "2": 2.24
+    },
+    "22bet": {
+      "1": 1.59,
+      "2": 2.24
+    },
+    "betwinner": {
+      "1": 1.59,
+      "2": 2.24
+    },
+    "paripesa": {
+      "1": 1.59,
+      "2": 2.24
+    }
+  },
+  "Jeroen Caron VS Colin Osborne": {
+    "1xbet": {
+      "1": 2.937,
+      "2": 1.36
+    },
+    "22bet": {
+      "1": 2.937,
+      "2": 1.36
+    },
+    "betwinner": {
+      "1": 2.937,
+      "2": 1.36
+    },
+    "paripesa": {
+      "1": 2.937,
+      "2": 1.36
+    }
+  },
+  "Chris Landman VS Conan Whitehead": {
+    "1xbet": {
+      "1": 1.68,
+      "2": 2.085
+    },
+    "22bet": {
+      "1": 1.68,
+      "2": 2.085
+    },
+    "betwinner": {
+      "1": 1.68,
+      "2": 2.085
+    },
+    "paripesa": {
+      "1": 1.68,
+      "2": 2.085
+    }
+  },
+  "Colin Osborne VS Darryl Pilgrim": {
+    "1xbet": {
+      "1": 2.24,
+      "2": 1.59
+    },
+    "22bet": {
+      "1": 2.202,
+      "2": 1.61
+    },
+    "betwinner": {
+      "1": 2.202,
+      "2": 1.61
+    },
+    "paripesa": {
+      "1": 2.202,
+      "2": 1.61
+    }
+  },
+  "Robert Thornton VS Jeroen Caron": {
+    "1xbet": {
+      "1": 1.25,
+      "2": 3.635
+    },
+    "22bet": {
+      "1": 1.25,
+      "2": 3.635
+    },
+    "betwinner": {
+      "1": 1.25,
+      "2": 3.635
+    },
+    "paripesa": {
+      "1": 1.25,
+      "2": 3.635
+    }
+  },
+  "Robert Cross VS Luke Littler": {
+    "1xbet": {
+      "1": 2.217,
       "2": 1.67
     },
-    "paripesa": {
-      "1": 2.11,
-      "2": 1.727
-    }
-  },
-  "Ross Smith VS Chris Dobey": {
-    "1xbet": {
-      "1": 1.9,
-      "2": 1.9
-    },
     "22bet": {
-      "1": 1.95,
-      "2": 1.85
+      "1": 2.21,
+      "2": 1.664
     },
     "betwinner": {
-      "1": 1.95,
-      "2": 1.85
-    },
-    "livescorebet": {
-      "1": 1.90909091,
-      "2": 1.86956522
-    },
-    "merrybet": {
-      "1": 1.85,
-      "2": 1.82
+      "1": 2.175,
+      "2": 1.685
     },
     "paripesa": {
-      "1": 1.95,
-      "2": 1.85
+      "1": 2.175,
+      "2": 1.685
     }
   },
-  "Gerwyn Price VS Brendan Dolan": {
-    "1xbet": {
-      "1": 1.107,
-      "2": 6.85
-    },
-    "22bet": {
-      "1": 1.104,
-      "2": 6.8
-    },
-    "betwinner": {
-      "1": 1.104,
-      "2": 6.8
-    },
-    "livescorebet": {
-      "1": 1.1,
-      "2": 6.5
-    },
-    "merrybet": {
-      "1": 1.11,
-      "2": 5.28
-    },
-    "paripesa": {
-      "1": 1.104,
-      "2": 6.8
-    }
-  },
-  "PDC World Championship. 2024. Day 11. Evening Session. Special bets VS ": {
+  "PDC World Championship. 2024. To Hit Nine Dart Finish VS ": {
     "1xbet": {
       "1": null,
       "2": null
@@ -95,89 +341,7 @@
       "2": null
     }
   },
-  "Luke Humphries VS Ricardo Pietreczko": {
-    "1xbet": {
-      "1": 1.17,
-      "2": 5.15
-    },
-    "22bet": {
-      "1": 1.168,
-      "2": 5.1
-    },
-    "betwinner": {
-      "1": 1.168,
-      "2": 5.1
-    },
-    "livescorebet": {
-      "1": 1.18181819,
-      "2": 4.65
-    },
-    "merrybet": {
-      "1": 1.14,
-      "2": 4.71
-    },
-    "paripesa": {
-      "1": 1.168,
-      "2": 5.1
-    }
-  },
-  "Ricky Evans VS Daryl Gurney": {
-    "1xbet": {
-      "1": 2.521,
-      "2": 1.53
-    },
-    "22bet": {
-      "1": 2.46,
-      "2": 1.545
-    },
-    "betwinner": {
-      "1": 2.515,
-      "2": 1.525
-    },
-    "livescorebet": {
-      "1": 2.6,
-      "2": 1.47619048
-    },
-    "merrybet": {
-      "1": 2.43,
-      "2": 1.47
-    },
-    "paripesa": {
-      "1": 2.515,
-      "2": 1.525
-    }
-  },
-  "Damon Heta VS Berry van Peer": {
-    "1xbet": {
-      "1": 1.33,
-      "2": 3.365
-    },
-    "22bet": {
-      "1": 1.325,
-      "2": 3.34
-    },
-    "betwinner": {
-      "1": 1.325,
-      "2": 3.34
-    },
-    "livescorebet": {
-      "1": 1.27397261,
-      "2": 3.45
-    },
-    "merrybet": {
-      "1": 1.29,
-      "2": 3.17
-    },
-    "paripesa": {
-      "1": 1.325,
-      "2": 3.34
-    }
-  },
-  "PDC World Championship. 2024. Day 12. Afternoon Session. Special bets VS ": {
-    "1xbet": {
-      "1": null,
-      "2": null
-    },
+  "PDC World Championship. 2024. Statistics VS ": {
     "22bet": {
       "1": null,
       "2": null
@@ -191,308 +355,34 @@
       "2": null
     }
   },
-  "Jonny Clayton VS Krzysztof Ratajski": {
-    "1xbet": {
-      "1": 1.79,
-      "2": 2.02
-    },
-    "22bet": {
-      "1": 1.79,
-      "2": 2.02
-    },
+  "PDC World Championship. 2024. Winner VS ": {
     "betwinner": {
-      "1": 1.79,
-      "2": 2.02
+      "1": null,
+      "2": null
     },
+    "paripesa": {
+      "1": null,
+      "2": null
+    }
+  },
+  "Rob Cross vs Luke Littler": {
     "livescorebet": {
-      "1": 1.76923077,
-      "2": 2.0
+      "1": 2.2,
+      "2": 1.625
     },
     "merrybet": {
-      "1": 1.74,
-      "2": 1.94
-    },
-    "paripesa": {
-      "1": 1.79,
-      "2": 2.02
+      "1": 2.15,
+      "2": 1.6
     }
   },
-  "Jim Williams VS Raymond van Barneveld": {
-    "1xbet": {
-      "1": 1.89,
-      "2": 1.909
-    },
-    "22bet": {
-      "1": 1.89,
-      "2": 1.909
-    },
-    "betwinner": {
-      "1": 1.89,
-      "2": 1.909
-    },
+  "Scott Williams vs Luke Humphries": {
     "livescorebet": {
-      "1": 1.90909091,
-      "2": 1.83333334
+      "1": 4.5,
+      "2": 1.17391305
     },
     "merrybet": {
-      "1": 1.83,
-      "2": 1.84
-    },
-    "paripesa": {
-      "1": 1.89,
-      "2": 1.909
-    }
-  },
-  "Boris Krcmar VS Gary Anderson": {
-    "1xbet": {
-      "1": 4.945,
-      "2": 1.18
-    },
-    "22bet": {
-      "1": 4.92,
-      "2": 1.175
-    },
-    "betwinner": {
-      "1": 4.92,
-      "2": 1.175
-    },
-    "livescorebet": {
-      "1": 4.85,
-      "2": 1.15384616
-    },
-    "merrybet": {
-      "1": 4.48,
-      "2": 1.15
-    },
-    "paripesa": {
-      "1": 4.92,
-      "2": 1.175
-    }
-  },
-  "Florian Hempel VS Stephen Bunting": {
-    "22bet": {
-      "1": 5.43,
-      "2": 1.13
-    },
-    "livescorebet": {
-      "1": 8.0,
-      "2": 1.05263158
-    }
-  },
-  "Joe Cullen vs Ryan Searle": {
-    "livescorebet": {
-      "1": 2.1,
-      "2": 1.74074075
-    },
-    "merrybet": {
-      "1": 2.04,
-      "2": 1.67
-    },
-    "paripesa": {
-      "1": 2.11,
-      "2": 1.727
-    }
-  },
-  "Ross Smith vs Chris Dobey": {
-    "livescorebet": {
-      "1": 1.90909091,
-      "2": 1.86956522
-    },
-    "merrybet": {
-      "1": 1.85,
-      "2": 1.82
-    },
-    "paripesa": {
-      "1": 1.95,
-      "2": 1.85
-    }
-  },
-  "Gerwyn Price vs Brendan Dolan": {
-    "livescorebet": {
-      "1": 1.1,
-      "2": 6.5
-    },
-    "merrybet": {
-      "1": 1.11,
-      "2": 5.28
-    },
-    "paripesa": {
-      "1": 1.104,
-      "2": 6.8
-    }
-  },
-  "Luke Humphries vs Ricardo Pietreczko": {
-    "livescorebet": {
-      "1": 1.18181819,
-      "2": 4.65
-    },
-    "merrybet": {
-      "1": 1.14,
-      "2": 4.71
-    },
-    "paripesa": {
-      "1": 1.168,
-      "2": 5.1
-    }
-  },
-  "Ricky Evans vs Daryl Gurney": {
-    "livescorebet": {
-      "1": 2.6,
-      "2": 1.47619048
-    },
-    "merrybet": {
-      "1": 2.43,
-      "2": 1.47
-    },
-    "paripesa": {
-      "1": 2.515,
-      "2": 1.525
-    }
-  },
-  "Damon Heta vs Berry van Peer": {
-    "livescorebet": {
-      "1": 1.27397261,
-      "2": 3.45
-    },
-    "merrybet": {
-      "1": 1.29,
-      "2": 3.17
-    },
-    "paripesa": {
-      "1": 1.325,
-      "2": 3.34
-    }
-  },
-  "Jonny Clayton vs Krzysztof Ratajski": {
-    "livescorebet": {
-      "1": 1.76923077,
-      "2": 2.0
-    },
-    "merrybet": {
-      "1": 1.74,
-      "2": 1.94
-    },
-    "paripesa": {
-      "1": 1.79,
-      "2": 2.02
-    }
-  },
-  "Jim Williams vs Raymond van Barneveld": {
-    "livescorebet": {
-      "1": 1.90909091,
-      "2": 1.83333334
-    },
-    "merrybet": {
-      "1": 1.83,
-      "2": 1.84
-    },
-    "paripesa": {
-      "1": 1.89,
-      "2": 1.909
-    }
-  },
-  "Boris Krcmar vs Gary Anderson": {
-    "livescorebet": {
-      "1": 4.85,
-      "2": 1.15384616
-    },
-    "merrybet": {
-      "1": 4.48,
-      "2": 1.15
-    },
-    "paripesa": {
-      "1": 4.92,
-      "2": 1.175
-    }
-  },
-  "Joe Cullen - Ryan Searle": {
-    "merrybet": {
-      "1": 2.04,
-      "2": 1.67
-    },
-    "paripesa": {
-      "1": 2.11,
-      "2": 1.727
-    }
-  },
-  "Ross Smith - Chris Dobey": {
-    "merrybet": {
-      "1": 1.85,
-      "2": 1.82
-    },
-    "paripesa": {
-      "1": 1.95,
-      "2": 1.85
-    }
-  },
-  "Gerwyn Price - Brendan Dolan": {
-    "merrybet": {
-      "1": 1.11,
-      "2": 5.28
-    },
-    "paripesa": {
-      "1": 1.104,
-      "2": 6.8
-    }
-  },
-  "Luke Humphries - Ricardo Pietreczko": {
-    "merrybet": {
-      "1": 1.14,
-      "2": 4.71
-    },
-    "paripesa": {
-      "1": 1.168,
-      "2": 5.1
-    }
-  },
-  "Ricky Evans - Daryl Gurney": {
-    "merrybet": {
-      "1": 2.43,
-      "2": 1.47
-    },
-    "paripesa": {
-      "1": 2.515,
-      "2": 1.525
-    }
-  },
-  "Damon Heta - Berry Van Peer": {
-    "merrybet": {
-      "1": 1.29,
-      "2": 3.17
-    },
-    "paripesa": {
-      "1": 1.325,
-      "2": 3.34
-    }
-  },
-  "Jonny Clayton - Krzysztof Ratajski": {
-    "merrybet": {
-      "1": 1.74,
-      "2": 1.94
-    },
-    "paripesa": {
-      "1": 1.79,
-      "2": 2.02
-    }
-  },
-  "Jim Williams - Raymond van Barneveld": {
-    "merrybet": {
-      "1": 1.83,
-      "2": 1.84
-    },
-    "paripesa": {
-      "1": 1.89,
-      "2": 1.909
-    }
-  },
-  "Boris Krcmar - Gary Anderson": {
-    "merrybet": {
-      "1": 4.48,
-      "2": 1.15
-    },
-    "paripesa": {
-      "1": 4.92,
-      "2": 1.175
+      "1": 4.2,
+      "2": 1.17
     }
   }
 }

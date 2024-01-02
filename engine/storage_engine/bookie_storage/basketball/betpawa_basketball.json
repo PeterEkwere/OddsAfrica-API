@@ -19,8 +19,70 @@
     "Hanoi Basketball Championship": {}
   },
   "USA": {
-    "NCAA, Regular Season": {},
-    "NBA": {}
+    "NCAA, Regular Season": {
+      "TCU Horned Frogs - Texas A&M-Commerce Lions": {
+        "Match Winner and Totals - FT incl OT": {
+          "2 - Under": 100.0,
+          "1 - Under": 1.75,
+          "2 - Over": 100.0,
+          "1 - Over": 1.7
+        },
+        "Asian Handicap - FT incl OT": {
+          "1": 1.58,
+          "2": 2.13
+        },
+        "Total Score Over/Under - FT incl OT": {
+          "Over": 1.95,
+          "Under": 1.7
+        },
+        "Odd / Even - FT incl OT": {
+          "Odd": 1.8,
+          "Even": 1.8
+        }
+      }
+    },
+    "NBA": {
+      "New York Knicks - Minnesota Timberwolves": {
+        "Match Winner and Totals - FT incl OT": {
+          "2 - Over": 10.0,
+          "1 - Over": 2.05,
+          "2 - Under": 11.0,
+          "1 - Under": 2.2
+        },
+        "Will the Match be Tied after Regular Time": {
+          "Yes": 7.5,
+          "No": 1.03
+        },
+        "Odd / Even - 4Q": {
+          "Even": 1.7,
+          "Odd": 1.94
+        },
+        "Asian Handicap - 4Q": {
+          "2": 1.97,
+          "1": 1.68
+        },
+        "Total Score Over/Under - 4Q": {
+          "Over": 1.91,
+          "Under": 1.72
+        },
+        "Asian Handicap - FT incl OT": {
+          "2": 1.57,
+          "1": 2.14
+        },
+        "Total Score Over/Under - FT incl OT": {
+          "Under": 2.35,
+          "Over": 1.48
+        },
+        "Moneyline - FT incl OT": {
+          "2": 5.0,
+          "1": 1.1
+        },
+        "Odd / Even - FT incl OT": {
+          "Even": 1.86,
+          "Odd": 1.77
+        }
+      }
+    }
   },
   "Philippines": {
     "PBA, Commissioner Cup": {}
@@ -45,88 +107,8 @@
     "Pro A": {}
   },
   "China": {
-    "WCBA": {
-      "Jiangsu Phoenix - Wuhan Shengfan": {
-        "Match Winner and Totals - FT incl OT": {
-          "2 - Under": 100.0,
-          "1 - Under": 1.7,
-          "2 - Over": 100.0,
-          "1 - Over": 1.8
-        },
-        "Odd / Even - 3Q": {
-          "Even": 1.81,
-          "Odd": 1.81
-        },
-        "1X2 - 3Q": {
-          "2": 4.05,
-          "X": 19.0,
-          "1": 1.24
-        },
-        "Asian Handicap - 3Q": {
-          "2": 1.64,
-          "1": 2.03
-        },
-        "Total Score Over/Under - 3Q": {
-          "Over": 1.68,
-          "Under": 1.97
-        },
-        "Total Score Over/Under - FT incl OT": {
-          "Over": 1.74,
-          "Under": 1.89
-        },
-        "Asian Handicap - FT incl OT": {
-          "1": 1.74,
-          "2": 1.89
-        },
-        "Odd / Even - FT incl OT": {
-          "Odd": 1.8,
-          "Even": 1.8
-        }
-      }
-    },
-    "CBA": {
-      "Nanjing Tongxi Monkey Kings - Shanxi Loongs": {
-        "Match Winner and Totals - FT incl OT": {
-          "2 - Under": 10.0,
-          "1 - Under": 2.15,
-          "2 - Over": 9.5,
-          "1 - Over": 2.1
-        },
-        "Odd / Even - 3Q": {
-          "Odd": 1.81,
-          "Even": 1.81
-        },
-        "Asian Handicap - 3Q": {
-          "2": 1.64,
-          "1": 2.03
-        },
-        "1X2 - 3Q": {
-          "1": 2.9,
-          "2": 1.42,
-          "X": 19.5
-        },
-        "Total Score Over/Under - 3Q": {
-          "Over": 1.95,
-          "Under": 1.7
-        },
-        "Asian Handicap - FT incl OT": {
-          "2": 1.9,
-          "1": 1.7
-        },
-        "Total Score Over/Under - FT incl OT": {
-          "Over": 1.89,
-          "Under": 1.74
-        },
-        "Moneyline - FT incl OT": {
-          "1": 1.13,
-          "2": 4.55
-        },
-        "Odd / Even - FT incl OT": {
-          "Odd": 1.79,
-          "Even": 1.84
-        }
-      }
-    }
+    "WCBA": {},
+    "CBA": {}
   },
   "Serbia": {
     "KLS": {}

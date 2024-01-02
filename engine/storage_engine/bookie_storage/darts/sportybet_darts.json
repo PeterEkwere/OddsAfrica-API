@@ -1,58 +1,16 @@
 {
   "International": {
     "PDC World Championship": {
-      "Smith, Ross vs Dobey, Chris": {
+      "Cross, Rob vs Littler, Luke": {
         "Winner": {
-          "1": 1.9,
-          "2": 1.87
+          "1": 2.25,
+          "2": 1.64
         }
       },
-      "Price, Gerwyn vs Dolan, Brendan": {
+      "Williams, Scott vs Humphries, Luke": {
         "Winner": {
-          "1": 1.13,
-          "2": 5.8
-        }
-      },
-      "Humphries, Luke vs Pietreczko, Ricardo": {
-        "Winner": {
-          "1": 1.16,
-          "2": 5.1
-        }
-      },
-      "Evans, Ricky vs Gurney, Daryl": {
-        "Winner": {
-          "1": 2.55,
-          "2": 1.5
-        }
-      },
-      "Heta, Damon vs van Peer, Berry": {
-        "Winner": {
-          "1": 1.31,
-          "2": 3.3
-        }
-      },
-      "Clayton, Jonny vs Ratajski, Krzysztof": {
-        "Winner": {
-          "1": 1.76,
-          "2": 1.95
-        }
-      },
-      "Williams, Jim vs van Barneveld, Raymond": {
-        "Winner": {
-          "1": 1.85,
-          "2": 1.86
-        }
-      },
-      "Krcmar, Boris vs Anderson, Gary": {
-        "Winner": {
-          "1": 4.6,
-          "2": 1.16
-        }
-      },
-      "van Gerwen, Michael vs Bunting, Stephen": {
-        "Winner": {
-          "1": 1.53,
-          "2": 2.35
+          "1": 4.8,
+          "2": 1.17
         }
       }
     }

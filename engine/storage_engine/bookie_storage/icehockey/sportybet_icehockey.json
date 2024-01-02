@@ -1,452 +1,135 @@
 {
   "Austria": {
-    "ICE Hockey League": {
-      "EC Graz 99Ers vs Vienna Capitals": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.61,
-          "2": 2.2
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5": 1.62,
-          "Under 5": 2.15,
-          "Over 5.5": 2.1,
-          "Under 5.5": 1.67,
-          "Over 6": 2.4,
-          "Under 6": 1.5
-        },
-        "Home Team Over/Under": {
-          "Over 1.5": 1.22,
-          "Under 1.5": 3.8,
-          "Over 2.5": 1.7,
-          "Under 2.5": 2.05,
-          "Over 3.5": 2.7,
-          "Under 3.5": 1.41
-        },
-        "Away Team Over/Under": {
-          "Over 1.5": 1.38,
-          "Under 1.5": 2.85,
-          "Over 2.5": 2.15,
-          "Under 2.5": 1.62,
-          "Over 3.5": 3.8,
-          "Under 3.5": 1.22
-        }
-      },
-      "EC Villacher SV vs Fehervar AV19": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.65,
-          "2": 2.15
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 6": 1.68,
-          "Under 6": 2.05,
-          "Over 6.5": 1.86,
-          "Under 6.5": 1.84,
-          "Over 7": 2.45,
-          "Under 7": 1.5
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.45,
-          "Under 2.5": 2.55,
-          "Over 3.5": 2.1,
-          "Under 3.5": 1.64,
-          "Over 4.5": 3.4,
-          "Under 4.5": 1.27
-        },
-        "Away Team Over/Under": {
-          "Over 1.5": 1.21,
-          "Under 1.5": 3.9,
-          "Over 2.5": 1.68,
-          "Under 2.5": 2.05,
-          "Over 3.5": 2.7,
-          "Under 3.5": 1.41
-        }
-      },
-      "KAC Klagenfurt vs Pustertal Wolfe": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.33,
-          "2": 3.1
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5": 1.49,
-          "Under 5": 2.45,
-          "Over 5.5": 1.9,
-          "Under 5.5": 1.81,
-          "Over 6": 2.15,
-          "Under 6": 1.62
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.41,
-          "Under 2.5": 2.7,
-          "Over 3.5": 2.0,
-          "Under 3.5": 1.72,
-          "Over 4.5": 3.2,
-          "Under 4.5": 1.31
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.09,
-          "Under 0.5": 6.0,
-          "Over 1.5": 1.51,
-          "Under 1.5": 2.4,
-          "Over 2.5": 2.55,
-          "Under 2.5": 1.45
-        }
-      },
-      "Red Bull Salzburg vs HK Olimpija Ljubljana": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.23,
-          "2": 3.9
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5": 1.48,
-          "Under 5": 2.5,
-          "Over 5.5": 1.86,
-          "Under 5.5": 1.84,
-          "Over 6": 2.15,
-          "Under 6": 1.64
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.32,
-          "Under 2.5": 3.1,
-          "Over 3.5": 1.8,
-          "Under 3.5": 1.91,
-          "Over 4.5": 2.75,
-          "Under 4.5": 1.4
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.13,
-          "Under 0.5": 5.2,
-          "Over 1.5": 1.65,
-          "Under 1.5": 2.1,
-          "Over 2.5": 3.0,
-          "Under 2.5": 1.34
-        }
-      },
-      "Pioneers Vorarlberg vs Black Wings Linz": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 2.5,
-          "2": 1.5
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5": 1.42,
-          "Under 5": 2.65,
-          "Over 5.5": 1.81,
-          "Under 5.5": 1.9,
-          "Over 6": 2.0,
-          "Under 6": 1.71
-        },
-        "Home Team Over/Under": {
-          "Over 1.5": 1.35,
-          "Under 1.5": 2.95,
-          "Over 2.5": 2.1,
-          "Under 2.5": 1.67,
-          "Over 3.5": 3.7,
-          "Under 3.5": 1.24
-        },
-        "Away Team Over/Under": {
-          "Over 2.5": 1.49,
-          "Under 2.5": 2.45,
-          "Over 3.5": 2.2,
-          "Under 3.5": 1.6,
-          "Over 4.5": 3.6,
-          "Under 4.5": 1.24
-        }
-      },
-      "HC Asiago vs HC Bolzano-Bozen Foxes": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 2.9,
-          "2": 1.37
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5": 1.4,
-          "Under 5": 2.75,
-          "Over 5.5": 1.76,
-          "Under 5.5": 1.95,
-          "Over 6": 1.97,
-          "Under 6": 1.75
-        },
-        "Home Team Over/Under": {
-          "Over 1.5": 1.42,
-          "Under 1.5": 2.65,
-          "Over 2.5": 2.3,
-          "Under 2.5": 1.56,
-          "Over 3.5": 4.2,
-          "Under 3.5": 1.19
-        },
-        "Away Team Over/Under": {
-          "Over 2.5": 1.39,
-          "Under 2.5": 2.75,
-          "Over 3.5": 1.97,
-          "Under 3.5": 1.75,
-          "Over 4.5": 3.1,
-          "Under 4.5": 1.32
-        }
-      },
-      "Fehervar AV19 vs KAC Klagenfurt": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.57,
-          "2": 2.2
-        }
-      },
-      "HC TWK Innsbruck vs Pioneers Vorarlberg": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.38,
-          "2": 2.75
-        }
-      },
-      "Black Wings Linz vs EC Graz 99Ers": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.27,
-          "2": 3.3
-        }
-      },
-      "HK Olimpija Ljubljana vs HC Asiago": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.68,
-          "2": 2.05
-        }
-      },
-      "Red Bull Salzburg vs HC Bolzano-Bozen Foxes": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.7,
-          "2": 2.0
-        }
-      },
-      "Pustertal Wolfe vs EC Villacher SV": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.78,
-          "2": 1.9
-        }
-      }
-    }
+    "ICE Hockey League": {}
   },
   "Czech Republic": {
     "Extraliga": {
-      "BK Mlada Boleslav vs Energie Karlovy Vary": {
+      "BK Mlada Boleslav vs Ocelari Trinec": {
         "Winner (incl. overtime and penalties)": {
-          "1": 1.92,
-          "2": 1.93
+          "1": 2.55,
+          "2": 1.52
         },
         "Total (incl. overtime and penalties)": {
-          "Over 4": 1.35,
-          "Under 4": 3.25,
-          "Over 4.5": 1.5,
-          "Under 4.5": 2.6,
-          "Over 5": 1.82,
-          "Under 5": 2.0,
+          "Over 4.5": 1.52,
+          "Under 4.5": 2.5,
+          "Over 5": 1.86,
+          "Under 5": 1.92,
           "Over 5.5": 2.4,
-          "Under 5.5": 1.58,
-          "Over 6": 2.8,
-          "Under 6": 1.44
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.06,
-          "Under 0.5": 9.25,
-          "Over 1.5": 1.36,
-          "Under 1.5": 3.2,
-          "Over 2.5": 2.05,
-          "Under 2.5": 1.76,
-          "Over 3.5": 3.7,
-          "Under 3.5": 1.29,
-          "Over 4.5": 7.1,
-          "Under 4.5": 1.1
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.06,
-          "Under 0.5": 9.2,
-          "Over 1.5": 1.36,
-          "Under 1.5": 3.2,
-          "Over 2.5": 2.1,
-          "Under 2.5": 1.76,
-          "Over 3.5": 3.7,
-          "Under 3.5": 1.28,
-          "Over 4.5": 7.2,
-          "Under 4.5": 1.1
-        }
-      },
-      "HC Plzen vs Sparta Prague": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 2.8,
-          "2": 1.47
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4": 1.34,
-          "Under 4": 3.3,
-          "Over 4.5": 1.49,
-          "Under 4.5": 2.65,
-          "Over 5": 1.8,
-          "Under 5": 2.0,
-          "Over 5.5": 2.35,
-          "Under 5.5": 1.61,
-          "Over 6": 2.8,
-          "Under 6": 1.45
+          "Under 5.5": 1.55
         },
         "Home Team Over/Under": {
           "Over 0.5": 1.11,
+          "Under 0.5": 6.75,
+          "Over 1.5": 1.55,
+          "Under 1.5": 2.45,
+          "Over 2.5": 2.7,
+          "Under 2.5": 1.48,
+          "Over 3.5": 5.3,
+          "Under 3.5": 1.16,
+          "Over 4.5": 11.0,
+          "Under 4.5": 1.04
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.04,
+          "Under 0.5": 11.5,
+          "Over 1.5": 1.25,
+          "Under 1.5": 4.0,
+          "Over 2.5": 1.76,
+          "Under 2.5": 2.1,
+          "Over 3.5": 2.85,
+          "Under 3.5": 1.43,
+          "Over 4.5": 5.2,
+          "Under 4.5": 1.17
+        }
+      },
+      "HC Litvinov vs Energie Karlovy Vary": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.34,
+          "2": 3.25
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 5": 1.54,
+          "Under 5": 2.45,
+          "Over 5.5": 1.97,
+          "Under 5.5": 1.81,
+          "Over 6": 2.25,
+          "Under 6": 1.62
+        },
+        "Home Team Over/Under": {
+          "Over 1.5": 1.14,
+          "Under 1.5": 5.8,
+          "Over 2.5": 1.45,
+          "Under 2.5": 2.8,
+          "Over 3.5": 2.1,
+          "Under 3.5": 1.75,
+          "Over 4.5": 3.4,
+          "Under 4.5": 1.32,
+          "Over 5.5": 6.1,
+          "Under 5.5": 1.13
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.11,
           "Under 0.5": 6.6,
-          "Over 1.5": 1.58,
+          "Over 1.5": 1.57,
           "Under 1.5": 2.4,
           "Over 2.5": 2.75,
-          "Under 2.5": 1.45,
+          "Under 2.5": 1.46,
           "Over 3.5": 5.6,
           "Under 3.5": 1.15,
           "Over 4.5": 11.5,
           "Under 4.5": 1.04
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.03,
-          "Under 0.5": 12.5,
-          "Over 1.5": 1.22,
-          "Under 1.5": 4.4,
-          "Over 2.5": 1.65,
-          "Under 2.5": 2.25,
-          "Over 3.5": 2.6,
-          "Under 3.5": 1.5,
-          "Over 4.5": 4.6,
-          "Under 4.5": 1.2
         }
       },
-      "Bili Tygri Liberec vs HC Rytiri Kladno": {
+      "HC Plzen vs HC Olomouc": {
         "Winner (incl. overtime and penalties)": {
-          "1": 1.29,
-          "2": 3.8
+          "1": 1.67,
+          "2": 2.2
         },
         "Total (incl. overtime and penalties)": {
-          "Over 4.5": 1.34,
-          "Under 4.5": 3.3,
-          "Over 5": 1.49,
-          "Under 5": 2.65,
-          "Over 5.5": 1.9,
-          "Under 5.5": 1.91,
-          "Over 6": 2.15,
-          "Under 6": 1.7,
-          "Over 6.5": 2.45,
-          "Under 6.5": 1.56
+          "Over 4.5": 1.61,
+          "Under 4.5": 2.3,
+          "Over 5": 2.05,
+          "Under 5": 1.74,
+          "Over 5.5": 2.7,
+          "Under 5.5": 1.46
         },
         "Home Team Over/Under": {
-          "Over 1.5": 1.11,
-          "Under 1.5": 6.6,
-          "Over 2.5": 1.37,
-          "Under 2.5": 3.1,
-          "Over 3.5": 1.9,
-          "Under 3.5": 1.91,
-          "Over 4.5": 3.0,
-          "Under 4.5": 1.4,
-          "Over 5.5": 5.2,
-          "Under 5.5": 1.17
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.12,
-          "Under 0.5": 6.2,
-          "Over 1.5": 1.62,
-          "Under 1.5": 2.3,
-          "Over 2.5": 2.9,
-          "Under 2.5": 1.42,
-          "Over 3.5": 6.0,
-          "Under 3.5": 1.13,
-          "Over 4.5": 12.0,
-          "Under 4.5": 1.03
-        }
-      },
-      "HC Kometa Brno vs Ceske Budejovice": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.53,
-          "2": 2.6
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4": 1.34,
-          "Under 4": 3.25,
-          "Over 4.5": 1.5,
-          "Under 4.5": 2.6,
-          "Over 5": 1.8,
-          "Under 5": 2.0,
-          "Over 5.5": 2.35,
-          "Under 5.5": 1.6,
-          "Over 6": 2.8,
-          "Under 6": 1.44
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.04,
-          "Under 0.5": 12.0,
-          "Over 1.5": 1.24,
-          "Under 1.5": 4.1,
-          "Over 2.5": 1.72,
-          "Under 2.5": 2.15,
-          "Over 3.5": 2.75,
-          "Under 3.5": 1.46,
-          "Over 4.5": 5.0,
-          "Under 4.5": 1.18
+          "Over 0.5": 1.06,
+          "Under 0.5": 9.6,
+          "Over 1.5": 1.34,
+          "Under 1.5": 3.3,
+          "Over 2.5": 2.0,
+          "Under 2.5": 1.81,
+          "Over 3.5": 3.5,
+          "Under 3.5": 1.31,
+          "Over 4.5": 6.7,
+          "Under 4.5": 1.11
         },
         "Away Team Over/Under": {
           "Over 0.5": 1.1,
-          "Under 0.5": 7.0,
-          "Over 1.5": 1.53,
-          "Under 1.5": 2.5,
+          "Under 0.5": 7.1,
+          "Over 1.5": 1.52,
+          "Under 1.5": 2.55,
           "Over 2.5": 2.6,
-          "Under 2.5": 1.5,
-          "Over 3.5": 5.1,
+          "Under 2.5": 1.51,
+          "Over 3.5": 5.0,
           "Under 3.5": 1.17,
-          "Over 4.5": 10.5,
-          "Under 4.5": 1.05
-        }
-      },
-      "HC Olomouc vs Ocelari Trinec": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 2.35,
-          "2": 1.63
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4": 1.39,
-          "Under 4": 3.0,
-          "Over 4.5": 1.55,
-          "Under 4.5": 2.45,
-          "Over 5": 1.92,
-          "Under 5": 1.9,
-          "Over 5.5": 2.5,
-          "Under 5.5": 1.53,
-          "Over 6": 3.0,
-          "Under 6": 1.39
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.1,
-          "Under 0.5": 7.2,
-          "Over 1.5": 1.51,
-          "Under 1.5": 2.6,
-          "Over 2.5": 2.55,
-          "Under 2.5": 1.53,
-          "Over 3.5": 4.9,
-          "Under 3.5": 1.18,
           "Over 4.5": 10.0,
           "Under 4.5": 1.05
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.05,
-          "Under 0.5": 10.5,
-          "Over 1.5": 1.29,
-          "Under 1.5": 3.6,
-          "Over 2.5": 1.87,
-          "Under 2.5": 1.94,
-          "Over 3.5": 3.1,
-          "Under 3.5": 1.37,
-          "Over 4.5": 5.9,
-          "Under 4.5": 1.14
         }
       },
-      "Mountfield HK vs HC Litvinov": {
+      "Bili Tygri Liberec vs Ceske Budejovice": {
         "Winner (incl. overtime and penalties)": {
-          "1": 1.58,
-          "2": 2.45
+          "1": 1.68,
+          "2": 2.2
         },
         "Total (incl. overtime and penalties)": {
-          "Over 4.5": 1.42,
-          "Under 4.5": 2.85,
-          "Over 5": 1.67,
-          "Under 5": 2.2,
-          "Over 5.5": 2.15,
-          "Under 5.5": 1.7,
-          "Over 6": 2.5,
-          "Under 6": 1.53,
-          "Over 6.5": 2.8,
-          "Under 6.5": 1.44
+          "Over 5": 1.51,
+          "Under 5": 2.55,
+          "Over 5.5": 1.93,
+          "Under 5.5": 1.84,
+          "Over 6": 2.2,
+          "Under 6": 1.65
         },
         "Home Team Over/Under": {
           "Over 0.5": 1.03,
@@ -455,682 +138,357 @@
           "Under 1.5": 4.3,
           "Over 2.5": 1.68,
           "Under 2.5": 2.2,
-          "Over 3.5": 2.7,
+          "Over 3.5": 2.65,
           "Under 3.5": 1.48,
           "Over 4.5": 4.75,
           "Under 4.5": 1.19
         },
         "Away Team Over/Under": {
-          "Over 0.5": 1.08,
-          "Under 0.5": 7.9,
-          "Over 1.5": 1.45,
-          "Under 1.5": 2.8,
-          "Over 2.5": 2.35,
-          "Under 2.5": 1.6,
-          "Over 3.5": 4.4,
-          "Under 3.5": 1.21,
-          "Over 4.5": 8.9,
-          "Under 4.5": 1.07
+          "Over 0.5": 1.06,
+          "Under 0.5": 9.7,
+          "Over 1.5": 1.33,
+          "Under 1.5": 3.3,
+          "Over 2.5": 2.0,
+          "Under 2.5": 1.81,
+          "Over 3.5": 3.5,
+          "Under 3.5": 1.3,
+          "Over 4.5": 6.8,
+          "Under 4.5": 1.11
         }
       },
-      "Energie Karlovy Vary vs Bili Tygri Liberec": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.87,
-          "2": 1.9
-        }
-      },
-      "HC Rytiri Kladno vs HC Kometa Brno": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 2.35,
-          "2": 1.58
-        }
-      },
-      "Sparta Prague vs HC Olomouc": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.19,
-          "2": 4.5
-        }
-      },
-      "Ceske Budejovice vs HC Vitkovice": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.61,
-          "2": 2.25
-        }
-      },
-      "Ocelari Trinec vs Mountfield HK": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.58,
-          "2": 2.35
-        }
-      },
-      "HC Litvinov vs BK Mlada Boleslav": {
+      "Mountfield HK vs HC Rytiri Kladno": {
         "Winner (incl. overtime and penalties)": {
           "1": 1.31,
-          "2": 3.4
+          "2": 3.5
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 5": 1.52,
+          "Under 5": 2.5,
+          "Over 5.5": 1.93,
+          "Under 5.5": 1.84,
+          "Over 6": 2.2,
+          "Under 6": 1.64
+        },
+        "Home Team Over/Under": {
+          "Over 1.5": 1.13,
+          "Under 1.5": 6.1,
+          "Over 2.5": 1.41,
+          "Under 2.5": 2.9,
+          "Over 3.5": 2.0,
+          "Under 3.5": 1.81,
+          "Over 4.5": 3.2,
+          "Under 4.5": 1.35,
+          "Over 5.5": 5.7,
+          "Under 5.5": 1.14
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.12,
+          "Under 0.5": 6.4,
+          "Over 1.5": 1.6,
+          "Under 1.5": 2.35,
+          "Over 2.5": 2.8,
+          "Under 2.5": 1.44,
+          "Over 3.5": 5.75,
+          "Under 3.5": 1.14,
+          "Over 4.5": 11.5,
+          "Under 4.5": 1.04
+        }
+      },
+      "Sparta Prague vs HC Vitkovice": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.29,
+          "2": 3.6
         }
       }
     },
     "1. Liga": {
-      "SC Kolin vs HC Banik Sokolov": {
+      "HC Frydek Mistek vs SC Kolin": {
         "Winner (incl. overtime and penalties)": {
-          "1": 1.81,
-          "2": 1.87
+          "1": 1.55,
+          "2": 2.25
         },
         "Total (incl. overtime and penalties)": {
-          "Over 5": 1.76,
-          "Under 5": 1.91
+          "Over 5": 1.83,
+          "Under 5": 1.84
         },
         "Home Team Over/Under": {
-          "Over 2.5": 1.93,
-          "Under 2.5": 1.68
+          "Over 2.5": 1.75,
+          "Under 2.5": 1.86
         },
         "Away Team Over/Under": {
-          "Over 2.5": 2.0,
+          "Over 1.5": 1.47,
+          "Under 1.5": 2.35,
+          "Over 2.5": 2.35,
+          "Under 2.5": 1.46
+        }
+      },
+      "HC Dukla Jihlava vs HC Slavia Prague": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.65,
+          "2": 2.05
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 5.5": 2.05,
+          "Under 5.5": 1.67
+        },
+        "Home Team Over/Under": {
+          "Over 2.5": 1.7,
+          "Under 2.5": 1.92
+        },
+        "Away Team Over/Under": {
+          "Over 2.5": 1.97,
           "Under 2.5": 1.65
         }
       },
-      "HC Stadion Litomerice vs HC Dukla Jihlava": {
+      "HC Zubr Prerov vs HC Stadion Litomerice": {
         "Winner (incl. overtime and penalties)": {
-          "1": 1.63,
-          "2": 2.1
+          "1": 1.8,
+          "2": 1.87
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 5": 1.7,
+          "Under 5": 2.0
+        },
+        "Home Team Over/Under": {
+          "Over 2.5": 1.87,
+          "Under 2.5": 1.73
+        },
+        "Away Team Over/Under": {
+          "Over 2.5": 1.93,
+          "Under 2.5": 1.68
+        }
+      },
+      "PSG Berani Zlin vs Horacka Trebic": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.52,
+          "2": 2.3
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 5": 1.7,
+          "Under 5": 2.0
+        },
+        "Home Team Over/Under": {
+          "Over 2.5": 1.65,
+          "Under 2.5": 1.97
+        },
+        "Away Team Over/Under": {
+          "Over 2.5": 2.3,
+          "Under 2.5": 1.49
+        }
+      },
+      "HC Banik Sokolov vs Vhk Vsetin": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 2.05,
+          "2": 1.67
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 5.5": 2.05,
+          "Under 5.5": 1.67
+        },
+        "Home Team Over/Under": {
+          "Over 2.5": 1.97,
+          "Under 2.5": 1.65
+        },
+        "Away Team Over/Under": {
+          "Over 2.5": 1.71,
+          "Under 2.5": 1.9
+        }
+      },
+      "HC Dynamo Pardubice B vs HC RT Torax Poruba": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 2.35,
+          "2": 1.51
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 5.5": 1.83,
+          "Under 5.5": 1.83
+        },
+        "Home Team Over/Under": {
+          "Over 2.5": 2.0,
+          "Under 2.5": 1.64
+        },
+        "Away Team Over/Under": {
+          "Over 3.5": 2.25,
+          "Under 3.5": 1.51
+        }
+      },
+      "Orli Znojmo vs HK Jestrabi Prostejov": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 2.05,
+          "2": 1.67
         },
         "Total (incl. overtime and penalties)": {
           "Over 5.5": 1.83,
           "Under 5.5": 1.84
         },
         "Home Team Over/Under": {
-          "Over 2.5": 1.58,
-          "Under 2.5": 2.1
+          "Over 2.5": 1.83,
+          "Under 2.5": 1.78
         },
         "Away Team Over/Under": {
-          "Over 2.5": 1.86,
-          "Under 2.5": 1.75
-        }
-      },
-      "Horacka Trebic vs Orli Znojmo": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.36,
-          "2": 2.8
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5.5": 1.96,
-          "Under 5.5": 1.73
-        },
-        "Home Team Over/Under": {
-          "Over 3.5": 2.1,
-          "Under 3.5": 1.58
-        },
-        "Away Team Over/Under": {
-          "Over 1.5": 1.47,
-          "Under 1.5": 2.35,
-          "Over 2.5": 2.4,
-          "Under 2.5": 1.45
-        }
-      },
-      "Vhk Vsetin vs HC Dynamo Pardubice B": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.28,
-          "2": 3.25
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5.5": 1.94,
-          "Under 5.5": 1.74
-        },
-        "Home Team Over/Under": {
-          "Over 3.5": 1.92,
-          "Under 3.5": 1.7
-        },
-        "Away Team Over/Under": {
-          "Over 1.5": 1.56,
-          "Under 1.5": 2.15
-        }
-      },
-      "HC RT Torax Poruba vs HC Zubr Prerov": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.29,
-          "2": 3.2
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5": 1.72,
-          "Under 5": 1.96
-        },
-        "Home Team Over/Under": {
-          "Over 3.5": 2.1,
-          "Under 3.5": 1.57
-        },
-        "Away Team Over/Under": {
-          "Over 1.5": 1.65,
-          "Under 1.5": 1.97
-        }
-      },
-      "HC Slavia Prague vs PSG Berani Zlin": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.97,
-          "2": 1.72
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5": 1.64,
-          "Under 5": 2.1
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.97,
-          "Under 2.5": 1.67
-        },
-        "Away Team Over/Under": {
-          "Over 2.5": 1.78,
-          "Under 2.5": 1.82
-        }
-      },
-      "HK Jestrabi Prostejov vs HC Frydek Mistek": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.38,
-          "2": 2.75
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5.5": 1.97,
-          "Under 5.5": 1.71
-        },
-        "Home Team Over/Under": {
-          "Over 3.5": 2.15,
-          "Under 3.5": 1.56
-        },
-        "Away Team Over/Under": {
-          "Over 1.5": 1.46,
-          "Under 1.5": 2.35
+          "Over 2.5": 1.61,
+          "Under 2.5": 2.05
         }
       }
     }
   },
   "England": {
-    "Elite League": {
-      "Belfast Giants vs Glasgow Clan": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.23,
-          "2": 3.9
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5.5": 1.67,
-          "Under 5.5": 2.05,
-          "Over 6": 1.86,
-          "Under 6": 1.85,
-          "Over 6.5": 2.1,
-          "Under 6.5": 1.67
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.27,
-          "Under 2.5": 3.4,
-          "Over 3.5": 1.67,
-          "Under 3.5": 2.1,
-          "Over 4.5": 2.45,
-          "Under 4.5": 1.49
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.1,
-          "Under 0.5": 5.8,
-          "Over 1.5": 1.55,
-          "Under 1.5": 2.3,
-          "Over 2.5": 2.7,
-          "Under 2.5": 1.41
-        }
-      }
-    }
+    "Elite League": {}
   },
   "Finland": {
     "Liiga": {
-      "Jukurit Mikkeli vs KooKoo": {
+      "Ilves Tampere vs HPK Hameenlinna": {
         "Winner (incl. overtime and penalties)": {
-          "1": 1.58,
-          "2": 2.45
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4": 1.3,
-          "Under 4": 3.5,
-          "Over 4.5": 1.44,
-          "Under 4.5": 2.8,
-          "Over 5": 1.72,
-          "Under 5": 2.15,
-          "Over 5.5": 2.25,
-          "Under 5.5": 1.65,
-          "Over 6": 2.65,
-          "Under 6": 1.49,
-          "Over 6.5": 2.85,
-          "Under 6.5": 1.43
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.04,
-          "Under 0.5": 12.0,
-          "Over 1.5": 1.24,
-          "Under 1.5": 4.1,
-          "Over 2.5": 1.71,
-          "Under 2.5": 2.15,
-          "Over 3.5": 2.7,
-          "Under 3.5": 1.47,
-          "Over 4.5": 4.9,
-          "Under 4.5": 1.18
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.09,
-          "Under 0.5": 7.6,
-          "Over 1.5": 1.47,
-          "Under 1.5": 2.7,
-          "Over 2.5": 2.4,
-          "Under 2.5": 1.57,
-          "Over 3.5": 4.6,
-          "Under 3.5": 1.2,
-          "Over 4.5": 9.2,
-          "Under 4.5": 1.06
+          "1": 1.33,
+          "2": 3.4
         }
       },
-      "JYP Jyvaskyla vs HPK Hameenlinna": {
+      "Jukurit Mikkeli vs TPS Turku": {
         "Winner (incl. overtime and penalties)": {
-          "1": 1.61,
-          "2": 2.4
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4": 1.35,
-          "Under 4": 3.25,
-          "Over 4.5": 1.5,
-          "Under 4.5": 2.6,
-          "Over 5": 1.82,
-          "Under 5": 2.0,
-          "Over 5.5": 2.4,
-          "Under 5.5": 1.58,
-          "Over 6": 2.85,
-          "Under 6": 1.43
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.04,
-          "Under 0.5": 11.0,
-          "Over 1.5": 1.27,
-          "Under 1.5": 3.8,
-          "Over 2.5": 1.8,
-          "Under 2.5": 2.0,
-          "Over 3.5": 2.95,
-          "Under 3.5": 1.41,
-          "Over 4.5": 5.4,
-          "Under 4.5": 1.15
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.09,
-          "Under 0.5": 7.4,
-          "Over 1.5": 1.49,
-          "Under 1.5": 2.65,
-          "Over 2.5": 2.45,
-          "Under 2.5": 1.55,
-          "Over 3.5": 4.7,
-          "Under 3.5": 1.2,
-          "Over 4.5": 9.5,
-          "Under 4.5": 1.06
+          "1": 1.5,
+          "2": 2.6
         }
       },
-      "Lukko Rauma vs HIFK Helsinki": {
+      "KooKoo vs Lukko Rauma": {
         "Winner (incl. overtime and penalties)": {
-          "1": 1.61,
-          "2": 2.4
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4": 1.41,
-          "Under 4": 2.95,
-          "Over 4.5": 1.57,
-          "Under 4.5": 2.4,
-          "Over 5": 1.97,
-          "Under 5": 1.83,
-          "Over 5.5": 2.6,
-          "Under 5.5": 1.5,
-          "Over 6": 3.2,
-          "Under 6": 1.36
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.05,
-          "Under 0.5": 10.5,
-          "Over 1.5": 1.3,
-          "Under 1.5": 3.6,
-          "Over 2.5": 1.87,
-          "Under 2.5": 1.93,
-          "Over 3.5": 3.1,
-          "Under 3.5": 1.37,
-          "Over 4.5": 5.9,
-          "Under 4.5": 1.14
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.11,
-          "Under 0.5": 6.8,
-          "Over 1.5": 1.55,
-          "Under 1.5": 2.5,
-          "Over 2.5": 2.65,
-          "Under 2.5": 1.49,
-          "Over 3.5": 5.1,
-          "Under 3.5": 1.17,
-          "Over 4.5": 10.5,
-          "Under 4.5": 1.05
+          "1": 1.93,
+          "2": 1.87
         }
       },
-      "Pelicans Lahti vs Assat Pori": {
+      "SaiPa Lappeenranta vs HIFK Helsinki": {
         "Winner (incl. overtime and penalties)": {
-          "1": 1.62,
-          "2": 2.35
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4": 1.43,
-          "Under 4": 2.85,
-          "Over 4.5": 1.6,
-          "Under 4.5": 2.35,
-          "Over 5": 2.05,
-          "Under 5": 1.78,
-          "Over 5.5": 2.7,
-          "Under 5.5": 1.47,
-          "Over 6": 3.3,
-          "Under 6": 1.34
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.05,
-          "Under 0.5": 10.0,
-          "Over 1.5": 1.32,
-          "Under 1.5": 3.5,
-          "Over 2.5": 1.92,
-          "Under 2.5": 1.9,
-          "Over 3.5": 3.25,
-          "Under 3.5": 1.35,
-          "Over 4.5": 6.2,
-          "Under 4.5": 1.12
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.11,
-          "Under 0.5": 6.7,
-          "Over 1.5": 1.56,
-          "Under 1.5": 2.45,
-          "Over 2.5": 2.65,
-          "Under 2.5": 1.48,
-          "Over 3.5": 5.2,
-          "Under 3.5": 1.16,
-          "Over 4.5": 10.5,
-          "Under 4.5": 1.05
-        }
-      },
-      "SaiPa Lappeenranta vs Ilves Tampere": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 4.3,
-          "2": 1.24
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5": 1.36,
-          "Under 5": 3.2,
-          "Over 5.5": 1.71,
-          "Under 5.5": 2.15,
-          "Over 6": 1.9,
-          "Under 6": 1.91,
-          "Over 6.5": 2.15,
-          "Under 6.5": 1.71,
-          "Over 7": 2.95,
-          "Under 7": 1.4
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.12,
-          "Under 0.5": 6.3,
-          "Over 1.5": 1.6,
-          "Under 1.5": 2.35,
-          "Over 2.5": 2.85,
-          "Under 2.5": 1.43,
-          "Over 3.5": 5.8,
-          "Under 3.5": 1.14,
-          "Over 4.5": 12.0,
-          "Under 4.5": 1.04
-        },
-        "Away Team Over/Under": {
-          "Over 1.5": 1.08,
-          "Under 1.5": 8.1,
-          "Over 2.5": 1.27,
-          "Under 2.5": 3.8,
-          "Over 3.5": 1.65,
-          "Under 3.5": 2.25,
-          "Over 4.5": 2.45,
-          "Under 4.5": 1.55,
-          "Over 5.5": 4.25,
-          "Under 5.5": 1.23
-        }
-      },
-      "Tappara Tampere vs Vaasan Sport": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.35,
-          "2": 3.3
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4.5": 1.36,
-          "Under 4.5": 3.2,
-          "Over 5": 1.54,
-          "Under 5": 2.5,
-          "Over 5.5": 2.0,
-          "Under 5.5": 1.82,
-          "Over 6": 2.3,
-          "Under 6": 1.62,
-          "Over 6.5": 2.6,
-          "Under 6.5": 1.51
-        },
-        "Home Team Over/Under": {
-          "Over 1.5": 1.14,
-          "Under 1.5": 5.8,
-          "Over 2.5": 1.44,
-          "Under 2.5": 2.8,
-          "Over 3.5": 2.05,
-          "Under 3.5": 1.78,
-          "Over 4.5": 3.4,
-          "Under 4.5": 1.33,
-          "Over 5.5": 6.3,
-          "Under 5.5": 1.12
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.12,
-          "Under 0.5": 6.5,
-          "Over 1.5": 1.58,
-          "Under 1.5": 2.4,
-          "Over 2.5": 2.75,
-          "Under 2.5": 1.45,
-          "Over 3.5": 5.5,
-          "Under 3.5": 1.15,
-          "Over 4.5": 11.5,
-          "Under 4.5": 1.04
-        }
-      },
-      "TPS Turku vs Karpat Oulu": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.96,
-          "2": 1.9
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4": 1.4,
-          "Under 4": 3.0,
-          "Over 4.5": 1.56,
-          "Under 4.5": 2.45,
-          "Over 5": 1.95,
-          "Under 5": 1.86,
-          "Over 5.5": 2.55,
-          "Under 5.5": 1.51,
-          "Over 6": 3.1,
-          "Under 6": 1.37
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.07,
-          "Under 0.5": 8.4,
-          "Over 1.5": 1.41,
-          "Under 1.5": 2.95,
-          "Over 2.5": 2.2,
-          "Under 2.5": 1.68,
-          "Over 3.5": 4.0,
-          "Under 3.5": 1.25,
-          "Over 4.5": 7.9,
-          "Under 4.5": 1.08
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.07,
-          "Under 0.5": 8.75,
-          "Over 1.5": 1.38,
-          "Under 1.5": 3.1,
-          "Over 2.5": 2.15,
-          "Under 2.5": 1.72,
-          "Over 3.5": 3.8,
-          "Under 3.5": 1.27,
-          "Over 4.5": 7.5,
-          "Under 4.5": 1.09
+          "1": 3.25,
+          "2": 1.34
         }
       }
     },
     "Mestis": {
-      "Forssan Palloseura vs TuTo Hockey Turku": {
+      "KeuPa HT Keuruu vs Jokipojat Joensuu": {
         "Winner (incl. overtime and penalties)": {
-          "1": 3.2,
-          "2": 1.32
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5.5": 1.61,
-          "Under 5.5": 2.2,
-          "Over 6": 1.72,
-          "Under 6": 2.0,
-          "Over 6.5": 1.92,
-          "Under 6.5": 1.78,
-          "Over 7": 2.55,
-          "Under 7": 1.46
-        },
-        "Home Team Over/Under": {
-          "Over 1.5": 1.39,
-          "Under 1.5": 2.8,
-          "Over 2.5": 2.2,
-          "Under 2.5": 1.61,
-          "Over 3.5": 3.9,
-          "Under 3.5": 1.21
-        },
-        "Away Team Over/Under": {
-          "Over 2.5": 1.29,
-          "Under 2.5": 3.3,
-          "Over 3.5": 1.71,
-          "Under 3.5": 2.05,
-          "Over 4.5": 2.55,
-          "Under 4.5": 1.46
-        }
-      },
-      "Kiekko-Vantaa vs Kiekko-Espoo": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 3.0,
-          "2": 1.36
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 6": 1.67,
-          "Under 6": 2.1,
-          "Over 6.5": 1.86,
-          "Under 6.5": 1.84,
-          "Over 7": 2.4,
-          "Under 7": 1.5
-        },
-        "Home Team Over/Under": {
-          "Over 1.5": 1.34,
-          "Under 1.5": 3.0,
-          "Over 2.5": 2.05,
-          "Under 2.5": 1.68,
-          "Over 3.5": 3.6,
-          "Under 3.5": 1.25
-        },
-        "Away Team Over/Under": {
-          "Over 2.5": 1.29,
-          "Under 2.5": 3.25,
-          "Over 3.5": 1.72,
-          "Under 3.5": 2.0,
-          "Over 4.5": 2.55,
-          "Under 4.5": 1.45
-        }
-      },
-      "Jokipojat Joensuu vs Imatran Kettera": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 2.05,
-          "2": 1.65
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 6.5": 1.85,
-          "Under 6.5": 1.82
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.64,
-          "Under 2.5": 2.0
-        },
-        "Away Team Over/Under": {
-          "Over 3.5": 2.05,
-          "Under 3.5": 1.6
-        }
-      },
-      "Kajaanin Hokki vs Iisalmen Peli-Karhut": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 2.35,
-          "2": 1.51
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 6": 1.78,
-          "Under 6": 1.9
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.83,
-          "Under 2.5": 1.78
-        },
-        "Away Team Over/Under": {
-          "Over 3.5": 2.0,
-          "Under 3.5": 1.64
-        }
-      },
-      "Kokkolan Hermes vs Rovaniemen Kiekko": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.46,
-          "2": 2.45
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 6.5": 1.73,
-          "Under 6.5": 1.95
-        },
-        "Home Team Over/Under": {
-          "Over 3.5": 1.76,
-          "Under 3.5": 1.85
-        },
-        "Away Team Over/Under": {
-          "Over 2.5": 1.73,
-          "Under 2.5": 1.87
-        }
-      },
-      "Koovee Tampere vs KeuPa HT Keuruu": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.76,
-          "2": 1.92
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 6.5": 1.87,
-          "Under 6.5": 1.8
-        },
-        "Home Team Over/Under": {
-          "Over 3.5": 2.2,
-          "Under 3.5": 1.52
-        },
-        "Away Team Over/Under": {
-          "Over 2.5": 1.58,
-          "Under 2.5": 2.1
+          "1": 3.3,
+          "2": 1.26
         }
       }
     }
   },
   "Germany": {
     "DEL": {
-      "Cologne Haie vs Dusseldorfer EG": {
+      "Cologne Haie vs Iserlohn Roosters": {
         "Winner (incl. overtime and penalties)": {
-          "1": 1.56,
-          "2": 2.5
+          "1": 1.38,
+          "2": 3.2
         },
         "Total (incl. overtime and penalties)": {
-          "Over 4.5": 1.41,
-          "Under 4.5": 2.95,
-          "Over 5": 1.63,
-          "Under 5": 2.3,
-          "Over 5.5": 2.1,
-          "Under 5.5": 1.73,
-          "Over 6": 2.45,
-          "Under 6": 1.56,
-          "Over 6.5": 2.75,
-          "Under 6.5": 1.46
+          "Over 4.5": 1.3,
+          "Under 4.5": 3.5,
+          "Over 5": 1.44,
+          "Under 5": 2.8,
+          "Over 5.5": 1.83,
+          "Under 5.5": 2.0,
+          "Over 6": 2.05,
+          "Under 6": 1.78,
+          "Over 6.5": 2.3,
+          "Under 6.5": 1.63,
+          "Over 7": 2.65,
+          "Under 7": 1.47
         },
         "Home Team Over/Under": {
+          "Over 1.5": 1.12,
+          "Under 1.5": 6.2,
+          "Over 2.5": 1.41,
+          "Under 2.5": 2.95,
+          "Over 3.5": 2.0,
+          "Under 3.5": 1.82,
+          "Over 4.5": 3.2,
+          "Under 4.5": 1.36,
+          "Over 5.5": 5.6,
+          "Under 5.5": 1.15
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.09,
+          "Under 0.5": 7.5,
+          "Over 1.5": 1.48,
+          "Under 1.5": 2.7,
+          "Over 2.5": 2.45,
+          "Under 2.5": 1.56,
+          "Over 3.5": 4.75,
+          "Under 3.5": 1.19,
+          "Over 4.5": 9.6,
+          "Under 4.5": 1.06
+        }
+      },
+      "Eisbaren Berlin vs Dusseldorfer EG": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.52,
+          "2": 2.6
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 4.5": 1.42,
+          "Under 4.5": 2.9,
+          "Over 5": 1.67,
+          "Under 5": 2.25,
+          "Over 5.5": 2.15,
+          "Under 5.5": 1.71,
+          "Over 6": 2.5,
+          "Under 6": 1.53,
+          "Over 6.5": 2.8,
+          "Under 6.5": 1.45
+        },
+        "Home Team Over/Under": {
+          "Over 0.5": 1.03,
+          "Under 0.5": 13.0,
+          "Over 1.5": 1.21,
+          "Under 1.5": 4.5,
+          "Over 2.5": 1.64,
+          "Under 2.5": 2.25,
+          "Over 3.5": 2.55,
+          "Under 3.5": 1.52,
+          "Over 4.5": 4.5,
+          "Under 4.5": 1.21
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.09,
+          "Under 0.5": 7.5,
+          "Over 1.5": 1.48,
+          "Under 1.5": 2.7,
+          "Over 2.5": 2.45,
+          "Under 2.5": 1.56,
+          "Over 3.5": 4.7,
+          "Under 3.5": 1.19,
+          "Over 4.5": 9.5,
+          "Under 4.5": 1.06
+        }
+      },
+      "Nuremberg Ice Tigers vs Fischtown Pinguins": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 2.3,
+          "2": 1.64
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 4.5": 1.35,
+          "Under 4.5": 3.2,
+          "Over 5": 1.53,
+          "Under 5": 2.5,
+          "Over 5.5": 1.97,
+          "Under 5.5": 1.84,
+          "Over 6": 2.25,
+          "Under 6": 1.65,
+          "Over 6.5": 2.5,
+          "Under 6.5": 1.54
+        },
+        "Home Team Over/Under": {
+          "Over 0.5": 1.06,
+          "Under 0.5": 9.1,
+          "Over 1.5": 1.36,
+          "Under 1.5": 3.2,
+          "Over 2.5": 2.1,
+          "Under 2.5": 1.74,
+          "Over 3.5": 3.75,
+          "Under 3.5": 1.27,
+          "Over 4.5": 7.3,
+          "Under 4.5": 1.09
+        },
+        "Away Team Over/Under": {
           "Over 0.5": 1.03,
           "Under 0.5": 13.0,
           "Over 1.5": 1.21,
@@ -1138,827 +496,346 @@
           "Over 2.5": 1.65,
           "Under 2.5": 2.25,
           "Over 3.5": 2.6,
-          "Under 3.5": 1.51,
+          "Under 3.5": 1.5,
           "Over 4.5": 4.6,
-          "Under 4.5": 1.2,
-          "Over 5.5": 6.9,
-          "Under 5.5": 1.1
+          "Under 4.5": 1.2
+        }
+      },
+      "Red Bull Munich vs Adler Mannheim": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.62,
+          "2": 2.35
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 4.5": 1.43,
+          "Under 4.5": 2.85,
+          "Over 5": 1.68,
+          "Under 5": 2.2,
+          "Over 5.5": 2.2,
+          "Under 5.5": 1.68,
+          "Over 6": 2.55,
+          "Under 6": 1.52,
+          "Over 6.5": 2.85,
+          "Under 6.5": 1.44
+        },
+        "Home Team Over/Under": {
+          "Over 0.5": 1.04,
+          "Under 0.5": 12.0,
+          "Over 1.5": 1.24,
+          "Under 1.5": 4.1,
+          "Over 2.5": 1.74,
+          "Under 2.5": 2.1,
+          "Over 3.5": 2.8,
+          "Under 3.5": 1.44,
+          "Over 4.5": 5.1,
+          "Under 4.5": 1.17
         },
         "Away Team Over/Under": {
           "Over 0.5": 1.08,
-          "Under 0.5": 7.9,
-          "Over 1.5": 1.44,
-          "Under 1.5": 2.8,
-          "Over 2.5": 2.35,
-          "Under 2.5": 1.6,
-          "Over 3.5": 4.4,
-          "Under 3.5": 1.21,
-          "Over 4.5": 8.9,
+          "Under 0.5": 8.1,
+          "Over 1.5": 1.43,
+          "Under 1.5": 2.85,
+          "Over 2.5": 2.3,
+          "Under 2.5": 1.62,
+          "Over 3.5": 4.3,
+          "Under 3.5": 1.22,
+          "Over 4.5": 8.6,
           "Under 4.5": 1.07
         }
       },
-      "Fischtown Pinguins vs ERC Ingolstadt": {
+      "Wild Wings vs ERC Ingolstadt": {
         "Winner (incl. overtime and penalties)": {
-          "1": 1.6,
-          "2": 2.4
+          "1": 2.0,
+          "2": 1.84
         },
         "Total (incl. overtime and penalties)": {
-          "Over 4": 1.36,
-          "Under 4": 3.2,
-          "Over 4.5": 1.51,
-          "Under 4.5": 2.6,
-          "Over 5": 1.84,
-          "Under 5": 1.97,
-          "Over 5.5": 2.4,
-          "Under 5.5": 1.58,
-          "Over 6": 2.85,
-          "Under 6": 1.43
+          "Over 4.5": 1.36,
+          "Under 4.5": 3.2,
+          "Over 5": 1.55,
+          "Under 5": 2.5,
+          "Over 5.5": 2.0,
+          "Under 5.5": 1.82,
+          "Over 6": 2.3,
+          "Under 6": 1.64,
+          "Over 6.5": 2.55,
+          "Under 6.5": 1.53
         },
         "Home Team Over/Under": {
-          "Over 0.5": 1.04,
-          "Under 0.5": 11.0,
-          "Over 1.5": 1.26,
-          "Under 1.5": 3.9,
-          "Over 2.5": 1.8,
-          "Under 2.5": 2.0,
-          "Over 3.5": 2.95,
-          "Under 3.5": 1.41,
-          "Over 4.5": 5.4,
-          "Under 4.5": 1.15
+          "Over 0.5": 1.05,
+          "Under 0.5": 10.5,
+          "Over 1.5": 1.3,
+          "Under 1.5": 3.6,
+          "Over 2.5": 1.92,
+          "Under 2.5": 1.9,
+          "Over 3.5": 3.25,
+          "Under 3.5": 1.34,
+          "Over 4.5": 6.2,
+          "Under 4.5": 1.13
         },
         "Away Team Over/Under": {
-          "Over 0.5": 1.09,
-          "Under 0.5": 7.3,
-          "Over 1.5": 1.5,
-          "Under 1.5": 2.6,
-          "Over 2.5": 2.5,
-          "Under 2.5": 1.54,
-          "Over 3.5": 4.8,
-          "Under 3.5": 1.19,
-          "Over 4.5": 9.8,
-          "Under 4.5": 1.06
-        }
-      },
-      "Grizzlys Wolfsburg vs Red Bull Munich": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.9,
-          "2": 1.95
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4": 1.32,
-          "Under 4": 3.4,
-          "Over 4.5": 1.46,
-          "Under 4.5": 2.75,
-          "Over 5": 1.74,
-          "Under 5": 2.1,
-          "Over 5.5": 2.25,
-          "Under 5.5": 1.64,
-          "Over 6": 2.65,
-          "Under 6": 1.48
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.06,
-          "Under 0.5": 9.8,
-          "Over 1.5": 1.33,
-          "Under 1.5": 3.4,
-          "Over 2.5": 2.0,
-          "Under 2.5": 1.83,
-          "Over 3.5": 3.5,
-          "Under 3.5": 1.32,
-          "Over 4.5": 6.6,
-          "Under 4.5": 1.11
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.06,
-          "Under 0.5": 9.5,
-          "Over 1.5": 1.34,
-          "Under 1.5": 3.3,
-          "Over 2.5": 2.05,
-          "Under 2.5": 1.78,
-          "Over 3.5": 3.6,
-          "Under 3.5": 1.3,
-          "Over 4.5": 6.9,
-          "Under 4.5": 1.1
-        }
-      },
-      "Lowen Frankfurt vs Eisbaren Berlin": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 2.65,
-          "2": 1.51
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4.5": 1.29,
-          "Under 4.5": 3.6,
-          "Over 5": 1.43,
-          "Under 5": 2.85,
-          "Over 5.5": 1.82,
-          "Under 5.5": 2.0,
-          "Over 6": 2.05,
-          "Under 6": 1.8,
-          "Over 6.5": 2.25,
-          "Under 6.5": 1.64
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.07,
-          "Under 0.5": 8.9,
-          "Over 1.5": 1.37,
-          "Under 1.5": 3.1,
-          "Over 2.5": 2.15,
-          "Under 2.5": 1.71,
-          "Over 3.5": 3.9,
-          "Under 3.5": 1.26,
-          "Over 4.5": 7.7,
-          "Under 4.5": 1.09
-        },
-        "Away Team Over/Under": {
-          "Over 1.5": 1.15,
-          "Under 1.5": 5.5,
-          "Over 2.5": 1.49,
-          "Under 2.5": 2.65,
-          "Over 3.5": 2.2,
-          "Under 3.5": 1.68,
-          "Over 4.5": 3.7,
-          "Under 4.5": 1.29,
-          "Over 5.5": 6.6,
-          "Under 5.5": 1.11
-        }
-      },
-      "Nuremberg Ice Tigers vs Augsburger Panther": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.7,
-          "2": 2.2
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5": 1.37,
-          "Under 5": 3.1,
-          "Over 5.5": 1.73,
-          "Under 5.5": 2.1,
-          "Over 6": 1.9,
-          "Under 6": 1.91,
-          "Over 6.5": 2.1,
-          "Under 6.5": 1.73,
-          "Over 7": 2.95,
-          "Under 7": 1.41
-        },
-        "Home Team Over/Under": {
-          "Over 1.5": 1.18,
-          "Under 1.5": 5.0,
-          "Over 2.5": 1.56,
-          "Under 2.5": 2.45,
-          "Over 3.5": 2.4,
-          "Under 3.5": 1.58,
-          "Over 4.5": 4.1,
-          "Under 4.5": 1.24,
-          "Over 5.5": 7.4,
-          "Under 5.5": 1.09
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.04,
-          "Under 0.5": 11.0,
-          "Over 1.5": 1.27,
-          "Under 1.5": 3.8,
-          "Over 2.5": 1.84,
-          "Under 2.5": 1.97,
-          "Over 3.5": 3.1,
-          "Under 3.5": 1.38,
-          "Over 4.5": 5.7,
-          "Under 4.5": 1.14
-        }
-      },
-      "Straubing Tigers vs Adler Mannheim": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.61,
-          "2": 2.4
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4": 1.32,
-          "Under 4": 3.4,
-          "Over 4.5": 1.47,
-          "Under 4.5": 2.7,
-          "Over 5": 1.75,
-          "Under 5": 2.1,
-          "Over 5.5": 2.3,
-          "Under 5.5": 1.63,
-          "Over 6": 2.7,
-          "Under 6": 1.47
-        },
-        "Home Team Over/Under": {
           "Over 0.5": 1.04,
           "Under 0.5": 11.5,
-          "Over 1.5": 1.25,
-          "Under 1.5": 4.0,
-          "Over 2.5": 1.76,
-          "Under 2.5": 2.05,
-          "Over 3.5": 2.85,
-          "Under 3.5": 1.43,
-          "Over 4.5": 5.25,
-          "Under 4.5": 1.16
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.09,
-          "Under 0.5": 7.75,
-          "Over 1.5": 1.46,
-          "Under 1.5": 2.75,
-          "Over 2.5": 2.4,
-          "Under 2.5": 1.58,
-          "Over 3.5": 4.5,
-          "Under 3.5": 1.2,
-          "Over 4.5": 9.1,
-          "Under 4.5": 1.06
+          "Over 1.5": 1.26,
+          "Under 1.5": 3.9,
+          "Over 2.5": 1.81,
+          "Under 2.5": 2.0,
+          "Over 3.5": 3.0,
+          "Under 3.5": 1.4,
+          "Over 4.5": 5.5,
+          "Under 4.5": 1.15
         }
       },
-      "Wild Wings vs Iserlohn Roosters": {
+      "Lowen Frankfurt vs Grizzlys Wolfsburg": {
         "Winner (incl. overtime and penalties)": {
-          "1": 1.47,
-          "2": 2.8
+          "1": 2.05,
+          "2": 1.78
         },
         "Total (incl. overtime and penalties)": {
-          "Over 4.5": 1.34,
-          "Under 4.5": 3.3,
-          "Over 5": 1.5,
-          "Under 5": 2.6,
-          "Over 5.5": 1.92,
-          "Under 5.5": 1.9,
-          "Over 6": 2.2,
-          "Under 6": 1.7,
-          "Over 6.5": 2.45,
-          "Under 6.5": 1.57
+          "Over 5": 1.45,
+          "Under 5": 2.7,
+          "Over 5.5": 1.86,
+          "Under 5.5": 1.91,
+          "Over 6": 2.1,
+          "Under 6": 1.72
         },
         "Home Team Over/Under": {
-          "Over 1.5": 1.16,
-          "Under 1.5": 5.3,
-          "Over 2.5": 1.51,
-          "Under 2.5": 2.6,
-          "Over 3.5": 2.25,
-          "Under 3.5": 1.67,
-          "Over 4.5": 3.75,
-          "Under 4.5": 1.28,
-          "Over 5.5": 6.75,
-          "Under 5.5": 1.11
+          "Over 0.5": 1.04,
+          "Under 0.5": 11.0,
+          "Over 1.5": 1.28,
+          "Under 1.5": 3.7,
+          "Over 2.5": 1.87,
+          "Under 2.5": 1.94,
+          "Over 3.5": 3.2,
+          "Under 3.5": 1.36,
+          "Over 4.5": 5.9,
+          "Under 4.5": 1.14
         },
         "Away Team Over/Under": {
-          "Over 0.5": 1.08,
-          "Under 0.5": 8.0,
-          "Over 1.5": 1.44,
-          "Under 1.5": 2.8,
-          "Over 2.5": 2.35,
-          "Under 2.5": 1.61,
-          "Over 3.5": 4.4,
-          "Under 3.5": 1.21,
-          "Over 4.5": 8.8,
-          "Under 4.5": 1.07
+          "Over 0.5": 1.03,
+          "Under 0.5": 12.0,
+          "Over 1.5": 1.23,
+          "Under 1.5": 4.25,
+          "Over 2.5": 1.71,
+          "Under 2.5": 2.15,
+          "Over 3.5": 2.75,
+          "Under 3.5": 1.46,
+          "Over 4.5": 4.9,
+          "Under 4.5": 1.18
+        }
+      },
+      "Straubing Tigers vs Augsburger Panther": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.32,
+          "2": 3.4
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 5": 1.44,
+          "Under 5": 2.75,
+          "Over 5.5": 1.82,
+          "Under 5.5": 1.96,
+          "Over 6": 2.05,
+          "Under 6": 1.75
+        },
+        "Home Team Over/Under": {
+          "Over 1.5": 1.12,
+          "Under 1.5": 6.5,
+          "Over 2.5": 1.38,
+          "Under 2.5": 3.1,
+          "Over 3.5": 1.93,
+          "Under 3.5": 1.87,
+          "Over 4.5": 3.0,
+          "Under 4.5": 1.39,
+          "Over 5.5": 5.3,
+          "Under 5.5": 1.16
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.1,
+          "Under 0.5": 7.0,
+          "Over 1.5": 1.53,
+          "Under 1.5": 2.55,
+          "Over 2.5": 2.6,
+          "Under 2.5": 1.5,
+          "Over 3.5": 5.2,
+          "Under 3.5": 1.17,
+          "Over 4.5": 10.5,
+          "Under 4.5": 1.05
         }
       }
     }
   },
   "International": {
     "Alps Hockey League": {
-      "Ritten Sport vs Red Bull Hockey Juniors": {
+      "Red Bull Hockey Juniors vs HC Merano": {
         "Winner (incl. overtime and penalties)": {
-          "1": 1.52,
-          "2": 2.45
+          "1": 1.33,
+          "2": 3.2
         },
         "Total (incl. overtime and penalties)": {
-          "Over 5.5": 1.63,
-          "Under 5.5": 2.15,
-          "Over 6": 1.78,
-          "Under 6": 1.93,
-          "Over 6.5": 1.97,
-          "Under 6.5": 1.74
+          "Over 6.5": 1.58,
+          "Under 6.5": 2.25,
+          "Over 7": 1.87,
+          "Under 7": 1.84,
+          "Over 7.5": 2.3,
+          "Under 7.5": 1.56
         },
         "Home Team Over/Under": {
-          "Over 2.5": 1.42,
-          "Under 2.5": 2.65,
-          "Over 3.5": 2.05,
-          "Under 3.5": 1.7,
-          "Over 4.5": 3.25,
-          "Under 4.5": 1.3
+          "Over 3.5": 1.54,
+          "Under 3.5": 2.35,
+          "Over 4.5": 2.15,
+          "Under 4.5": 1.62,
+          "Over 5.5": 3.3,
+          "Under 5.5": 1.28
         },
         "Away Team Over/Under": {
-          "Over 1.5": 1.28,
-          "Under 1.5": 3.3,
-          "Over 2.5": 1.9,
-          "Under 2.5": 1.82,
-          "Over 3.5": 3.2,
-          "Under 3.5": 1.31
+          "Over 1.5": 1.26,
+          "Under 1.5": 3.5,
+          "Over 2.5": 1.84,
+          "Under 2.5": 1.87,
+          "Over 3.5": 3.1,
+          "Under 3.5": 1.32
         }
-      },
-      "WSV Broncos vs EC Die Adler Kitzbuhel": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.41,
-          "2": 2.8
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 6": 1.73,
-          "Under 6": 2.0,
-          "Over 6.5": 1.93,
-          "Under 6.5": 1.78,
-          "Over 7": 2.55,
-          "Under 7": 1.46
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.35,
-          "Under 2.5": 2.95,
-          "Over 3.5": 1.86,
-          "Under 3.5": 1.85,
-          "Over 4.5": 2.85,
-          "Under 4.5": 1.37
-        },
-        "Away Team Over/Under": {
-          "Over 1.5": 1.32,
-          "Under 1.5": 3.1,
-          "Over 2.5": 2.0,
-          "Under 2.5": 1.72,
-          "Over 3.5": 3.5,
-          "Under 3.5": 1.26
-        }
-      },
-      "Celje vs EC KAC II": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.4,
-          "2": 2.8
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 6": 1.74,
-          "Under 6": 1.97,
-          "Over 6.5": 1.93,
-          "Under 6.5": 1.78,
-          "Over 7": 2.55,
-          "Under 7": 1.46
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.34,
-          "Under 2.5": 3.0,
-          "Over 3.5": 1.85,
-          "Under 3.5": 1.85,
-          "Over 4.5": 2.85,
-          "Under 4.5": 1.37
-        },
-        "Away Team Over/Under": {
-          "Over 1.5": 1.33,
-          "Under 1.5": 3.1,
-          "Over 2.5": 2.0,
-          "Under 2.5": 1.71,
-          "Over 3.5": 3.5,
-          "Under 3.5": 1.25
-        }
-      },
-      "Steel Wings Linz vs HC Gherdeina": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 2.25,
-          "2": 1.58
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 6": 1.74,
-          "Under 6": 1.97,
-          "Over 6.5": 1.93,
-          "Under 6.5": 1.78,
-          "Over 7": 2.55,
-          "Under 7": 1.45
-        },
-        "Home Team Over/Under": {
-          "Over 1.5": 1.24,
-          "Under 1.5": 3.6,
-          "Over 2.5": 1.78,
-          "Under 2.5": 1.93,
-          "Over 3.5": 2.9,
-          "Under 3.5": 1.36
-        },
-        "Away Team Over/Under": {
-          "Over 2.5": 1.44,
-          "Under 2.5": 2.6,
-          "Over 3.5": 2.1,
-          "Under 3.5": 1.65,
-          "Over 4.5": 3.4,
-          "Under 4.5": 1.28
-        }
-      },
-      "Hockey Unterland Cavaliers vs Jesenice": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 2.05,
-          "2": 1.71
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 6": 1.72,
-          "Under 6": 2.0,
-          "Over 6.5": 1.91,
-          "Under 6.5": 1.8,
-          "Over 7": 2.5,
-          "Under 7": 1.47
-        },
-        "Home Team Over/Under": {
-          "Over 1.5": 1.21,
-          "Under 1.5": 4.0,
-          "Over 2.5": 1.67,
-          "Under 2.5": 2.1,
-          "Over 3.5": 2.65,
-          "Under 3.5": 1.42
-        },
-        "Away Team Over/Under": {
-          "Over 2.5": 1.5,
-          "Under 2.5": 2.4,
-          "Over 3.5": 2.25,
-          "Under 3.5": 1.58,
-          "Over 4.5": 3.7,
-          "Under 4.5": 1.24
-        }
-      },
-      "HC Merano vs EHC Lustenau": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.84,
-          "2": 1.9
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 6.5": 1.55,
-          "Under 6.5": 2.3,
-          "Over 7": 1.83,
-          "Under 7": 1.87,
-          "Over 7.5": 2.25,
-          "Under 7.5": 1.57
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.39,
-          "Under 2.5": 2.75,
-          "Over 3.5": 1.97,
-          "Under 3.5": 1.74,
-          "Over 4.5": 3.1,
-          "Under 4.5": 1.32
-        },
-        "Away Team Over/Under": {
-          "Over 2.5": 1.41,
-          "Under 2.5": 2.7,
-          "Over 3.5": 2.05,
-          "Under 3.5": 1.7,
-          "Over 4.5": 3.25,
-          "Under 4.5": 1.3
-        }
-      },
-      "SG Cortina vs EHC Bregenzerwald": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.6,
-          "2": 2.25
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 6": 1.76,
-          "Under 6": 1.96,
-          "Over 6.5": 1.95,
-          "Under 6.5": 1.76,
-          "Over 7": 2.6,
-          "Under 7": 1.44
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.46,
-          "Under 2.5": 2.55,
-          "Over 3.5": 2.15,
-          "Under 3.5": 1.64,
-          "Over 4.5": 3.4,
-          "Under 4.5": 1.27
-        },
-        "Away Team Over/Under": {
-          "Over 1.5": 1.25,
-          "Under 1.5": 3.6,
-          "Over 2.5": 1.78,
-          "Under 2.5": 1.92,
-          "Over 3.5": 2.95,
-          "Under 3.5": 1.35
-        }
-      },
-      "SHC Fassa Falcons vs EK Zeller Eisbaren": {
+      }
+    },
+    "Spengler Cup": {},
+    "U20 World Championship": {
+      "Slovakia vs Finland": {
         "Winner (incl. overtime and penalties)": {
           "1": 2.55,
           "2": 1.48
         },
         "Total (incl. overtime and penalties)": {
-          "Over 6": 1.56,
-          "Under 6": 2.3,
-          "Over 6.5": 1.73,
-          "Under 6.5": 2.0,
-          "Over 7": 2.15,
-          "Under 7": 1.62
+          "Over 6": 1.73,
+          "Under 6": 2.0,
+          "Over 6.5": 1.92,
+          "Under 6.5": 1.8,
+          "Over 7": 2.5,
+          "Under 7": 1.46
         },
         "Home Team Over/Under": {
-          "Over 1.5": 1.24,
-          "Under 1.5": 3.7,
-          "Over 2.5": 1.76,
-          "Under 2.5": 1.95,
-          "Over 3.5": 2.9,
-          "Under 3.5": 1.36
+          "Over 1.5": 1.28,
+          "Under 1.5": 3.3,
+          "Over 2.5": 1.9,
+          "Under 2.5": 1.81,
+          "Over 3.5": 3.2,
+          "Under 3.5": 1.3
         },
         "Away Team Over/Under": {
-          "Over 2.5": 1.32,
-          "Under 2.5": 3.1,
-          "Over 3.5": 1.81,
-          "Under 3.5": 1.9,
-          "Over 4.5": 2.75,
-          "Under 4.5": 1.4
-        }
-      }
-    },
-    "Spengler Cup": {
-      "HC Pardubice vs KalPa Hockey": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.51,
-          "2": 2.45
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5.5": 1.65,
-          "Under 5.5": 2.1,
-          "Over 6": 1.81,
-          "Under 6": 1.9,
-          "Over 6.5": 2.0,
-          "Under 6.5": 1.71
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.43,
-          "Under 2.5": 2.65,
-          "Over 3.5": 2.05,
-          "Under 3.5": 1.68,
-          "Over 4.5": 3.3,
-          "Under 4.5": 1.29
-        },
-        "Away Team Over/Under": {
-          "Over 1.5": 1.3,
-          "Under 1.5": 3.25,
-          "Over 2.5": 1.93,
-          "Under 2.5": 1.78,
-          "Over 3.5": 3.3,
-          "Under 3.5": 1.29
+          "Over 2.5": 1.38,
+          "Under 2.5": 2.8,
+          "Over 3.5": 1.95,
+          "Under 3.5": 1.76,
+          "Over 4.5": 3.0,
+          "Under 4.5": 1.33
         }
       },
-      "Team Canada vs HC Davos": {
+      "Canada vs Czech Republic": {
         "Winner (incl. overtime and penalties)": {
-          "1": 1.36,
-          "2": 3.0
+          "1": 1.13,
+          "2": 5.4
         },
         "Total (incl. overtime and penalties)": {
-          "Over 5.5": 1.68,
-          "Under 5.5": 2.05,
-          "Over 6": 1.86,
-          "Under 6": 1.84,
-          "Over 6.5": 2.1,
-          "Under 6.5": 1.67
+          "Over 6.5": 1.68,
+          "Under 6.5": 2.05,
+          "Over 7": 2.05,
+          "Under 7": 1.7,
+          "Over 7.5": 2.45,
+          "Under 7.5": 1.49
         },
         "Home Team Over/Under": {
-          "Over 2.5": 1.35,
-          "Under 2.5": 2.95,
-          "Over 3.5": 1.87,
-          "Under 3.5": 1.83,
-          "Over 4.5": 2.9,
-          "Under 4.5": 1.36
+          "Over 3.5": 1.36,
+          "Under 3.5": 2.9,
+          "Over 4.5": 1.8,
+          "Under 4.5": 1.9,
+          "Over 5.5": 2.6,
+          "Under 5.5": 1.43
         },
         "Away Team Over/Under": {
-          "Over 1.5": 1.4,
-          "Under 1.5": 2.75,
-          "Over 2.5": 2.25,
-          "Under 2.5": 1.58,
-          "Over 3.5": 4.1,
-          "Under 3.5": 1.2
-        }
-      }
-    },
-    "U20 World Championship": {
-      "Switzerland vs USA": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 9.3,
-          "2": 1.04
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 6.5": 1.52,
-          "Under 6.5": 2.4,
-          "Over 7": 1.67,
-          "Under 7": 2.05,
-          "Over 7.5": 1.97,
-          "Under 7.5": 1.74,
-          "Over 8": 2.3,
-          "Under 8": 1.54
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.17,
-          "Under 0.5": 4.4,
-          "Over 1.5": 1.84,
-          "Under 1.5": 1.87,
-          "Over 2.5": 3.6,
-          "Under 2.5": 1.25
-        },
-        "Away Team Over/Under": {
-          "Over 3.5": 1.26,
-          "Under 3.5": 3.5,
-          "Over 4.5": 1.4,
-          "Under 4.5": 2.75,
-          "Over 5.5": 1.83,
-          "Under 5.5": 1.87,
-          "Over 6.5": 2.55,
-          "Under 6.5": 1.45
+          "Over 0.5": 1.1,
+          "Under 0.5": 5.75,
+          "Over 1.5": 1.56,
+          "Under 1.5": 2.3,
+          "Over 2.5": 2.7,
+          "Under 2.5": 1.41
         }
       },
-      "Germany vs Sweden": {
+      "USA vs Latvia": {
         "Winner (incl. overtime and penalties)": {
-          "1": 8.5,
-          "2": 1.05
+          "1": 1.01,
+          "2": 13.0
         },
         "Total (incl. overtime and penalties)": {
-          "Over 6": 1.52,
-          "Under 6": 2.35,
-          "Over 6.5": 1.73,
+          "Over 7": 1.58,
+          "Under 7": 2.25,
+          "Over 7.5": 1.83,
+          "Under 7.5": 1.87,
+          "Over 8": 2.1,
+          "Under 8": 1.65,
+          "Over 8.5": 2.1,
+          "Under 8.5": 1.65
+        },
+        "Home Team Over/Under": {
+          "Over 5.5": 1.46,
+          "Under 5.5": 2.55,
+          "Over 6.5": 1.87,
+          "Under 6.5": 1.84,
+          "Over 7.5": 2.5,
+          "Under 7.5": 1.46
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.26,
+          "Under 0.5": 3.5,
+          "Over 1.5": 2.2,
+          "Under 1.5": 1.6,
+          "Over 2.5": 4.7,
+          "Under 2.5": 1.15
+        }
+      },
+      "Sweden vs Switzerland": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.06,
+          "2": 8.0
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 6": 1.51,
+          "Under 6": 2.4,
+          "Over 6.5": 1.71,
           "Under 6.5": 2.0,
           "Over 7": 2.05,
-          "Under 7": 1.68,
-          "Over 7.5": 2.4,
-          "Under 7.5": 1.52
+          "Under 7": 1.7
         },
         "Home Team Over/Under": {
-          "Over 0.5": 1.21,
-          "Under 0.5": 4.0,
-          "Over 1.5": 2.0,
-          "Under 1.5": 1.73,
-          "Over 2.5": 4.1,
-          "Under 2.5": 1.2
-        },
-        "Away Team Over/Under": {
           "Over 3.5": 1.26,
           "Under 3.5": 3.5,
-          "Over 4.5": 1.58,
-          "Under 4.5": 2.25,
-          "Over 5.5": 2.15,
-          "Under 5.5": 1.61,
-          "Over 6.5": 3.2,
-          "Under 6.5": 1.31
-        }
-      },
-      "Latvia vs Finland": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 6.5,
-          "2": 1.09
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5.5": 1.73,
-          "Under 5.5": 2.0,
-          "Over 6": 1.97,
-          "Under 6": 1.75,
-          "Over 6.5": 2.25,
-          "Under 6.5": 1.58
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.22,
-          "Under 0.5": 3.8,
-          "Over 1.5": 2.05,
-          "Under 1.5": 1.68,
-          "Over 2.5": 4.3,
-          "Under 2.5": 1.18
+          "Over 4.5": 1.6,
+          "Under 4.5": 2.2,
+          "Over 5.5": 2.2,
+          "Under 5.5": 1.58
         },
         "Away Team Over/Under": {
-          "Over 3.5": 1.47,
-          "Under 3.5": 2.5,
-          "Over 4.5": 2.05,
-          "Under 4.5": 1.68,
-          "Over 5.5": 3.1,
-          "Under 5.5": 1.32
+          "Over 0.5": 1.18,
+          "Under 0.5": 4.25,
+          "Over 1.5": 1.9,
+          "Under 1.5": 1.81,
+          "Over 2.5": 3.75,
+          "Under 2.5": 1.23
         }
       },
-      "Czech Republic vs USA": {
+      "Germany vs Norway": {
         "Winner (incl. overtime and penalties)": {
-          "1": 4.25,
-          "2": 1.17
+          "1": 1.38,
+          "2": 2.75
         },
         "Total (incl. overtime and penalties)": {
-          "Over 7": 1.9,
-          "Under 7": 1.77
+          "Over 6": 1.87,
+          "Under 6": 1.8
         },
         "Home Team Over/Under": {
-          "Over 2.5": 2.2,
-          "Under 2.5": 1.52
-        },
-        "Away Team Over/Under": {
-          "Over 4.5": 1.83,
-          "Under 4.5": 1.78
-        }
-      },
-      "Canada vs Sweden": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.55,
-          "2": 2.25
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 6.5": 1.84,
-          "Under 6.5": 1.83
-        },
-        "Home Team Over/Under": {
-          "Over 3.5": 1.96,
-          "Under 3.5": 1.67
-        },
-        "Away Team Over/Under": {
-          "Over 2.5": 1.7,
-          "Under 2.5": 1.91
-        }
-      },
-      "Switzerland vs Norway": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.26,
-          "2": 3.4
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5.5": 1.83,
-          "Under 5.5": 1.84
-        },
-        "Home Team Over/Under": {
-          "Over 3.5": 1.82,
-          "Under 3.5": 1.78
-        },
-        "Away Team Over/Under": {
-          "Over 1.5": 1.54,
-          "Under 1.5": 2.15
-        }
-      },
-      "Germany vs Latvia": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.45,
-          "2": 2.5
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5.5": 1.83,
-          "Under 5.5": 1.84
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.51,
-          "Under 2.5": 2.2,
-          "Over 3.5": 2.1,
-          "Under 3.5": 1.57
+          "Over 3.5": 1.9,
+          "Under 3.5": 1.72
         },
         "Away Team Over/Under": {
           "Over 2.5": 2.1,
-          "Under 2.5": 1.57
-        }
-      },
-      "USA vs Slovakia": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.11,
-          "2": 5.3
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 7": 2.0,
-          "Under 7": 1.71
-        },
-        "Home Team Over/Under": {
-          "Over 4.5": 1.72,
-          "Under 4.5": 1.9
-        },
-        "Away Team Over/Under": {
-          "Over 1.5": 1.55,
-          "Under 1.5": 2.15
-        }
-      },
-      "Sweden vs Finland": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.64,
-          "2": 2.1
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5.5": 1.83,
-          "Under 5.5": 1.84
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.58,
-          "Under 2.5": 2.1
-        },
-        "Away Team Over/Under": {
-          "Over 2.5": 1.85,
-          "Under 2.5": 1.75
-        }
-      },
-      "Czech Republic vs Switzerland": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.4,
-          "2": 2.65
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 6": 1.81,
-          "Under 6": 1.86
-        },
-        "Home Team Over/Under": {
-          "Over 3.5": 1.87,
-          "Under 3.5": 1.73
-        },
-        "Away Team Over/Under": {
-          "Over 2.5": 2.0,
-          "Under 2.5": 1.63
-        }
-      },
-      "Canada vs Germany": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.01,
-          "2": 10.5
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 7.5": 1.8,
-          "Under 7.5": 1.87
-        },
-        "Home Team Over/Under": {
-          "Over 6.5": 1.81,
-          "Under 6.5": 1.8
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.4,
-          "Under 0.5": 2.5
+          "Under 2.5": 1.58
         }
       }
     },
@@ -1972,178 +849,10 @@
   },
   "Russia": {
     "VHL": {
-      "HC Akm Tula vs HC Bars Kazan": {
+      "Dinamo-Altai Barnaul vs Kristall Saratov": {
         "Winner (incl. overtime and penalties)": {
-          "1": 1.3,
-          "2": 3.7
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4": 1.47,
-          "Under 4": 2.7,
-          "Over 4.5": 1.67,
-          "Under 4.5": 2.2,
-          "Over 5": 2.15,
-          "Under 5": 1.71,
-          "Over 5.5": 2.75,
-          "Under 5.5": 1.45,
-          "Over 6": 3.5,
-          "Under 6": 1.31
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.03,
-          "Under 0.5": 13.0,
-          "Over 1.5": 1.2,
-          "Under 1.5": 4.6,
-          "Over 2.5": 1.61,
-          "Under 2.5": 2.35,
-          "Over 3.5": 2.45,
-          "Under 3.5": 1.55,
-          "Over 4.5": 4.3,
-          "Under 4.5": 1.22
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.21,
-          "Under 0.5": 4.5,
-          "Over 1.5": 2.0,
-          "Under 1.5": 1.83,
-          "Over 2.5": 4.1,
-          "Under 2.5": 1.24,
-          "Over 3.5": 9.25,
-          "Under 3.5": 1.06,
-          "Over 4.5": 16.5,
-          "Under 4.5": 1.01
-        }
-      },
-      "Rubin Tyumen vs Neftyanik Almetyevsk": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.46,
-          "2": 2.8
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4": 1.43,
-          "Under 4": 2.85,
-          "Over 4.5": 1.6,
-          "Under 4.5": 2.35,
-          "Over 5": 2.0,
-          "Under 5": 1.8,
-          "Over 5.5": 2.65,
-          "Under 5.5": 1.49,
-          "Over 6": 3.25,
-          "Under 6": 1.35
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.04,
-          "Under 0.5": 11.5,
-          "Over 1.5": 1.25,
-          "Under 1.5": 4.0,
-          "Over 2.5": 1.76,
-          "Under 2.5": 2.1,
-          "Over 3.5": 2.85,
-          "Under 3.5": 1.43,
-          "Over 4.5": 5.2,
-          "Under 4.5": 1.17
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.14,
-          "Under 0.5": 5.9,
-          "Over 1.5": 1.67,
-          "Under 1.5": 2.2,
-          "Over 2.5": 3.1,
-          "Under 2.5": 1.38,
-          "Over 3.5": 6.4,
-          "Under 3.5": 1.12,
-          "Over 4.5": 13.0,
-          "Under 4.5": 1.03
-        }
-      },
-      "Omskie Kryliya vs Buran Voronezh": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 2.5,
-          "2": 1.56
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4": 1.32,
-          "Under 4": 3.4,
-          "Over 4.5": 1.47,
-          "Under 4.5": 2.7,
-          "Over 5": 1.75,
-          "Under 5": 2.1,
-          "Over 5.5": 2.3,
-          "Under 5.5": 1.63,
-          "Over 6": 2.7,
-          "Under 6": 1.47
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.09,
-          "Under 0.5": 7.3,
-          "Over 1.5": 1.5,
-          "Under 1.5": 2.6,
-          "Over 2.5": 2.5,
-          "Under 2.5": 1.54,
-          "Over 3.5": 4.8,
-          "Under 3.5": 1.19,
-          "Over 4.5": 9.75,
-          "Under 4.5": 1.06
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.03,
-          "Under 0.5": 12.0,
-          "Over 1.5": 1.24,
-          "Under 1.5": 4.1,
-          "Over 2.5": 1.72,
-          "Under 2.5": 2.15,
-          "Over 3.5": 2.75,
-          "Under 3.5": 1.46,
-          "Over 4.5": 5.0,
-          "Under 4.5": 1.18
-        }
-      },
-      "HC Yugra Khanty-Mansiysk vs CSK VVS Samara": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.25,
-          "2": 4.2
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4": 1.31,
-          "Under 4": 3.5,
-          "Over 4.5": 1.47,
-          "Under 4.5": 2.7,
-          "Over 5": 1.73,
-          "Under 5": 2.1,
-          "Over 5.5": 2.2,
-          "Under 5.5": 1.67,
-          "Over 6": 2.65,
-          "Under 6": 1.49
-        },
-        "Home Team Over/Under": {
-          "Over 1.5": 1.13,
-          "Under 1.5": 5.9,
-          "Over 2.5": 1.43,
-          "Under 2.5": 2.85,
-          "Over 3.5": 2.05,
-          "Under 3.5": 1.8,
-          "Over 4.5": 3.3,
-          "Under 4.5": 1.34,
-          "Over 5.5": 5.9,
-          "Under 5.5": 1.14
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.18,
-          "Under 0.5": 4.9,
-          "Over 1.5": 1.86,
-          "Under 1.5": 1.95,
-          "Over 2.5": 3.7,
-          "Under 2.5": 1.28,
-          "Over 3.5": 8.2,
-          "Under 3.5": 1.08,
-          "Over 4.5": 15.5,
-          "Under 4.5": 1.02
-        }
-      },
-      "HC Khimik Voskresensk vs HC Norilsk": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.42,
-          "2": 2.9
+          "1": 1.28,
+          "2": 3.6
         },
         "Total (incl. overtime and penalties)": {
           "Over 5": 1.48,
@@ -2154,982 +863,490 @@
           "Under 6": 1.7
         },
         "Home Team Over/Under": {
-          "Over 1.5": 1.15,
-          "Under 1.5": 5.6,
-          "Over 2.5": 1.48,
-          "Under 2.5": 2.7,
-          "Over 3.5": 2.15,
-          "Under 3.5": 1.71,
-          "Over 4.5": 3.6,
-          "Under 4.5": 1.3,
-          "Over 5.5": 6.4,
-          "Under 5.5": 1.12
+          "Over 2.5": 1.36,
+          "Under 2.5": 3.0,
+          "Over 3.5": 1.87,
+          "Under 3.5": 1.86,
+          "Over 4.5": 2.9,
+          "Under 4.5": 1.37
         },
         "Away Team Over/Under": {
-          "Over 0.5": 1.09,
-          "Under 0.5": 7.7,
-          "Over 1.5": 1.47,
-          "Under 1.5": 2.7,
-          "Over 2.5": 2.4,
-          "Under 2.5": 1.57,
-          "Over 3.5": 4.6,
-          "Under 3.5": 1.2,
-          "Over 4.5": 9.4,
-          "Under 4.5": 1.06
+          "Over 0.5": 1.11,
+          "Under 0.5": 5.9,
+          "Over 1.5": 1.58,
+          "Under 1.5": 2.3,
+          "Over 2.5": 2.75,
+          "Under 2.5": 1.41
         }
       },
-      "HK Dinamo St. Petersburg vs Sokol Krasnoyarsk": {
+      "Toros Neftekamsk vs HK Molot": {
         "Winner (incl. overtime and penalties)": {
-          "1": 1.61,
-          "2": 2.35
+          "1": 1.9,
+          "2": 1.9
         },
         "Total (incl. overtime and penalties)": {
-          "Over 5": 1.5,
-          "Under 5": 2.55,
-          "Over 5.5": 1.93,
-          "Under 5.5": 1.84,
-          "Over 6": 2.2,
-          "Under 6": 1.65
+          "Over 5": 1.57,
+          "Under 5": 2.35,
+          "Over 5.5": 2.05,
+          "Under 5.5": 1.76,
+          "Over 6": 2.3,
+          "Under 6": 1.58
         },
         "Home Team Over/Under": {
-          "Over 0.5": 1.03,
-          "Under 0.5": 13.0,
-          "Over 1.5": 1.2,
-          "Under 1.5": 4.6,
-          "Over 2.5": 1.63,
-          "Under 2.5": 2.3,
-          "Over 3.5": 2.55,
-          "Under 3.5": 1.52,
-          "Over 4.5": 4.4,
-          "Under 4.5": 1.21
+          "Over 1.5": 1.28,
+          "Under 1.5": 3.5,
+          "Over 2.5": 1.86,
+          "Under 2.5": 1.87,
+          "Over 3.5": 3.1,
+          "Under 3.5": 1.34
         },
         "Away Team Over/Under": {
+          "Over 1.5": 1.28,
+          "Under 1.5": 3.5,
+          "Over 2.5": 1.86,
+          "Under 2.5": 1.87,
+          "Over 3.5": 3.1,
+          "Under 3.5": 1.34
+        }
+      },
+      "HC Akm Tula vs CSK VVS Samara": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.23,
+          "2": 4.0
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 4.5": 1.5,
+          "Under 4.5": 2.55,
+          "Over 5": 1.8,
+          "Under 5": 1.97,
+          "Over 5.5": 2.3,
+          "Under 5.5": 1.6
+        },
+        "Home Team Over/Under": {
+          "Over 2.5": 1.43,
+          "Under 2.5": 2.7,
+          "Over 3.5": 2.05,
+          "Under 3.5": 1.72,
+          "Over 4.5": 3.3,
+          "Under 4.5": 1.3
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.18,
+          "Under 0.5": 4.4,
+          "Over 1.5": 1.9,
+          "Under 1.5": 1.85,
+          "Over 2.5": 3.75,
+          "Under 2.5": 1.24
+        }
+      },
+      "HK Chelny vs Izhstal Izhevsk": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 2.0,
+          "2": 1.8
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 4.5": 1.51,
+          "Under 4.5": 2.5,
+          "Over 5": 1.85,
+          "Under 5": 1.93,
+          "Over 5.5": 2.4,
+          "Under 5.5": 1.55
+        },
+        "Home Team Over/Under": {
+          "Over 1.5": 1.38,
+          "Under 1.5": 2.9,
+          "Over 2.5": 2.15,
+          "Under 2.5": 1.65,
+          "Over 3.5": 3.9,
+          "Under 3.5": 1.23
+        },
+        "Away Team Over/Under": {
+          "Over 1.5": 1.33,
+          "Under 1.5": 3.2,
+          "Over 2.5": 2.0,
+          "Under 2.5": 1.76,
+          "Over 3.5": 3.4,
+          "Under 3.5": 1.29
+        }
+      }
+    },
+    "MHL": {
+      "Sibirskie Snaipery vs Sputnik Almetievsk": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.31,
+          "2": 3.1
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 6.5": 1.83,
+          "Under 6.5": 1.84
+        },
+        "Home Team Over/Under": {
+          "Over 3.5": 1.65,
+          "Under 3.5": 1.97
+        },
+        "Away Team Over/Under": {
+          "Over 2.5": 2.05,
+          "Under 2.5": 1.61
+        }
+      },
+      "Omskie Yastreby vs Reaktor Nizhnekamsk": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.19,
+          "2": 4.0
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 6.5": 1.83,
+          "Under 6.5": 1.84
+        },
+        "Home Team Over/Under": {
+          "Over 4.5": 2.1,
+          "Under 4.5": 1.58
+        },
+        "Away Team Over/Under": {
+          "Over 1.5": 1.45,
+          "Under 1.5": 2.35,
+          "Over 2.5": 2.35,
+          "Under 2.5": 1.46
+        }
+      },
+      "Loko Yaroslavl vs HC Taifun": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.02,
+          "2": 9.0
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 8": 1.8,
+          "Under 8": 1.87
+        },
+        "Home Team Over/Under": {
+          "Over 6.5": 1.96,
+          "Under 6.5": 1.67
+        },
+        "Away Team Over/Under": {
+          "Over 1.5": 1.68,
+          "Under 1.5": 1.93
+        }
+      }
+    },
+    "KHL": {
+      "Sibir Novosibirsk vs Admiral Vladivostok": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.53,
+          "2": 2.5
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 4": 1.58,
+          "Under 4": 2.35,
+          "Over 4.5": 1.78,
+          "Under 4.5": 2.0,
+          "Over 5": 2.45,
+          "Under 5": 1.54
+        },
+        "Home Team Over/Under": {
+          "Over 0.5": 1.06,
+          "Under 0.5": 9.4,
+          "Over 1.5": 1.35,
+          "Under 1.5": 3.25,
+          "Over 2.5": 2.0,
+          "Under 2.5": 1.8,
+          "Over 3.5": 3.5,
+          "Under 3.5": 1.31,
+          "Over 4.5": 6.8,
+          "Under 4.5": 1.11
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.15,
+          "Under 0.5": 5.5,
+          "Over 1.5": 1.74,
+          "Under 1.5": 2.1,
+          "Over 2.5": 3.25,
+          "Under 2.5": 1.35,
+          "Over 3.5": 6.9,
+          "Under 3.5": 1.11,
+          "Over 4.5": 13.5,
+          "Under 4.5": 1.02
+        }
+      },
+      "HK Avangard Omsk vs Salavat Yulaev UFA": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.87,
+          "2": 1.94
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 4.5": 1.51,
+          "Under 4.5": 2.5,
+          "Over 5": 1.85,
+          "Under 5": 1.92,
+          "Over 5.5": 2.4,
+          "Under 5.5": 1.55
+        },
+        "Home Team Over/Under": {
           "Over 0.5": 1.06,
           "Under 0.5": 9.1,
           "Over 1.5": 1.36,
           "Under 1.5": 3.2,
           "Over 2.5": 2.1,
-          "Under 2.5": 1.74,
-          "Over 3.5": 3.8,
-          "Under 3.5": 1.27,
-          "Over 4.5": 7.4,
-          "Under 4.5": 1.09
-        }
-      }
-    },
-    "MHL": {
-      "Loko Yaroslavl vs MHC Dinamo Saint Petersburg": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.1,
-          "2": 6.1
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 6": 1.52,
-          "Under 6": 2.4,
-          "Over 6.5": 1.61,
-          "Under 6.5": 2.15,
-          "Over 7": 1.9,
-          "Under 7": 1.81,
-          "Over 7.5": 2.25,
-          "Under 7.5": 1.56
-        },
-        "Home Team Over/Under": {
-          "Over 3.5": 1.3,
-          "Under 3.5": 3.25,
-          "Over 4.5": 1.67,
-          "Under 4.5": 2.1,
-          "Over 5.5": 2.35,
-          "Under 5.5": 1.52
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.11,
-          "Under 0.5": 5.6,
-          "Over 1.5": 1.58,
-          "Under 1.5": 2.2,
-          "Over 2.5": 2.8,
-          "Under 2.5": 1.39
-        }
-      },
-      "Akademiya SKA-Junior Krasnogorsk vs Akm-Junior Novomoskovsk U20": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.23,
-          "2": 3.9
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 6": 1.6,
-          "Under 6": 2.2,
-          "Over 6.5": 1.8,
-          "Under 6.5": 1.91,
-          "Over 7": 2.25,
-          "Under 7": 1.57
-        },
-        "Home Team Over/Under": {
-          "Over 3.5": 1.54,
-          "Under 3.5": 2.3,
-          "Over 4.5": 2.2,
-          "Under 4.5": 1.61,
-          "Over 5.5": 3.4,
-          "Under 5.5": 1.28
-        },
-        "Away Team Over/Under": {
-          "Over 1.5": 1.43,
-          "Under 1.5": 2.6,
-          "Over 2.5": 2.3,
-          "Under 2.5": 1.54,
-          "Over 3.5": 4.3,
-          "Under 3.5": 1.18
-        }
-      },
-      "Krylya Sovetov Moscow vs JHC Atlant Moscow Oblast": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.8,
-          "2": 1.95
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4.5": 1.43,
-          "Under 4.5": 2.6,
-          "Over 5": 1.7,
-          "Under 5": 2.05,
-          "Over 5.5": 2.2,
-          "Under 5.5": 1.6,
-          "Over 6": 2.45,
-          "Under 6": 1.49
-        },
-        "Home Team Over/Under": {
-          "Over 1.5": 1.29,
-          "Under 1.5": 3.25,
-          "Over 2.5": 1.9,
-          "Under 2.5": 1.8,
-          "Over 3.5": 3.2,
-          "Under 3.5": 1.3
-        },
-        "Away Team Over/Under": {
-          "Over 1.5": 1.33,
-          "Under 1.5": 3.0,
-          "Over 2.5": 2.05,
-          "Under 2.5": 1.71,
-          "Over 3.5": 3.5,
-          "Under 3.5": 1.26
-        }
-      },
-      "SKA-Kareliya Kondopoga U20 vs Amurskie Tigry Khabarovsk": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 5.6,
-          "2": 1.12
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 6.5": 1.57,
-          "Under 6.5": 2.25,
-          "Over 7": 1.82,
-          "Under 7": 1.9,
-          "Over 7.5": 2.2,
-          "Under 7.5": 1.61
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.09,
-          "Under 0.5": 6.1,
-          "Over 1.5": 1.51,
-          "Under 1.5": 2.4,
-          "Over 2.5": 2.55,
-          "Under 2.5": 1.46,
-          "Over 3.5": 4.6,
-          "Under 3.5": 1.16
-        },
-        "Away Team Over/Under": {
-          "Over 3.5": 1.3,
-          "Under 3.5": 3.2,
-          "Over 4.5": 1.68,
-          "Under 4.5": 2.05,
-          "Over 5.5": 2.35,
-          "Under 5.5": 1.52
-        }
-      },
-      "Omskie Yastreby vs Stalnye Lisy": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.34,
-          "2": 3.1
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5": 1.6,
-          "Under 5": 2.2,
-          "Over 5.5": 2.05,
-          "Under 5.5": 1.7,
-          "Over 6": 2.35,
-          "Under 6": 1.52
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.46,
-          "Under 2.5": 2.55,
-          "Over 3.5": 2.1,
-          "Under 3.5": 1.64,
-          "Over 4.5": 3.4,
-          "Under 4.5": 1.27
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.11,
-          "Under 0.5": 5.7,
-          "Over 1.5": 1.57,
-          "Under 1.5": 2.25,
-          "Over 2.5": 2.75,
-          "Under 2.5": 1.4
-        }
-      },
-      "Kuznetskie Medvedi vs Reaktor Nizhnekamsk": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.68,
-          "2": 2.1
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5.5": 1.7,
-          "Under 5.5": 2.05,
-          "Over 6": 1.87,
-          "Under 6": 1.84,
-          "Over 6.5": 2.05,
-          "Under 6.5": 1.68
-        },
-        "Home Team Over/Under": {
-          "Over 1.5": 1.16,
-          "Under 1.5": 4.5,
-          "Over 2.5": 1.55,
-          "Under 2.5": 2.3,
-          "Over 3.5": 2.35,
-          "Under 3.5": 1.53
-        },
-        "Away Team Over/Under": {
-          "Over 1.5": 1.25,
-          "Under 1.5": 3.6,
-          "Over 2.5": 1.78,
-          "Under 2.5": 1.93,
-          "Over 3.5": 2.9,
-          "Under 3.5": 1.36
-        }
-      },
-      "Sibirskie Snaipery vs Belye Medvedi": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 2.05,
-          "2": 1.7
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5": 1.39,
-          "Under 5": 2.75,
-          "Over 5.5": 1.76,
-          "Under 5.5": 1.95,
-          "Over 6": 1.96,
-          "Under 6": 1.76
-        },
-        "Home Team Over/Under": {
-          "Over 1.5": 1.26,
-          "Under 1.5": 3.5,
-          "Over 2.5": 1.81,
-          "Under 2.5": 1.9,
-          "Over 3.5": 3.0,
-          "Under 3.5": 1.34
-        },
-        "Away Team Over/Under": {
-          "Over 1.5": 1.18,
-          "Under 1.5": 4.25,
-          "Over 2.5": 1.6,
-          "Under 2.5": 2.2,
-          "Over 3.5": 2.45,
-          "Under 3.5": 1.49
-        }
-      }
-    },
-    "KHL": {
-      "HC Lada Togliatti vs HC Dynamo Moscow": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 2.6,
-          "2": 1.52
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4": 1.45,
-          "Under 4": 2.8,
-          "Over 4.5": 1.63,
-          "Under 4.5": 2.3,
-          "Over 5": 2.05,
-          "Under 5": 1.76,
-          "Over 5.5": 2.7,
-          "Under 5.5": 1.47,
-          "Over 6": 3.3,
-          "Under 6": 1.33
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.13,
-          "Under 0.5": 6.1,
-          "Over 1.5": 1.64,
-          "Under 1.5": 2.3,
-          "Over 2.5": 2.95,
-          "Under 2.5": 1.41,
-          "Over 3.5": 6.0,
-          "Under 3.5": 1.13,
-          "Over 4.5": 12.0,
-          "Under 4.5": 1.03
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.05,
-          "Under 0.5": 10.5,
-          "Over 1.5": 1.28,
-          "Under 1.5": 3.7,
-          "Over 2.5": 1.84,
-          "Under 2.5": 1.97,
-          "Over 3.5": 3.1,
-          "Under 3.5": 1.38,
-          "Over 4.5": 5.7,
-          "Under 4.5": 1.14
-        }
-      },
-      "Ak Bars Kazan vs Metallurg Magnitogorsk": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.81,
-          "2": 2.05
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4": 1.35,
-          "Under 4": 3.2,
-          "Over 4.5": 1.5,
-          "Under 4.5": 2.6,
-          "Over 5": 1.83,
-          "Under 5": 2.0,
-          "Over 5.5": 2.4,
-          "Under 5.5": 1.58,
-          "Over 6": 2.85,
-          "Under 6": 1.43
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.06,
-          "Under 0.5": 9.8,
-          "Over 1.5": 1.33,
-          "Under 1.5": 3.4,
-          "Over 2.5": 2.0,
-          "Under 2.5": 1.83,
-          "Over 3.5": 3.4,
-          "Under 3.5": 1.32,
-          "Over 4.5": 6.6,
-          "Under 4.5": 1.11
+          "Under 2.5": 1.75,
+          "Over 3.5": 3.7,
+          "Under 3.5": 1.28,
+          "Over 4.5": 7.2,
+          "Under 4.5": 1.1
         },
         "Away Team Over/Under": {
           "Over 0.5": 1.07,
-          "Under 0.5": 8.7,
-          "Over 1.5": 1.39,
-          "Under 1.5": 3.0,
-          "Over 2.5": 2.2,
-          "Under 2.5": 1.68,
-          "Over 3.5": 4.0,
-          "Under 3.5": 1.25,
-          "Over 4.5": 7.8,
-          "Under 4.5": 1.08
+          "Under 0.5": 8.8,
+          "Over 1.5": 1.38,
+          "Under 1.5": 3.1,
+          "Over 2.5": 2.15,
+          "Under 2.5": 1.71,
+          "Over 3.5": 3.9,
+          "Under 3.5": 1.26,
+          "Over 4.5": 7.6,
+          "Under 4.5": 1.09
         }
       },
-      "Severstal Cherepovets vs HC Red Star Kunlun": {
+      "Avtomobilist Yekaterinburg vs Traktor Chelyabinsk": {
         "Winner (incl. overtime and penalties)": {
-          "1": 1.42,
-          "2": 2.95
+          "1": 1.87,
+          "2": 1.94
         },
         "Total (incl. overtime and penalties)": {
-          "Over 4.5": 1.37,
-          "Under 4.5": 3.1,
-          "Over 5": 1.55,
-          "Under 5": 2.45,
-          "Over 5.5": 2.0,
-          "Under 5.5": 1.82,
-          "Over 6": 2.3,
-          "Under 6": 1.63,
-          "Over 6.5": 2.55,
-          "Under 6.5": 1.52
+          "Over 4.5": 1.62,
+          "Under 4.5": 2.25,
+          "Over 5": 2.1,
+          "Under 5": 1.73,
+          "Over 5.5": 2.7,
+          "Under 5.5": 1.45
+        },
+        "Home Team Over/Under": {
+          "Over 0.5": 1.08,
+          "Under 0.5": 8.3,
+          "Over 1.5": 1.41,
+          "Under 1.5": 2.9,
+          "Over 2.5": 2.25,
+          "Under 2.5": 1.65,
+          "Over 3.5": 4.1,
+          "Under 3.5": 1.24,
+          "Over 4.5": 8.1,
+          "Under 4.5": 1.08
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.08,
+          "Under 0.5": 8.0,
+          "Over 1.5": 1.44,
+          "Under 1.5": 2.8,
+          "Over 2.5": 2.3,
+          "Under 2.5": 1.62,
+          "Over 3.5": 4.3,
+          "Under 3.5": 1.22,
+          "Over 4.5": 8.6,
+          "Under 4.5": 1.07
+        }
+      },
+      "HC Sochi vs Metallurg Magnitogorsk": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 3.8,
+          "2": 1.27
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 5": 1.43,
+          "Under 5": 2.8,
+          "Over 5.5": 1.76,
+          "Under 5.5": 2.05,
+          "Over 6": 1.97,
+          "Under 6": 1.81,
+          "Over 6.5": 2.2,
+          "Under 6.5": 1.64
+        },
+        "Home Team Over/Under": {
+          "Over 0.5": 1.11,
+          "Under 0.5": 6.6,
+          "Over 1.5": 1.57,
+          "Under 1.5": 2.45,
+          "Over 2.5": 2.75,
+          "Under 2.5": 1.46,
+          "Over 3.5": 5.6,
+          "Under 3.5": 1.15,
+          "Over 4.5": 11.5,
+          "Under 4.5": 1.04
+        },
+        "Away Team Over/Under": {
+          "Over 1.5": 1.1,
+          "Under 1.5": 7.25,
+          "Over 2.5": 1.33,
+          "Under 2.5": 3.4,
+          "Over 3.5": 1.8,
+          "Under 3.5": 2.0,
+          "Over 4.5": 2.75,
+          "Under 4.5": 1.45,
+          "Over 5.5": 4.7,
+          "Under 5.5": 1.2
+        }
+      },
+      "Lokomotiv Yaroslavl vs HC Barys": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.24,
+          "2": 4.1
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 4.5": 1.57,
+          "Under 4.5": 2.35,
+          "Over 5": 1.94,
+          "Under 5": 1.84,
+          "Over 5.5": 2.5,
+          "Under 5.5": 1.52
         },
         "Home Team Over/Under": {
           "Over 1.5": 1.16,
-          "Under 1.5": 5.4,
+          "Under 1.5": 5.3,
           "Over 2.5": 1.5,
           "Under 2.5": 2.6,
           "Over 3.5": 2.2,
-          "Under 3.5": 1.67,
+          "Under 3.5": 1.68,
           "Over 4.5": 3.7,
           "Under 4.5": 1.28,
           "Over 5.5": 6.75,
           "Under 5.5": 1.11
         },
         "Away Team Over/Under": {
-          "Over 0.5": 1.1,
-          "Under 0.5": 7.25,
-          "Over 1.5": 1.5,
-          "Under 1.5": 2.6,
-          "Over 2.5": 2.55,
-          "Under 2.5": 1.53,
-          "Over 3.5": 4.9,
-          "Under 3.5": 1.18,
-          "Over 4.5": 10.0,
-          "Under 4.5": 1.05
+          "Over 0.5": 1.21,
+          "Under 0.5": 4.4,
+          "Over 1.5": 2.0,
+          "Under 1.5": 1.81,
+          "Over 2.5": 4.2,
+          "Under 2.5": 1.23,
+          "Over 3.5": 9.4,
+          "Under 3.5": 1.06,
+          "Over 4.5": 17.0,
+          "Under 4.5": 1.01
         }
       },
-      "Torpedo N. Novgorod vs Lokomotiv Yaroslavl": {
+      "Severstal Cherepovets vs Amur Khabarovsk": {
         "Winner (incl. overtime and penalties)": {
-          "1": 2.0,
-          "2": 1.85
+          "1": 1.63,
+          "2": 2.3
         },
         "Total (incl. overtime and penalties)": {
-          "Over 4": 1.48,
-          "Under 4": 2.65,
-          "Over 4.5": 1.67,
-          "Under 4.5": 2.25,
-          "Over 5": 2.15,
-          "Under 5": 1.7,
-          "Over 5.5": 2.85,
-          "Under 5.5": 1.44,
-          "Over 6": 3.5,
-          "Under 6": 1.31
+          "Over 4.5": 1.46,
+          "Under 4.5": 2.7,
+          "Over 5": 1.73,
+          "Under 5": 2.05,
+          "Over 5.5": 2.25,
+          "Under 5.5": 1.62
         },
         "Home Team Over/Under": {
-          "Over 0.5": 1.09,
-          "Under 0.5": 7.7,
-          "Over 1.5": 1.47,
-          "Under 1.5": 2.7,
-          "Over 2.5": 2.4,
-          "Under 2.5": 1.58,
-          "Over 3.5": 4.5,
-          "Under 3.5": 1.21,
-          "Over 4.5": 9.1,
-          "Under 4.5": 1.06
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.08,
-          "Under 0.5": 8.3,
-          "Over 1.5": 1.41,
-          "Under 1.5": 2.9,
-          "Over 2.5": 2.25,
-          "Under 2.5": 1.65,
-          "Over 3.5": 4.1,
-          "Under 3.5": 1.24,
-          "Over 4.5": 8.1,
-          "Under 4.5": 1.08
-        }
-      },
-      "Vityaz Podolsk vs Avtomobilist Yekaterinburg": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 2.45,
-          "2": 1.58
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4": 1.39,
-          "Under 4": 3.0,
-          "Over 4.5": 1.55,
-          "Under 4.5": 2.45,
-          "Over 5": 1.93,
-          "Under 5": 1.87,
-          "Over 5.5": 2.5,
-          "Under 5.5": 1.53,
-          "Over 6": 3.0,
-          "Under 6": 1.39
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.11,
-          "Under 0.5": 6.9,
-          "Over 1.5": 1.54,
-          "Under 1.5": 2.5,
-          "Over 2.5": 2.65,
-          "Under 2.5": 1.49,
-          "Over 3.5": 5.2,
-          "Under 3.5": 1.17,
-          "Over 4.5": 10.5,
-          "Under 4.5": 1.05
-        },
-        "Away Team Over/Under": {
           "Over 0.5": 1.04,
-          "Under 0.5": 11.0,
-          "Over 1.5": 1.28,
-          "Under 1.5": 3.75,
-          "Over 2.5": 1.83,
-          "Under 2.5": 2.0,
-          "Over 3.5": 3.0,
-          "Under 3.5": 1.39,
-          "Over 4.5": 5.6,
-          "Under 4.5": 1.15
-        }
-      },
-      "HC Dinamo Minsk vs Spartak Moscow": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 2.2,
-          "2": 1.71
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4.5": 1.33,
-          "Under 4.5": 3.4,
-          "Over 5": 1.48,
-          "Under 5": 2.65,
-          "Over 5.5": 1.9,
-          "Under 5.5": 1.9,
-          "Over 6": 2.15,
-          "Under 6": 1.71,
-          "Over 6.5": 2.4,
-          "Under 6.5": 1.58
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.05,
-          "Under 0.5": 10.0,
-          "Over 1.5": 1.32,
-          "Under 1.5": 3.4,
-          "Over 2.5": 1.97,
-          "Under 2.5": 1.85,
-          "Over 3.5": 3.4,
-          "Under 3.5": 1.32,
-          "Over 4.5": 6.5,
-          "Under 4.5": 1.12
+          "Under 0.5": 11.5,
+          "Over 1.5": 1.26,
+          "Under 1.5": 3.9,
+          "Over 2.5": 1.78,
+          "Under 2.5": 2.05,
+          "Over 3.5": 2.9,
+          "Under 3.5": 1.41,
+          "Over 4.5": 5.4,
+          "Under 4.5": 1.16
         },
         "Away Team Over/Under": {
-          "Over 0.5": 1.03,
-          "Under 0.5": 12.5,
-          "Over 1.5": 1.21,
-          "Under 1.5": 4.4,
-          "Over 2.5": 1.67,
-          "Under 2.5": 2.2,
-          "Over 3.5": 2.65,
-          "Under 3.5": 1.49,
-          "Over 4.5": 4.6,
-          "Under 4.5": 1.2
-        }
-      },
-      "HC Sochi vs Salavat Yulaev UFA": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 3.9,
-          "2": 1.28
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4.5": 1.39,
-          "Under 4.5": 3.0,
-          "Over 5": 1.58,
-          "Under 5": 2.4,
-          "Over 5.5": 2.05,
-          "Under 5.5": 1.8,
-          "Over 6": 2.35,
-          "Under 6": 1.6,
-          "Over 6.5": 2.65,
-          "Under 6.5": 1.49
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.14,
-          "Under 0.5": 5.7,
-          "Over 1.5": 1.7,
-          "Under 1.5": 2.15,
-          "Over 2.5": 3.2,
-          "Under 2.5": 1.36,
-          "Over 3.5": 6.75,
-          "Under 3.5": 1.11,
-          "Over 4.5": 13.5,
-          "Under 4.5": 1.03
-        },
-        "Away Team Over/Under": {
-          "Over 1.5": 1.12,
-          "Under 1.5": 6.25,
-          "Over 2.5": 1.4,
-          "Under 2.5": 2.95,
-          "Over 3.5": 1.97,
-          "Under 3.5": 1.84,
-          "Over 4.5": 3.2,
-          "Under 4.5": 1.36,
-          "Over 5.5": 5.6,
-          "Under 5.5": 1.15
-        }
-      },
-      "Admiral Vladivostok vs Neftekhimik Nizhnekamsk": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.85,
-          "2": 2.0
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4": 1.48,
-          "Under 4": 2.65,
-          "Over 4.5": 1.67,
-          "Under 4.5": 2.25,
-          "Over 5": 2.15,
-          "Under 5": 1.7,
-          "Over 5.5": 2.85,
-          "Under 5.5": 1.43,
-          "Over 6": 3.5,
-          "Under 6": 1.31
-        },
-        "Home Team Over/Under": {
           "Over 0.5": 1.08,
-          "Under 0.5": 8.3,
-          "Over 1.5": 1.41,
-          "Under 1.5": 2.9,
-          "Over 2.5": 2.25,
-          "Under 2.5": 1.65,
-          "Over 3.5": 4.1,
-          "Under 3.5": 1.24,
-          "Over 4.5": 8.1,
-          "Under 4.5": 1.08
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.09,
-          "Under 0.5": 7.6,
-          "Over 1.5": 1.47,
-          "Under 1.5": 2.7,
-          "Over 2.5": 2.4,
-          "Under 2.5": 1.58,
-          "Over 3.5": 4.5,
-          "Under 3.5": 1.2,
-          "Over 4.5": 9.1,
-          "Under 4.5": 1.06
+          "Under 0.5": 7.9,
+          "Over 1.5": 1.44,
+          "Under 1.5": 2.8,
+          "Over 2.5": 2.35,
+          "Under 2.5": 1.6,
+          "Over 3.5": 4.4,
+          "Under 3.5": 1.22,
+          "Over 4.5": 8.8,
+          "Under 4.5": 1.07
         }
       },
-      "Metallurg Magnitogorsk vs HC Red Star Kunlun": {
+      "SKA Saint Petersburg vs Vityaz Podolsk": {
         "Winner (incl. overtime and penalties)": {
           "1": 1.24,
           "2": 4.1
         },
         "Total (incl. overtime and penalties)": {
-          "Over 5": 1.42,
-          "Under 5": 2.8,
-          "Over 5.5": 1.78,
-          "Under 5.5": 2.0,
-          "Over 6": 2.0,
-          "Under 6": 1.78
+          "Over 5": 1.53,
+          "Under 5": 2.45,
+          "Over 5.5": 1.95,
+          "Under 5.5": 1.83,
+          "Over 6": 2.25,
+          "Under 6": 1.63
         },
         "Home Team Over/Under": {
-          "Over 1.5": 1.09,
-          "Under 1.5": 7.5,
-          "Over 2.5": 1.31,
-          "Under 2.5": 3.5,
-          "Over 3.5": 1.77,
-          "Under 3.5": 2.05,
-          "Over 4.5": 2.7,
-          "Under 4.5": 1.47,
-          "Over 5.5": 4.5,
-          "Under 5.5": 1.21
+          "Over 1.5": 1.11,
+          "Under 1.5": 6.75,
+          "Over 2.5": 1.36,
+          "Under 2.5": 3.2,
+          "Over 3.5": 1.87,
+          "Under 3.5": 1.94,
+          "Over 4.5": 2.9,
+          "Under 4.5": 1.41,
+          "Over 5.5": 5.0,
+          "Under 5.5": 1.17
         },
         "Away Team Over/Under": {
-          "Over 0.5": 1.13,
-          "Under 0.5": 6.1,
-          "Over 1.5": 1.63,
-          "Under 1.5": 2.3,
-          "Over 2.5": 2.95,
-          "Under 2.5": 1.41,
-          "Over 3.5": 6.2,
-          "Under 3.5": 1.13,
-          "Over 4.5": 12.5,
-          "Under 4.5": 1.03
+          "Over 0.5": 1.15,
+          "Under 0.5": 5.5,
+          "Over 1.5": 1.73,
+          "Under 1.5": 2.1,
+          "Over 2.5": 3.25,
+          "Under 2.5": 1.34,
+          "Over 3.5": 7.0,
+          "Under 3.5": 1.1,
+          "Over 4.5": 14.0,
+          "Under 4.5": 1.02
         }
       },
-      "Ak Bars Kazan vs Salavat Yulaev UFA": {
+      "Torpedo N. Novgorod vs HC Red Star Kunlun": {
         "Winner (incl. overtime and penalties)": {
-          "1": 1.67,
-          "2": 2.25
+          "1": 1.26,
+          "2": 3.75
         },
         "Total (incl. overtime and penalties)": {
-          "Over 4.5": 1.57,
-          "Under 4.5": 2.35,
-          "Over 5": 1.97,
-          "Under 5": 1.81,
-          "Over 5.5": 2.55,
-          "Under 5.5": 1.49
+          "Over 5": 1.45,
+          "Under 5": 2.7,
+          "Over 5.5": 1.84,
+          "Under 5.5": 1.94,
+          "Over 6": 2.1,
+          "Under 6": 1.73
         },
         "Home Team Over/Under": {
-          "Over 0.5": 1.05,
-          "Under 0.5": 10.0,
-          "Over 1.5": 1.32,
-          "Under 1.5": 3.4,
-          "Over 2.5": 1.96,
-          "Under 2.5": 1.86,
-          "Over 3.5": 3.4,
-          "Under 3.5": 1.33,
-          "Over 4.5": 6.4,
-          "Under 4.5": 1.12
+          "Over 2.5": 1.33,
+          "Under 2.5": 3.1,
+          "Over 3.5": 1.82,
+          "Under 3.5": 1.92,
+          "Over 4.5": 2.8,
+          "Under 4.5": 1.41
         },
         "Away Team Over/Under": {
-          "Over 0.5": 1.1,
-          "Under 0.5": 7.3,
-          "Over 1.5": 1.5,
-          "Under 1.5": 2.6,
-          "Over 2.5": 2.5,
-          "Under 2.5": 1.54,
-          "Over 3.5": 4.8,
-          "Under 3.5": 1.19,
-          "Over 4.5": 9.8,
-          "Under 4.5": 1.06
-        }
-      },
-      "HC Barys vs Traktor Chelyabinsk": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 2.3,
-          "2": 1.63
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4.5": 1.47,
-          "Under 4.5": 2.65,
-          "Over 5": 1.77,
-          "Under 5": 2.05,
-          "Over 5.5": 2.3,
-          "Under 5.5": 1.6
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.08,
-          "Under 0.5": 7.8,
-          "Over 1.5": 1.45,
-          "Under 1.5": 2.75,
-          "Over 2.5": 2.35,
-          "Under 2.5": 1.6,
-          "Over 3.5": 4.5,
-          "Under 3.5": 1.21,
-          "Over 4.5": 9.0,
-          "Under 4.5": 1.07
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.04,
-          "Under 0.5": 11.0,
-          "Over 1.5": 1.27,
-          "Under 1.5": 3.8,
-          "Over 2.5": 1.81,
-          "Under 2.5": 2.0,
-          "Over 3.5": 3.0,
-          "Under 3.5": 1.4,
-          "Over 4.5": 5.5,
-          "Under 4.5": 1.15
-        }
-      },
-      "Vityaz Podolsk vs Spartak Moscow": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 2.85,
-          "2": 1.43
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5": 1.55,
-          "Under 5": 2.4,
-          "Over 5.5": 1.97,
-          "Under 5.5": 1.8,
-          "Over 6": 2.3,
-          "Under 6": 1.61
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.09,
-          "Under 0.5": 7.3,
-          "Over 1.5": 1.49,
-          "Under 1.5": 2.65,
-          "Over 2.5": 2.5,
-          "Under 2.5": 1.54,
-          "Over 3.5": 4.9,
-          "Under 3.5": 1.18,
-          "Over 4.5": 9.9,
-          "Under 4.5": 1.05
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.03,
-          "Under 0.5": 13.5,
-          "Over 1.5": 1.16,
-          "Under 1.5": 5.25,
-          "Over 2.5": 1.52,
-          "Under 2.5": 2.55,
-          "Over 3.5": 2.25,
-          "Under 3.5": 1.65,
-          "Over 4.5": 3.8,
-          "Under 4.5": 1.27,
-          "Over 5.5": 6.9,
-          "Under 5.5": 1.1
-        }
-      },
-      "HC Lada Togliatti vs HK Avangard Omsk": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 2.4,
-          "2": 1.57
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4.5": 1.53,
-          "Under 4.5": 2.45,
-          "Over 5": 1.87,
-          "Under 5": 1.9,
-          "Over 5.5": 2.45,
-          "Under 5.5": 1.54
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.1,
-          "Under 0.5": 7.0,
-          "Over 1.5": 1.53,
-          "Under 1.5": 2.55,
-          "Over 2.5": 2.6,
-          "Under 2.5": 1.51,
-          "Over 3.5": 5.1,
-          "Under 3.5": 1.17,
-          "Over 4.5": 10.5,
-          "Under 4.5": 1.05
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.04,
-          "Under 0.5": 11.0,
-          "Over 1.5": 1.27,
-          "Under 1.5": 3.8,
-          "Over 2.5": 1.82,
-          "Under 2.5": 2.0,
-          "Over 3.5": 3.0,
-          "Under 3.5": 1.39,
-          "Over 4.5": 5.6,
-          "Under 4.5": 1.15
-        }
-      },
-      "CSKA Moscow vs Severstal Cherepovets": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.39,
-          "2": 3.0
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4.5": 1.44,
-          "Under 4.5": 2.75,
-          "Over 5": 1.68,
-          "Under 5": 2.15,
-          "Over 5.5": 2.2,
-          "Under 5.5": 1.67
-        },
-        "Home Team Over/Under": {
-          "Over 1.5": 1.18,
-          "Under 1.5": 5.0,
-          "Over 2.5": 1.56,
-          "Under 2.5": 2.45,
-          "Over 3.5": 2.35,
-          "Under 3.5": 1.6,
-          "Over 4.5": 4.0,
-          "Under 4.5": 1.25,
-          "Over 5.5": 7.4,
-          "Under 5.5": 1.09
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.12,
-          "Under 0.5": 6.4,
+          "Over 0.5": 1.11,
+          "Under 0.5": 5.8,
           "Over 1.5": 1.6,
-          "Under 1.5": 2.35,
-          "Over 2.5": 2.85,
-          "Under 2.5": 1.43,
-          "Over 3.5": 5.8,
-          "Under 3.5": 1.14,
-          "Over 4.5": 12.0,
-          "Under 4.5": 1.04
+          "Under 1.5": 2.25,
+          "Over 2.5": 2.8,
+          "Under 2.5": 1.4
         }
       },
-      "HC Sochi vs HC Dinamo Minsk": {
+      "Neftekhimik Nizhnekamsk vs HC Lada Togliatti": {
         "Winner (incl. overtime and penalties)": {
-          "1": 3.1,
-          "2": 1.37
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5": 1.43,
-          "Under 5": 2.8,
-          "Over 5.5": 1.81,
-          "Under 5.5": 1.97,
-          "Over 6": 2.05,
-          "Under 6": 1.77
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.09,
-          "Under 0.5": 7.6,
-          "Over 1.5": 1.47,
-          "Under 1.5": 2.7,
-          "Over 2.5": 2.45,
-          "Under 2.5": 1.56,
-          "Over 3.5": 4.75,
-          "Under 3.5": 1.19,
-          "Over 4.5": 9.6,
-          "Under 4.5": 1.06
-        },
-        "Away Team Over/Under": {
-          "Over 1.5": 1.12,
-          "Under 1.5": 6.2,
-          "Over 2.5": 1.41,
-          "Under 2.5": 2.95,
-          "Over 3.5": 2.0,
-          "Under 3.5": 1.82,
-          "Over 4.5": 3.2,
-          "Under 4.5": 1.36,
-          "Over 5.5": 5.6,
-          "Under 5.5": 1.15
-        }
-      },
-      "Lokomotiv Yaroslavl vs HC Dynamo Moscow": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.82,
+          "1": 1.78,
           "2": 2.0
         },
         "Total (incl. overtime and penalties)": {
-          "Over 4.5": 1.63,
-          "Under 4.5": 2.25,
-          "Over 5": 2.1,
-          "Under 5": 1.72,
-          "Over 5.5": 2.75,
-          "Under 5.5": 1.44
+          "Over 4.5": 1.51,
+          "Under 4.5": 2.5,
+          "Over 5": 1.85,
+          "Under 5": 1.92,
+          "Over 5.5": 2.4,
+          "Under 5.5": 1.55
         },
         "Home Team Over/Under": {
-          "Over 0.5": 1.07,
-          "Under 0.5": 8.5,
-          "Over 1.5": 1.4,
-          "Under 1.5": 3.0,
-          "Over 2.5": 2.2,
-          "Under 2.5": 1.68,
-          "Over 3.5": 4.0,
-          "Under 3.5": 1.25,
-          "Over 4.5": 7.8,
-          "Under 4.5": 1.08
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.09,
-          "Under 0.5": 7.7,
-          "Over 1.5": 1.46,
-          "Under 1.5": 2.75,
-          "Over 2.5": 2.4,
-          "Under 2.5": 1.58,
-          "Over 3.5": 4.5,
-          "Under 3.5": 1.21,
-          "Over 4.5": 9.0,
-          "Under 4.5": 1.07
-        }
-      },
-      "SKA Saint Petersburg vs Avtomobilist Yekaterinburg": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.55,
-          "2": 2.4
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4.5": 1.49,
-          "Under 4.5": 2.55,
-          "Over 5": 1.8,
-          "Under 5": 1.97,
-          "Over 5.5": 2.35,
-          "Under 5.5": 1.58
-        },
-        "Home Team Over/Under": {
-          "Over 1.5": 1.24,
-          "Under 1.5": 3.8,
-          "Over 2.5": 1.74,
-          "Under 2.5": 2.0,
-          "Over 3.5": 2.8,
-          "Under 3.5": 1.41
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.09,
-          "Under 0.5": 6.5,
-          "Over 1.5": 1.49,
-          "Under 1.5": 2.5,
-          "Over 2.5": 2.5,
-          "Under 2.5": 1.5,
-          "Over 3.5": 4.7,
-          "Under 3.5": 1.17
-        }
-      },
-      "HK Avangard Omsk vs Salavat Yulaev UFA": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.73,
-          "2": 2.1
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4.5": 1.48,
-          "Under 4.5": 2.6,
-          "Over 5": 1.78,
-          "Under 5": 2.0,
-          "Over 5.5": 2.3,
-          "Under 5.5": 1.6
-        },
-        "Home Team Over/Under": {
-          "Over 1.5": 1.29,
-          "Under 1.5": 3.4,
-          "Over 2.5": 1.87,
-          "Under 2.5": 1.86,
-          "Over 3.5": 3.1,
-          "Under 3.5": 1.33
+          "Over 1.5": 1.32,
+          "Under 1.5": 3.2,
+          "Over 2.5": 1.97,
+          "Under 2.5": 1.77,
+          "Over 3.5": 3.4,
+          "Under 3.5": 1.29
         },
         "Away Team Over/Under": {
           "Over 1.5": 1.39,
@@ -3140,10 +1357,228 @@
           "Under 3.5": 1.23
         }
       },
+      "Sibir Novosibirsk vs Salavat Yulaev UFA": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.97,
+          "2": 1.81
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 4": 1.49,
+          "Under 4": 2.55,
+          "Over 4.5": 1.63,
+          "Under 4.5": 2.25,
+          "Over 5": 2.1,
+          "Under 5": 1.72,
+          "Over 5.5": 2.75,
+          "Under 5.5": 1.44
+        },
+        "Home Team Over/Under": {
+          "Over 1.5": 1.44,
+          "Under 1.5": 2.65,
+          "Over 2.5": 2.3,
+          "Under 2.5": 1.57,
+          "Over 3.5": 4.25,
+          "Under 3.5": 1.2
+        },
+        "Away Team Over/Under": {
+          "Over 1.5": 1.39,
+          "Under 1.5": 2.85,
+          "Over 2.5": 2.15,
+          "Under 2.5": 1.65,
+          "Over 3.5": 3.8,
+          "Under 3.5": 1.24
+        }
+      },
+      "Traktor Chelyabinsk vs HC Barys": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.3,
+          "2": 3.5
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 4.5": 1.47,
+          "Under 4.5": 2.65,
+          "Over 5": 1.74,
+          "Under 5": 2.05,
+          "Over 5.5": 2.25,
+          "Under 5.5": 1.63
+        },
+        "Home Team Over/Under": {
+          "Over 2.5": 1.48,
+          "Under 2.5": 2.55,
+          "Over 3.5": 2.15,
+          "Under 3.5": 1.65,
+          "Over 4.5": 3.5,
+          "Under 4.5": 1.27
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.14,
+          "Under 0.5": 5.1,
+          "Over 1.5": 1.72,
+          "Under 1.5": 2.05,
+          "Over 2.5": 3.2,
+          "Under 2.5": 1.32
+        }
+      },
+      "Ak Bars Kazan vs Admiral Vladivostok": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.26,
+          "2": 3.8
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 4": 1.49,
+          "Under 4": 2.55,
+          "Over 4.5": 1.7,
+          "Under 4.5": 2.1,
+          "Over 5": 2.2,
+          "Under 5": 1.65
+        },
+        "Home Team Over/Under": {
+          "Over 1.5": 1.19,
+          "Under 1.5": 4.4,
+          "Over 2.5": 1.57,
+          "Under 2.5": 2.3,
+          "Over 3.5": 2.4,
+          "Under 3.5": 1.54,
+          "Over 4.5": 4.0,
+          "Under 4.5": 1.22
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.22,
+          "Under 0.5": 4.0,
+          "Over 1.5": 2.05,
+          "Under 1.5": 1.71,
+          "Over 2.5": 4.3,
+          "Under 2.5": 1.19
+        }
+      },
+      "HC Sochi vs Avtomobilist Yekaterinburg": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 2.95,
+          "2": 1.39
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 5": 1.62,
+          "Under 5": 2.25,
+          "Over 5.5": 2.1,
+          "Under 5.5": 1.73,
+          "Over 6": 2.4,
+          "Under 6": 1.55
+        },
+        "Home Team Over/Under": {
+          "Over 0.5": 1.1,
+          "Under 0.5": 6.2,
+          "Over 1.5": 1.53,
+          "Under 1.5": 2.4,
+          "Over 2.5": 2.65,
+          "Under 2.5": 1.45,
+          "Over 3.5": 4.7,
+          "Under 3.5": 1.17
+        },
+        "Away Team Over/Under": {
+          "Over 1.5": 1.18,
+          "Under 1.5": 4.6,
+          "Over 2.5": 1.51,
+          "Under 2.5": 2.45,
+          "Over 3.5": 2.25,
+          "Under 3.5": 1.61,
+          "Over 4.5": 3.7,
+          "Under 4.5": 1.25
+        }
+      },
+      "Neftekhimik Nizhnekamsk vs Metallurg Magnitogorsk": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 2.45,
+          "2": 1.53
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 5": 1.54,
+          "Under 5": 2.45,
+          "Over 5.5": 1.97,
+          "Under 5.5": 1.8,
+          "Over 6": 2.25,
+          "Under 6": 1.62
+        },
+        "Home Team Over/Under": {
+          "Over 1.5": 1.4,
+          "Under 1.5": 2.8,
+          "Over 2.5": 2.2,
+          "Under 2.5": 1.62,
+          "Over 3.5": 4.0,
+          "Under 3.5": 1.22
+        },
+        "Away Team Over/Under": {
+          "Over 1.5": 1.18,
+          "Under 1.5": 4.5,
+          "Over 2.5": 1.58,
+          "Under 2.5": 2.3,
+          "Over 3.5": 2.4,
+          "Under 3.5": 1.53
+        }
+      },
+      "Severstal Cherepovets vs Vityaz Podolsk": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.47,
+          "2": 2.6
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 5": 1.61,
+          "Under 5": 2.25,
+          "Over 5.5": 2.1,
+          "Under 5.5": 1.73,
+          "Over 6": 2.4,
+          "Under 6": 1.55
+        },
+        "Home Team Over/Under": {
+          "Over 1.5": 1.18,
+          "Under 1.5": 4.5,
+          "Over 2.5": 1.58,
+          "Under 2.5": 2.3,
+          "Over 3.5": 2.4,
+          "Under 3.5": 1.53
+        },
+        "Away Team Over/Under": {
+          "Over 1.5": 1.46,
+          "Under 1.5": 2.6,
+          "Over 2.5": 2.4,
+          "Under 2.5": 1.53,
+          "Over 3.5": 4.5,
+          "Under 3.5": 1.18
+        }
+      },
+      "SKA Saint Petersburg vs Lokomotiv Yaroslavl": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.74,
+          "2": 2.05
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 4.5": 1.54,
+          "Under 4.5": 2.45,
+          "Over 5": 1.9,
+          "Under 5": 1.87,
+          "Over 5.5": 2.5,
+          "Under 5.5": 1.52
+        },
+        "Home Team Over/Under": {
+          "Over 1.5": 1.32,
+          "Under 1.5": 3.2,
+          "Over 2.5": 1.97,
+          "Under 2.5": 1.77,
+          "Over 3.5": 3.4,
+          "Under 3.5": 1.29
+        },
+        "Away Team Over/Under": {
+          "Over 1.5": 1.42,
+          "Under 1.5": 2.75,
+          "Over 2.5": 2.25,
+          "Under 2.5": 1.6,
+          "Over 3.5": 4.1,
+          "Under 3.5": 1.21
+        }
+      },
       "CSKA Moscow vs Spartak Moscow": {
         "Winner (incl. overtime and penalties)": {
-          "1": 1.9,
-          "2": 1.87
+          "1": 1.78,
+          "2": 2.0
         },
         "Total (incl. overtime and penalties)": {
           "Over 5": 1.57,
@@ -3154,20 +1589,50 @@
           "Under 6": 1.6
         },
         "Home Team Over/Under": {
-          "Over 1.5": 1.28,
-          "Under 1.5": 3.5,
-          "Over 2.5": 1.87,
-          "Under 2.5": 1.87,
-          "Over 3.5": 3.1,
-          "Under 3.5": 1.33
+          "Over 1.5": 1.25,
+          "Under 1.5": 3.7,
+          "Over 2.5": 1.78,
+          "Under 2.5": 1.96,
+          "Over 3.5": 2.9,
+          "Under 3.5": 1.38
         },
         "Away Team Over/Under": {
-          "Over 1.5": 1.27,
-          "Under 1.5": 3.5,
-          "Over 2.5": 1.84,
-          "Under 2.5": 1.9,
-          "Over 3.5": 3.1,
-          "Under 3.5": 1.35
+          "Over 1.5": 1.3,
+          "Under 1.5": 3.3,
+          "Over 2.5": 1.93,
+          "Under 2.5": 1.81,
+          "Over 3.5": 3.3,
+          "Under 3.5": 1.31
+        }
+      },
+      "HC Dinamo Minsk vs Amur Khabarovsk": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.56,
+          "2": 2.4
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 4.5": 1.54,
+          "Under 4.5": 2.45,
+          "Over 5": 1.91,
+          "Under 5": 1.87,
+          "Over 5.5": 2.5,
+          "Under 5.5": 1.52
+        },
+        "Home Team Over/Under": {
+          "Over 1.5": 1.26,
+          "Under 1.5": 3.6,
+          "Over 2.5": 1.81,
+          "Under 2.5": 1.94,
+          "Over 3.5": 2.95,
+          "Under 3.5": 1.37
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.1,
+          "Under 0.5": 6.4,
+          "Over 1.5": 1.52,
+          "Under 1.5": 2.45,
+          "Over 2.5": 2.55,
+          "Under 2.5": 1.47
         }
       },
       "HC Dynamo Moscow vs Spartak Moscow": {
@@ -3204,22 +1669,1267 @@
   },
   "Sweden": {
     "SHL": {
-      "HC Orebro vs Linkopings HC": {
+      "Malmo IF vs Skelleftea AIK": {
         "Winner (incl. overtime and penalties)": {
-          "1": 1.71,
+          "1": 2.2,
+          "2": 1.7
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 4": 1.32,
+          "Under 4": 3.4,
+          "Over 4.5": 1.46,
+          "Under 4.5": 2.75,
+          "Over 5": 1.76,
+          "Under 5": 2.1,
+          "Over 5.5": 2.3,
+          "Under 5.5": 1.62,
+          "Over 6": 2.75,
+          "Under 6": 1.46
+        },
+        "Home Team Over/Under": {
+          "Over 0.5": 1.08,
+          "Under 0.5": 8.2,
+          "Over 1.5": 1.42,
+          "Under 1.5": 2.9,
+          "Over 2.5": 2.25,
+          "Under 2.5": 1.64,
+          "Over 3.5": 4.1,
+          "Under 3.5": 1.24,
+          "Over 4.5": 8.25,
+          "Under 4.5": 1.08
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.05,
+          "Under 0.5": 10.5,
+          "Over 1.5": 1.28,
+          "Under 1.5": 3.7,
+          "Over 2.5": 1.84,
+          "Under 2.5": 1.97,
+          "Over 3.5": 3.0,
+          "Under 3.5": 1.39,
+          "Over 4.5": 5.7,
+          "Under 4.5": 1.14
+        }
+      },
+      "Farjestads BK vs Frolunda HC": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.5,
+          "2": 2.55
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 4.5": 1.43,
+          "Under 4.5": 2.8,
+          "Over 5": 1.68,
+          "Under 5": 2.15,
+          "Over 5.5": 2.2,
+          "Under 5.5": 1.65
+        },
+        "Home Team Over/Under": {
+          "Over 1.5": 1.2,
+          "Under 1.5": 4.2,
+          "Over 2.5": 1.63,
+          "Under 2.5": 2.2,
+          "Over 3.5": 2.5,
+          "Under 3.5": 1.49
+        },
+        "Away Team Over/Under": {
+          "Over 1.5": 1.48,
+          "Under 1.5": 2.5,
+          "Over 2.5": 2.45,
+          "Under 2.5": 1.51,
+          "Over 3.5": 4.6,
+          "Under 3.5": 1.17
+        }
+      },
+      "HC Orebro vs HV 71": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.49,
+          "2": 2.55
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 5": 1.62,
+          "Under 5": 2.25,
+          "Over 5.5": 2.1,
+          "Under 5.5": 1.71,
+          "Over 6": 2.45,
+          "Under 6": 1.54
+        },
+        "Home Team Over/Under": {
+          "Over 1.5": 1.19,
+          "Under 1.5": 4.4,
+          "Over 2.5": 1.58,
+          "Under 2.5": 2.3,
+          "Over 3.5": 2.4,
+          "Under 3.5": 1.53
+        },
+        "Away Team Over/Under": {
+          "Over 1.5": 1.46,
+          "Under 1.5": 2.6,
+          "Over 2.5": 2.4,
+          "Under 2.5": 1.53,
+          "Over 3.5": 4.4,
+          "Under 3.5": 1.18
+        }
+      },
+      "IK Oskarshamn vs Skelleftea AIK": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 2.45,
+          "2": 1.54
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 5": 1.47,
+          "Under 5": 2.65,
+          "Over 5.5": 1.9,
+          "Under 5.5": 1.9,
+          "Over 6": 2.15,
+          "Under 6": 1.7
+        },
+        "Home Team Over/Under": {
+          "Over 1.5": 1.36,
+          "Under 1.5": 2.95,
+          "Over 2.5": 2.1,
+          "Under 2.5": 1.68,
+          "Over 3.5": 3.7,
+          "Under 3.5": 1.25
+        },
+        "Away Team Over/Under": {
+          "Over 2.5": 1.54,
+          "Under 2.5": 2.4,
+          "Over 3.5": 2.3,
+          "Under 3.5": 1.58,
+          "Over 4.5": 3.8,
+          "Under 4.5": 1.24
+        }
+      },
+      "Leksands IF vs Rogle BK": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.65,
           "2": 2.2
         },
         "Total (incl. overtime and penalties)": {
+          "Over 4.5": 1.5,
+          "Under 4.5": 2.55,
+          "Over 5": 1.84,
+          "Under 5": 1.94,
+          "Over 5.5": 2.4,
+          "Under 5.5": 1.55
+        },
+        "Home Team Over/Under": {
+          "Over 1.5": 1.28,
+          "Under 1.5": 3.5,
+          "Over 2.5": 1.84,
+          "Under 2.5": 1.9,
+          "Over 3.5": 3.0,
+          "Under 3.5": 1.35
+        },
+        "Away Team Over/Under": {
+          "Over 1.5": 1.45,
+          "Under 1.5": 2.65,
+          "Over 2.5": 2.35,
+          "Under 2.5": 1.56,
+          "Over 3.5": 4.25,
+          "Under 3.5": 1.2
+        }
+      },
+      "Lulea Hockey vs MODO Hockey": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.37,
+          "2": 3.0
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 4.5": 1.6,
+          "Under 4.5": 2.3,
+          "Over 5": 2.05,
+          "Under 5": 1.76,
+          "Over 5.5": 2.65,
+          "Under 5.5": 1.46
+        },
+        "Home Team Over/Under": {
+          "Over 1.5": 1.21,
+          "Under 1.5": 4.1,
+          "Over 2.5": 1.64,
+          "Under 2.5": 2.15,
+          "Over 3.5": 2.55,
+          "Under 3.5": 1.48
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.15,
+          "Under 0.5": 4.9,
+          "Over 1.5": 1.76,
+          "Under 1.5": 2.0,
+          "Over 2.5": 3.3,
+          "Under 2.5": 1.3
+        }
+      },
+      "Timraa IK vs Linkopings HC": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.67,
+          "2": 2.2
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 4.5": 1.45,
+          "Under 4.5": 2.7,
+          "Over 5": 1.73,
+          "Under 5": 2.1,
+          "Over 5.5": 2.25,
+          "Under 5.5": 1.62
+        },
+        "Home Team Over/Under": {
+          "Over 1.5": 1.26,
+          "Under 1.5": 3.6,
+          "Over 2.5": 1.8,
+          "Under 2.5": 1.96,
+          "Over 3.5": 2.9,
+          "Under 3.5": 1.38
+        },
+        "Away Team Over/Under": {
+          "Over 1.5": 1.4,
+          "Under 1.5": 2.8,
+          "Over 2.5": 2.2,
+          "Under 2.5": 1.62,
+          "Over 3.5": 4.0,
+          "Under 3.5": 1.22
+        }
+      },
+      "Vaxjo Lakers vs Malmo IF": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.39,
+          "2": 2.95
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 4.5": 1.46,
+          "Under 4.5": 2.65,
+          "Over 5": 1.75,
+          "Under 5": 2.05,
+          "Over 5.5": 2.3,
+          "Under 5.5": 1.61
+        },
+        "Home Team Over/Under": {
+          "Over 1.5": 1.18,
+          "Under 1.5": 4.5,
+          "Over 2.5": 1.56,
+          "Under 2.5": 2.35,
+          "Over 3.5": 2.35,
+          "Under 3.5": 1.56
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.12,
+          "Under 0.5": 5.7,
+          "Over 1.5": 1.61,
+          "Under 1.5": 2.25,
+          "Over 2.5": 2.85,
+          "Under 2.5": 1.39
+        }
+      }
+    },
+    "Allsvenskan": {
+      "Djurgardens IF vs Ostersunds IK": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.25,
+          "2": 3.4
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 5.5": 1.85,
+          "Under 5.5": 1.82
+        },
+        "Home Team Over/Under": {
+          "Over 3.5": 1.78,
+          "Under 3.5": 1.83
+        },
+        "Away Team Over/Under": {
+          "Over 1.5": 1.56,
+          "Under 1.5": 2.1
+        }
+      },
+      "AIK IF vs IF Bjorkloven": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.93,
+          "2": 1.75
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 6": 1.81,
+          "Under 6": 1.86
+        },
+        "Home Team Over/Under": {
+          "Over 2.5": 1.65,
+          "Under 2.5": 2.0
+        },
+        "Away Team Over/Under": {
+          "Over 2.5": 1.55,
+          "Under 2.5": 2.15
+        }
+      },
+      "Almtuna IS vs Vasteras IK": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.87,
+          "2": 1.8
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 5": 1.72,
+          "Under 5": 1.96
+        },
+        "Home Team Over/Under": {
+          "Over 2.5": 1.96,
+          "Under 2.5": 1.67
+        },
+        "Away Team Over/Under": {
+          "Over 2.5": 1.9,
+          "Under 2.5": 1.72
+        }
+      },
+      "Brynas IF vs Mora IK": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.26,
+          "2": 3.4
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 5.5": 1.77,
+          "Under 5.5": 1.91
+        },
+        "Home Team Over/Under": {
+          "Over 3.5": 1.73,
+          "Under 3.5": 1.87
+        },
+        "Away Team Over/Under": {
+          "Over 1.5": 1.51,
+          "Under 1.5": 2.2
+        }
+      },
+      "Tingsryds AIF vs BIK Karlskoga": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.83,
+          "2": 1.84
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 5.5": 1.83,
+          "Under 5.5": 1.83
+        },
+        "Home Team Over/Under": {
+          "Over 2.5": 1.7,
+          "Under 2.5": 1.92
+        },
+        "Away Team Over/Under": {
+          "Over 2.5": 1.71,
+          "Under 2.5": 1.91
+        }
+      },
+      "Vasterviks IK vs Kalmar HC": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.81,
+          "2": 1.86
+        }
+      }
+    }
+  },
+  "Switzerland": {
+    "Swiss League": {
+      "EHC Winterthur vs HC Biasca Ticino Rockets": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.28,
+          "2": 3.4
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 5": 1.56,
+          "Under 5": 2.3,
+          "Over 5.5": 2.0,
+          "Under 5.5": 1.73,
+          "Over 6": 2.3,
+          "Under 6": 1.55
+        },
+        "Home Team Over/Under": {
+          "Over 2.5": 1.4,
+          "Under 2.5": 2.7,
+          "Over 3.5": 1.97,
+          "Under 3.5": 1.74,
+          "Over 4.5": 3.1,
+          "Under 4.5": 1.31
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.12,
+          "Under 0.5": 5.4,
+          "Over 1.5": 1.62,
+          "Under 1.5": 2.15,
+          "Over 2.5": 2.9,
+          "Under 2.5": 1.36
+        }
+      },
+      "EHC Basel vs EHC Olten": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.4,
+          "2": 2.65
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 5.5": 1.91,
+          "Under 5.5": 1.76
+        },
+        "Home Team Over/Under": {
+          "Over 2.5": 1.51,
+          "Under 2.5": 2.2,
+          "Over 3.5": 2.1,
+          "Under 3.5": 1.57
+        },
+        "Away Team Over/Under": {
+          "Over 1.5": 1.48,
+          "Under 1.5": 2.3,
+          "Over 2.5": 2.25,
+          "Under 2.5": 1.49
+        }
+      },
+      "EHC Visp vs HC Thurgau Weinfelden": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.74,
+          "2": 2.0
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 4.5": 1.47,
+          "Under 4.5": 2.5,
+          "Over 5": 1.77,
+          "Under 5": 1.94,
+          "Over 5.5": 2.3,
+          "Under 5.5": 1.55
+        },
+        "Home Team Over/Under": {
+          "Over 1.5": 1.29,
+          "Under 1.5": 3.25,
+          "Over 2.5": 1.9,
+          "Under 2.5": 1.8,
+          "Over 3.5": 3.2,
+          "Under 3.5": 1.3
+        },
+        "Away Team Over/Under": {
+          "Over 1.5": 1.38,
+          "Under 1.5": 2.85,
+          "Over 2.5": 2.15,
+          "Under 2.5": 1.63,
+          "Over 3.5": 3.8,
+          "Under 3.5": 1.22
+        }
+      },
+      "HC La Chaux-de-Fonds vs HC Sierre": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.22,
+          "2": 4.0
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 5": 1.46,
+          "Under 5": 2.55,
+          "Over 5.5": 1.83,
+          "Under 5.5": 1.87,
+          "Over 6": 2.1,
+          "Under 6": 1.67
+        },
+        "Home Team Over/Under": {
+          "Over 2.5": 1.31,
+          "Under 2.5": 3.2,
+          "Over 3.5": 1.77,
+          "Under 3.5": 1.94,
+          "Over 4.5": 2.7,
+          "Under 4.5": 1.42
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.13,
+          "Under 0.5": 5.2,
+          "Over 1.5": 1.65,
+          "Under 1.5": 2.1,
+          "Over 2.5": 3.0,
+          "Under 2.5": 1.34
+        }
+      }
+    },
+    "National League": {
+      "EV Zug vs SC Rapperswil-Jona Lakers": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.4,
+          "2": 3.1
+        },
+        "Total (incl. overtime and penalties)": {
           "Over 4.5": 1.41,
-          "Under 4.5": 2.9,
-          "Over 5": 1.65,
-          "Under 5": 2.25,
-          "Over 5.5": 2.15,
-          "Under 5.5": 1.7,
-          "Over 6": 2.5,
-          "Under 6": 1.53,
-          "Over 6.5": 2.8,
-          "Under 6.5": 1.45
+          "Under 4.5": 2.95,
+          "Over 5": 1.63,
+          "Under 5": 2.3,
+          "Over 5.5": 2.1,
+          "Under 5.5": 1.74,
+          "Over 6": 2.45,
+          "Under 6": 1.56,
+          "Over 6.5": 2.75,
+          "Under 6.5": 1.46
+        },
+        "Home Team Over/Under": {
+          "Over 1.5": 1.17,
+          "Under 1.5": 5.2,
+          "Over 2.5": 1.53,
+          "Under 2.5": 2.55,
+          "Over 3.5": 2.25,
+          "Under 3.5": 1.64,
+          "Over 4.5": 3.8,
+          "Under 4.5": 1.27,
+          "Over 5.5": 7.0,
+          "Under 5.5": 1.1
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.11,
+          "Under 0.5": 6.7,
+          "Over 1.5": 1.56,
+          "Under 1.5": 2.45,
+          "Over 2.5": 2.7,
+          "Under 2.5": 1.47,
+          "Over 3.5": 5.5,
+          "Under 3.5": 1.15,
+          "Over 4.5": 11.0,
+          "Under 4.5": 1.04
+        }
+      },
+      "HC Ajoie Porrentruy vs Geneva Servette HC": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 3.0,
+          "2": 1.41
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 4.5": 1.35,
+          "Under 4.5": 3.2,
+          "Over 5": 1.53,
+          "Under 5": 2.55,
+          "Over 5.5": 1.96,
+          "Under 5.5": 1.86,
+          "Over 6": 2.25,
+          "Under 6": 1.65,
+          "Over 6.5": 2.5,
+          "Under 6.5": 1.54
+        },
+        "Home Team Over/Under": {
+          "Over 0.5": 1.1,
+          "Under 0.5": 7.25,
+          "Over 1.5": 1.5,
+          "Under 1.5": 2.6,
+          "Over 2.5": 2.55,
+          "Under 2.5": 1.53,
+          "Over 3.5": 5.0,
+          "Under 3.5": 1.18,
+          "Over 4.5": 10.0,
+          "Under 4.5": 1.05
+        },
+        "Away Team Over/Under": {
+          "Over 1.5": 1.15,
+          "Under 1.5": 5.6,
+          "Over 2.5": 1.48,
+          "Under 2.5": 2.7,
+          "Over 3.5": 2.15,
+          "Under 3.5": 1.7,
+          "Over 4.5": 3.6,
+          "Under 4.5": 1.3,
+          "Over 5.5": 6.4,
+          "Under 5.5": 1.12
+        }
+      },
+      "HC Ambri-Piotta vs ZSC Lions Zurich": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 2.2,
+          "2": 1.7
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 4.5": 1.4,
+          "Under 4.5": 3.0,
+          "Over 5": 1.62,
+          "Under 5": 2.3,
+          "Over 5.5": 2.1,
+          "Under 5.5": 1.74,
+          "Over 6": 2.45,
+          "Under 6": 1.57,
+          "Over 6.5": 2.7,
+          "Under 6.5": 1.47
+        },
+        "Home Team Over/Under": {
+          "Over 0.5": 1.07,
+          "Under 0.5": 9.0,
+          "Over 1.5": 1.37,
+          "Under 1.5": 3.1,
+          "Over 2.5": 2.15,
+          "Under 2.5": 1.72,
+          "Over 3.5": 3.9,
+          "Under 3.5": 1.27,
+          "Over 4.5": 7.5,
+          "Under 4.5": 1.09
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.04,
+          "Under 0.5": 11.5,
+          "Over 1.5": 1.25,
+          "Under 1.5": 4.0,
+          "Over 2.5": 1.76,
+          "Under 2.5": 2.1,
+          "Over 3.5": 2.85,
+          "Under 3.5": 1.43,
+          "Over 4.5": 5.2,
+          "Under 4.5": 1.17
+        }
+      },
+      "HC Davos vs HC Lugano": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.63,
+          "2": 2.35
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 4.5": 1.35,
+          "Under 4.5": 3.25,
+          "Over 5": 1.52,
+          "Under 5": 2.55,
+          "Over 5.5": 1.96,
+          "Under 5.5": 1.86,
+          "Over 6": 2.2,
+          "Under 6": 1.67,
+          "Over 6.5": 2.45,
+          "Under 6.5": 1.55
+        },
+        "Home Team Over/Under": {
+          "Over 0.5": 1.03,
+          "Under 0.5": 13.0,
+          "Over 1.5": 1.2,
+          "Under 1.5": 4.6,
+          "Over 2.5": 1.64,
+          "Under 2.5": 2.3,
+          "Over 3.5": 2.55,
+          "Under 3.5": 1.52,
+          "Over 4.5": 4.5,
+          "Under 4.5": 1.21
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.06,
+          "Under 0.5": 9.1,
+          "Over 1.5": 1.36,
+          "Under 1.5": 3.2,
+          "Over 2.5": 2.1,
+          "Under 2.5": 1.74,
+          "Over 3.5": 3.75,
+          "Under 3.5": 1.27,
+          "Over 4.5": 7.4,
+          "Under 4.5": 1.09
+        }
+      },
+      "HC Fribourg-Gotteron vs EHC Kloten": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.44,
+          "2": 2.9
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 4.5": 1.36,
+          "Under 4.5": 3.2,
+          "Over 5": 1.54,
+          "Under 5": 2.5,
+          "Over 5.5": 1.97,
+          "Under 5.5": 1.83,
+          "Over 6": 2.25,
+          "Under 6": 1.64,
+          "Over 6.5": 2.55,
+          "Under 6.5": 1.53
+        },
+        "Home Team Over/Under": {
+          "Over 1.5": 1.16,
+          "Under 1.5": 5.25,
+          "Over 2.5": 1.52,
+          "Under 2.5": 2.55,
+          "Over 3.5": 2.25,
+          "Under 3.5": 1.65,
+          "Over 4.5": 3.8,
+          "Under 4.5": 1.27,
+          "Over 5.5": 6.9,
+          "Under 5.5": 1.11
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.09,
+          "Under 0.5": 7.5,
+          "Over 1.5": 1.48,
+          "Under 1.5": 2.65,
+          "Over 2.5": 2.45,
+          "Under 2.5": 1.55,
+          "Over 3.5": 4.8,
+          "Under 3.5": 1.19,
+          "Over 4.5": 9.7,
+          "Under 4.5": 1.06
+        }
+      },
+      "HC Lausanne vs EHC Biel": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.63,
+          "2": 2.35
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 4": 1.33,
+          "Under 4": 3.4,
+          "Over 4.5": 1.47,
+          "Under 4.5": 2.7,
+          "Over 5": 1.76,
+          "Under 5": 2.05,
+          "Over 5.5": 2.3,
+          "Under 5.5": 1.63,
+          "Over 6": 2.7,
+          "Under 6": 1.47
+        },
+        "Home Team Over/Under": {
+          "Over 0.5": 1.04,
+          "Under 0.5": 11.5,
+          "Over 1.5": 1.26,
+          "Under 1.5": 3.9,
+          "Over 2.5": 1.78,
+          "Under 2.5": 2.05,
+          "Over 3.5": 2.9,
+          "Under 3.5": 1.41,
+          "Over 4.5": 5.4,
+          "Under 4.5": 1.16
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.08,
+          "Under 0.5": 7.8,
+          "Over 1.5": 1.45,
+          "Under 1.5": 2.75,
+          "Over 2.5": 2.4,
+          "Under 2.5": 1.58,
+          "Over 3.5": 4.5,
+          "Under 3.5": 1.21,
+          "Over 4.5": 9.0,
+          "Under 4.5": 1.06
+        }
+      },
+      "SC Bern vs SCL Tigers Langnau": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.45,
+          "2": 2.85
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 4": 1.33,
+          "Under 4": 3.4,
+          "Over 4.5": 1.48,
+          "Under 4.5": 2.65,
+          "Over 5": 1.77,
+          "Under 5": 2.05,
+          "Over 5.5": 2.3,
+          "Under 5.5": 1.62,
+          "Over 6": 2.75,
+          "Under 6": 1.46
+        },
+        "Home Team Over/Under": {
+          "Over 0.5": 1.03,
+          "Under 0.5": 13.0,
+          "Over 1.5": 1.21,
+          "Under 1.5": 4.5,
+          "Over 2.5": 1.63,
+          "Under 2.5": 2.3,
+          "Over 3.5": 2.55,
+          "Under 3.5": 1.53,
+          "Over 4.5": 4.4,
+          "Under 4.5": 1.21
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.12,
+          "Under 0.5": 6.5,
+          "Over 1.5": 1.58,
+          "Under 1.5": 2.4,
+          "Over 2.5": 2.8,
+          "Under 2.5": 1.44,
+          "Over 3.5": 5.7,
+          "Under 3.5": 1.15,
+          "Over 4.5": 11.5,
+          "Under 4.5": 1.04
+        }
+      }
+    }
+  },
+  "USA": {
+    "AHL": {
+      "Chicago Wolves vs Texas Stars": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.9,
+          "2": 1.78
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 6.5": 1.71,
+          "Under 6.5": 1.97
+        },
+        "Home Team Over/Under": {
+          "Over 2.5": 1.53,
+          "Under 2.5": 2.2,
+          "Over 3.5": 2.2,
+          "Under 3.5": 1.53
+        },
+        "Away Team Over/Under": {
+          "Over 3.5": 2.05,
+          "Under 3.5": 1.6
+        }
+      },
+      "Toronto Marlies vs Cleveland Monsters": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.87,
+          "2": 1.8
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 5.5": 1.81,
+          "Under 5.5": 1.86
+        },
+        "Home Team Over/Under": {
+          "Over 2.5": 1.71,
+          "Under 2.5": 1.91
+        },
+        "Away Team Over/Under": {
+          "Over 2.5": 1.67,
+          "Under 2.5": 1.96
+        }
+      },
+      "Hershey Bears vs Charlotte Checkers": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.63,
+          "2": 2.1
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 6": 1.87,
+          "Under 6": 1.8
+        },
+        "Home Team Over/Under": {
+          "Over 3.5": 2.2,
+          "Under 3.5": 1.53
+        },
+        "Away Team Over/Under": {
+          "Over 2.5": 1.77,
+          "Under 2.5": 1.84
+        }
+      },
+      "Bakersfield Condors vs Abbotsford Canucks": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.81,
+          "2": 1.86
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 5.5": 1.83,
+          "Under 5.5": 1.84
+        },
+        "Home Team Over/Under": {
+          "Over 2.5": 1.68,
+          "Under 2.5": 1.94
+        },
+        "Away Team Over/Under": {
+          "Over 2.5": 1.71,
+          "Under 2.5": 1.9
+        }
+      },
+      "Henderson Silver Knights vs San Diego Gulls": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.68,
+          "2": 2.05
+        }
+      },
+      "San Jose Barracuda vs Tucson Roadrunners": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.9,
+          "2": 1.78
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 6.5": 1.84,
+          "Under 6.5": 1.83
+        },
+        "Home Team Over/Under": {
+          "Over 2.5": 1.55,
+          "Under 2.5": 2.15
+        },
+        "Away Team Over/Under": {
+          "Over 3.5": 2.2,
+          "Under 3.5": 1.52
+        }
+      },
+      "Bridgeport Islanders vs Hartford Wolf Pack": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.85,
+          "2": 1.82
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 6": 1.85,
+          "Under 6": 1.82
+        },
+        "Home Team Over/Under": {
+          "Over 2.5": 1.62,
+          "Under 2.5": 2.05
+        },
+        "Away Team Over/Under": {
+          "Over 2.5": 1.61,
+          "Under 2.5": 2.05
+        }
+      },
+      "Utica Comets vs Laval Rocket": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.84,
+          "2": 1.83
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 6": 1.78,
+          "Under 6": 1.87
+        },
+        "Home Team Over/Under": {
+          "Over 2.5": 1.58,
+          "Under 2.5": 2.1
+        },
+        "Away Team Over/Under": {
+          "Over 2.5": 1.58,
+          "Under 2.5": 2.1
+        }
+      },
+      "Springfield Thunderbirds vs Wilkes-Barre/Scranton Penguins": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.8,
+          "2": 1.87
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 6": 1.78,
+          "Under 6": 1.87
+        },
+        "Home Team Over/Under": {
+          "Over 2.5": 1.57,
+          "Under 2.5": 2.1
+        },
+        "Away Team Over/Under": {
+          "Over 2.5": 1.61,
+          "Under 2.5": 2.05
+        }
+      },
+      "Iowa Wild vs Grand Rapids Griffins": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.78,
+          "2": 1.9
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 6": 1.8,
+          "Under 6": 1.87
+        },
+        "Home Team Over/Under": {
+          "Over 2.5": 1.56,
+          "Under 2.5": 2.15
+        },
+        "Away Team Over/Under": {
+          "Over 2.5": 1.62,
+          "Under 2.5": 2.05
+        }
+      },
+      "Milwaukee Admirals vs Colorado Eagles": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.81,
+          "2": 1.86
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 6": 1.8,
+          "Under 6": 1.87
+        },
+        "Home Team Over/Under": {
+          "Over 2.5": 1.58,
+          "Under 2.5": 2.1
+        },
+        "Away Team Over/Under": {
+          "Over 2.5": 1.6,
+          "Under 2.5": 2.05
+        }
+      },
+      "Manitoba Moose vs Belleville Senators": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.82,
+          "2": 1.85
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 6": 1.87,
+          "Under 6": 1.81
+        },
+        "Home Team Over/Under": {
+          "Over 2.5": 1.61,
+          "Under 2.5": 2.05
+        },
+        "Away Team Over/Under": {
+          "Over 2.5": 1.63,
+          "Under 2.5": 2.0
+        }
+      }
+    },
+    "ECHL": {},
+    "NHL": {
+      "Columbus Blue Jackets vs Boston Bruins": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 2.9,
+          "2": 1.42
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 5.5": 1.63,
+          "Under 5.5": 2.25,
+          "Over 6": 1.68,
+          "Under 6": 2.15,
+          "Over 6.5": 1.9,
+          "Under 6.5": 1.87,
+          "Over 7": 2.5,
+          "Under 7": 1.52
+        },
+        "Home Team Over/Under": {
+          "Over 0.5": 1.06,
+          "Under 0.5": 9.5,
+          "Over 1.5": 1.34,
+          "Under 1.5": 3.3,
+          "Over 2.5": 2.0,
+          "Under 2.5": 1.81,
+          "Over 3.5": 3.5,
+          "Under 3.5": 1.31,
+          "Over 4.5": 6.6,
+          "Under 4.5": 1.11
+        },
+        "Away Team Over/Under": {
+          "Over 1.5": 1.1,
+          "Under 1.5": 7.0,
+          "Over 2.5": 1.34,
+          "Under 2.5": 3.3,
+          "Over 3.5": 1.81,
+          "Under 3.5": 2.0,
+          "Over 4.5": 2.8,
+          "Under 4.5": 1.44,
+          "Over 5.5": 5.0,
+          "Under 5.5": 1.17
+        }
+      },
+      "New York Rangers vs Carolina Hurricanes": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.77,
+          "2": 2.05
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 5.5": 1.73,
+          "Under 5.5": 2.05,
+          "Over 6": 1.92,
+          "Under 6": 1.85,
+          "Over 6.5": 2.15,
+          "Under 6.5": 1.68
+        },
+        "Home Team Over/Under": {
+          "Over 0.5": 1.03,
+          "Under 0.5": 13.0,
+          "Over 1.5": 1.2,
+          "Under 1.5": 4.5,
+          "Over 2.5": 1.63,
+          "Under 2.5": 2.3,
+          "Over 3.5": 2.5,
+          "Under 3.5": 1.54,
+          "Over 4.5": 4.4,
+          "Under 4.5": 1.22
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.04,
+          "Under 0.5": 11.0,
+          "Over 1.5": 1.26,
+          "Under 1.5": 3.9,
+          "Over 2.5": 1.78,
+          "Under 2.5": 2.05,
+          "Over 3.5": 2.9,
+          "Under 3.5": 1.42,
+          "Over 4.5": 5.25,
+          "Under 4.5": 1.16
+        }
+      },
+      "Pittsburgh Penguins vs Washington Capitals": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.57,
+          "2": 2.4
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 5.5": 1.72,
+          "Under 5.5": 2.1,
+          "Over 6": 1.91,
+          "Under 6": 1.86,
+          "Over 6.5": 2.15,
+          "Under 6.5": 1.68,
+          "Over 7": 2.55,
+          "Under 7": 1.5
+        },
+        "Home Team Over/Under": {
+          "Over 1.5": 1.16,
+          "Under 1.5": 5.3,
+          "Over 2.5": 1.5,
+          "Under 2.5": 2.6,
+          "Over 3.5": 2.2,
+          "Under 3.5": 1.68,
+          "Over 4.5": 3.7,
+          "Under 4.5": 1.29,
+          "Over 5.5": 7.0,
+          "Under 5.5": 1.1
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.06,
+          "Under 0.5": 9.75,
+          "Over 1.5": 1.32,
+          "Under 1.5": 3.4,
+          "Over 2.5": 1.96,
+          "Under 2.5": 1.85,
+          "Over 3.5": 3.4,
+          "Under 3.5": 1.33,
+          "Over 4.5": 6.3,
+          "Under 4.5": 1.12
+        }
+      },
+      "Dallas Stars vs Montreal Canadiens": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.34,
+          "2": 3.3
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 5.5": 1.63,
+          "Under 5.5": 2.25,
+          "Over 6": 1.71,
+          "Under 6": 2.1,
+          "Over 6.5": 1.93,
+          "Under 6.5": 1.84,
+          "Over 7": 2.55,
+          "Under 7": 1.5
+        },
+        "Home Team Over/Under": {
+          "Over 1.5": 1.09,
+          "Under 1.5": 7.5,
+          "Over 2.5": 1.3,
+          "Under 2.5": 3.5,
+          "Over 3.5": 1.73,
+          "Under 3.5": 2.15,
+          "Over 4.5": 2.6,
+          "Under 4.5": 1.5,
+          "Over 5.5": 4.7,
+          "Under 5.5": 1.2
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.07,
+          "Under 0.5": 8.5,
+          "Over 1.5": 1.4,
+          "Under 1.5": 3.0,
+          "Over 2.5": 2.2,
+          "Under 2.5": 1.68,
+          "Over 3.5": 4.0,
+          "Under 3.5": 1.25,
+          "Over 4.5": 7.7,
+          "Under 4.5": 1.09
+        }
+      },
+      "Minnesota Wild vs Calgary Flames": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.74,
+          "2": 2.1
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 5.5": 1.67,
+          "Under 5.5": 2.15,
+          "Over 6": 1.84,
+          "Under 6": 1.94,
+          "Over 6.5": 2.05,
+          "Under 6.5": 1.74
+        },
+        "Home Team Over/Under": {
+          "Over 1.5": 1.18,
+          "Under 1.5": 4.9,
+          "Over 2.5": 1.57,
+          "Under 2.5": 2.4,
+          "Over 3.5": 2.35,
+          "Under 3.5": 1.6,
+          "Over 4.5": 4.0,
+          "Under 4.5": 1.25,
+          "Over 5.5": 7.75,
+          "Under 5.5": 1.09
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.04,
+          "Under 0.5": 11.5,
+          "Over 1.5": 1.25,
+          "Under 1.5": 4.0,
+          "Over 2.5": 1.76,
+          "Under 2.5": 2.05,
+          "Over 3.5": 2.85,
+          "Under 3.5": 1.43,
+          "Over 4.5": 5.1,
+          "Under 4.5": 1.17
+        }
+      },
+      "Nashville Predators vs Chicago Blackhawks": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.4,
+          "2": 3.0
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 6": 1.71,
+          "Under 6": 2.1,
+          "Over 6.5": 1.93,
+          "Under 6.5": 1.84,
+          "Over 7": 2.55,
+          "Under 7": 1.5
+        },
+        "Home Team Over/Under": {
+          "Over 1.5": 1.1,
+          "Under 1.5": 7.0,
+          "Over 2.5": 1.34,
+          "Under 2.5": 3.3,
+          "Over 3.5": 1.8,
+          "Under 3.5": 2.0,
+          "Over 4.5": 2.8,
+          "Under 4.5": 1.45,
+          "Over 5.5": 5.0,
+          "Under 5.5": 1.18
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.06,
+          "Under 0.5": 9.1,
+          "Over 1.5": 1.36,
+          "Under 1.5": 3.2,
+          "Over 2.5": 2.05,
+          "Under 2.5": 1.76,
+          "Over 3.5": 3.6,
+          "Under 3.5": 1.29,
+          "Over 4.5": 7.0,
+          "Under 4.5": 1.1
+        }
+      },
+      "Winnipeg Jets vs Tampa Bay Lightning": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.74,
+          "2": 2.1
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 5.5": 1.64,
+          "Under 5.5": 2.2,
+          "Over 6": 1.8,
+          "Under 6": 1.97,
+          "Over 6.5": 2.0,
+          "Under 6.5": 1.77,
+          "Over 7": 2.65,
+          "Under 7": 1.46
+        },
+        "Home Team Over/Under": {
+          "Over 1.5": 1.18,
+          "Under 1.5": 5.0,
+          "Over 2.5": 1.56,
+          "Under 2.5": 2.45,
+          "Over 3.5": 2.35,
+          "Under 3.5": 1.61,
+          "Over 4.5": 4.0,
+          "Under 4.5": 1.25,
+          "Over 5.5": 7.6,
+          "Under 5.5": 1.09
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.04,
+          "Under 0.5": 11.5,
+          "Over 1.5": 1.24,
+          "Under 1.5": 4.1,
+          "Over 2.5": 1.74,
+          "Under 2.5": 2.1,
+          "Over 3.5": 2.8,
+          "Under 3.5": 1.45,
+          "Over 4.5": 5.0,
+          "Under 4.5": 1.18
+        }
+      },
+      "Arizona Coyotes vs Florida Panthers": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 2.3,
+          "2": 1.62
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 6": 1.7,
+          "Under 6": 2.1,
+          "Over 6.5": 1.91,
+          "Under 6.5": 1.86,
+          "Over 7": 2.5,
+          "Under 7": 1.51
         },
         "Home Team Over/Under": {
           "Over 0.5": 1.04,
@@ -3230,1052 +2940,220 @@
           "Under 2.5": 2.05,
           "Over 3.5": 2.9,
           "Under 3.5": 1.42,
-          "Over 4.5": 5.3,
+          "Over 4.5": 5.25,
           "Under 4.5": 1.16
         },
         "Away Team Over/Under": {
-          "Over 0.5": 1.07,
-          "Under 0.5": 8.7,
-          "Over 1.5": 1.39,
-          "Under 1.5": 3.0,
-          "Over 2.5": 2.15,
-          "Under 2.5": 1.7,
-          "Over 3.5": 3.9,
-          "Under 3.5": 1.26,
-          "Over 4.5": 7.6,
-          "Under 4.5": 1.09
-        }
-      },
-      "Lulea Hockey vs Farjestads BK": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.9,
-          "2": 1.96
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4": 1.36,
-          "Under 4": 3.2,
-          "Over 4.5": 1.51,
-          "Under 4.5": 2.6,
-          "Over 5": 1.85,
-          "Under 5": 1.97,
-          "Over 5.5": 2.45,
-          "Under 5.5": 1.56,
-          "Over 6": 2.9,
-          "Under 6": 1.42
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.06,
-          "Under 0.5": 9.1,
-          "Over 1.5": 1.36,
-          "Under 1.5": 3.2,
-          "Over 2.5": 2.05,
-          "Under 2.5": 1.77,
-          "Over 3.5": 3.6,
-          "Under 3.5": 1.29,
-          "Over 4.5": 7.0,
-          "Under 4.5": 1.1
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.07,
-          "Under 0.5": 8.8,
-          "Over 1.5": 1.38,
-          "Under 1.5": 3.1,
-          "Over 2.5": 2.15,
-          "Under 2.5": 1.72,
-          "Over 3.5": 3.8,
-          "Under 3.5": 1.27,
-          "Over 4.5": 7.4,
-          "Under 4.5": 1.09
-        }
-      },
-      "Malmo IF vs Leksands IF": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 2.1,
-          "2": 1.76
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4": 1.3,
-          "Under 4": 3.6,
-          "Over 4.5": 1.43,
-          "Under 4.5": 2.85,
-          "Over 5": 1.7,
-          "Under 5": 2.2,
-          "Over 5.5": 2.2,
-          "Under 5.5": 1.67,
-          "Over 6": 2.6,
-          "Under 6": 1.51
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.07,
-          "Under 0.5": 8.8,
-          "Over 1.5": 1.38,
-          "Under 1.5": 3.1,
-          "Over 2.5": 2.15,
-          "Under 2.5": 1.72,
-          "Over 3.5": 3.8,
-          "Under 3.5": 1.27,
-          "Over 4.5": 7.4,
-          "Under 4.5": 1.09
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.05,
-          "Under 0.5": 10.5,
-          "Over 1.5": 1.28,
-          "Under 1.5": 3.7,
-          "Over 2.5": 1.85,
-          "Under 2.5": 1.96,
-          "Over 3.5": 3.1,
-          "Under 3.5": 1.38,
-          "Over 4.5": 5.7,
-          "Under 4.5": 1.14
-        }
-      },
-      "MODO Hockey vs HV 71": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.8,
-          "2": 2.05
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4.5": 1.32,
-          "Under 4.5": 3.4,
-          "Over 5": 1.47,
-          "Under 5": 2.7,
-          "Over 5.5": 1.9,
-          "Under 5.5": 1.9,
-          "Over 6": 2.15,
-          "Under 6": 1.71,
-          "Over 6.5": 2.4,
-          "Under 6.5": 1.58
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.04,
-          "Under 0.5": 12.0,
-          "Over 1.5": 1.23,
-          "Under 1.5": 4.2,
-          "Over 2.5": 1.72,
-          "Under 2.5": 2.15,
-          "Over 3.5": 2.75,
-          "Under 3.5": 1.46,
-          "Over 4.5": 4.9,
-          "Under 4.5": 1.18
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.05,
-          "Under 0.5": 10.5,
-          "Over 1.5": 1.29,
-          "Under 1.5": 3.6,
-          "Over 2.5": 1.9,
-          "Under 2.5": 1.92,
-          "Over 3.5": 3.2,
-          "Under 3.5": 1.36,
-          "Over 4.5": 5.9,
-          "Under 4.5": 1.14
-        }
-      },
-      "Rogle BK vs IK Oskarshamn": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.38,
-          "2": 3.2
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4.5": 1.32,
-          "Under 4.5": 3.4,
-          "Over 5": 1.48,
-          "Under 5": 2.65,
-          "Over 5.5": 1.9,
-          "Under 5.5": 1.91,
-          "Over 6": 2.15,
-          "Under 6": 1.7,
-          "Over 6.5": 2.45,
-          "Under 6.5": 1.57
-        },
-        "Home Team Over/Under": {
-          "Over 1.5": 1.13,
-          "Under 1.5": 5.9,
-          "Over 2.5": 1.43,
-          "Under 2.5": 2.85,
-          "Over 3.5": 2.0,
-          "Under 3.5": 1.8,
-          "Over 4.5": 3.3,
-          "Under 4.5": 1.34,
-          "Over 5.5": 6.1,
-          "Under 5.5": 1.13
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.1,
-          "Under 0.5": 7.1,
-          "Over 1.5": 1.52,
-          "Under 1.5": 2.55,
-          "Over 2.5": 2.55,
-          "Under 2.5": 1.51,
-          "Over 3.5": 5.0,
-          "Under 3.5": 1.18,
-          "Over 4.5": 10.0,
-          "Under 4.5": 1.05
-        }
-      },
-      "Skelleftea AIK vs Timraa IK": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.67,
-          "2": 2.25
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4": 1.38,
-          "Under 4": 3.1,
-          "Over 4.5": 1.54,
-          "Under 4.5": 2.5,
-          "Over 5": 1.91,
-          "Under 5": 1.9,
-          "Over 5.5": 2.5,
-          "Under 5.5": 1.53,
-          "Over 6": 3.0,
-          "Under 6": 1.39
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.05,
-          "Under 0.5": 10.0,
-          "Over 1.5": 1.3,
-          "Under 1.5": 3.5,
-          "Over 2.5": 1.9,
-          "Under 2.5": 1.91,
-          "Over 3.5": 3.2,
-          "Under 3.5": 1.36,
-          "Over 4.5": 6.0,
-          "Under 4.5": 1.13
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.09,
-          "Under 0.5": 7.4,
-          "Over 1.5": 1.49,
-          "Under 1.5": 2.65,
-          "Over 2.5": 2.45,
-          "Under 2.5": 1.56,
-          "Over 3.5": 4.6,
-          "Under 3.5": 1.2,
-          "Over 4.5": 9.4,
-          "Under 4.5": 1.06
-        }
-      }
-    },
-    "Allsvenskan": {
-      "BIK Karlskoga vs Kalmar HC": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.6,
-          "2": 2.15
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5.5": 1.87,
-          "Under 5.5": 1.78
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.57,
-          "Under 2.5": 2.1
-        },
-        "Away Team Over/Under": {
-          "Over 2.5": 1.94,
-          "Under 2.5": 1.68
-        }
-      },
-      "Djurgardens IF vs Sodertalje SK": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.75,
-          "2": 1.93
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5.5": 1.92,
-          "Under 5.5": 1.76
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.7,
-          "Under 2.5": 1.92
-        },
-        "Away Team Over/Under": {
-          "Over 2.5": 1.82,
-          "Under 2.5": 1.78
-        }
-      },
-      "IF Bjorkloven vs Nybro Vikings IF": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.3,
-          "2": 3.1
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5.5": 1.83,
-          "Under 5.5": 1.84
-        },
-        "Home Team Over/Under": {
-          "Over 3.5": 1.85,
-          "Under 3.5": 1.76
-        },
-        "Away Team Over/Under": {
-          "Over 1.5": 1.49,
-          "Under 1.5": 2.3
-        }
-      },
-      "Ostersunds IK vs Mora IK": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 2.4,
-          "2": 1.49
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5.5": 2.1,
-          "Under 5.5": 1.63
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 2.25,
-          "Under 2.5": 1.5
-        },
-        "Away Team Over/Under": {
-          "Over 2.5": 1.58,
-          "Under 2.5": 2.1
-        }
-      },
-      "Tingsryds AIF vs Almtuna IS": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.61,
-          "2": 2.15
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5": 1.65,
-          "Under 5": 2.05,
-          "Over 5.5": 2.1,
-          "Under 5.5": 1.63
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.7,
-          "Under 2.5": 1.92
-        },
-        "Away Team Over/Under": {
-          "Over 2.5": 2.1,
-          "Under 2.5": 1.57
-        }
-      },
-      "Vasteras IK vs AIK IF": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.8,
-          "2": 1.87
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 6": 1.76,
-          "Under 6": 1.91
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.55,
-          "Under 2.5": 2.15
-        },
-        "Away Team Over/Under": {
-          "Over 2.5": 1.6,
-          "Under 2.5": 2.05
-        }
-      },
-      "Vasterviks IK vs Brynas IF": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 3.7,
-          "2": 1.22
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 6": 1.82,
-          "Under 6": 1.85
-        },
-        "Home Team Over/Under": {
-          "Over 1.5": 1.51,
-          "Under 1.5": 2.25
-        },
-        "Away Team Over/Under": {
-          "Over 3.5": 1.6,
-          "Under 3.5": 2.1
-        }
-      }
-    }
-  },
-  "Switzerland": {
-    "Swiss League": {},
-    "National League": {
-      "EV Zug vs SC Rapperswil-Jona Lakers": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.34,
-          "2": 3.2
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4.5": 1.44,
-          "Under 4.5": 2.75,
-          "Over 5": 1.68,
-          "Under 5": 2.15,
-          "Over 5.5": 2.15,
-          "Under 5.5": 1.67
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.49,
-          "Under 2.5": 2.5,
-          "Over 3.5": 2.2,
-          "Under 3.5": 1.63,
-          "Over 4.5": 3.6,
-          "Under 4.5": 1.26
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.12,
-          "Under 0.5": 5.6,
-          "Over 1.5": 1.62,
-          "Under 1.5": 2.2,
-          "Over 2.5": 2.9,
-          "Under 2.5": 1.38
-        }
-      },
-      "HC Ajoie Porrentruy vs Geneva Servette HC": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 3.0,
-          "2": 1.37
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5": 1.52,
-          "Under 5": 2.5,
-          "Over 5.5": 1.94,
-          "Under 5.5": 1.84,
-          "Over 6": 2.2,
-          "Under 6": 1.65
-        },
-        "Home Team Over/Under": {
-          "Over 0.5": 1.09,
-          "Under 0.5": 6.5,
-          "Over 1.5": 1.5,
-          "Under 1.5": 2.5,
-          "Over 2.5": 2.5,
-          "Under 2.5": 1.49
-        },
-        "Away Team Over/Under": {
+          "Over 1.5": 1.14,
+          "Under 1.5": 5.75,
           "Over 2.5": 1.45,
-          "Under 2.5": 2.65,
+          "Under 2.5": 2.75,
           "Over 3.5": 2.1,
-          "Under 3.5": 1.7,
+          "Under 3.5": 1.76,
           "Over 4.5": 3.4,
-          "Under 4.5": 1.29
+          "Under 4.5": 1.33,
+          "Over 5.5": 6.3,
+          "Under 5.5": 1.12
         }
       },
-      "HC Ambri-Piotta vs ZSC Lions Zurich": {
+      "Colorado Avalanche vs New York Islanders": {
         "Winner (incl. overtime and penalties)": {
-          "1": 2.2,
-          "2": 1.64
+          "1": 1.57,
+          "2": 2.4
         },
         "Total (incl. overtime and penalties)": {
-          "Over 5": 1.54,
-          "Under 5": 2.45,
-          "Over 5.5": 1.97,
-          "Under 5.5": 1.8,
-          "Over 6": 2.25,
-          "Under 6": 1.62
-        },
-        "Home Team Over/Under": {
-          "Over 1.5": 1.34,
-          "Under 1.5": 3.1,
-          "Over 2.5": 2.05,
-          "Under 2.5": 1.72,
-          "Over 3.5": 3.6,
-          "Under 3.5": 1.26
-        },
-        "Away Team Over/Under": {
-          "Over 1.5": 1.21,
-          "Under 1.5": 4.1,
-          "Over 2.5": 1.65,
-          "Under 2.5": 2.15,
-          "Over 3.5": 2.6,
-          "Under 3.5": 1.46
-        }
-      },
-      "HC Davos vs HC Lugano": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.76,
-          "2": 2.05
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5": 1.51,
-          "Under 5": 2.5,
-          "Over 5.5": 1.94,
-          "Under 5.5": 1.84,
-          "Over 6": 2.2,
-          "Under 6": 1.65
-        },
-        "Home Team Over/Under": {
-          "Over 1.5": 1.23,
-          "Under 1.5": 3.9,
-          "Over 2.5": 1.71,
-          "Under 2.5": 2.05,
-          "Over 3.5": 2.75,
-          "Under 3.5": 1.42
-        },
-        "Away Team Over/Under": {
-          "Over 1.5": 1.29,
-          "Under 1.5": 3.4,
-          "Over 2.5": 1.9,
-          "Under 2.5": 1.84,
-          "Over 3.5": 3.2,
-          "Under 3.5": 1.32
-        }
-      },
-      "HC Fribourg-Gotteron vs EHC Kloten": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.3,
-          "2": 3.4
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5": 1.63,
-          "Under 5": 2.25,
-          "Over 5.5": 2.1,
-          "Under 5.5": 1.72,
-          "Over 6": 2.45,
-          "Under 6": 1.54
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.44,
-          "Under 2.5": 2.65,
-          "Over 3.5": 2.05,
-          "Under 3.5": 1.71,
-          "Over 4.5": 3.3,
-          "Under 4.5": 1.3
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.13,
-          "Under 0.5": 5.5,
-          "Over 1.5": 1.65,
-          "Under 1.5": 2.15,
-          "Over 2.5": 3.0,
-          "Under 2.5": 1.36
-        }
-      },
-      "HC Lausanne vs EHC Biel": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.58,
-          "2": 2.35
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4.5": 1.48,
-          "Under 4.5": 2.6,
-          "Over 5": 1.78,
-          "Under 5": 2.0,
-          "Over 5.5": 2.3,
-          "Under 5.5": 1.6
-        },
-        "Home Team Over/Under": {
-          "Over 1.5": 1.24,
-          "Under 1.5": 3.75,
-          "Over 2.5": 1.75,
-          "Under 2.5": 2.0,
-          "Over 3.5": 2.85,
-          "Under 3.5": 1.4
-        },
-        "Away Team Over/Under": {
-          "Over 1.5": 1.46,
-          "Under 1.5": 2.6,
-          "Over 2.5": 2.4,
-          "Under 2.5": 1.53,
-          "Over 3.5": 4.5,
-          "Under 3.5": 1.18
-        }
-      },
-      "SC Bern vs SCL Tigers Langnau": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.36,
-          "2": 3.1
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 4.5": 1.51,
-          "Under 4.5": 2.5,
-          "Over 5": 1.84,
-          "Under 5": 1.94,
-          "Over 5.5": 2.4,
-          "Under 5.5": 1.56
-        },
-        "Home Team Over/Under": {
-          "Over 1.5": 1.18,
-          "Under 1.5": 4.5,
-          "Over 2.5": 1.57,
-          "Under 2.5": 2.3,
-          "Over 3.5": 2.4,
-          "Under 3.5": 1.54
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.13,
-          "Under 0.5": 5.3,
-          "Over 1.5": 1.68,
-          "Under 1.5": 2.1,
-          "Over 2.5": 3.1,
-          "Under 2.5": 1.34
-        }
-      }
-    }
-  },
-  "USA": {
-    "AHL": {
-      "Belleville Senators vs Laval Rocket": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.86,
-          "2": 1.87
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 6": 1.6,
-          "Under 6": 2.2,
-          "Over 6.5": 1.76,
-          "Under 6.5": 1.96,
-          "Over 7": 2.25,
-          "Under 7": 1.57
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.51,
-          "Under 2.5": 2.4,
-          "Over 3.5": 2.2,
-          "Under 3.5": 1.58,
-          "Over 4.5": 3.6,
-          "Under 4.5": 1.24
-        },
-        "Away Team Over/Under": {
-          "Over 2.5": 1.52,
-          "Under 2.5": 2.35,
-          "Over 3.5": 2.25,
-          "Under 3.5": 1.58,
-          "Over 4.5": 3.7,
-          "Under 4.5": 1.24
-        }
-      },
-      "Iowa Wild vs Colorado Eagles": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.83,
-          "2": 1.91
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5": 1.44,
-          "Under 5": 2.6,
-          "Over 5.5": 1.86,
-          "Under 5.5": 1.85,
-          "Over 6": 2.1,
-          "Under 6": 1.67
-        },
-        "Home Team Over/Under": {
-          "Over 1.5": 1.23,
-          "Under 1.5": 3.7,
-          "Over 2.5": 1.73,
-          "Under 2.5": 2.0,
-          "Over 3.5": 2.75,
-          "Under 3.5": 1.4
-        },
-        "Away Team Over/Under": {
-          "Over 1.5": 1.25,
-          "Under 1.5": 3.6,
-          "Over 2.5": 1.77,
-          "Under 2.5": 1.94,
-          "Over 3.5": 2.85,
-          "Under 3.5": 1.37
-        }
-      },
-      "Calgary Wranglers vs Abbotsford Canucks": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.87,
-          "2": 1.85
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5": 1.44,
-          "Under 5": 2.6,
-          "Over 5.5": 1.86,
-          "Under 5.5": 1.85,
-          "Over 6": 2.1,
-          "Under 6": 1.67
-        },
-        "Home Team Over/Under": {
-          "Over 1.5": 1.25,
-          "Under 1.5": 3.6,
-          "Over 2.5": 1.76,
-          "Under 2.5": 1.96,
-          "Over 3.5": 2.8,
-          "Under 3.5": 1.38
-        },
-        "Away Team Over/Under": {
-          "Over 1.5": 1.24,
-          "Under 1.5": 3.7,
-          "Over 2.5": 1.74,
-          "Under 2.5": 1.97,
-          "Over 3.5": 2.75,
-          "Under 3.5": 1.39
-        }
-      },
-      "San Diego Gulls vs Ontario Reign": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 2.0,
-          "2": 1.77
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5.5": 1.67,
-          "Under 5.5": 2.1,
-          "Over 6": 1.82,
-          "Under 6": 1.9,
-          "Over 6.5": 2.0,
-          "Under 6.5": 1.72
-        },
-        "Home Team Over/Under": {
-          "Over 1.5": 1.22,
-          "Under 1.5": 3.8,
-          "Over 2.5": 1.7,
-          "Under 2.5": 2.05,
-          "Over 3.5": 2.65,
-          "Under 3.5": 1.42
-        },
-        "Away Team Over/Under": {
-          "Over 1.5": 1.18,
-          "Under 1.5": 4.3,
-          "Over 2.5": 1.57,
-          "Under 2.5": 2.25,
-          "Over 3.5": 2.35,
-          "Under 3.5": 1.52
-        }
-      },
-      "Utica Comets vs Providence Bruins": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.82,
-          "2": 1.85
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 6": 1.9,
-          "Under 6": 1.77
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.63,
-          "Under 2.5": 2.0
-        },
-        "Away Team Over/Under": {
-          "Over 2.5": 1.65,
-          "Under 2.5": 2.0
-        }
-      },
-      "Rochester Americans vs Hershey Bears": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.97,
-          "2": 1.71
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 6": 1.77,
-          "Under 6": 1.91,
-          "Over 6.5": 1.91,
-          "Under 6.5": 1.76
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.65,
-          "Under 2.5": 2.0
-        },
-        "Away Team Over/Under": {
-          "Over 2.5": 1.52,
-          "Under 2.5": 2.2,
-          "Over 3.5": 2.2,
-          "Under 3.5": 1.52
-        }
-      },
-      "Springfield Thunderbirds vs Bridgeport Islanders": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.67,
-          "2": 2.05
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 6": 1.87,
-          "Under 6": 1.78,
-          "Over 6.5": 1.85,
-          "Under 6.5": 1.82
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.53,
-          "Under 2.5": 2.2,
-          "Over 3.5": 2.2,
-          "Under 3.5": 1.53
-        },
-        "Away Team Over/Under": {
-          "Over 2.5": 1.75,
-          "Under 2.5": 1.86
-        }
-      },
-      "Wilkes-Barre/Scranton Penguins vs Charlotte Checkers": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.75,
-          "2": 1.93
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5.5": 1.77,
-          "Under 5.5": 1.91,
-          "Over 6": 1.91,
-          "Under 6": 1.76,
-          "Over 6.5": 1.91,
-          "Under 6.5": 1.77
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.61,
-          "Under 2.5": 2.05,
-          "Over 3.5": 2.2,
-          "Under 3.5": 1.53
-        },
-        "Away Team Over/Under": {
-          "Over 2.5": 1.72,
-          "Under 2.5": 1.9
-        }
-      },
-      "Chicago Wolves vs Grand Rapids Griffins": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.72,
-          "2": 1.96
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 6": 1.76,
-          "Under 6": 1.92
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.51,
-          "Under 2.5": 2.2,
-          "Over 3.5": 2.2,
-          "Under 3.5": 1.53
-        },
-        "Away Team Over/Under": {
-          "Over 2.5": 1.64,
-          "Under 2.5": 2.0
-        }
-      },
-      "Manitoba Moose vs Texas Stars": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.9,
-          "2": 1.78
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 6.5": 1.81,
-          "Under 6.5": 1.86
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.54,
-          "Under 2.5": 2.15
-        },
-        "Away Team Over/Under": {
-          "Over 3.5": 2.15,
-          "Under 3.5": 1.54
-        }
-      },
-      "Tucson Roadrunners vs Coachella Valley Firebirds": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.9,
-          "2": 1.78
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 6.5": 1.85,
-          "Under 6.5": 1.82
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.56,
-          "Under 2.5": 2.15
-        },
-        "Away Team Over/Under": {
-          "Over 3.5": 2.2,
-          "Under 3.5": 1.52
-        }
-      },
-      "Bakersfield Condors vs San Jose Barracuda": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.78,
-          "2": 1.9
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 6": 1.87,
-          "Under 6": 1.8
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.6,
-          "Under 2.5": 2.05
-        },
-        "Away Team Over/Under": {
-          "Over 2.5": 1.65,
-          "Under 2.5": 1.97
-        }
-      },
-      "Milwaukee Admirals vs Rockford Icehogs": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.7,
-          "2": 2.0
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 6": 1.91,
-          "Under 6": 1.77
-        },
-        "Home Team Over/Under": {
-          "Over 2.5": 1.56,
-          "Under 2.5": 2.15
-        },
-        "Away Team Over/Under": {
-          "Over 2.5": 1.73,
-          "Under 2.5": 1.87
-        }
-      }
-    },
-    "ECHL": {},
-    "NHL": {
-      "Carolina Hurricanes vs Montreal Canadiens": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.39,
-          "2": 3.1
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5.5": 1.62,
-          "Under 5.5": 2.3,
-          "Over 6": 1.78,
-          "Under 6": 2.05,
-          "Over 6.5": 2.0,
-          "Under 6.5": 1.8,
-          "Over 7": 2.7,
-          "Under 7": 1.47,
-          "Over 7.5": 3.3,
-          "Under 7.5": 1.34
-        },
-        "Home Team Over/Under": {
-          "Over 1.5": 1.1,
-          "Under 1.5": 7.0,
-          "Over 2.5": 1.34,
-          "Under 2.5": 3.3,
-          "Over 3.5": 1.81,
-          "Under 3.5": 2.0,
-          "Over 4.5": 2.8,
-          "Under 4.5": 1.44,
-          "Over 5.5": 5.1,
-          "Under 5.5": 1.17
-        },
-        "Away Team Over/Under": {
-          "Over 0.5": 1.07,
-          "Under 0.5": 8.6,
-          "Over 1.5": 1.39,
-          "Under 1.5": 3.0,
-          "Over 2.5": 2.15,
-          "Under 2.5": 1.7,
-          "Over 3.5": 3.9,
-          "Under 3.5": 1.26,
-          "Over 4.5": 7.5,
-          "Under 4.5": 1.09
-        }
-      },
-      "Vancouver Canucks vs Philadelphia Flyers": {
-        "Winner (incl. overtime and penalties)": {
-          "1": 1.62,
-          "2": 2.35
-        },
-        "Total (incl. overtime and penalties)": {
-          "Over 5.5": 1.61,
-          "Under 5.5": 2.35,
-          "Over 6": 1.76,
+          "Over 5.5": 1.68,
+          "Under 5.5": 2.15,
+          "Over 6": 1.73,
           "Under 6": 2.1,
-          "Over 6.5": 1.97,
+          "Over 6.5": 1.94,
           "Under 6.5": 1.84,
-          "Over 7": 2.65,
-          "Under 7": 1.49,
-          "Over 7.5": 3.2,
-          "Under 7.5": 1.35
+          "Over 7": 2.55,
+          "Under 7": 1.49
         },
         "Home Team Over/Under": {
           "Over 1.5": 1.14,
-          "Under 1.5": 5.7,
-          "Over 2.5": 1.46,
-          "Under 2.5": 2.75,
-          "Over 3.5": 2.1,
-          "Under 3.5": 1.75,
-          "Over 4.5": 3.4,
-          "Under 4.5": 1.32,
-          "Over 5.5": 6.4,
-          "Under 5.5": 1.12
+          "Under 1.5": 5.9,
+          "Over 2.5": 1.44,
+          "Under 2.5": 2.8,
+          "Over 3.5": 2.05,
+          "Under 3.5": 1.78,
+          "Over 4.5": 3.3,
+          "Under 4.5": 1.34,
+          "Over 5.5": 6.2,
+          "Under 5.5": 1.13
         },
         "Away Team Over/Under": {
           "Over 0.5": 1.04,
           "Under 0.5": 11.0,
-          "Over 1.5": 1.27,
-          "Under 1.5": 3.8,
-          "Over 2.5": 1.81,
-          "Under 2.5": 2.0,
-          "Over 3.5": 2.95,
-          "Under 3.5": 1.4,
-          "Over 4.5": 5.4,
+          "Over 1.5": 1.28,
+          "Under 1.5": 3.75,
+          "Over 2.5": 1.84,
+          "Under 2.5": 1.97,
+          "Over 3.5": 3.0,
+          "Under 3.5": 1.39,
+          "Over 4.5": 5.6,
           "Under 4.5": 1.15
         }
       },
-      "Vegas Golden Knights vs Los Angeles Kings": {
+      "Edmonton Oilers vs Philadelphia Flyers": {
         "Winner (incl. overtime and penalties)": {
-          "1": 1.87,
-          "2": 1.97
+          "1": 1.53,
+          "2": 2.5
         },
         "Total (incl. overtime and penalties)": {
-          "Over 5": 1.33,
-          "Under 5": 3.4,
-          "Over 5.5": 1.64,
-          "Under 5.5": 2.25,
-          "Over 6": 1.8,
-          "Under 6": 2.0,
-          "Over 6.5": 2.0,
-          "Under 6.5": 1.8,
-          "Over 7": 2.75,
-          "Under 7": 1.46,
-          "Over 7.5": 3.3,
-          "Under 7.5": 1.33
+          "Over 6": 1.6,
+          "Under 6": 2.3,
+          "Over 6.5": 1.8,
+          "Under 6.5": 2.0,
+          "Over 7": 2.25,
+          "Under 7": 1.61,
+          "Over 7.5": 2.6,
+          "Under 7.5": 1.49
         },
         "Home Team Over/Under": {
-          "Over 0.5": 1.03,
-          "Under 0.5": 13.0,
-          "Over 1.5": 1.2,
-          "Under 1.5": 4.7,
-          "Over 2.5": 1.61,
-          "Under 2.5": 2.35,
-          "Over 3.5": 2.45,
-          "Under 3.5": 1.56,
-          "Over 4.5": 4.25,
-          "Under 4.5": 1.23,
-          "Over 5.5": 7.8,
-          "Under 5.5": 1.08
+          "Over 1.5": 1.11,
+          "Under 1.5": 6.7,
+          "Over 2.5": 1.37,
+          "Under 2.5": 3.1,
+          "Over 3.5": 1.87,
+          "Under 3.5": 1.93,
+          "Over 4.5": 2.95,
+          "Under 4.5": 1.41,
+          "Over 5.5": 5.25,
+          "Under 5.5": 1.16
+        },
+        "Away Team Over/Under": {
+          "Over 0.5": 1.04,
+          "Under 0.5": 11.5,
+          "Over 1.5": 1.26,
+          "Under 1.5": 3.9,
+          "Over 2.5": 1.78,
+          "Under 2.5": 2.05,
+          "Over 3.5": 2.9,
+          "Under 3.5": 1.42,
+          "Over 4.5": 5.25,
+          "Under 4.5": 1.16
+        }
+      },
+      "Vancouver Canucks vs Ottawa Senators": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 1.61,
+          "2": 2.35
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 6": 1.57,
+          "Under 6": 2.35,
+          "Over 6.5": 1.75,
+          "Under 6.5": 2.05,
+          "Over 7": 2.2,
+          "Under 7": 1.65,
+          "Over 7.5": 2.5,
+          "Under 7.5": 1.51
+        },
+        "Home Team Over/Under": {
+          "Over 1.5": 1.12,
+          "Under 1.5": 6.4,
+          "Over 2.5": 1.39,
+          "Under 2.5": 3.0,
+          "Over 3.5": 1.94,
+          "Under 3.5": 1.87,
+          "Over 4.5": 3.1,
+          "Under 4.5": 1.38,
+          "Over 5.5": 5.5,
+          "Under 5.5": 1.15
         },
         "Away Team Over/Under": {
           "Over 0.5": 1.03,
           "Under 0.5": 12.5,
           "Over 1.5": 1.22,
-          "Under 1.5": 4.4,
-          "Over 2.5": 1.67,
-          "Under 2.5": 2.25,
-          "Over 3.5": 2.6,
-          "Under 3.5": 1.51,
-          "Over 4.5": 4.5,
+          "Under 1.5": 4.3,
+          "Over 2.5": 1.68,
+          "Under 2.5": 2.2,
+          "Over 3.5": 2.65,
+          "Under 3.5": 1.48,
+          "Over 4.5": 4.7,
           "Under 4.5": 1.2
         }
       },
-      "San Jose Sharks vs Edmonton Oilers": {
+      "Los Angeles Kings vs Toronto Maple Leafs": {
         "Winner (incl. overtime and penalties)": {
-          "1": 4.2,
-          "2": 1.25
+          "1": 1.77,
+          "2": 2.05
         },
         "Total (incl. overtime and penalties)": {
-          "Over 6": 1.47,
-          "Under 6": 2.7,
-          "Over 6.5": 1.67,
-          "Under 6.5": 2.25,
-          "Over 7": 2.0,
-          "Under 7": 1.81,
-          "Over 7.5": 2.45,
-          "Under 7.5": 1.55,
-          "Over 8": 3.0,
-          "Under 8": 1.4
+          "Over 6": 1.6,
+          "Under 6": 2.3,
+          "Over 6.5": 1.78,
+          "Under 6.5": 2.0,
+          "Over 7": 2.25,
+          "Under 7": 1.61
         },
         "Home Team Over/Under": {
-          "Over 0.5": 1.07,
-          "Under 0.5": 8.75,
-          "Over 1.5": 1.38,
-          "Under 1.5": 3.1,
-          "Over 2.5": 2.15,
-          "Under 2.5": 1.72,
-          "Over 3.5": 3.8,
-          "Under 3.5": 1.27,
-          "Over 4.5": 7.5,
-          "Under 4.5": 1.09
+          "Over 1.5": 1.15,
+          "Under 1.5": 5.5,
+          "Over 2.5": 1.48,
+          "Under 2.5": 2.65,
+          "Over 3.5": 2.15,
+          "Under 3.5": 1.71,
+          "Over 4.5": 3.5,
+          "Under 4.5": 1.31,
+          "Over 5.5": 6.5,
+          "Under 5.5": 1.11
         },
         "Away Team Over/Under": {
-          "Over 2.5": 1.18,
-          "Under 2.5": 4.9,
-          "Over 3.5": 1.46,
-          "Under 3.5": 2.75,
-          "Over 4.5": 2.0,
-          "Under 4.5": 1.8,
-          "Over 5.5": 3.25,
-          "Under 5.5": 1.34,
-          "Over 6.5": 6.0,
-          "Under 6.5": 1.13
+          "Over 0.5": 1.03,
+          "Under 0.5": 13.0,
+          "Over 1.5": 1.19,
+          "Under 1.5": 4.7,
+          "Over 2.5": 1.6,
+          "Under 2.5": 2.35,
+          "Over 3.5": 2.45,
+          "Under 3.5": 1.56,
+          "Over 4.5": 4.2,
+          "Under 4.5": 1.23,
+          "Over 5.5": 7.6,
+          "Under 5.5": 1.09
+        }
+      },
+      "San Jose Sharks vs Detroit Red Wings": {
+        "Winner (incl. overtime and penalties)": {
+          "1": 2.55,
+          "2": 1.52
+        },
+        "Total (incl. overtime and penalties)": {
+          "Over 6": 1.55,
+          "Under 6": 2.4,
+          "Over 6.5": 1.74,
+          "Under 6.5": 2.05,
+          "Over 7": 2.15,
+          "Under 7": 1.67,
+          "Over 7.5": 2.55,
+          "Under 7.5": 1.5
+        },
+        "Home Team Over/Under": {
+          "Over 0.5": 1.04,
+          "Under 0.5": 11.5,
+          "Over 1.5": 1.24,
+          "Under 1.5": 4.1,
+          "Over 2.5": 1.75,
+          "Under 2.5": 2.1,
+          "Over 3.5": 2.85,
+          "Under 3.5": 1.44,
+          "Over 4.5": 5.1,
+          "Under 4.5": 1.17
+        },
+        "Away Team Over/Under": {
+          "Over 1.5": 1.1,
+          "Under 1.5": 7.0,
+          "Over 2.5": 1.35,
+          "Under 2.5": 3.25,
+          "Over 3.5": 1.83,
+          "Under 3.5": 1.97,
+          "Over 4.5": 2.8,
+          "Under 4.5": 1.44,
+          "Over 5.5": 5.0,
+          "Under 5.5": 1.18
         }
       }
     }

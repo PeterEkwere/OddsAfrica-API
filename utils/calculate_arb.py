@@ -13,6 +13,7 @@ from datetime import datetime
 from timeout_decorator import timeout
 import os
 import json
+import difflib
 from engine.ArbBrain.arb import Find_arbitrage
 from collections import OrderedDict
 from utils.arrange import save_json, load_json
@@ -46,52 +47,45 @@ def get_arbs():
                     for game, game_data in  data.items():
                         for formula, combinations in game_data.items():
                             for combination in combinations:
-                                a_dict = {}
+                                a_list = []
                                 market_list = []
                                 type_list = []
-                                if combination:
-                                    if formula == "1" and len(combination) == 2:
+                                if formula == "1" and len(combination) == 2:
                                         for a_market in combination:
                                             for bookie, market in a_market.items():
-                                                if bookie in a_dict:
-                                                    a_dict[f"{bookie}"] = market
-                                                else:
-                                                    a_dict[bookie] = market
                                                 for market_type, odds in market.items():
                                                     market_list.append(odds)
                                                     type_list.append(market_type)
+                                            a_list.append({bookie: {market_type: odds}})
                                         L = Find_arbitrage(formula, market_list)
                                         if L == None: L = 1
                                         if L < 1:
                                             perc = "{}%".format(100 - (L * 100))
-                                            a_dict["Percent Profit"] = perc
-                                            a_dict["Formula Type"] = formula
-                                            arb_dict[game] = a_dict
+                                            a_list.append({"Percent Profit": perc})
+                                            a_list.append({"Formula Type": formula})
+                                            arb_dict[game] = a_list
                                             count += 1
-                                    elif formula != "1" and len(combination) == 3:
+                                elif formula != "1" and len(combination) == 3:
                                         for a_market in combination:
                                             for bookie, market in a_market.items():
-                                                if bookie in a_dict:
-                                                    a_dict[f"+ {bookie}"] = market
-                                                else:
-                                                    a_dict[bookie] = market
                                                 for market_type, odds in market.items():
                                                     market_list.append(odds)
                                                     type_list.append(market_type)
+                                            a_list.append({bookie: {market_type: odds}})
                                         L = Find_arbitrage(formula, market_list)
                                         if L == None: L = 1
                                         if L < 1:
                                             perc = "{}%".format(100 - (L * 100))
-                                            a_dict["Percent Profit"] = perc
-                                            a_dict["Formula Type"] = formula
-                                            arb_dict[game] = a_dict
+                                            a_list.append({"Percent Profit": perc})
+                                            a_list.append({"Formula Type": formula})
+                                            arb_dict[game] = a_list
                                             count += 1
-                                    else:
-                                        pass
                                 else:
                                     pass
+                            else:
+                                pass
                     file = f"{filepath}/{filename}"           
-                    log_success(f"Number of Arbitrage found in this historical data is {count}") 
+                    log_success(f"Number of Arbitrage found in {sport_name} is {count}\n\n") 
                     save_json(sport_folder_path, file, arb_dict)
         except Exception as e:
             message = f"Error with finding arbs in {sport_folder_path}, filename: {filename}"

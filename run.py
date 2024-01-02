@@ -22,16 +22,16 @@ from utils.logger.log import log_exception, log_success, log_error
 
 # Defining the bookies and available sports
 bookies_and_sports = [
-    (Betpawa(), ["football", "basketball"]),
-    (bet22(), ["football", "basketball", "volleyball", "darts", "icehockey"]),
-    (bet9ja(), ["football", "basketball", "volleyball", "darts", "icehockey"]),
-    (betking(), ["football", "basketball", "volleyball", "darts", "icehockey"]),
-    (betwinner(), ["football", "basketball", "volleyball", "darts", "icehockey"]),
-    (livescorebet(), ["football", "basketball", "volleyball", "darts", "icehockey"]),
-    (merrybet(), ["football", "basketball", "volleyball", "darts", "icehockey"]),
-    (nairabet(), ["soccer", "basketball", "volleyball", "darts", "ice_hockey"]),
-    (Paripesa(), ["football", "basketball", "volleyball", "darts", "icehockey"]),
-    (SportyBet(), ["football", "basketball", "volleyball", "darts", "icehockey"]),
+    #(Betpawa(), ["football", "basketball"]),
+    #(bet22(), ["football", "basketball", "volleyball", "darts", "icehockey"]),
+    #(bet9ja(), ["football", "basketball", "volleyball", "darts", "icehockey"]),
+    #(betking(), ["football", "basketball", "volleyball", "darts", "icehockey"]),
+    #(betwinner(), ["football", "basketball", "volleyball", "darts", "icehockey"]),
+    #(livescorebet(), ["football", "basketball", "volleyball", "darts", "icehockey"]),
+    #(merrybet(), ["football", "basketball", "volleyball", "darts", "icehockey"]),
+    #(nairabet(), ["soccer", "basketball", "volleyball", "darts", "ice_hockey"]),
+    #(Paripesa(), ["football", "basketball", "volleyball", "darts", "icehockey"]),
+    #(SportyBet(), ["football", "basketball", "volleyball", "darts", "icehockey"]),
     (xbet(), ["football", "basketball", "volleyball", "darts", "icehockey"])
     # ... Repeat for other bookies ...
 ]
@@ -48,10 +48,10 @@ def scrape_bookie(bookie, sports):
     try:
         for sport in sports:
             bookie.Get_games(sport)
-        message = f"SUCCESSFULLY SCRAPED {bookie.bookie_name}"
+        message = f"SUCCESSFULLY SCRAPED {bookie.bookie_name}\n\n"
         log_success(f"{message}")
     except Exception as e:
-        message = f"ERROR SCRAPING {bookie.bookie_name}, Error: {e}"
+        message = f"ERROR SCRAPING {bookie.bookie_name}, Error: {e}\n"
         log_exception(f"{message}")
 
 
@@ -63,17 +63,34 @@ for bookie, sports in bookies_and_sports:
     except TimeoutError:
         log_exception(f"TimeoutError: Scraping {bookie.bookie_name} took too long. Moving to the next bookie.")
     except Exception as e:
-        log_exception(f"Unexpected error: {e}")
+        log_exception(f"Unexpected error: {e}\n")
 
 
-# Calling The Arrange Function to Prepare available games for processing 
-arrange_games()
+# Calling The Arrange Function to Prepare available games for processing
+try:
+    arrange_games()
+    log_success("SUCCESS Arranging GAMES\n\n")
+except Exception as e:
+    log_exception(f"ERROR ARRANGING GAMES\n\n")
 
 # Calling The Process Function to Extract the needed markets for Cross Market Creation
-process_games()
-
+try:
+    process_games()
+    log_success("SUCCESS PROCESSING THE NEEDED MARKETS FOR CROSS MARKET CREATIONS\n\n")
+except Exception as e:
+    log_exception(f"ERROR EXTRACTING MARKETS: {e}\n\n")
+    
+    
 # Calling the Combine function to Create the needed cross market combination as per its respective formula and save them as values for each game
-Combine_markets()
+try:
+    Combine_markets()
+    log_success("SUCCESS COMBINING ALL BOOKIES TO CROSS MARKETS FOR EACH GAMES\n\n")
+except Exception as e:
+    log_exception(f"ERROR COMBINING BOOKIES: {e}\n\n")
 
 #Calling the get arbs function to extract each combination and pass it to a function to calculate if there is an arbitrage opportunity
-get_arbs()
+try:
+    get_arbs()
+    log_success("SUCCESS FINDING ARBS YOU CAN FIND YOUR ARBS IN THE ARBS FOLDER IN engine/storage_engine/arbs_found file\n\n")
+except Exception as e:
+    log_exception(f"ERROR Searching For ARBS: {e}\n\n")

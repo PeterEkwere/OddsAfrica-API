@@ -2,33 +2,33 @@
   "Usa": [
     {
       "NBA": {
-        "Boston Celtics - Detroit Pistons": {
+        "Toronto Raptors - Cleveland Cavaliers": {
           "1x2": {
-            "1": 1.07,
-            "X": 29.0,
-            "2": 9.35
+            "1": 1.76,
+            "X": 12.5,
+            "2": 2.3
           },
           "time": "",
           "1 2 (incl. OT)": {
-            "1": 1.07,
-            "2": 8.45
+            "1": 1.73,
+            "2": 2.15
           },
           "1st half - 1x2": {
-            "1": 1.15,
-            "X": 30.0,
-            "2": 5.15
+            "1": 1.74,
+            "X": 19.5,
+            "2": 2.1
           }
         },
-        "New Orleans Hornets - Utah Jazz": {
+        "Milwaukee Bucks - Indiana Pacers": {
           "1x2": {
-            "1": 1.31,
-            "X": 17.5,
-            "2": 3.85
+            "1": 1.32,
+            "X": 17.0,
+            "2": 3.8
           },
           "time": "",
           "1 2 (incl. OT)": {
-            "1": 1.3,
-            "2": 3.55
+            "1": 1.31,
+            "2": 3.5
           },
           "1st half - 1x2": {
             "1": 1.41,
@@ -36,45 +36,79 @@
             "2": 2.9
           }
         },
-        "Chicago Bulls - Indiana Pacers": {
+        "Houston Rockets - Detroit Pistons": {
           "1x2": {
-            "1": 2.05,
-            "X": 12.5,
-            "2": 1.94
+            "1": 1.28,
+            "X": 17.5,
+            "2": 4.2
           },
           "time": "",
           "1 2 (incl. OT)": {
-            "1": 1.91,
-            "2": 1.9
+            "1": 1.27,
+            "2": 3.8
           },
           "1st half - 1x2": {
-            "1": 1.93,
-            "X": 22.5,
-            "2": 1.86
+            "1": 1.37,
+            "X": 22.0,
+            "2": 3.05
           }
         },
-        "Minnesota Timberwolves - Dallas Mavericks": {
+        "Utah Jazz - Dallas Mavericks": {
           "1x2": {
+            "1": 2.35,
+            "X": 15.0,
+            "2": 1.71
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "1": 2.2,
+            "2": 1.69
+          },
+          "1st half - 1x2": {
+            "1": 2.15,
+            "X": 21.5,
+            "2": 1.7
+          }
+        },
+        "Denver Nuggets - Charlotte Bobcats": {
+          "1x2": {
+            "1": 1.07,
+            "X": 27.0,
+            "2": 9.0
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "1": 1.08,
+            "2": 8.1
+          },
+          "1st half - 1x2": {
+            "1": 1.16,
+            "X": 28.5,
+            "2": 5.0
+          }
+        },
+        "Phoenix Suns - Portland Trail Blazers": {
+          "1x2": {
+            "1": 1.26,
+            "X": 18.0,
+            "2": 4.35
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
             "1": 1.25,
-            "X": 18.5,
-            "2": 4.45
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 1.24,
-            "2": 4.1
+            "2": 3.95
           },
           "1st half - 1x2": {
-            "1": 1.35,
-            "X": 23.0,
-            "2": 3.15
+            "1": 1.36,
+            "X": 22.5,
+            "2": 3.1
           }
         },
-        "Denver Nuggets - Memphis Grizzlies": {
+        "Los Angeles Clippers - Miami Heat": {
           "1x2": {
-            "1": 1.36,
-            "X": 17.0,
-            "2": 3.45
+            "1": 1.37,
+            "X": 16.5,
+            "2": 3.5
           },
           "time": "",
           "1 2 (incl. OT)": {
@@ -83,59 +117,25 @@
           },
           "1st half - 1x2": {
             "1": 1.45,
-            "X": 22.0,
+            "X": 21.5,
             "2": 2.75
           }
         },
-        "Portland Trail Blazers - San Antonio Spurs": {
+        "Philadelphia 76ers - Chicago Bulls": {
           "1x2": {
-            "1": 1.58,
-            "X": 16.5,
-            "2": 2.6
+            "1": 1.17,
+            "X": 19.5,
+            "2": 5.75
           },
           "time": "",
           "1 2 (incl. OT)": {
-            "1": 1.57,
-            "2": 2.4
+            "1": 1.17,
+            "2": 5.2
           },
           "1st half - 1x2": {
-            "1": 1.62,
-            "X": 21.0,
-            "2": 2.3
-          }
-        },
-        "Golden State Warriors - Miami Heat": {
-          "1x2": {
-            "1": 1.73,
-            "X": 15.0,
-            "2": 2.3
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 1.71,
-            "2": 2.15
-          },
-          "1st half - 1x2": {
-            "1": 1.72,
+            "1": 1.27,
             "X": 22.5,
-            "2": 2.1
-          }
-        },
-        "Los Angeles Lakers - Charlotte Bobcats": {
-          "1x2": {
-            "1": 1.13,
-            "X": 21.5,
-            "2": 6.65
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 1.13,
-            "2": 6.0
-          },
-          "1st half - 1x2": {
-            "1": 1.23,
-            "X": 24.5,
-            "2": 4.1
+            "2": 3.75
           }
         }
       }
@@ -144,206 +144,216 @@
   "Australia": [
     {
       "NBL": {
-        "Sydney Kings - Cairns Taipans": {
+        "Sydney Kings - Melbourne United": {
           "1x2": {
-            "1": 1.4,
-            "X": 13.5,
-            "2": 3.2
+            "1": 2.0,
+            "X": 12.5,
+            "2": 1.91
           },
           "time": "",
           "1 2 (incl. OT)": {
-            "1": 1.35,
-            "2": 2.95
+            "1": 1.91,
+            "2": 1.8
           },
           "1st half - 1x2": {
-            "1": 1.5,
-            "X": 18.0,
-            "2": 2.5
+            "1": 1.91,
+            "X": 18.5,
+            "2": 1.84
           }
         },
-        "Brisbane Bullets - South East Melbourne Phoenix": {
+        "Tasmania Jackjumpers - Cairns Taipans": {
           "1x2": {
-            "1": 1.71,
-            "X": 11.5,
-            "2": 2.35
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 1.62,
-            "2": 2.15
-          },
-          "1st half - 1x2": {
-            "1": 1.72,
-            "X": 16.5,
-            "2": 2.1
-          }
-        },
-        "Wollongong Hawks - Adelaide 36ers": {
-          "1x2": {
-            "1": 1.51,
+            "1": 1.47,
             "X": 14.0,
-            "2": 2.75
+            "2": 2.85
           },
           "time": "",
           "1 2 (incl. OT)": {
-            "1": 1.45,
-            "2": 2.55
+            "1": 1.41,
+            "2": 2.7
           },
           "1st half - 1x2": {
-            "1": 1.59,
+            "1": 1.56,
             "X": 19.0,
-            "2": 2.3
+            "2": 2.35
           }
         },
-        "Tasmania Jackjumpers - New Zealand Breakers": {
+        "New Zealand Breakers - Perth Wildcats": {
           "1x2": {
-            "1": 1.4,
-            "X": 15.0,
-            "2": 3.1
+            "1": 1.95,
+            "X": 12.5,
+            "2": 1.97
           },
           "time": "",
           "1 2 (incl. OT)": {
-            "1": 1.35,
-            "2": 2.95
+            "1": 1.85,
+            "2": 1.86
           },
           "1st half - 1x2": {
-            "1": 1.51,
-            "X": 19.5,
-            "2": 2.45
+            "1": 1.87,
+            "X": 19.0,
+            "2": 1.88
           }
         }
       }
     },
     {
       "WNBL": {
-        "Sydney Uni Flames - Townsville Fire": {
-          "1 2 (incl. OT)": {
-            "1": 3.2,
-            "2": 1.31
-          },
-          "time": ""
-        },
-        "Melbourne Boomers - Bendigo Spirit": {
+        "Melbourne Boomers - Southside Flyers": {
           "1x2": {
-            "1": 1.34,
-            "X": 16.0,
-            "2": 3.45
+            "1": 1.98,
+            "X": 12.5,
+            "2": 1.94
           },
           "time": "",
           "1 2 (incl. OT)": {
-            "1": 1.29,
-            "2": 3.25
+            "1": 1.87,
+            "2": 1.83
           },
           "1st half - 1x2": {
-            "1": 1.45,
-            "X": 20.0,
-            "2": 2.65
+            "1": 1.89,
+            "X": 18.5,
+            "2": 1.86
           }
         },
-        "Adelaide Lightning - Southside Flyers": {
+        "Townsville Fire - West Coast Waves": {
           "1x2": {
-            "1": 2.55,
+            "1": 1.46,
             "X": 14.5,
-            "2": 1.56
+            "2": 2.85
           },
           "time": "",
           "1 2 (incl. OT)": {
-            "1": 2.4,
-            "2": 1.5
+            "1": 1.41,
+            "2": 2.7
           },
           "1st half - 1x2": {
+            "1": 1.55,
+            "X": 19.5,
+            "2": 2.35
+          }
+        },
+        "Adelaide Lightning - Sydney Uni Flames": {
+          "1x2": {
             "1": 2.2,
-            "X": 20.0,
-            "2": 1.62
+            "X": 9.55,
+            "2": 1.84
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "1": 2.05,
+            "2": 1.71
+          },
+          "1st half - 1x2": {
+            "1": 2.05,
+            "X": 14.0,
+            "2": 1.8
           }
         }
       }
     }
   ],
   "China": [
-    {}
+    {
+      "CBA": {
+        "Shenzhen Leopards - Shanghai Sharks": {
+          "1x2": {
+            "1": 1.64,
+            "X": 13.5,
+            "2": 2.4
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "1": 1.57,
+            "2": 2.25
+          },
+          "1st half - 1x2": {
+            "1": 1.67,
+            "X": 19.5,
+            "2": 2.15
+          }
+        },
+        "Shandong Kirin - Ningbo Rockets": {
+          "1x2": {
+            "1": 1.19,
+            "X": 19.0,
+            "2": 4.85
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "1": 1.16,
+            "2": 4.55
+          },
+          "1st half - 1x2": {
+            "1": 1.31,
+            "X": 23.5,
+            "2": 3.2
+          }
+        }
+      }
+    }
   ],
   "Austria": [
     {
       "Superliga": {
-        "BC Zepter Vienna - Chin Min Dragons St. Polten": {
+        "BBC Nord Dragonz - Oberwart Gunners": {
           "1x2": {
-            "1": 1.16,
-            "X": 21.5,
-            "2": 5.25
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 1.14,
-            "2": 5.0
-          },
-          "1st half - 1x2": {
-            "1": 1.28,
+            "1": 7.85,
             "X": 24.0,
-            "2": 3.35
-          }
-        },
-        "Ubsc Raiffeisen Graz - Vienna Timberwolves": {
-          "1x2": {
-            "1": 1.08,
-            "X": 24.0,
-            "2": 7.75
+            "2": 1.07
           },
           "time": "",
           "1 2 (incl. OT)": {
-            "1": 1.06,
-            "2": 7.2
-          },
-          "1st half - 1x2": {
-            "1": 1.18,
-            "X": 24.5,
-            "2": 4.35
+            "1": 7.25,
+            "2": 1.06
           }
         },
-        "Oberwart Gunners - Arkadia Traiskirchen": {
+        "Chin Min Dragons St. Polten - WBC Raiffeisen Wels": {
           "1x2": {
-            "1": 2.2,
-            "X": 14.0,
-            "2": 1.74
+            "1": 1.66,
+            "X": 13.0,
+            "2": 2.35
           },
           "time": "",
           "1 2 (incl. OT)": {
-            "1": 2.1,
-            "2": 1.67
-          },
-          "1st half - 1x2": {
-            "1": 2.0,
-            "X": 20.0,
-            "2": 1.74
+            "1": 1.59,
+            "2": 2.25
           }
         },
-        "WBC Raiffeisen Wels - Furstenfeld Panthers": {
+        "Arkadia Traiskirchen - ECE Bulls Kapfenberg": {
+          "1x2": {
+            "1": 1.24,
+            "X": 17.5,
+            "2": 4.2
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "1": 1.21,
+            "2": 3.95
+          }
+        },
+        "Xion Dukes Klosterneuburg - Ubsc Raiffeisen Graz": {
+          "1x2": {
+            "1": 1.36,
+            "X": 15.5,
+            "2": 3.3
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "1": 1.32,
+            "2": 3.1
+          }
+        },
+        "Swans Gmunden - Vienna Timberwolves": {
+          "1x2": {
+            "1": 1.02,
+            "X": 25.0,
+            "2": 12.0
+          },
+          "time": "",
           "1 2 (incl. OT)": {
             "1": 1.01,
-            "2": 11.5
-          },
-          "time": "",
-          "1st half - 1x2": {
-            "1": 1.06,
-            "X": 25.0,
-            "2": 7.05
-          }
-        },
-        "ECE Bulls Kapfenberg - Xion Dukes Klosterneuburg": {
-          "1x2": {
-            "1": 2.45,
-            "X": 13.5,
-            "2": 1.62
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 2.3,
-            "2": 1.55
-          },
-          "1st half - 1x2": {
-            "1": 2.15,
-            "X": 19.0,
-            "2": 1.66
+            "2": 10.5
           }
         }
       }
@@ -351,473 +361,83 @@
     {}
   ],
   "Turkey": [
-    {
-      "Super Lig": {
-        "Samsun Anakent - Galatasaray SK": {
-          "1x2": {
-            "1": 3.55,
-            "X": 17.5,
-            "2": 1.31
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 3.45,
-            "2": 1.28
-          },
-          "1st half - 1x2": {
-            "1": 2.65,
-            "X": 22.5,
-            "2": 1.43
-          }
-        },
-        "Merkezefendi Belediyesi Denizli Basket - Pinar Karsiyaka": {
-          "1 2 (incl. OT)": {
-            "1": 3.15,
-            "2": 1.33
-          },
-          "time": ""
-        },
-        "Tofas Bursa - Bahcesehir Koleji ": {
-          "1x2": {
-            "1": 1.63,
-            "X": 15.0,
-            "2 ": 2.35
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 1.58,
-            "2 ": 2.3
-          },
-          "1st half - 1x2": {
-            "1": 1.67,
-            "X": 21.5,
-            "2 ": 2.1
-          }
-        },
-        "Manisa Bbsk - Cagdas Bodrum Spor": {
-          "1x2": {
-            "1": 1.39,
-            "X": 15.0,
-            "2": 3.2
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 1.35,
-            "2": 3.05
-          },
-          "1st half - 1x2": {
-            "1": 1.5,
-            "X": 19.5,
-            "2": 2.5
-          }
-        }
-      }
-    },
-    {
-      "1. Lig": {
-        "Sigortam.net - Kapakli Spor": {
-          "1x2": {
-            "1": 1.25,
-            "X": 17.5,
-            "2": 3.85
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 1.22,
-            "2": 3.7
-          }
-        },
-        "Gaziantep Basketbol - Final Spor": {
-          "1x2": {
-            "1": 1.32,
-            "X": 16.5,
-            "2": 3.35
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 1.29,
-            "2": 3.2
-          },
-          "1st half - 1x2": {
-            "1": 1.42,
-            "X": 20.0,
-            "2": 2.5
-          }
-        },
-        "Golbashi Bel. Ted Ankara Kolejliler - Esenler Erokspor": {
-          "1x2": {
-            "1": 1.69,
-            "X": 12.5,
-            "2": 2.25
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 1.62,
-            "2": 2.1
-          },
-          "1st half - 1x2": {
-            "1": 1.68,
-            "X": 18.0,
-            "2": 2.0
-          }
-        }
-      }
-    }
+    {},
+    {}
   ],
   "Germany": [
     {},
     {},
     {
       "Pro A": {
-        "Phoenix Hagen - SC Rasta Vechta II": {
+        "LTi Giessen 46ers - TBB Trier": {
           "1x2": {
-            "1": 1.13,
-            "X": 20.5,
-            "2": 6.0
+            "1": 1.75,
+            "X": 13.5,
+            "2": 2.2
           },
           "time": "",
           "1 2 (incl. OT)": {
-            "1": 1.11,
-            "2": 5.6
-          },
-          "1st half - 1x2": {
-            "1": 1.25,
-            "X": 22.0,
-            "2": 3.65
-          }
-        },
-        "Eisbaren Bremerhaven - Fraport Skyliners": {
-          "1x2": {
-            "1": 3.25,
-            "X": 15.5,
-            "2": 1.37
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 3.05,
-            "2": 1.33
-          },
-          "1st half - 1x2": {
-            "1": 2.55,
-            "X": 19.5,
-            "2": 1.48
-          }
-        }
-      }
-    }
-  ],
-  "Spain": [
-    {
-      "Spagnola ACB": {
-        "Basket Zaragoza 2002 - BC River Andorra": {
-          "1x2": {
-            "1": 1.42,
-            "X": 15.5,
-            "2": 3.0
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 1.38,
-            "2": 2.9
-          },
-          "1st half - 1x2": {
-            "1": 1.52,
-            "X": 20.5,
-            "2": 2.4
-          }
-        },
-        "GRANADA - CB Canarias": {
-          "1x2": {
-            "1": 2.7,
-            "X": 14.0,
-            "2": 1.52
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 2.6,
-            "2": 1.47
-          },
-          "1st half - 1x2": {
-            "1": 2.3,
-            "X": 19.0,
-            "2": 1.59
-          }
-        },
-        "Basquet Manresa - Joventut Badalona": {
-          "1x2": {
-            "1": 1.87,
-            "X": 10.5,
-            "2": 2.15
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 1.76,
-            "2": 2.0
-          },
-          "1st half - 1x2": {
-            "1": 1.82,
-            "X": 15.5,
-            "2": 1.98
-          }
-        },
-        "Obradoiro CAB - UCAM Murcia": {
-          "1x2": {
-            "1": 2.15,
-            "X": 10.5,
-            "2": 1.87
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 2.0,
-            "2": 1.76
-          },
-          "1st half - 1x2": {
-            "1": 1.98,
-            "X": 15.5,
-            "2": 1.82
-          }
-        }
-      }
-    },
-    {
-      "LEB Oro": {
-        "Melilla Baloncesto - Amics Castello": {
-          "1x2": {
-            "1": 1.44,
-            "X": 14.0,
-            "2": 2.85
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 1.39,
-            "2": 2.7
-          },
-          "1st half - 1x2": {
-            "1": 1.52,
-            "X": 18.5,
-            "2": 2.3
-          }
-        },
-        "Lagun Aro Gbc - CD Estela": {
-          "1x2": {
-            "1": 1.15,
-            "X": 18.5,
-            "2": 5.15
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 1.13,
-            "2": 4.9
-          },
-          "1st half - 1x2": {
-            "1": 1.26,
-            "X": 20.5,
-            "2": 3.25
-          }
-        },
-        "Leyma Basquet Coruna - C. Ourense Baloncesto Sad": {
-          "1x2": {
-            "1": 1.05,
-            "X": 23.0,
-            "2": 7.95
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 1.04,
-            "2": 7.6
-          },
-          "1st half - 1x2": {
-            "1": 1.14,
-            "X": 23.0,
-            "2": 4.35
-          }
-        },
-        "Caprabo Lleida - Cb Clavijo": {
-          "1x2": {
-            "1": 1.07,
-            "X": 21.5,
-            "2": 7.05
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 1.06,
-            "2": 6.75
-          },
-          "1st half - 1x2": {
-            "1": 1.16,
-            "X": 22.0,
-            "2": 4.1
-          }
-        },
-        "Baloncesto Fuenlabrada - Real Betis Cajasol": {
-          "1x2": {
-            "1": 1.96,
-            "X": 12.0,
-            "2": 1.9
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 1.86,
-            "2": 1.81
-          }
-        },
-        "Oviedo BC - Rueda Valladolid": {
-          "1x2": {
-            "1": 1.78,
-            "X": 12.5,
+            "1": 1.66,
             "2": 2.1
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 1.7,
-            "2": 1.99
           },
           "1st half - 1x2": {
             "1": 1.74,
-            "X": 17.5,
-            "2": 1.93
+            "X": 20.0,
+            "2": 2.0
           }
         },
-        "Lucentum Alicante - Cb Tizona": {
+        "VfL Kirchheim Knights - Gartenzaun24 Baskets Paderborn": {
           "1x2": {
-            "1": 1.5,
-            "X": 13.5,
-            "2": 2.6
+            "1": 1.15,
+            "X": 20.5,
+            "2": 5.45
           },
           "time": "",
           "1 2 (incl. OT)": {
-            "1": 1.45,
-            "2": 2.5
+            "1": 1.13,
+            "2": 5.1
           },
           "1st half - 1x2": {
-            "1": 1.56,
-            "X": 18.0,
-            "2": 2.2
+            "1": 1.28,
+            "X": 23.0,
+            "2": 3.4
           }
         },
-        "Menorca Basquet - Caceres Ciudad del Baloncesto": {
+        "Desden Titans - SC Rasta Vechta II": {
           "1x2": {
-            "1": 1.66,
-            "X": 12.5,
-            "2": 2.25
+            "1": 1.15,
+            "X": 20.5,
+            "2": 5.45
           },
           "time": "",
           "1 2 (incl. OT)": {
-            "1": 1.59,
-            "2": 2.15
+            "1": 1.13,
+            "2": 5.1
           },
           "1st half - 1x2": {
-            "1": 1.67,
-            "X": 17.5,
-            "2": 2.05
+            "1": 1.28,
+            "X": 23.0,
+            "2": 3.4
           }
         },
-        "CB Miraflores Burgos - Asefa Estudiantes": {
+        "Artland Dragons - BBC Bayreuth": {
           "1x2": {
-            "1": 1.39,
-            "X": 14.5,
-            "2": 3.0
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 1.35,
-            "2": 2.85
-          },
-          "1st half - 1x2": {
-            "1": 1.48,
-            "X": 18.5,
-            "2": 2.4
-          }
-        }
-      }
-    },
-    {}
-  ],
-  "Japan": [
-    {
-      "B2 League": {
-        "Shiga Lake Stars - Veltex Shizuoka": {
-          "1 2 (incl. OT)": {
-            "1": 1.18,
-            "2": 4.1
-          },
-          "time": ""
-        },
-        "Iwate Big Bulls - Ehime Orange Vikings": {
-          "1x2": {
-            "1": 1.75,
-            "X": 12.0,
-            "2": 2.15
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 1.67,
-            "2": 2.05
-          },
-          "1st half - 1x2": {
-            "1": 1.72,
-            "X": 17.0,
-            "2": 1.96
-          }
-        },
-        "Hyogo Storks - Altiri Chiba": {
-          "1x2": {
-            "1": 3.25,
-            "X": 21.0,
-            "2": 1.3
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 3.2,
-            "2": 1.28
-          },
-          "1st half - 1x2": {
-            "1": 2.5,
-            "X": 25.0,
-            "2": 1.41
-          }
-        },
-        "Bambitious Nara - Koshigaya Alphas": {
-          "1x2": {
-            "1": 3.1,
-            "X": 14.5,
-            "2": 1.38
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 2.95,
-            "2": 1.34
-          },
-          "1st half - 1x2": {
-            "1": 2.4,
-            "X": 18.5,
-            "2": 1.46
-          }
-        }
-      }
-    }
-  ],
-  "Italy": [
-    {
-      "Serie A": {
-        "Cimberio Varese - Reggio Emilia": {
-          "1x2": {
-            "1": 2.25,
-            "X": 13.0,
-            "2": 1.74
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 2.1,
-            "2": 1.65
-          },
-          "1st half - 1x2": {
-            "1": 2.05,
+            "1": 4.85,
             "X": 19.0,
-            "2": 1.74
+            "2": 1.19
+          },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "1": 4.55,
+            "2": 1.16
+          },
+          "1st half - 1x2": {
+            "1": 3.2,
+            "X": 21.5,
+            "2": 1.31
           }
         },
-        "Vanoli Cremona - Enel Brindisi": {
+        "Nuremberg Falcons BC - Uni Baskets Munster": {
           "1x2": {
             "1": 1.46,
             "X": 14.5,
@@ -834,284 +454,88 @@
             "2": 2.4
           }
         },
-        "Cuore Napoli Basket - Derthona Tortona": {
+        "Gloria Giants Dusseldorf - Eisbaren Bremerhaven": {
           "1x2": {
-            "1": 1.6,
-            "X": 12.0,
-            "2": 2.55
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 1.52,
-            "2": 2.35
-          },
-          "1st half - 1x2": {
-            "1": 1.65,
-            "X": 17.0,
-            "2": 2.2
-          }
-        },
-        "Dinamo Banco di Sardegna Sassari - Umana Reyer Venezia": {
-          "1x2": {
-            "1": 2.5,
-            "X": 12.0,
-            "2": 1.62
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 2.3,
-            "2": 1.54
-          },
-          "1st half - 1x2": {
-            "1": 2.15,
-            "X": 17.0,
-            "2": 1.66
-          }
-        },
-        "Givova Scafati - Aquila Basket Trento": {
-          "1x2": {
-            "1": 2.05,
+            "1": 1.98,
             "X": 12.5,
-            "2": 1.9
+            "2": 1.94
           },
           "time": "",
           "1 2 (incl. OT)": {
-            "1": 1.92,
-            "2": 1.79
+            "1": 1.87,
+            "2": 1.83
           },
           "1st half - 1x2": {
-            "1": 1.92,
-            "X": 18.5,
-            "2": 1.84
-          }
-        },
-        "Universo Treviso - Giorgio Tesi Group Pistoia": {
-          "1x2": {
-            "1": 1.59,
-            "X": 12.0,
-            "2": 2.6
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 1.51,
-            "2": 2.4
-          },
-          "1st half - 1x2": {
-            "1": 1.64,
-            "X": 16.5,
-            "2": 2.2
-          }
-        }
-      }
-    },
-    {
-      "Serie A2": {
-        "Amici Pallacanestro Udinese - Benedetto Xiv Cento": {
-          "1x2": {
-            "1": 1.11,
-            "X": 22.0,
-            "2": 5.7
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 1.1,
-            "2": 5.55
-          },
-          "1st half - 1x2": {
-            "1": 1.21,
-            "X": 23.0,
-            "2": 3.5
-          }
-        },
-        "Juvi Cremona 1952 Ferraroni - Real Sebastiani Rieti": {
-          "1x2": {
-            "1": 1.71,
-            "X": 12.5,
-            "2": 2.2
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 1.64,
-            "2": 2.1
-          },
-          "1st half - 1x2": {
-            "1": 1.7,
-            "X": 17.5,
-            "2": 1.98
-          }
-        },
-        "Luiss Roma - M Rinnovabili Agrigento": {
-          "1x2": {
-            "1": 1.9,
-            "X": 12.0,
-            "2": 1.95
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 1.81,
+            "1": 1.89,
+            "X": 19.0,
             "2": 1.86
-          },
-          "1st half - 1x2": {
-            "1": 1.81,
-            "X": 18.0,
-            "2": 1.84
           }
         },
-        "Bennet Cantu - Urania Milano": {
-          "1x2": {
-            "1": 1.21,
-            "X": 17.0,
-            "2": 4.2
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 1.19,
-            "2": 4.05
-          },
-          "1st half - 1x2": {
-            "1": 1.33,
-            "X": 19.5,
-            "2": 2.9
-          }
-        },
-        "Pallacanestro 2.015 Forli - Unione Cestistica Casalpusterlengo": {
-          "1x2": {
-            "1": 1.33,
-            "X": 15.0,
-            "2": 3.3
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 1.29,
-            "2": 3.15
-          },
-          "1st half - 1x2": {
-            "1": 1.43,
-            "X": 18.5,
-            "2": 2.55
-          }
-        },
-        "Elachem Vigevano 1955 - Manital Torino": {
-          "1x2": {
-            "1": 3.2,
-            "X": 15.0,
-            "2": 1.35
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 3.05,
-            "2": 1.32
-          },
-          "1st half - 1x2": {
-            "1": 2.45,
-            "X": 18.5,
-            "2": 1.45
-          }
-        },
-        "San Giobbe Chiusi - Rinascita Basket Rimini": {
-          "1x2": {
-            "1": 2.1,
-            "X": 12.5,
-            "2": 1.77
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 2.0,
-            "2": 1.69
-          },
-          "1st half - 1x2": {
-            "1": 1.94,
-            "X": 17.5,
-            "2": 1.73
-          }
-        },
-        "Trapani Shark - AB Latina": {
-          "1x2": {
-            "1": 1.03,
-            "X": 25.0,
-            "2": 8.85
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 1.03,
-            "2": 8.6
-          },
-          "1st half - 1x2": {
-            "1": 1.11,
-            "X": 25.0,
-            "2": 4.7
-          }
-        },
-        "Pallacanestro Orzinuovi - Fortitudo Bologna 103": {
+        "VfL Astrostars Bochum - Medipolis SC Jena": {
           "1x2": {
             "1": 3.05,
-            "X": 14.5,
-            "2": 1.38
+            "X": 15.0,
+            "2": 1.42
           },
           "time": "",
           "1 2 (incl. OT)": {
             "1": 2.9,
+            "2": 1.37
+          },
+          "1st half - 1x2": {
+            "1": 2.45,
+            "X": 19.5,
+            "2": 1.52
+          }
+        },
+        "EPG Baskets Koblenz - Fraport Skyliners": {
+          "1x2": {
+            "1": 3.4,
+            "X": 15.5,
             "2": 1.34
           },
+          "time": "",
+          "1 2 (incl. OT)": {
+            "1": 3.2,
+            "2": 1.3
+          },
           "1st half - 1x2": {
-            "1": 2.4,
-            "X": 18.5,
-            "2": 1.47
+            "1": 2.6,
+            "X": 20.0,
+            "2": 1.46
           }
         },
-        "Pallacanestro Trieste - Tezenis Verona": {
+        "Post Sudstadt Karlsruhe - Phoenix Hagen": {
           "1x2": {
-            "1": 1.33,
-            "X": 15.0,
-            "2": 3.35
+            "1": 1.69,
+            "X": 13.0,
+            "2": 2.3
           },
           "time": "",
           "1 2 (incl. OT)": {
-            "1": 1.29,
-            "2": 3.15
+            "1": 1.61,
+            "2": 2.2
           },
           "1st half - 1x2": {
-            "1": 1.43,
-            "X": 18.5,
-            "2": 2.55
-          }
-        },
-        "Casale Monferrato - Blu Basket 1971": {
-          "1x2": {
-            "1": 2.55,
-            "X": 13.5,
-            "2": 1.52
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 2.45,
-            "2": 1.47
-          },
-          "1st half - 1x2": {
-            "1": 2.15,
-            "X": 18.0,
-            "2": 1.58
-          }
-        },
-        "Nardo Basket - Ueb Cividale": {
-          "1x2": {
-            "1": 1.49,
-            "X": 13.5,
-            "2": 2.65
-          },
-          "time": "",
-          "1 2 (incl. OT)": {
-            "1": 1.44,
-            "2": 2.55
-          },
-          "1st half - 1x2": {
-            "1": 1.55,
-            "X": 18.0,
-            "2": 2.25
+            "1": 1.71,
+            "X": 19.0,
+            "2": 2.1
           }
         }
       }
-    },
+    }
+  ],
+  "Spain": [
+    {},
+    {},
+    {}
+  ],
+  "Japan": [
+    {}
+  ],
+  "Italy": [
+    {},
+    {},
     {}
   ]
 }

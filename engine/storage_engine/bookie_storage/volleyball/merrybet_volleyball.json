@@ -8,268 +8,22 @@
     {}
   ],
   "Italy": [
-    {
-      "SuperLega": {
-        "Blu Volley Verona - Taranto Volley": {
-          "Winner": {
-            "1": 1.18,
-            "2": 4.3
-          },
-          "time": "",
-          "Under/Over 175.5 points": {
-            "Under 175.5 points": 1.85,
-            "Over 175.5 points": 1.85
-          }
-        },
-        "Trentino - Andreoli Latina": {
-          "Winner": {
-            "1": 1.04,
-            "2": 8.25
-          },
-          "time": "",
-          "Under/Over 138.5 points": {
-            "Under 138.5 points": 1.86,
-            "Over 138.5 points": 1.85
-          }
-        },
-        "Saturnia Volley - Perugia Volley": {
-          "Winner": {
-            "1": 8.25,
-            "2": 1.04
-          },
-          "time": ""
-        },
-        "Pallavolo Padova - GAS Sales Piacenza": {
-          "Winner": {
-            "1": 4.5,
-            "2": 1.17
-          },
-          "time": "",
-          "Under/Over 174.5 points": {
-            "Under 174.5 points": 1.85,
-            "Over 174.5 points": 1.85
-          }
-        },
-        "Itely Milano - Modena Volley": {
-          "Winner": {
-            "1": 1.57,
-            "2": 2.25
-          },
-          "time": "",
-          "Under/Over 182.5 points": {
-            "Under 182.5 points": 1.85,
-            "Over 182.5 points": 1.85
-          }
-        },
-        "Vero Volley - Volley Civitanova": {
-          "Winner": {
-            "1": 2.1,
-            "2": 1.66
-          },
-          "time": "",
-          "Under/Over 183.5 points": {
-            "Under 183.5 points": 1.85,
-            "Over 183.5 points": 1.85
-          }
-        }
-      }
-    },
     {},
     {},
-    {
-      "Serie A2 Women": {
-        "Volley Hermaea Olbia - Picco Lecco": {
-          "Winner": {
-            "1": 1.92,
-            "2": 1.76
-          },
-          "time": "",
-          "Under/Over 183.5 points": {
-            "Under 183.5 points": 1.82,
-            "Over 183.5 points": 1.85
-          }
-        }
-      }
-    }
+    {},
+    {}
   ],
   "Russia": [
-    {
-      "Superliga": {
-        "Gazprom-Ugra Surgut - Dinamo Moscow": {
-          "Winner": {
-            "1-2": 5.45,
-            "Dinamo Moscow": 1.12
-          },
-          "time": "",
-          "Under/Over 166.5 points": {
-            "Under 166.5 points": 1.85,
-            "Over 166.5 points": 1.85
-          }
-        },
-        "Neftyanik Orenburg - VC Zenit-Kazan": {
-          "Winner": {
-            "1": 5.5,
-            "2-Kazan": 1.11
-          },
-          "time": ""
-        }
-      }
-    },
-    {
-      "Superliga Women": {
-        "Zarechie-Odintsovo - Proton Saratov Region": {
-          "Winner": {
-            "1-2": 3.45,
-            "Proton Saratov Region": 1.27
-          },
-          "time": "",
-          "Under/Over 175.5 points": {
-            "Under 175.5 points": 2.05,
-            "Over 175.5 points": 1.7
-          }
-        },
-        "Minchanka Minsk - Dinamo Metar Chelyabinsk": {
-          "Winner": {
-            "1": 4.35,
-            "2": 1.17
-          },
-          "time": "",
-          "Under/Over 169.5 points": {
-            "Under 169.5 points": 1.85,
-            "Over 169.5 points": 1.85
-          }
-        },
-        "Yenisey Krasnoyarsk - Dinamo Kazan": {
-          "Winner": {
-            "1": 4.35,
-            "2": 1.17
-          },
-          "time": "",
-          "Under/Over 176.5 points": {
-            "Under 176.5 points": 1.67,
-            "Over 176.5 points": 2.05
-          }
-        },
-        "Uralochka Ntmk Ekaterinburg - Dinamo Moscow": {
-          "Winner": {
-            "1": 5.25,
-            "2": 1.13
-          },
-          "time": ""
-        },
-        "Sparta Nizhniy Novgorod - Lokomotiv Kaliningrad Region": {
-          "Winner": {
-            "1": 5.2,
-            "2": 1.13
-          },
-          "time": "",
-          "Under/Over 134.5 points": {
-            "Under 134.5 points": 2.8,
-            "Over 134.5 points": 1.38
-          }
-        }
-      }
-    }
+    {},
+    {}
   ],
   "Poland": [
     {
       "Liga Siatkowki": {
-        "KS Cuprum Lubin - Resovia Rzeszow": {
+        "AZS Olsztyn - VERVA Warsaw": {
           "Winner": {
-            "1": 4.65,
-            "2": 1.16
-          },
-          "time": "",
-          "Under/Over 170.5 points": {
-            "Under 170.5 points": 1.86,
-            "Over 170.5 points": 1.84
-          }
-        },
-        "VERVA Warsaw - Azs Stal Nysa": {
-          "Winner": {
-            "1": 1.13,
-            "2": 5.15
-          },
-          "time": "",
-          "Under/Over 173.5 points": {
-            "Under 173.5 points": 1.85,
-            "Over 173.5 points": 1.85
-          }
-        },
-        "Aluron Virtu Warta Zawiercie - Jastrzebski Wegiel": {
-          "Winner": {
-            "1": 1.99,
-            "2": 1.73
-          },
-          "time": "",
-          "Under/Over 185.5 points": {
-            "Under 185.5 points": 1.84,
-            "Over 185.5 points": 1.87
-          }
-        },
-        "AZS Olsztyn - Skra Belchatow": {
-          "Winner": {
-            "1": 1.46,
-            "2": 2.55
-          },
-          "time": "",
-          "Under/Over 183.5 points": {
-            "Under 183.5 points": 1.84,
-            "Over 183.5 points": 1.86
-          }
-        },
-        "Barkom-Kazhany Lviv - GKS Katowice": {
-          "Winner": {
-            "1-2": 1.43,
-            "GKS Katowice": 2.65
-          },
-          "time": "",
-          "Under/Over 182.5 points": {
-            "Under 182.5 points": 1.85,
-            "Over 182.5 points": 1.86
-          }
-        }
-      }
-    },
-    {
-      "Liga Siatkowki Women": {
-        "Stal Mielec - MKS Radomka Radom": {
-          "Winner": {
-            "1": 4.75,
-            "2": 1.15
-          },
-          "time": "",
-          "Under/Over 169.5 points": {
-            "Under 169.5 points": 1.86,
-            "Over 169.5 points": 1.85
-          }
-        },
-        "KS Palac Bydgoszcz - LKS Commercecon Lodz": {
-          "Winner": {
-            "1": 8.65,
-            "2": 1.04
-          },
-          "time": "",
-          "Under/Over 134.5 points": {
-            "Under 134.5 points": 1.88,
-            "Over 134.5 points": 1.82
-          }
-        },
-        "Pwsz Tarnow - Chemik Police": {
-          "Winner": {
-            "1": 10.5,
-            "2": 1.01
-          },
-          "time": "",
-          "Under/Over 130.5 points": {
-            "Under 130.5 points": 1.8,
-            "Over 130.5 points": 1.91
-          }
-        },
-        "Budowlani Lodz - Uni Opole": {
-          "Winner": {
-            "1": 1.31,
-            "2": 3.2
+            "1": 3.8,
+            "2": 1.22
           },
           "time": "",
           "Under/Over 177.5 points": {
@@ -277,10 +31,32 @@
             "Over 177.5 points": 1.85
           }
         },
-        "Volley Wroclaw - Bks Bielsko-Biala": {
+        "WKS Czarni Radom - Barkom-Kazhany Lviv": {
           "Winner": {
-            "1": 3.6,
-            "2-Biala": 1.25
+            "1": 2.4,
+            "2-Kazhany Lviv": 1.51
+          },
+          "time": "",
+          "Under/Over 183.5 points": {
+            "Under 183.5 points": 1.85,
+            "Over 183.5 points": 1.85
+          }
+        },
+        "Skra Belchatow - Jastrzebski Wegiel": {
+          "Winner": {
+            "1": 4.55,
+            "2": 1.16
+          },
+          "time": "",
+          "Under/Over 173.5 points": {
+            "Under 173.5 points": 1.85,
+            "Over 173.5 points": 1.85
+          }
+        },
+        "Exact Systems Norwid Czestochowa - Trefl Gdansk": {
+          "Winner": {
+            "1": 4.05,
+            "2": 1.2
           },
           "time": "",
           "Under/Over 176.5 points": {
@@ -288,78 +64,58 @@
             "Over 176.5 points": 1.85
           }
         },
-        "Energa Mks Kalisz - KS Developres Rzeszow": {
+        "Zaksa Kedzierzyn-Kozle - Aluron Virtu Warta Zawiercie": {
           "Winner": {
-            "1": 3.75,
-            "2": 1.23
+            "1-2": 2.2,
+            "Aluron Virtu Warta Zawiercie": 1.59
           },
           "time": "",
-          "Under/Over 175.5 points": {
-            "Under 175.5 points": 1.85,
-            "Over 175.5 points": 1.85
-          }
-        }
-      }
-    }
-  ],
-  "Japan": [],
-  "France": [],
-  "Brazil": [
-    {
-      "Superliga Women": {
-        "Zarechie-Odintsovo - Proton Saratov Region": {
-          "Winner": {
-            "1-2": 3.45,
-            "Proton Saratov Region": 1.27
-          },
-          "time": "",
-          "Under/Over 175.5 points": {
-            "Under 175.5 points": 2.05,
-            "Over 175.5 points": 1.7
+          "Under/Over 183.5 points": {
+            "Under 183.5 points": 1.85,
+            "Over 183.5 points": 1.85
           }
         },
-        "Minchanka Minsk - Dinamo Metar Chelyabinsk": {
+        "Resovia Rzeszow - LKPS Lublin": {
           "Winner": {
-            "1": 4.35,
-            "2": 1.17
+            "1": 1.13,
+            "2": 5.2
           },
           "time": "",
-          "Under/Over 169.5 points": {
-            "Under 169.5 points": 1.85,
-            "Over 169.5 points": 1.85
+          "Under/Over 170.5 points": {
+            "Under 170.5 points": 1.85,
+            "Over 170.5 points": 1.85
           }
         },
-        "Yenisey Krasnoyarsk - Dinamo Kazan": {
+        "Azs Stal Nysa - Mks Slepsk Suwalki": {
           "Winner": {
-            "1": 4.35,
-            "2": 1.17
+            "1": 1.28,
+            "2": 3.35
           },
           "time": "",
-          "Under/Over 176.5 points": {
-            "Under 176.5 points": 1.67,
-            "Over 176.5 points": 2.05
+          "Under/Over 178.5 points": {
+            "Under 178.5 points": 1.85,
+            "Over 178.5 points": 1.85
           }
         },
-        "Uralochka Ntmk Ekaterinburg - Dinamo Moscow": {
+        "GKS Katowice - KS Cuprum Lubin": {
           "Winner": {
-            "1": 5.25,
-            "2": 1.13
-          },
-          "time": ""
-        },
-        "Sparta Nizhniy Novgorod - Lokomotiv Kaliningrad Region": {
-          "Winner": {
-            "1": 5.2,
-            "2": 1.13
+            "1": 1.41,
+            "2": 2.7
           },
           "time": "",
-          "Under/Over 134.5 points": {
-            "Under 134.5 points": 2.8,
-            "Over 134.5 points": 1.38
+          "Under/Over 182.5 points": {
+            "Under 182.5 points": 1.86,
+            "Over 182.5 points": 1.84
           }
         }
       }
     },
+    {}
+  ],
+  "Japan": [],
+  "France": [],
+  "Brazil": [
+    {},
     {}
   ]
 }

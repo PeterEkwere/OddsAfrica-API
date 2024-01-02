@@ -28,68 +28,67 @@
     "Greece A1": {}
   },
   "Israel": {
-    "Israel Premier League Women": {
-      "Maccabi Tel-Aviv [W] vs Maccabi Bnot Nazareth [W]": {
-        "time": "2023-12-28 16:30:00",
-        "Winner": {
-          "1": 1.18181819,
-          "2": 4.2
-        }
-      },
-      "Hapoel Rehovot [W] vs Maccabi Hod Hasharon [W]": {
-        "time": "2023-12-29 11:15:00",
-        "Winner": {
-          "1": 1.02777778,
-          "2": 8.75
-        }
-      },
-      "Maccabi Raanana [W] vs Hapoel Ironi Kiryat Ata [W]": {
-        "time": "2023-12-29 11:30:00",
-        "Winner": {
-          "1": 2.1,
-          "2": 1.64516129
-        }
-      }
-    }
+    "Israel Premier League Women": {}
   },
   "Kazakhstan": {
     "Kazakhstan National League Women": {}
   },
   "Poland": {
     "Poland PLS": {
-      "CUPRUM Lubin vs Asseco Resovia Rzeszow": {
-        "time": "2023-12-29 16:30:00",
+      "AZS Olsztyn vs Projekt Warszawa": {
+        "time": "2024-01-02 14:45:00",
         "Winner": {
-          "1": 6.0,
-          "2": 1.12121213
+          "1": 4.5,
+          "2": 1.19047619
         }
       },
-      "Projekt Warszawa vs Stal Nysa": {
-        "time": "2023-12-29 19:30:00",
+      "Cerrad Czarni Radom vs Barkom-Kazhany Lwow": {
+        "time": "2024-01-02 17:20:00",
         "Winner": {
-          "1": 1.11111112,
-          "2": 6.0
+          "1": 2.3,
+          "2": 1.60606061
         }
       },
-      "Barkom-Kazhany Lwow vs GKS Katowice": {
-        "time": "2023-12-30 15:00:00",
+      "PGE Skra Belchatow vs Jastrzebski Wegiel": {
+        "time": "2024-01-02 20:00:00",
         "Winner": {
-          "1": 1.44444445,
-          "2": 2.7
+          "1": 5.5,
+          "2": 1.13793104
         }
       },
-      "Warta Zawiercie vs Jastrzebski Wegiel": {
-        "time": "2023-12-30 15:00:00",
+      "Norwid Czestochowa vs Trefl Gdansk": {
+        "time": "2024-01-03 14:45:00",
         "Winner": {
-          "1": 2.0,
-          "2": 1.8
+          "1": 4.65,
+          "2": 1.18181819
         }
       },
-      "AZS Olsztyn vs PGE Skra Belchatow": {
-        "time": "2023-12-30 16:30:00",
+      "ZAKSA Kedzierzyn-Kozle vs Warta Zawiercie": {
+        "time": "2024-01-03 17:20:00",
         "Winner": {
-          "1": 1.5,
-          "2": 2.55
+          "1": 2.25,
+          "2": 1.625
+        }
+      },
+      "Asseco Resovia Rzeszow vs LUK Lublin": {
+        "time": "2024-01-03 20:00:00",
+        "Winner": {
+          "1": 1.0909091,
+          "2": 6.75
+        }
+      },
+      "Stal Nysa vs Slepsk Suwalki": {
+        "time": "2024-01-04 14:45:00",
+        "Winner": {
+          "1": 1.25316456,
+          "2": 3.75
+        }
+      },
+      "GKS Katowice vs CUPRUM Lubin": {
+        "time": "2024-01-04 17:20:00",
+        "Winner": {
+          "1": 1.40816327,
+          "2": 2.85
         }
       }
     },
@@ -100,20 +99,20 @@
   },
   "South Korea": {
     "Korea V League": {
-      "Ansan OK vs Korean Air Jumbos": {
-        "time": "2023-12-29 10:00:00",
+      "Ansan OK vs Samsung Bluefangs": {
+        "time": "2024-01-02 10:00:00",
         "Winner": {
-          "1": 3.1,
-          "2": 1.33333334
+          "1": 2.1,
+          "2": 1.71428572
         }
       }
     },
     "Korea V League Women": {
-      "Expressway Co [W] vs GS Caltex [W]": {
-        "time": "2023-12-29 10:00:00",
+      "GS Caltex [W] vs AI Peppers Gwangju [W]": {
+        "time": "2024-01-02 10:00:00",
         "Winner": {
-          "1": 3.25,
-          "2": 1.30303031
+          "1": 1.2,
+          "2": 4.4
         }
       }
     }
