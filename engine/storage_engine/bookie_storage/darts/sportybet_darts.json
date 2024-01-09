@@ -1,18 +1,5 @@
 {
   "International": {
-    "PDC World Championship": {
-      "Cross, Rob vs Littler, Luke": {
-        "Winner": {
-          "1": 2.25,
-          "2": 1.64
-        }
-      },
-      "Williams, Scott vs Humphries, Luke": {
-        "Winner": {
-          "1": 4.8,
-          "2": 1.17
-        }
-      }
-    }
+    "PDC World Championship": {}
   }
 }

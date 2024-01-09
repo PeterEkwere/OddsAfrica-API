@@ -1,20 +1,5 @@
 {
   "International": {
-    "PDC World Championship": {
-      "Rob Cross vs Luke Littler": {
-        "time": "2024-01-02 19:45:00",
-        "Winner": {
-          "1": 2.2,
-          "2": 1.625
-        }
-      },
-      "Scott Williams vs Luke Humphries": {
-        "time": "2024-01-02 21:30:00",
-        "Winner": {
-          "1": 4.5,
-          "2": 1.17391305
-        }
-      }
-    }
+    "PDC World Championship": {}
   }
 }

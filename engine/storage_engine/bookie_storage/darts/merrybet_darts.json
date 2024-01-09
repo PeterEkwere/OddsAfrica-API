@@ -2,23 +2,6 @@
   "international": [
     {},
     {},
-    {
-      "PDC World Championship": {
-        "Rob Cross - Luke Littler": {
-          "Winner": {
-            "1": 2.15,
-            "2": 1.6
-          },
-          "time": ""
-        },
-        "Scott Williams - Luke Humphries": {
-          "Winner": {
-            "1": 4.2,
-            "2": 1.17
-          },
-          "time": ""
-        }
-      }
-    }
+    {}
   ]
 }

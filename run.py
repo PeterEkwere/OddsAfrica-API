@@ -13,10 +13,6 @@ from engine.bookie_models.nairabet_model import nairabet
 from engine.bookie_models.paripesa_model import Paripesa
 from engine.bookie_models.sportybet_model import SportyBet
 from engine.bookie_models.xbet_model import xbet
-from utils.arrange import arrange_games
-from utils.process import process_games
-from utils.combine import Combine_markets
-from utils.calculate_arb import get_arbs
 from utils.logger.log import log_exception, log_success, log_error
 #from timeout_decorator import timeout
 
@@ -24,14 +20,14 @@ from utils.logger.log import log_exception, log_success, log_error
 bookies_and_sports = [
     #(Betpawa(), ["football", "basketball"]),
     #(bet22(), ["football", "basketball", "volleyball", "darts", "icehockey"]),
-    #(bet9ja(), ["football", "basketball", "volleyball", "darts", "icehockey"]),
-    #(betking(), ["football", "basketball", "volleyball", "darts", "icehockey"]),
+    (bet9ja(), ["football", "basketball", "volleyball", "darts", "icehockey"]),
+    (betking(), ["football", "basketball", "volleyball", "darts", "icehockey"]),
     #(betwinner(), ["football", "basketball", "volleyball", "darts", "icehockey"]),
-    #(livescorebet(), ["football", "basketball", "volleyball", "darts", "icehockey"]),
-    #(merrybet(), ["football", "basketball", "volleyball", "darts", "icehockey"]),
-    #(nairabet(), ["soccer", "basketball", "volleyball", "darts", "ice_hockey"]),
-    #(Paripesa(), ["football", "basketball", "volleyball", "darts", "icehockey"]),
-    #(SportyBet(), ["football", "basketball", "volleyball", "darts", "icehockey"]),
+    (livescorebet(), ["football", "basketball", "volleyball", "darts", "icehockey"]),
+    (merrybet(), ["football", "basketball", "volleyball", "darts", "icehockey"]),
+    (nairabet(), ["soccer", "basketball", "volleyball", "darts", "ice_hockey"]),
+    (Paripesa(), ["football", "basketball", "volleyball", "darts", "icehockey"]),
+    (SportyBet(), ["football", "basketball", "volleyball", "darts", "icehockey"]),
     (xbet(), ["football", "basketball", "volleyball", "darts", "icehockey"])
     # ... Repeat for other bookies ...
 ]
@@ -65,32 +61,3 @@ for bookie, sports in bookies_and_sports:
     except Exception as e:
         log_exception(f"Unexpected error: {e}\n")
 
-
-# Calling The Arrange Function to Prepare available games for processing
-try:
-    arrange_games()
-    log_success("SUCCESS Arranging GAMES\n\n")
-except Exception as e:
-    log_exception(f"ERROR ARRANGING GAMES\n\n")
-
-# Calling The Process Function to Extract the needed markets for Cross Market Creation
-try:
-    process_games()
-    log_success("SUCCESS PROCESSING THE NEEDED MARKETS FOR CROSS MARKET CREATIONS\n\n")
-except Exception as e:
-    log_exception(f"ERROR EXTRACTING MARKETS: {e}\n\n")
-    
-    
-# Calling the Combine function to Create the needed cross market combination as per its respective formula and save them as values for each game
-try:
-    Combine_markets()
-    log_success("SUCCESS COMBINING ALL BOOKIES TO CROSS MARKETS FOR EACH GAMES\n\n")
-except Exception as e:
-    log_exception(f"ERROR COMBINING BOOKIES: {e}\n\n")
-
-#Calling the get arbs function to extract each combination and pass it to a function to calculate if there is an arbitrage opportunity
-try:
-    get_arbs()
-    log_success("SUCCESS FINDING ARBS YOU CAN FIND YOUR ARBS IN THE ARBS FOLDER IN engine/storage_engine/arbs_found file\n\n")
-except Exception as e:
-    log_exception(f"ERROR Searching For ARBS: {e}\n\n")

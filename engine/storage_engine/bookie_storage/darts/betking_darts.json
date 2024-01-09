@@ -1,33 +1,3 @@
 {
-  "PDC Darts": {
-    "PDC World Championship": {
-      "Cross, Rob - Littler, Luke": {
-        "1-2": {
-          "1": 2.18,
-          "2": 1.61
-        },
-        "1X2 Most 180s": {
-          "1": 4.0,
-          "X": 11.0,
-          "2": 1.33
-        },
-        "Total Sets 9.5": {
-          "Over": 2.1,
-          "Under": 1.66
-        },
-        "Asian Handicap 180S": {
-          "1": 1.78,
-          "2": 1.93
-        },
-        "Total 180S": {
-          "Over": 1.96,
-          "Under": 1.75
-        },
-        "Set Handicap 1.5": {
-          "1": 1.72,
-          "2": 2.01
-        }
-      }
-    }
-  }
+  "PDC Darts": {}
 }

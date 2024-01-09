@@ -2,181 +2,181 @@
   "Czech Republic": [
     {
       "Extraliga": {
-        "HC Litvinov - HC Energie Karlovy Vary": {
+        "HC Ocelari Trinec - BK Mlada Boleslav": {
           "1x2": {
-            "1": 1.53,
-            "X": 4.75,
-            "2": 4.6
+            "1": 1.45,
+            "X": 4.85,
+            "2": 5.35
           },
           "time": "",
           "Double chance": {
-            "1X": 1.16,
-            "12": 1.16,
-            "X2": 2.1
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 1.52,
-            "2 (+0.5)": 2.35
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 1.93,
-            "2 (+1.5)": 1.78
-          },
-          "Handicap -2.5 / +2.5": {
-            "1 (-2.5)": 2.75,
-            "2 (+2.5)": 1.4
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.38,
-            "Over 6.5 goals": 2.8
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.78,
-            "Over 5.5 goals": 1.93
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.5,
-            "Over 4.5 goals": 1.47
-          }
-        },
-        "BK Mlada Boleslav - HC Ocelari Trinec": {
-          "1x2": {
-            "1": 3.45,
-            "X": 4.1,
-            "2": 1.82
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.76,
-            "12": 1.2,
-            "X2": 1.25
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.91,
-            "2 (-0.5)": 1.8
-          },
-          "Handicap +1.5 / -1.5": {
-            "1 (+1.5)": 1.49,
-            "2 (-1.5)": 2.45
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 3.3,
-            "2 (+0.5)": 1.29
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.05,
-            "Over 4.5 goals": 1.7
-          },
-          "Under/Over 3.5 goals": {
-            "Under 3.5 goals": 3.3,
-            "Over 3.5 goals": 1.29
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.53,
-            "Over 5.5 goals": 2.35
-          }
-        },
-        "HC Plzen - HC Olomouc": {
-          "1x2": {
-            "1": 2.05,
-            "X": 3.85,
-            "2": 2.95
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.32,
-            "12": 1.22,
-            "X2": 1.6
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.0,
-            "2 (+0.5)": 1.71
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.37,
-            "2 (-0.5)": 2.85
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 2.85,
-            "2 (+1.5)": 1.37
-          },
-          "Under/Over 3.5 goals": {
-            "Under 3.5 goals": 2.95,
-            "Over 3.5 goals": 1.35
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.44,
-            "Over 5.5 goals": 2.6
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 1.87,
-            "Over 4.5 goals": 1.83
-          }
-        },
-        "HC Mountfield Ceske Budejovice - HC Rytiri Kladno": {
-          "1x2": {
-            "1": 1.49,
-            "X": 4.9,
-            "2": 4.9
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.15,
+            "1X": 1.13,
             "12": 1.15,
-            "X2": 2.2
+            "X2": 2.25
           },
           "Handicap -2.5 / +2.5": {
             "1 (-2.5)": 2.6,
             "2 (+2.5)": 1.44
           },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 1.48,
-            "2 (+0.5)": 2.5
-          },
           "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 1.86,
-            "2 (+1.5)": 1.85
+            "1 (-1.5)": 1.83,
+            "2 (+1.5)": 1.88
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.44,
+            "2 (+0.5)": 2.6
           },
           "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.81,
-            "Over 5.5 goals": 1.9
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.4,
-            "Over 6.5 goals": 2.75
+            "Under 5.5 goals": 1.58,
+            "Over 5.5 goals": 2.25
           },
           "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.55,
-            "Over 4.5 goals": 1.45
+            "Under 4.5 goals": 2.15,
+            "Over 4.5 goals": 1.63
+          },
+          "Under/Over 3.5 goals": {
+            "Under 3.5 goals": 3.45,
+            "Over 3.5 goals": 1.26
           }
         },
-        "HC Bili Tygri Liberec - Ceske Budejovice": {
+        "HC Energie Karlovy Vary - HC Litvinov": {
           "1x2": {
-            "1": 2.05,
-            "X": 4.15,
-            "2": 2.85
+            "1": 2.45,
+            "X": 4.0,
+            "2": 2.35
           },
           "time": "",
           "Double chance": {
-            "1X": 1.35,
-            "12": 1.2,
-            "X2": 1.6
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.0,
-            "2 (+0.5)": 1.71
+            "1X": 1.47,
+            "12": 1.21,
+            "X2": 1.44
           },
           "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.4,
-            "2 (-0.5)": 2.7
+            "1 (+0.5)": 1.55,
+            "2 (-0.5)": 2.3
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.4,
+            "2 (+0.5)": 1.51
+          },
+          "Handicap +1.5 / -1.5": {
+            "1 (+1.5)": 1.3,
+            "2 (-1.5)": 3.25
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.45,
+            "Over 4.5 goals": 1.48
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.37,
+            "Over 6.5 goals": 2.85
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.78,
+            "Over 5.5 goals": 1.93
+          }
+        },
+        "HC Vitkovice - Sparta Prague": {
+          "1x2": {
+            "1": 2.75,
+            "X": 4.0,
+            "2": 2.15
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.56,
+            "12": 1.21,
+            "X2": 1.36
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.66,
+            "2 (-0.5)": 2.1
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.65,
+            "2 (+0.5)": 1.42
+          },
+          "Handicap +1.5 / -1.5": {
+            "1 (+1.5)": 1.34,
+            "2 (-1.5)": 3.0
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.0,
+            "Over 4.5 goals": 1.72
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.51,
+            "Over 5.5 goals": 2.4
+          },
+          "Under/Over 3.5 goals": {
+            "Under 3.5 goals": 3.2,
+            "Over 3.5 goals": 1.3
+          }
+        },
+        "HC Rytiri Kladno - HC Mountfield Ceske Budejovice": {
+          "1x2": {
+            "1": 2.8,
+            "X": 4.05,
+            "2": 2.1
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.58,
+            "12": 1.21,
+            "X2": 1.35
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.7,
+            "2 (+0.5)": 1.41
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.68,
+            "2 (-0.5)": 2.05
+          },
+          "Handicap +1.5 / -1.5": {
+            "1 (+1.5)": 1.38,
+            "2 (-1.5)": 2.85
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.4,
+            "Over 4.5 goals": 1.5
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.35,
+            "Over 6.5 goals": 2.9
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.75,
+            "Over 5.5 goals": 1.97
+          }
+        },
+        "Ceske Budejovice - HC Bili Tygri Liberec": {
+          "1x2": {
+            "1": 2.0,
+            "X": 4.1,
+            "2": 2.95
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.33,
+            "12": 1.2,
+            "X2": 1.62
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.98,
+            "2 (+0.5)": 1.74
           },
           "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 2.75,
-            "2 (+1.5)": 1.39
+            "1 (-1.5)": 2.7,
+            "2 (+1.5)": 1.41
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.38,
+            "2 (-0.5)": 2.8
           },
           "Under/Over 5.5 goals": {
             "Under 5.5 goals": 1.81,
-            "Over 5.5 goals": 1.9
+            "Over 5.5 goals": 1.89
           },
           "Under/Over 6.5 goals": {
             "Under 6.5 goals": 1.39,
@@ -187,224 +187,322 @@
             "Over 4.5 goals": 1.46
           }
         },
-        "Sparta Prague - HC Vitkovice": {
+        "HC Pardubice - HC Kometa Brno": {
           "1x2": {
-            "1": 1.45,
-            "X": 5.25,
-            "2": 5.05
+            "1": 1.48,
+            "X": 4.9,
+            "2": 4.95
           },
           "time": "",
           "Double chance": {
-            "1X": 1.14,
-            "12": 1.13,
-            "X2": 2.25
+            "1X": 1.15,
+            "12": 1.15,
+            "X2": 2.2
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 1.85,
+            "2 (+1.5)": 1.86
+          },
+          "Handicap -2.5 / +2.5": {
+            "1 (-2.5)": 2.6,
+            "2 (+2.5)": 1.44
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.47,
+            "2 (+0.5)": 2.5
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.4,
+            "Over 6.5 goals": 2.75
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.55,
+            "Over 4.5 goals": 1.46
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.8,
+            "Over 5.5 goals": 1.91
+          }
+        },
+        "HC Olomouc - HC Plzen": {
+          "1x2": {
+            "1": 2.4,
+            "X": 3.9,
+            "2": 2.45
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.44,
+            "12": 1.22,
+            "X2": 1.45
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.52,
+            "2 (-0.5)": 2.35
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 3.4,
+            "2 (+1.5)": 1.27
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.35,
+            "2 (+0.5)": 1.53
+          },
+          "Under/Over 3.5 goals": {
+            "Under 3.5 goals": 3.35,
+            "Over 3.5 goals": 1.28
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.05,
+            "Over 4.5 goals": 1.69
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.54,
+            "Over 5.5 goals": 2.3
+          }
+        },
+        "HC Kometa Brno - HC Pardubice": {
+          "1x2": {
+            "1": 3.55,
+            "X": 4.25,
+            "2": 1.77
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.8,
+            "12": 1.19,
+            "X2": 1.24
+          },
+          "Handicap +1.5 / -1.5": {
+            "1 (+1.5)": 1.55,
+            "2 (-1.5)": 2.3
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 3.35,
+            "2 (+0.5)": 1.28
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.97,
+            "2 (-0.5)": 1.75
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.73,
+            "Over 5.5 goals": 1.99
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.35,
+            "Over 6.5 goals": 2.95
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.4,
+            "Over 4.5 goals": 1.51
           }
         }
       }
     },
     {
       "1st Liga": {
-        "HC Frydek Mistek - SC Kolin": {
+        "HC Slavia Prague - HC Znojmo": {
           "1x2": {
-            "1": 1.91,
-            "X": 3.95,
-            "2": 3.1
+            "1": 1.85,
+            "X": 4.15,
+            "2": 3.15
           },
           "time": "",
           "Double chance": {
             "1X": 1.29,
-            "12": 1.21,
-            "X2": 1.67
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 1.89,
-            "2 (+0.5)": 1.78
-          },
-          "Under/Over 3.5 goals": {
-            "Under 3.5 goals": 3.15,
-            "Over 3.5 goals": 1.29
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 1.99,
-            "Over 4.5 goals": 1.7
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.5,
-            "Over 5.5 goals": 2.35
-          }
-        },
-        "HC Dukla Jihlava - HC Slavia Prague": {
-          "1x2": {
-            "1": 2.05,
-            "X": 4.1,
-            "2": 2.7
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.36,
-            "12": 1.2,
-            "X2": 1.58
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.0,
-            "2 (+0.5)": 1.68
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.3,
-            "Over 4.5 goals": 1.53
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.32,
-            "Over 6.5 goals": 3.0
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.67,
-            "Over 5.5 goals": 2.05
-          }
-        },
-        "PSG Berani Zlin - Horacka Trebic": {
-          "1x2": {
-            "1": 1.85,
-            "X": 4.1,
-            "2": 3.2
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.28,
-            "12": 1.2,
-            "X2": 1.72
+            "12": 1.19,
+            "X2": 1.71
           },
           "Handicap -0.5 / +0.5": {
             "1 (-0.5)": 1.83,
             "2 (+0.5)": 1.84
           },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.58,
-            "Over 5.5 goals": 2.2
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.15,
-            "Over 4.5 goals": 1.61
-          },
-          "Under/Over 3.5 goals": {
-            "Under 3.5 goals": 3.45,
-            "Over 3.5 goals": 1.25
-          }
-        },
-        "HC Zubr Prerov - HC Stadion Litomerice": {
-          "1x2": {
-            "1": 2.3,
-            "X": 3.9,
-            "2": 2.4
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.44,
-            "12": 1.21,
-            "X2": 1.47
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.25,
-            "2 (+0.5)": 1.54
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.58,
-            "Over 5.5 goals": 2.2
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.15,
-            "Over 4.5 goals": 1.61
-          },
-          "Under/Over 3.5 goals": {
-            "Under 3.5 goals": 3.45,
-            "Over 3.5 goals": 1.25
-          }
-        },
-        "HC Banik Sokolov - VHK Vsetin": {
-          "1x2": {
-            "1": 2.65,
-            "X": 4.1,
-            "2": 2.05
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.57,
-            "12": 1.2,
-            "X2": 1.37
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.67,
-            "2 (-0.5)": 2.05
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.3,
-            "Over 4.5 goals": 1.53
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.66,
-            "Over 5.5 goals": 2.05
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.32,
-            "Over 6.5 goals": 3.05
-          }
-        },
-        "HC Znojmo - HK Jestrabi Prostejov": {
-          "1x2": {
-            "1": 2.65,
-            "X": 4.1,
-            "2": 2.1
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.57,
-            "12": 1.2,
-            "X2": 1.37
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.66,
-            "2 (-0.5)": 2.05
-          },
           "Under/Over 4.5 goals": {
             "Under 4.5 goals": 2.55,
             "Over 4.5 goals": 1.43
           },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.84,
-            "Over 5.5 goals": 1.83
-          },
           "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.41,
+            "Under 6.5 goals": 1.4,
             "Over 6.5 goals": 2.65
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.82,
+            "Over 5.5 goals": 1.85
           }
         },
-        "HC Dynamo Pardubice B - HC RT Torax Poruba": {
+        "HC RT Torax Poruba - HC Dukla Jihlava": {
           "1x2": {
-            "1": 3.15,
-            "X": 4.3,
-            "2": 1.82
+            "1": 1.56,
+            "X": 4.55,
+            "2": 4.25
           },
           "time": "",
           "Double chance": {
-            "1X": 1.73,
-            "12": 1.18,
-            "X2": 1.28
+            "1X": 1.18,
+            "12": 1.16,
+            "X2": 2.05
           },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.86,
-            "2 (-0.5)": 1.81
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 1.98,
+            "2 (+1.5)": 1.71
           },
           "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.41,
-            "Over 6.5 goals": 2.65
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.83,
-            "Over 5.5 goals": 1.83
+            "Under 6.5 goals": 1.37,
+            "Over 6.5 goals": 2.8
           },
           "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.6,
-            "Over 4.5 goals": 1.42
+            "Under 4.5 goals": 2.45,
+            "Over 4.5 goals": 1.46
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.76,
+            "Over 5.5 goals": 1.92
+          }
+        },
+        "SC Kolin - HK Jestrabi Prostejov": {
+          "1x2": {
+            "1": 2.75,
+            "X": 3.9,
+            "2": 2.1
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.56,
+            "12": 1.22,
+            "X2": 1.36
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.65,
+            "2 (-0.5)": 2.05
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.6,
+            "Over 5.5 goals": 2.15
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.28,
+            "Over 6.5 goals": 3.25
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.15,
+            "Over 4.5 goals": 1.6
+          }
+        },
+        "VHK Vsetin - PSG Berani Zlin": {
+          "1x2": {
+            "1": 1.9,
+            "X": 4.0,
+            "2": 3.1
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.29,
+            "12": 1.2,
+            "X2": 1.68
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.88,
+            "2 (+0.5)": 1.8
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.65,
+            "Over 5.5 goals": 2.05
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.25,
+            "Over 4.5 goals": 1.55
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.31,
+            "Over 6.5 goals": 3.1
+          }
+        },
+        "HC Stadion Litomerice - HC Banik Sokolov": {
+          "1x2": {
+            "1": 1.98,
+            "X": 4.05,
+            "2": 2.85
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.33,
+            "12": 1.2,
+            "X2": 1.63
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.96,
+            "2 (+0.5)": 1.73
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.38,
+            "Over 6.5 goals": 2.75
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.78,
+            "Over 5.5 goals": 1.89
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.5,
+            "Over 4.5 goals": 1.46
+          }
+        },
+        "HC Zubr Prerov - HC Dynamo Pardubice B": {
+          "1x2": {
+            "1": 2.05,
+            "X": 3.95,
+            "2": 2.85
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.33,
+            "12": 1.21,
+            "X2": 1.6
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.0,
+            "2 (+0.5)": 1.7
+          },
+          "Under/Over 3.5 goals": {
+            "Under 3.5 goals": 3.3,
+            "Over 3.5 goals": 1.27
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.05,
+            "Over 4.5 goals": 1.65
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.54,
+            "Over 5.5 goals": 2.25
+          }
+        },
+        "Horacka Trebic - HC Frydek Mistek": {
+          "1x2": {
+            "1": 1.71,
+            "X": 4.2,
+            "2": 3.65
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.23,
+            "12": 1.19,
+            "X2": 1.84
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.69,
+            "2 (+0.5)": 2.0
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.3,
+            "Over 4.5 goals": 1.52
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.69,
+            "Over 5.5 goals": 2.0
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.33,
+            "Over 6.5 goals": 2.95
           }
         }
       }
@@ -414,56 +512,226 @@
     {},
     {
       "Liiga": {
-        "Jukurit Mikkeli - TPS Turku": {
+        "Ilves Tampere - JYP Jyvaskyla": {
           "1x2": {
-            "1": 1.77,
-            "X": 4.4,
-            "2": 3.5
+            "1": 1.34,
+            "X": 5.4,
+            "2": 6.7
           },
           "time": "",
           "Double chance": {
-            "1X": 1.25,
-            "12": 1.18,
-            "X2": 1.81
+            "1X": 1.09,
+            "12": 1.12,
+            "X2": 2.55
+          },
+          "Handicap -2.5 / +2.5": {
+            "1 (-2.5)": 1.98,
+            "2 (+2.5)": 1.74
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 1.55,
+            "2 (+1.5)": 2.3
+          },
+          "Handicap -3.5 / +3.5": {
+            "1 (-3.5)": 3.25,
+            "2 (+3.5)": 1.29
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 3.05,
+            "Over 4.5 goals": 1.33
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.53,
+            "Over 6.5 goals": 2.35
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 2.05,
+            "Over 5.5 goals": 1.68
           }
         },
-        "Ilves Tampere - HPK Hameenlinna": {
+        "HIFK Helsinki - Jukurit Mikkeli": {
           "1x2": {
-            "1": 1.51,
-            "X": 4.75,
-            "2": 4.85
+            "1": 1.93,
+            "X": 4.05,
+            "2": 3.2
           },
           "time": "",
           "Double chance": {
-            "1X": 1.15,
-            "12": 1.16,
-            "X2": 2.15
+            "1X": 1.29,
+            "12": 1.21,
+            "X2": 1.68
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.9,
+            "2 (+0.5)": 1.81
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.5,
+            "2 (+1.5)": 1.47
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.33,
+            "2 (-0.5)": 3.05
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.71,
+            "Over 5.5 goals": 2.0
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.34,
+            "Over 6.5 goals": 3.0
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.4,
+            "Over 4.5 goals": 1.52
           }
         },
-        "Saipa Lappeenranta - HIFK Helsinki": {
+        "Kalpa Hockey - HPK Hameenlinna": {
           "1x2": {
-            "1": 4.7,
-            "X": 4.55,
-            "2": 1.54
+            "1": 1.7,
+            "X": 4.15,
+            "2": 3.95
           },
           "time": "",
           "Double chance": {
-            "1X": 2.1,
-            "12": 1.17,
-            "X2": 1.16
+            "1X": 1.21,
+            "12": 1.19,
+            "X2": 1.87
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.23,
+            "2 (-0.5)": 3.7
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.68,
+            "2 (+0.5)": 2.05
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.15,
+            "2 (+1.5)": 1.63
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.62,
+            "Over 5.5 goals": 2.15
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.2,
+            "Over 4.5 goals": 1.59
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.29,
+            "Over 6.5 goals": 3.3
           }
         },
-        "Kookoo Kouvola - Lukko Rauma": {
+        "Pelicans Lahti - Kookoo Kouvola": {
           "1x2": {
-            "1": 2.4,
-            "X": 4.25,
-            "2": 2.35
+            "1": 2.2,
+            "X": 3.9,
+            "2": 2.75
           },
           "time": "",
           "Double chance": {
-            "1X": 1.48,
-            "12": 1.2,
-            "X2": 1.45
+            "1X": 1.36,
+            "12": 1.22,
+            "X2": 1.54
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.9,
+            "2 (+1.5)": 1.36
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.42,
+            "2 (-0.5)": 2.65
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.15,
+            "2 (+0.5)": 1.64
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.29,
+            "Over 6.5 goals": 3.3
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.2,
+            "Over 4.5 goals": 1.59
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.62,
+            "Over 5.5 goals": 2.15
+          }
+        },
+        "Lukko Rauma - Karpat Oulu": {
+          "1x2": {
+            "1": 2.0,
+            "X": 3.95,
+            "2": 3.0
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.32,
+            "12": 1.21,
+            "X2": 1.62
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.7,
+            "2 (+1.5)": 1.41
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.98,
+            "2 (+0.5)": 1.74
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.36,
+            "2 (-0.5)": 2.9
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.1,
+            "Over 4.5 goals": 1.64
+          },
+          "Under/Over 3.5 goals": {
+            "Under 3.5 goals": 3.5,
+            "Over 3.5 goals": 1.26
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.57,
+            "Over 5.5 goals": 2.25
+          }
+        },
+        "Vaasan Sport - TPS Turku": {
+          "1x2": {
+            "1": 2.05,
+            "X": 3.9,
+            "2": 3.05
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.31,
+            "12": 1.22,
+            "X2": 1.62
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.99,
+            "2 (+0.5)": 1.73
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.7,
+            "2 (+1.5)": 1.41
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.36,
+            "2 (-0.5)": 2.9
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.51,
+            "Over 5.5 goals": 2.4
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.0,
+            "Over 4.5 goals": 1.71
+          },
+          "Under/Over 3.5 goals": {
+            "Under 3.5 goals": 3.3,
+            "Over 3.5 goals": 1.29
           }
         }
       }
@@ -472,15 +740,118 @@
       "Mestis": {
         "Keupa HT - Kiekko-Pojat Joensuu": {
           "1x2": {
-            "1": 4.85,
-            "X": 5.1,
-            "2-Pojat Joensuu": 1.43
+            "1": 2.55,
+            "X": 4.2,
+            "2-Pojat Joensuu": 2.15
           },
           "time": "",
           "Double chance": {
-            "1X": 2.25,
-            "12-Pojat Joensuu": 1.13,
-            "X2-Pojat Joensuu": 1.14
+            "1X": 1.54,
+            "12-Pojat Joensuu": 1.19,
+            "X2-Pojat Joensuu": 1.4
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.62,
+            "2-Pojat Joensuu (-0.5)": 2.1
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.59,
+            "Over 6.5 goals": 2.15
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 2.2,
+            "Over 5.5 goals": 1.59
+          },
+          "Under/Over 7.5 goals": {
+            "Under 7.5 goals": 1.31,
+            "Over 7.5 goals": 3.05
+          }
+        },
+        "Hermes - Fps": {
+          "1x2": {
+            "1": 1.21,
+            "X": 6.1,
+            "2": 8.9
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.06,
+            "12": 1.08,
+            "X2": 3.05
+          },
+          "Handicap -2.5 / +2.5": {
+            "1 (-2.5)": 1.62,
+            "2 (+2.5)": 2.1
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.75,
+            "Over 6.5 goals": 1.93
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 2.45,
+            "Over 5.5 goals": 1.47
+          },
+          "Under/Over 7.5 goals": {
+            "Under 7.5 goals": 1.39,
+            "Over 7.5 goals": 2.7
+          }
+        },
+        "Roki - Imatran Ketter\u00e4": {
+          "1x2": {
+            "1": 2.4,
+            "X": 4.2,
+            "2": 2.2
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.51,
+            "12": 1.19,
+            "X2": 1.43
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.58,
+            "2 (-0.5)": 2.2
+          },
+          "Under/Over 7.5 goals": {
+            "Under 7.5 goals": 1.36,
+            "Over 7.5 goals": 2.85
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.68,
+            "Over 6.5 goals": 2.05
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 2.35,
+            "Over 5.5 goals": 1.51
+          }
+        },
+        "Kiekko-Espoo - Kajaanin Edustushokki": {
+          "1x2": {
+            "1-2": 1.55,
+            "X": 4.55,
+            "Kajaanin Edustushokki": 4.3
+          },
+          "time": "",
+          "Double chance": {
+            "1-2 or X": 1.17,
+            "1-2 or Kajaanin Edustushokki": 1.16,
+            "X or Kajaanin Edustushokki": 2.05
+          },
+          "Handicap -1.5 / +1.5": {
+            "1-2 (-1.5)": 1.87,
+            "Kajaanin Edustushokki (+1.5)": 1.8
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 2.15,
+            "Over 5.5 goals": 1.59
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.58,
+            "Over 6.5 goals": 2.2
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 3.2,
+            "Over 4.5 goals": 1.29
           }
         }
       }
@@ -489,66 +860,177 @@
   "Germany": [
     {
       "DEL": {
-        "EHC Red Bull M\u00fcnchen - Adler Mannheim": {
+        "Pinguins Bremerhaven - Eisbaren Berlin": {
           "1x2": {
-            "1": 1.95,
+            "1": 2.15,
             "X": 4.05,
-            "2": 3.1
+            "2": 2.75
           },
           "time": "",
           "Double chance": {
-            "1X": 1.3,
+            "1X": 1.37,
             "12": 1.21,
-            "X2": 1.66
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 1.92,
-            "2 (+0.5)": 1.79
+            "X2": 1.56
           },
           "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.35,
-            "2 (-0.5)": 2.95
+            "1 (+0.5)": 1.43,
+            "2 (-0.5)": 2.65
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.1,
+            "2 (+0.5)": 1.66
           },
           "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 2.6,
-            "2 (+1.5)": 1.43
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.25,
-            "Over 4.5 goals": 1.58
+            "1 (-1.5)": 2.95,
+            "2 (+1.5)": 1.35
           },
           "Under/Over 5.5 goals": {
             "Under 5.5 goals": 1.65,
             "Over 5.5 goals": 2.1
           },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.25,
+            "Over 4.5 goals": 1.57
+          },
           "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.3,
-            "Over 6.5 goals": 3.2
+            "Under 6.5 goals": 1.31,
+            "Over 6.5 goals": 3.15
           }
         },
-        "Nuremberg Ice Tigers - Pinguins Bremerhaven": {
+        "EHC Red Bull M\u00fcnchen - Lowen Frankfurt": {
           "1x2": {
-            "1": 3.0,
-            "X": 4.2,
-            "2": 1.97
+            "1": 1.36,
+            "X": 5.4,
+            "2": 6.3
           },
           "time": "",
           "Double chance": {
-            "1X": 1.65,
-            "12": 1.2,
-            "X2": 1.32
+            "1X": 1.1,
+            "12": 1.12,
+            "X2": 2.5
           },
-          "Handicap +1.5 / -1.5": {
-            "1 (+1.5)": 1.43,
-            "2 (-1.5)": 2.65
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 1.63,
+            "2 (+1.5)": 2.15
+          },
+          "Handicap -2.5 / +2.5": {
+            "1 (-2.5)": 2.2,
+            "2 (+2.5)": 1.61
           },
           "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.85,
-            "2 (+0.5)": 1.37
+            "1 (-0.5)": 1.35,
+            "2 (+0.5)": 2.95
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.46,
+            "Over 6.5 goals": 2.55
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.75,
+            "Over 4.5 goals": 1.4
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.91,
+            "Over 5.5 goals": 1.8
+          }
+        },
+        "Grizzlys Wolfsburg - Dusseldorfer EG": {
+          "1x2": {
+            "1": 1.81,
+            "X": 4.05,
+            "2": 3.55
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.24,
+            "12": 1.2,
+            "X2": 1.77
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.4,
+            "2 (+1.5)": 1.51
           },
           "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.78,
-            "2 (-0.5)": 1.93
+            "1 (+0.5)": 1.28,
+            "2 (-0.5)": 3.35
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.79,
+            "2 (+0.5)": 1.92
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.53,
+            "Over 5.5 goals": 2.35
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.05,
+            "Over 4.5 goals": 1.7
+          },
+          "Under/Over 3.5 goals": {
+            "Under 3.5 goals": 3.3,
+            "Over 3.5 goals": 1.29
+          }
+        },
+        "ERC Ingolstadt - Cologne Haie": {
+          "1x2": {
+            "1": 1.95,
+            "X": 4.05,
+            "2": 3.15
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.3,
+            "12": 1.21,
+            "X2": 1.67
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.6,
+            "2 (+1.5)": 1.44
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.34,
+            "2 (-0.5)": 3.0
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.91,
+            "2 (+0.5)": 1.8
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.2,
+            "Over 4.5 goals": 1.61
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.62,
+            "Over 5.5 goals": 2.15
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.29,
+            "Over 6.5 goals": 3.3
+          }
+        },
+        "Augsburger Panther - Adler Mannheim": {
+          "1x2": {
+            "1": 2.6,
+            "X": 4.05,
+            "2": 2.25
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.51,
+            "12": 1.21,
+            "X2": 1.4
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.5,
+            "2 (+0.5)": 1.47
+          },
+          "Handicap +1.5 / -1.5": {
+            "1 (+1.5)": 1.33,
+            "2 (-1.5)": 3.05
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.61,
+            "2 (-0.5)": 2.2
           },
           "Under/Over 5.5 goals": {
             "Under 5.5 goals": 1.79,
@@ -563,152 +1045,78 @@
             "Over 6.5 goals": 2.8
           }
         },
-        "Cologne Haie - Iserlohn Roosters": {
+        "Straubing Tigers - Iserlohn Roosters": {
           "1x2": {
-            "1": 1.55,
-            "X": 4.8,
-            "2": 4.45
+            "1": 1.35,
+            "X": 5.4,
+            "2": 6.4
           },
           "time": "",
           "Double chance": {
-            "1X": 1.17,
-            "12": 1.16,
-            "X2": 2.1
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 1.53,
-            "2 (+0.5)": 2.35
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 1.94,
-            "2 (+1.5)": 1.77
+            "1X": 1.1,
+            "12": 1.12,
+            "X2": 2.5
           },
           "Handicap -2.5 / +2.5": {
-            "1 (-2.5)": 2.7,
-            "2 (+2.5)": 1.4
+            "1 (-2.5)": 2.2,
+            "2 (+2.5)": 1.6
           },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.75,
-            "Over 4.5 goals": 1.39
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 1.63,
+            "2 (+1.5)": 2.15
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.34,
+            "2 (+0.5)": 3.0
           },
           "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.47,
-            "Over 6.5 goals": 2.5
+            "Under 6.5 goals": 1.4,
+            "Over 6.5 goals": 2.75
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.55,
+            "Over 4.5 goals": 1.45
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.8,
+            "Over 5.5 goals": 1.9
+          }
+        },
+        "Schwenninger Wild Wings - Nuremberg Ice Tigers": {
+          "1x2": {
+            "1": 2.05,
+            "X": 4.2,
+            "2": 2.8
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.35,
+            "12": 1.2,
+            "X2": 1.6
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.41,
+            "2 (-0.5)": 2.7
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.75,
+            "2 (+1.5)": 1.4
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.0,
+            "2 (+0.5)": 1.71
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.46,
+            "Over 6.5 goals": 2.55
           },
           "Under/Over 5.5 goals": {
             "Under 5.5 goals": 1.93,
             "Over 5.5 goals": 1.78
-          }
-        },
-        "Eisbaren Berlin - Dusseldorfer EG": {
-          "1x2": {
-            "1": 1.81,
-            "X": 4.15,
-            "2": 3.5
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.25,
-            "12": 1.2,
-            "X2": 1.77
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 1.78,
-            "2 (+0.5)": 1.93
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 2.35,
-            "2 (+1.5)": 1.52
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.28,
-            "2 (-0.5)": 3.3
           },
           "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.25,
-            "Over 4.5 goals": 1.56
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.67,
-            "Over 5.5 goals": 2.1
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.31,
-            "Over 6.5 goals": 3.15
-          }
-        },
-        "Schwenninger Wild Wings - ERC Ingolstadt": {
-          "1x2": {
-            "1": 2.55,
-            "X": 4.05,
-            "2": 2.3
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.5,
-            "12": 1.21,
-            "X2": 1.42
-          },
-          "Handicap +1.5 / -1.5": {
-            "1 (+1.5)": 1.32,
-            "2 (-1.5)": 3.1
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.59,
-            "2 (-0.5)": 2.25
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.45,
-            "2 (+0.5)": 1.49
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.77,
-            "Over 5.5 goals": 1.94
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.45,
-            "Over 4.5 goals": 1.49
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.37,
-            "Over 6.5 goals": 2.85
-          }
-        },
-        "Lowen Frankfurt - Grizzlys Wolfsburg": {
-          "1x2": {
-            "1": 2.6,
-            "X": 4.2,
-            "2": 2.2
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.53,
-            "12": 1.2,
-            "X2": 1.4
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.5,
-            "2 (+0.5)": 1.47
-          },
-          "Handicap +1.5 / -1.5": {
-            "1 (+1.5)": 1.34,
-            "2 (-1.5)": 3.0
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.63,
-            "2 (-0.5)": 2.15
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.65,
-            "Over 4.5 goals": 1.42
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.88,
-            "Over 5.5 goals": 1.83
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.43,
-            "Over 6.5 goals": 2.65
+            "Under 4.5 goals": 2.75,
+            "Over 4.5 goals": 1.4
           }
         },
         "Straubing Tigers - Augsburger Panther": {
@@ -722,237 +1130,213 @@
             "1X": 1.16,
             "12": 1.15,
             "X2": 2.15
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 1.49,
-            "2 (+0.5)": 2.45
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 1.86,
-            "2 (+1.5)": 1.85
-          },
-          "Handicap -2.5 / +2.5": {
-            "1 (-2.5)": 2.6,
-            "2 (+2.5)": 1.44
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.46,
-            "Over 6.5 goals": 2.55
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.92,
-            "Over 5.5 goals": 1.79
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.75,
-            "Over 4.5 goals": 1.39
           }
         }
       }
     },
     {
       "DEL 2": {
-        "Lausitzer Fuchse - ESV Kaufbeuren": {
+        "EC Bad Nauheim - Lausitzer Fuchse": {
           "1x2": {
-            "1": 2.3,
-            "X": 3.9,
-            "2": 2.45
+            "1": 1.82,
+            "X": 4.1,
+            "2": 3.25
           },
           "time": "",
           "Double chance": {
-            "1X": 1.43,
-            "12": 1.21,
-            "X2": 1.48
+            "1X": 1.27,
+            "12": 1.2,
+            "X2": 1.74
           },
           "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.25,
-            "2 (+0.5)": 1.55
+            "1 (-0.5)": 1.81,
+            "2 (+0.5)": 1.87
           },
           "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.58,
-            "Over 5.5 goals": 2.2
+            "Under 5.5 goals": 1.59,
+            "Over 5.5 goals": 2.15
           },
           "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.1,
-            "Over 4.5 goals": 1.62
+            "Under 4.5 goals": 2.15,
+            "Over 4.5 goals": 1.6
           },
           "Under/Over 3.5 goals": {
-            "Under 3.5 goals": 3.45,
-            "Over 3.5 goals": 1.25
+            "Under 3.5 goals": 3.5,
+            "Over 3.5 goals": 1.24
           }
         },
-        "EV Landshut - SC Bietigheim Steelers": {
+        "Dresdner Eislowen - Kassel Huskies": {
           "1x2": {
-            "1": 1.63,
-            "X": 4.45,
-            "2": 3.8
+            "1": 3.55,
+            "X": 4.4,
+            "2": 1.7
           },
           "time": "",
           "Double chance": {
-            "1X": 1.21,
-            "12": 1.17,
-            "X2": 1.93
+            "1X": 1.85,
+            "12": 1.18,
+            "X2": 1.24
           },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 2.05,
-            "2 (+1.5)": 1.66
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 3.0,
-            "Over 4.5 goals": 1.33
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 2.05,
-            "Over 5.5 goals": 1.65
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 2.0,
+            "2 (-0.5)": 1.69
           },
           "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.53,
-            "Over 6.5 goals": 2.3
-          }
-        },
-        "Kassel Huskies - EC Bad Nauheim": {
-          "1x2": {
-            "1": 1.6,
-            "X": 4.55,
-            "2": 3.95
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.2,
-            "12": 1.17,
-            "X2": 1.97
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 2.05,
-            "2 (+1.5)": 1.67
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.43,
-            "Over 6.5 goals": 2.55
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.65,
-            "Over 4.5 goals": 1.4
+            "Under 6.5 goals": 1.41,
+            "Over 6.5 goals": 2.65
           },
           "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.87,
-            "Over 5.5 goals": 1.8
+            "Under 5.5 goals": 1.83,
+            "Over 5.5 goals": 1.84
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.6,
+            "Over 4.5 goals": 1.42
           }
         },
-        "EHC Freiburg - Ravensburg Towerstars": {
+        "ESV Kaufbeuren - Krefeld Pinguine": {
           "1x2": {
-            "1": 2.35,
-            "X": 3.95,
-            "2": 2.35
+            "1": 2.1,
+            "X": 4.1,
+            "2": 2.65
           },
           "time": "",
           "Double chance": {
-            "1X": 1.45,
-            "12": 1.21,
-            "X2": 1.46
+            "1X": 1.37,
+            "12": 1.2,
+            "X2": 1.57
           },
           "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.3,
-            "2 (+0.5)": 1.53
+            "1 (-0.5)": 2.05,
+            "2 (+0.5)": 1.66
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.7,
+            "Over 5.5 goals": 1.99
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.35,
+            "Over 4.5 goals": 1.51
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.34,
+            "Over 6.5 goals": 2.95
+          }
+        },
+        "Star Bulls Rosenheim - SC Bietigheim Steelers": {
+          "1x2": {
+            "1": 1.98,
+            "X": 4.3,
+            "2": 2.75
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.35,
+            "12": 1.19,
+            "X2": 1.63
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.95,
+            "2 (+0.5)": 1.73
+          },
+          "Under/Over 7.5 goals": {
+            "Under 7.5 goals": 1.44,
+            "Over 7.5 goals": 2.5
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 2.55,
+            "Over 5.5 goals": 1.43
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.8,
+            "Over 6.5 goals": 1.87
+          }
+        },
+        "EV Regensburg - Eispiraten Crimmitschau": {
+          "1x2": {
+            "1": 1.84,
+            "X": 4.2,
+            "2": 3.15
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.28,
+            "12": 1.19,
+            "X2": 1.72
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.82,
+            "2 (+0.5)": 1.85
           },
           "Under/Over 6.5 goals": {
             "Under 6.5 goals": 1.37,
-            "Over 6.5 goals": 2.8
+            "Over 6.5 goals": 2.75
           },
           "Under/Over 5.5 goals": {
             "Under 5.5 goals": 1.77,
-            "Over 5.5 goals": 1.9
+            "Over 5.5 goals": 1.91
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.45,
+            "Over 4.5 goals": 1.46
+          }
+        },
+        "Ravensburg Towerstars - VER Selb": {
+          "1x2": {
+            "1": 1.73,
+            "X": 4.2,
+            "2": 3.5
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.24,
+            "12": 1.19,
+            "X2": 1.82
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.72,
+            "2 (+0.5)": 1.97
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.75,
+            "Over 5.5 goals": 1.93
           },
           "Under/Over 4.5 goals": {
             "Under 4.5 goals": 2.45,
             "Over 4.5 goals": 1.47
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.36,
+            "Over 6.5 goals": 2.8
           }
         },
-        "VER Selb - Dresdner Eislowen": {
+        "EHC Freiburg - EV Landshut": {
           "1x2": {
-            "1": 2.2,
-            "X": 3.9,
-            "2": 2.55
+            "1": 2.3,
+            "X": 4.05,
+            "2": 2.4
           },
           "time": "",
           "Double chance": {
-            "1X": 1.41,
-            "12": 1.21,
-            "X2": 1.51
+            "1X": 1.45,
+            "12": 1.2,
+            "X2": 1.47
           },
           "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.2,
-            "2 (+0.5)": 1.58
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.73,
-            "Over 5.5 goals": 1.95
+            "1 (-0.5)": 2.25,
+            "2 (+0.5)": 1.54
           },
           "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.4,
-            "Over 4.5 goals": 1.49
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.35,
-            "Over 6.5 goals": 2.9
-          }
-        },
-        "EV Regensburg - Star Bulls Rosenheim": {
-          "1x2": {
-            "1": 1.76,
-            "X": 4.2,
-            "2": 3.4
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.25,
-            "12": 1.19,
-            "X2": 1.79
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 1.74,
-            "2 (+0.5)": 1.94
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.39,
-            "Over 6.5 goals": 2.7
+            "Under 4.5 goals": 2.35,
+            "Over 4.5 goals": 1.51
           },
           "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.8,
-            "Over 5.5 goals": 1.87
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.5,
-            "Over 4.5 goals": 1.45
-          }
-        },
-        "Eispiraten Crimmitschau - Krefeld Pinguine": {
-          "1x2": {
-            "1": 2.25,
-            "X": 3.85,
-            "2": 2.5
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.42,
-            "12": 1.22,
-            "X2": 1.49
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.2,
-            "2 (+0.5)": 1.56
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.63,
-            "Over 5.5 goals": 2.1
+            "Under 5.5 goals": 1.69,
+            "Over 5.5 goals": 2.0
           },
           "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.29,
-            "Over 6.5 goals": 3.15
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.2,
-            "Over 4.5 goals": 1.57
+            "Under 6.5 goals": 1.33,
+            "Over 6.5 goals": 2.95
           }
         }
       }
@@ -961,695 +1345,140 @@
   "Russia": [
     {
       "KHL": {
-        "Sibir Novosibirsk - Admiral Vladivostok": {
+        "Torpedo N. Novgorod - HC Dinamo Minsk": {
           "1x2": {
-            "1": 1.98,
-            "X": 3.95,
-            "2": 3.1
+            "1": 1.85,
+            "X": 4.1,
+            "2": 3.4
           },
           "time": "",
           "Double chance": {
-            "1X": 1.3,
-            "12": 1.21,
-            "X2": 1.65
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 1.94,
-            "2 (+0.5)": 1.77
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 2.8,
-            "2 (+1.5)": 1.39
+            "1X": 1.26,
+            "12": 1.2,
+            "X2": 1.74
           },
           "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.35,
-            "2 (-0.5)": 2.95
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 1.76,
-            "Over 4.5 goals": 1.95
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.37,
-            "Over 5.5 goals": 2.85
-          },
-          "Under/Over 3.5 goals": {
-            "Under 3.5 goals": 2.7,
-            "Over 3.5 goals": 1.41
-          }
-        },
-        "HK Avangard Omsk - Salavat Yulaev Ufa": {
-          "1x2": {
-            "1": 2.2,
-            "X": 3.9,
-            "2": 2.75
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.37,
-            "12": 1.22,
-            "X2": 1.54
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.15,
-            "2 (+0.5)": 1.64
+            "1 (+0.5)": 1.3,
+            "2 (-0.5)": 3.25
           },
           "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 3.0,
-            "2 (+1.5)": 1.34
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.42,
-            "2 (-0.5)": 2.65
-          },
-          "Under/Over 3.5 goals": {
-            "Under 3.5 goals": 3.4,
-            "Over 3.5 goals": 1.27
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.56,
-            "Over 5.5 goals": 2.3
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.1,
-            "Over 4.5 goals": 1.67
-          }
-        },
-        "Avtomobilist Yekaterinburg - HC Traktor Chelyabinsk": {
-          "1x2": {
-            "1": 2.4,
-            "X": 3.75,
-            "2": 2.5
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.42,
-            "12": 1.23,
-            "X2": 1.46
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 3.4,
-            "2 (+1.5)": 1.27
+            "1 (-1.5)": 2.45,
+            "2 (+1.5)": 1.49
           },
           "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.35,
-            "2 (+0.5)": 1.53
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.49,
-            "2 (-0.5)": 2.45
-          },
-          "Under/Over 3.5 goals": {
-            "Under 3.5 goals": 2.9,
-            "Over 3.5 goals": 1.36
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.43,
-            "Over 5.5 goals": 2.65
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 1.85,
-            "Over 4.5 goals": 1.86
-          }
-        },
-        "Severstal Cherepovec - Amur Khabarovsk": {
-          "1x2": {
-            "1": 1.99,
-            "X": 4.0,
-            "2": 3.05
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.31,
-            "12": 1.21,
-            "X2": 1.64
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 1.95,
-            "2 (+0.5)": 1.76
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 2.65,
-            "2 (+1.5)": 1.42
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.35,
-            "2 (-0.5)": 2.95
+            "1 (-0.5)": 1.82,
+            "2 (+0.5)": 1.89
           },
           "Under/Over 4.5 goals": {
             "Under 4.5 goals": 2.15,
-            "Over 4.5 goals": 1.63
+            "Over 4.5 goals": 1.62
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.61,
+            "Over 5.5 goals": 2.2
           },
           "Under/Over 3.5 goals": {
             "Under 3.5 goals": 3.55,
             "Over 3.5 goals": 1.25
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.6,
-            "Over 5.5 goals": 2.2
           }
         },
-        "HC Sochi - Metallurg Magnitogorsk": {
+        "HC Traktor Chelyabinsk - Lokomotiv Yaroslavl": {
           "1x2": {
-            "1": 5.45,
-            "X": 5.15,
-            "2": 1.42
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 2.3,
-            "12": 1.13,
-            "X2": 1.13
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 2.7,
-            "2 (-0.5)": 1.41
-          },
-          "Handicap +2.5 / -2.5": {
-            "1 (+2.5)": 1.53,
-            "2 (-2.5)": 2.35
-          },
-          "Handicap +1.5 / -1.5": {
-            "1 (+1.5)": 1.99,
-            "2 (-1.5)": 1.73
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.99,
-            "Over 5.5 goals": 1.73
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.5,
-            "Over 6.5 goals": 2.4
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.9,
-            "Over 4.5 goals": 1.36
-          }
-        },
-        "SKA St. Petersburg - Vityaz Podolsk": {
-          "1x2": {
-            "1": 1.38,
-            "X": 5.3,
-            "2": 6.05
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.11,
-            "12": 1.13,
-            "X2": 2.45
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 1.67,
-            "2 (+1.5)": 2.05
-          },
-          "Handicap -2.5 / +2.5": {
-            "1 (-2.5)": 2.3,
-            "2 (+2.5)": 1.56
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 1.37,
-            "2 (+0.5)": 2.85
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.8,
-            "Over 5.5 goals": 1.91
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.55,
-            "Over 4.5 goals": 1.45
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.4,
-            "Over 6.5 goals": 2.75
-          }
-        },
-        "Lokomotiv Yaroslavl - HC Barys Astana": {
-          "1x2": {
-            "1": 1.39,
-            "X": 5.0,
-            "2": 6.15
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.11,
-            "12": 1.14,
-            "X2": 2.4
-          },
-          "Handicap -2.5 / +2.5": {
-            "1 (-2.5)": 2.45,
-            "2 (+2.5)": 1.49
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 1.74,
-            "2 (+1.5)": 1.98
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 1.38,
-            "2 (+0.5)": 2.8
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.0,
-            "Over 4.5 goals": 1.72
-          },
-          "Under/Over 3.5 goals": {
-            "Under 3.5 goals": 3.15,
-            "Over 3.5 goals": 1.31
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.5,
-            "Over 5.5 goals": 2.4
-          }
-        },
-        "Torpedo N. Novgorod - HC Red Star Kunlun": {
-          "1x2": {
-            "1": 1.42,
-            "X": 5.15,
-            "2": 5.5
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.12,
-            "12": 1.13,
-            "X2": 2.35
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 1.41,
-            "2 (+0.5)": 2.7
-          },
-          "Handicap -2.5 / +2.5": {
-            "1 (-2.5)": 2.35,
-            "2 (+2.5)": 1.52
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 1.73,
-            "2 (+1.5)": 1.99
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.9,
-            "Over 5.5 goals": 1.8
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.75,
-            "Over 4.5 goals": 1.4
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.45,
-            "Over 6.5 goals": 2.55
-          }
-        },
-        "Neftekhimik Nizhnekamsk - HC Lada Togliatti": {
-          "1x2": {
-            "1": 2.25,
-            "X": 3.85,
-            "2": 2.65
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.39,
-            "12": 1.23,
-            "X2": 1.5
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.45,
-            "2 (-0.5)": 2.55
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 3.15,
-            "2 (+1.5)": 1.31
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.2,
-            "2 (+0.5)": 1.59
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.53,
-            "Over 5.5 goals": 2.35
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.0,
-            "Over 4.5 goals": 1.71
-          },
-          "Under/Over 3.5 goals": {
-            "Under 3.5 goals": 3.3,
-            "Over 3.5 goals": 1.29
-          }
-        },
-        "Sibir Novosibirsk - Salavat Yulaev Ufa": {
-          "1x2": {
-            "1": 2.6,
+            "1": 2.5,
             "X": 3.75,
-            "2": 2.35
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.48,
-            "12": 1.24,
-            "X2": 1.4
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.56,
-            "2 (-0.5)": 2.3
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.5,
-            "2 (+0.5)": 1.47
-          },
-          "Handicap +1.5 / -1.5": {
-            "1 (+1.5)": 1.29,
-            "2 (-1.5)": 3.3
-          },
-          "Under/Over 3.5 goals": {
-            "Under 3.5 goals": 2.9,
-            "Over 3.5 goals": 1.36
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.42,
-            "Over 5.5 goals": 2.65
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 1.83,
-            "Over 4.5 goals": 1.87
-          }
-        },
-        "HC Traktor Chelyabinsk - HC Barys Astana": {
-          "1x2": {
-            "1": 1.48,
-            "X": 4.75,
-            "2": 5.15
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.14,
-            "12": 1.15,
-            "X2": 2.2
-          },
-          "Handicap -2.5 / +2.5": {
-            "1 (-2.5)": 2.65,
-            "2 (+2.5)": 1.42
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 1.87,
-            "2 (+1.5)": 1.84
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 1.47,
-            "2 (+0.5)": 2.5
-          },
-          "Under/Over 3.5 goals": {
-            "Under 3.5 goals": 3.55,
-            "Over 3.5 goals": 1.25
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.2,
-            "Over 4.5 goals": 1.6
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.6,
-            "Over 5.5 goals": 2.2
-          }
-        },
-        "AK Bars Kazan - Admiral Vladivostok": {
-          "1x2": {
-            "1": 1.43,
-            "X": 4.8,
-            "2": 5.9
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.11,
-            "12": 1.15,
-            "X2": 2.3
-          },
-          "Handicap -2.5 / +2.5": {
-            "1 (-2.5)": 2.6,
-            "2 (+2.5)": 1.43
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 1.81,
-            "2 (+1.5)": 1.89
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 1.42,
-            "2 (+0.5)": 2.7
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.4,
-            "Over 5.5 goals": 2.75
-          },
-          "Under/Over 3.5 goals": {
-            "Under 3.5 goals": 2.8,
-            "Over 3.5 goals": 1.38
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 1.83,
-            "Over 4.5 goals": 1.88
-          }
-        },
-        "SKA St. Petersburg - Lokomotiv Yaroslavl": {
-          "1x2": {
-            "1": 2.2,
-            "X": 3.8,
-            "2": 2.75
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.37,
-            "12": 1.23,
-            "X2": 1.53
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 3.05,
-            "2 (+1.5)": 1.33
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.15,
-            "2 (+0.5)": 1.62
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.42,
-            "2 (-0.5)": 2.65
-          },
-          "Under/Over 3.5 goals": {
-            "Under 3.5 goals": 3.2,
-            "Over 3.5 goals": 1.31
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 1.97,
-            "Over 4.5 goals": 1.75
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.5,
-            "Over 5.5 goals": 2.4
-          }
-        },
-        "Severstal Cherepovec - Vityaz Podolsk": {
-          "1x2": {
-            "1": 1.77,
-            "X": 4.15,
-            "2": 3.7
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.23,
-            "12": 1.2,
-            "X2": 1.81
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 2.3,
-            "2 (+1.5)": 1.56
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 1.74,
-            "2 (+0.5)": 1.98
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.26,
-            "2 (-0.5)": 3.45
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.7,
-            "Over 5.5 goals": 2.05
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.33,
-            "Over 6.5 goals": 3.05
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.3,
-            "Over 4.5 goals": 1.54
-          }
-        },
-        "HC Sochi - Avtomobilist Yekaterinburg": {
-          "1x2": {
-            "1": 4.15,
-            "X": 4.5,
-            "2": 1.62
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.98,
-            "12": 1.17,
-            "X2": 1.19
-          },
-          "Handicap +1.5 / -1.5": {
-            "1 (+1.5)": 1.67,
-            "2 (-1.5)": 2.05
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 2.2,
-            "2 (-0.5)": 1.6
-          },
-          "Handicap +2.5 / -2.5": {
-            "1 (+2.5)": 1.34,
-            "2 (-2.5)": 3.0
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.34,
-            "Over 6.5 goals": 3.0
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.35,
-            "Over 4.5 goals": 1.53
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.7,
-            "Over 5.5 goals": 2.05
-          }
-        },
-        "Neftekhimik Nizhnekamsk - Metallurg Magnitogorsk": {
-          "1x2": {
-            "1": 3.4,
-            "X": 4.1,
-            "2": 1.85
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.74,
-            "12": 1.2,
-            "X2": 1.26
-          },
-          "Handicap +1.5 / -1.5": {
-            "1 (+1.5)": 1.51,
-            "2 (-1.5)": 2.4
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 3.2,
-            "2 (+0.5)": 1.3
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.89,
-            "2 (-0.5)": 1.82
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.37,
-            "Over 6.5 goals": 2.85
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.45,
-            "Over 4.5 goals": 1.49
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.77,
-            "Over 5.5 goals": 1.94
-          }
-        },
-        "CSKA Moscow - HC Spartak Moscow": {
-          "1x2": {
-            "1": 2.25,
-            "X": 4.0,
-            "2": 2.6
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.4,
-            "12": 1.21,
-            "X2": 1.51
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.47,
-            "2 (-0.5)": 2.5
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.2,
-            "2 (+0.5)": 1.6
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 3.05,
-            "2 (+1.5)": 1.33
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.74,
-            "Over 5.5 goals": 1.98
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.35,
-            "Over 6.5 goals": 2.95
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.4,
-            "Over 4.5 goals": 1.51
-          }
-        },
-        "HC Dinamo Minsk - Amur Khabarovsk": {
-          "1x2": {
-            "1": 1.92,
-            "X": 3.9,
-            "2": 3.3
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.27,
-            "12": 1.22,
-            "X2": 1.69
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.31,
-            "2 (-0.5)": 3.15
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 2.55,
-            "2 (+1.5)": 1.45
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 1.89,
-            "2 (+0.5)": 1.82
-          },
-          "Under/Over 3.5 goals": {
-            "Under 3.5 goals": 3.2,
-            "Over 3.5 goals": 1.31
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.5,
-            "Over 5.5 goals": 2.4
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 1.97,
-            "Over 4.5 goals": 1.74
-          }
-        },
-        "OHK Dynamo Moscow - HC Spartak Moscow": {
-          "1x2": {
-            "1": 2.4,
-            "X": 3.95,
-            "2": 2.4
+            "2": 2.45
           },
           "time": "",
           "Double chance": {
             "1X": 1.45,
-            "12": 1.22,
-            "X2": 1.45
+            "12": 1.23,
+            "X2": 1.43
           },
           "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.53,
+            "1 (+0.5)": 1.52,
             "2 (-0.5)": 2.35
           },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 3.3,
-            "2 (+1.5)": 1.29
+          "Handicap +1.5 / -1.5": {
+            "1 (+1.5)": 1.25,
+            "2 (-1.5)": 3.6
           },
           "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.35,
-            "2 (+0.5)": 1.53
+            "1 (-0.5)": 2.4,
+            "2 (+0.5)": 1.51
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.31,
+            "Over 5.5 goals": 3.15
+          },
+          "Under/Over 3.5 goals": {
+            "Under 3.5 goals": 2.5,
+            "Over 3.5 goals": 1.47
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 1.65,
+            "Over 4.5 goals": 2.1
+          }
+        },
+        "Salavat Yulaev Ufa - HC Barys Astana": {
+          "1x2": {
+            "1": 1.5,
+            "X": 4.75,
+            "2": 5.0
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.14,
+            "12": 1.16,
+            "X2": 2.15
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.48,
+            "2 (+0.5)": 2.45
+          },
+          "Handicap -2.5 / +2.5": {
+            "1 (-2.5)": 2.75,
+            "2 (+2.5)": 1.4
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 1.9,
+            "2 (+1.5)": 1.81
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.15,
+            "Over 4.5 goals": 1.64
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.57,
+            "Over 5.5 goals": 2.25
+          },
+          "Under/Over 3.5 goals": {
+            "Under 3.5 goals": 3.4,
+            "Over 3.5 goals": 1.27
+          }
+        },
+        "OHK Dynamo Moscow - HC Spartak Moscow": {
+          "1x2": {
+            "1": 2.35,
+            "X": 4.0,
+            "2": 2.5
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.43,
+            "12": 1.21,
+            "X2": 1.47
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.5,
+            "2 (-0.5)": 2.4
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 3.2,
+            "2 (+1.5)": 1.3
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.3,
+            "2 (+0.5)": 1.56
           },
           "Under/Over 5.5 goals": {
             "Under 5.5 goals": 1.76,
@@ -1663,157 +1492,490 @@
             "Under 4.5 goals": 2.45,
             "Over 4.5 goals": 1.5
           }
-        }
-      }
-    },
-    {
-      "VHL": {
-        "Dinamo-Altai Barnaul - Kristall Saratov": {
-          "1x2": {
-            "1-2": 1.45,
-            "X": 5.0,
-            "Kristall Saratov": 5.25
-          },
-          "time": "",
-          "Double chance": {
-            "1-2 or X": 1.13,
-            "1-2 or Kristall Saratov": 1.14,
-            "X or Kristall Saratov": 2.25
-          },
-          "Handicap -1.5 / +1.5": {
-            "1-2 (-1.5)": 1.78,
-            "Kristall Saratov (+1.5)": 1.92
-          },
-          "Handicap -0.5 / +0.5": {
-            "1-2 (-0.5)": 1.44,
-            "Kristall Saratov (+0.5)": 2.6
-          },
-          "Handicap -2.5 / +2.5": {
-            "1-2 (-2.5)": 2.45,
-            "Kristall Saratov (+2.5)": 1.48
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.43,
-            "Over 6.5 goals": 2.65
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.86,
-            "Over 5.5 goals": 1.84
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.65,
-            "Over 4.5 goals": 1.42
-          }
         },
-        "Toros Neftekamsk - Molot-Prikamye Perm": {
+        "AK Bars Kazan - Avtomobilist Yekaterinburg": {
           "1x2": {
-            "1": 2.45,
+            "1": 1.94,
             "X": 3.9,
-            "2-Prikamye Perm": 2.45
+            "2": 3.25
           },
           "time": "",
           "Double chance": {
-            "1X": 1.45,
-            "12-Prikamye Perm": 1.22,
-            "X2-Prikamye Perm": 1.45
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.52,
-            "2-Prikamye Perm (-0.5)": 2.35
+            "1X": 1.28,
+            "12": 1.22,
+            "X2": 1.67
           },
           "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.35,
-            "2-Prikamye Perm (+0.5)": 1.52
+            "1 (-0.5)": 1.91,
+            "2 (+0.5)": 1.8
           },
           "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 3.3,
-            "2-Prikamye Perm (+1.5)": 1.29
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.34,
-            "Over 6.5 goals": 2.95
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.35,
-            "Over 4.5 goals": 1.52
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.73,
-            "Over 5.5 goals": 1.99
-          }
-        },
-        "HK Chelny - Izhstal Izhevsk": {
-          "1x2": {
-            "1": 2.65,
-            "X": 3.75,
-            "2": 2.3
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.49,
-            "12": 1.23,
-            "X2": 1.39
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.55,
-            "2 (+0.5)": 1.46
-          },
-          "Handicap +1.5 / -1.5": {
-            "1 (+1.5)": 1.31,
-            "2 (-1.5)": 3.15
+            "1 (-1.5)": 2.65,
+            "2 (+1.5)": 1.42
           },
           "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.58,
-            "2 (-0.5)": 2.25
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.53,
-            "Over 5.5 goals": 2.35
+            "1 (+0.5)": 1.32,
+            "2 (-0.5)": 3.1
           },
           "Under/Over 3.5 goals": {
-            "Under 3.5 goals": 3.3,
-            "Over 3.5 goals": 1.29
+            "Under 3.5 goals": 2.95,
+            "Over 3.5 goals": 1.35
           },
           "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.0,
-            "Over 4.5 goals": 1.71
+            "Under 4.5 goals": 1.86,
+            "Over 4.5 goals": 1.85
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.43,
+            "Over 5.5 goals": 2.6
           }
         },
-        "HC Akm Tula - CSK VVS Samara": {
+        "CSKA Moscow - HC Red Star Kunlun": {
           "1x2": {
-            "1": 1.38,
-            "X": 5.1,
-            "2": 6.2
+            "1": 1.35,
+            "X": 5.4,
+            "2": 6.45
           },
           "time": "",
           "Double chance": {
-            "1X": 1.11,
-            "12": 1.13,
-            "X2": 2.45
+            "1X": 1.1,
+            "12": 1.12,
+            "X2": 2.5
+          },
+          "Handicap -2.5 / +2.5": {
+            "1 (-2.5)": 2.2,
+            "2 (+2.5)": 1.6
           },
           "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 1.71,
-            "2 (+1.5)": 2.0
+            "1 (-1.5)": 1.63,
+            "2 (+1.5)": 2.15
           },
           "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 1.38,
-            "2 (+0.5)": 2.85
+            "1 (-0.5)": 1.34,
+            "2 (+0.5)": 3.0
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.6,
+            "Over 4.5 goals": 1.44
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.83,
+            "Over 5.5 goals": 1.87
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.41,
+            "Over 6.5 goals": 2.7
+          }
+        },
+        "Severstal Cherepovec - HC Sochi": {
+          "1x2": {
+            "1": 1.44,
+            "X": 5.15,
+            "2": 5.2
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.13,
+            "12": 1.14,
+            "X2": 2.3
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 1.76,
+            "2 (+1.5)": 1.96
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.43,
+            "2 (+0.5)": 2.65
           },
           "Handicap -2.5 / +2.5": {
             "1 (-2.5)": 2.4,
             "2 (+2.5)": 1.51
           },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.57,
-            "Over 5.5 goals": 2.25
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 3.0,
+            "Over 4.5 goals": 1.33
           },
-          "Under/Over 3.5 goals": {
-            "Under 3.5 goals": 3.45,
-            "Over 3.5 goals": 1.27
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.54,
+            "Over 6.5 goals": 2.3
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 2.05,
+            "Over 5.5 goals": 1.68
+          }
+        },
+        "SKA St. Petersburg - Metallurg Magnitogorsk": {
+          "1x2": {
+            "1": 1.94,
+            "X": 3.95,
+            "2": 3.2
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.29,
+            "12": 1.21,
+            "X2": 1.67
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.55,
+            "2 (+1.5)": 1.46
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.33,
+            "2 (-0.5)": 3.05
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.91,
+            "2 (+0.5)": 1.8
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.69,
+            "Over 5.5 goals": 2.05
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.3,
+            "Over 4.5 goals": 1.55
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.32,
+            "Over 6.5 goals": 3.1
+          }
+        },
+        "Vityaz Podolsk - Neftekhimik Nizhnekamsk": {
+          "1x2": {
+            "1": 2.35,
+            "X": 3.9,
+            "2": 2.5
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.43,
+            "12": 1.22,
+            "X2": 1.47
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.5,
+            "2 (-0.5)": 2.4
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 3.3,
+            "2 (+1.5)": 1.29
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.3,
+            "2 (+0.5)": 1.55
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.28,
+            "Over 6.5 goals": 3.3
           },
           "Under/Over 4.5 goals": {
             "Under 4.5 goals": 2.15,
-            "Over 4.5 goals": 1.63
+            "Over 4.5 goals": 1.61
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.61,
+            "Over 5.5 goals": 2.15
+          }
+        },
+        "Admiral Vladivostok - HK Avangard Omsk": {
+          "1x2": {
+            "1": 3.05,
+            "X": 3.9,
+            "2": 2.05
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.62,
+            "12": 1.22,
+            "X2": 1.31
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.9,
+            "2 (+0.5)": 1.36
+          },
+          "Handicap +1.5 / -1.5": {
+            "1 (+1.5)": 1.39,
+            "2 (-1.5)": 2.75
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.73,
+            "2 (-0.5)": 1.99
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.48,
+            "Over 5.5 goals": 2.5
+          },
+          "Under/Over 3.5 goals": {
+            "Under 3.5 goals": 3.1,
+            "Over 3.5 goals": 1.32
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 1.94,
+            "Over 4.5 goals": 1.77
+          }
+        },
+        "Amur Khabarovsk - Sibir Novosibirsk": {
+          "1x2": {
+            "1": 2.35,
+            "X": 3.7,
+            "2": 2.6
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.4,
+            "12": 1.24,
+            "X2": 1.47
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.3,
+            "2 (+0.5)": 1.55
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.47,
+            "2 (-0.5)": 2.5
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 3.35,
+            "2 (+1.5)": 1.28
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 1.75,
+            "Over 4.5 goals": 1.97
+          },
+          "Under/Over 3.5 goals": {
+            "Under 3.5 goals": 2.7,
+            "Over 3.5 goals": 1.41
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.37,
+            "Over 5.5 goals": 2.85
+          }
+        }
+      }
+    },
+    {
+      "VHL": {
+        "HK Chelny - Izhstal Izhevsk": {
+          "1x2": {
+            "1": 3.4,
+            "X": 4.0,
+            "2": 1.88
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.72,
+            "12": 1.21,
+            "X2": 1.26
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 3.2,
+            "2 (+0.5)": 1.3
+          },
+          "Handicap +1.5 / -1.5": {
+            "1 (+1.5)": 1.48,
+            "2 (-1.5)": 2.45
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.86,
+            "2 (-0.5)": 1.85
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.61,
+            "Over 5.5 goals": 2.2
+          },
+          "Under/Over 3.5 goals": {
+            "Under 3.5 goals": 3.55,
+            "Over 3.5 goals": 1.25
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.15,
+            "Over 4.5 goals": 1.62
+          }
+        },
+        "HC Akm Tula - CSK VVS Samara": {
+          "1x2": {
+            "1": 1.32,
+            "X": 5.5,
+            "2": 7.2
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.08,
+            "12": 1.11,
+            "X2": 2.65
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 1.59,
+            "2 (+1.5)": 2.25
+          },
+          "Handicap -2.5 / +2.5": {
+            "1 (-2.5)": 2.15,
+            "2 (+2.5)": 1.63
+          },
+          "Handicap -3.5 / +3.5": {
+            "1 (-3.5)": 3.45,
+            "2 (+3.5)": 1.26
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.66,
+            "Over 5.5 goals": 2.1
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.3,
+            "Over 4.5 goals": 1.55
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.32,
+            "Over 6.5 goals": 3.1
+          }
+        },
+        "Dinamo-Altai Barnaul - HC Tambov": {
+          "1x2": {
+            "1-2": 2.9,
+            "X": 4.05,
+            "HC Tambov": 2.05
+          },
+          "time": "",
+          "Double chance": {
+            "1-2 or X": 1.6,
+            "1-2 or HC Tambov": 1.21,
+            "X or HC Tambov": 1.34
+          },
+          "Handicap +0.5 / -0.5": {
+            "1-2 (+0.5)": 1.71,
+            "HC Tambov (-0.5)": 2.0
+          },
+          "Handicap +1.5 / -1.5": {
+            "1-2 (+1.5)": 1.39,
+            "HC Tambov (-1.5)": 2.75
+          },
+          "Handicap -0.5 / +0.5": {
+            "1-2 (-0.5)": 2.8,
+            "HC Tambov (+0.5)": 1.39
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.33,
+            "Over 6.5 goals": 3.05
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.35,
+            "Over 4.5 goals": 1.53
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.7,
+            "Over 5.5 goals": 2.05
+          }
+        },
+        "Metallurg Novokuznetsk - Kristall Saratov": {
+          "1x2": {
+            "1": 1.25,
+            "X": 6.25,
+            "2": 8.2
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.07,
+            "12": 1.09,
+            "X2": 2.9
+          },
+          "Handicap -3.5 / +3.5": {
+            "1 (-3.5)": 2.8,
+            "2 (+3.5)": 1.38
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 1.45,
+            "2 (+1.5)": 2.55
+          },
+          "Handicap -2.5 / +2.5": {
+            "1 (-2.5)": 1.86,
+            "2 (+2.5)": 1.85
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 3.1,
+            "Over 4.5 goals": 1.32
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 2.1,
+            "Over 5.5 goals": 1.65
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.58,
+            "Over 6.5 goals": 2.25
+          }
+        },
+        "HC Yugra Khanty-Mansiysk - Dizel Penza": {
+          "1x2": {
+            "1-2": 1.56,
+            "X": 4.5,
+            "Dizel Penza": 4.65
+          },
+          "time": "",
+          "Double chance": {
+            "1-2 or X": 1.16,
+            "1-2 or Dizel Penza": 1.17,
+            "X or Dizel Penza": 2.05
+          },
+          "Handicap -1.5 / +1.5": {
+            "1-2 (-1.5)": 2.05,
+            "Dizel Penza (+1.5)": 1.7
+          },
+          "Handicap -0.5 / +0.5": {
+            "1-2 (-0.5)": 1.55,
+            "Dizel Penza (+0.5)": 2.3
+          },
+          "Handicap -2.5 / +2.5": {
+            "1-2 (-2.5)": 3.0,
+            "Dizel Penza (+2.5)": 1.33
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 1.91,
+            "Over 4.5 goals": 1.8
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.45,
+            "Over 5.5 goals": 2.55
+          },
+          "Under/Over 3.5 goals": {
+            "Under 3.5 goals": 3.0,
+            "Over 3.5 goals": 1.34
+          }
+        },
+        "Rubin Tyumen - Bars Kazan": {
+          "1x2": {
+            "1": 1.44,
+            "X": 4.85,
+            "2": 5.6
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.12,
+            "12": 1.15,
+            "X2": 2.3
+          },
+          "Handicap -2.5 / +2.5": {
+            "1 (-2.5)": 2.6,
+            "2 (+2.5)": 1.44
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 1.81,
+            "2 (+1.5)": 1.89
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.43,
+            "2 (+0.5)": 2.65
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.52,
+            "Over 5.5 goals": 2.35
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.05,
+            "Over 4.5 goals": 1.69
+          },
+          "Under/Over 3.5 goals": {
+            "Under 3.5 goals": 3.25,
+            "Over 3.5 goals": 1.29
           }
         }
       }
@@ -1823,833 +1985,1127 @@
   "Sweden": [
     {
       "Svenska Hockeyligan": {
-        "Malmo IF - Skellefteaa Aik": {
+        "Malmo IF - Frolunda HC": {
           "1x2": {
-            "1": 2.9,
+            "1": 2.55,
             "X": 3.95,
-            "2": 2.1
+            "2": 2.35
           },
           "time": "",
           "Double chance": {
-            "1X": 1.59,
+            "1X": 1.48,
             "12": 1.22,
-            "X2": 1.34
+            "X2": 1.42
           },
           "Handicap +1.5 / -1.5": {
-            "1 (+1.5)": 1.39,
-            "2 (-1.5)": 2.75
+            "1 (+1.5)": 1.31,
+            "2 (-1.5)": 3.15
           },
           "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.7,
-            "2 (-0.5)": 2.05
+            "1 (+0.5)": 1.56,
+            "2 (-0.5)": 2.25
           },
           "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.75,
-            "2 (+0.5)": 1.39
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.15,
-            "Over 4.5 goals": 1.63
+            "1 (-0.5)": 2.45,
+            "2 (+0.5)": 1.49
           },
           "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.58,
-            "Over 5.5 goals": 2.25
-          },
-          "Under/Over 3.5 goals": {
-            "Under 3.5 goals": 3.55,
-            "Over 3.5 goals": 1.25
-          }
-        },
-        "Farjestads BK - Frolunda HC": {
-          "1x2": {
-            "1": 1.8,
-            "X": 4.15,
-            "2": 3.55
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.25,
-            "12": 1.2,
-            "X2": 1.78
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 2.3,
-            "2 (+1.5)": 1.54
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.28,
-            "2 (-0.5)": 3.35
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 1.77,
-            "2 (+0.5)": 1.94
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.62,
-            "Over 5.5 goals": 2.15
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.29,
-            "Over 6.5 goals": 3.25
+            "Under 5.5 goals": 1.65,
+            "Over 5.5 goals": 2.1
           },
           "Under/Over 4.5 goals": {
             "Under 4.5 goals": 2.25,
-            "Over 4.5 goals": 1.58
-          }
-        },
-        "Timraa IK - Linkopings HC": {
-          "1x2": {
-            "1": 2.05,
-            "X": 4.0,
-            "2": 2.9
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.33,
-            "12": 1.21,
-            "X2": 1.6
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.0,
-            "2 (+0.5)": 1.71
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.39,
-            "2 (-0.5)": 2.8
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 2.75,
-            "2 (+1.5)": 1.4
-          },
-          "Under/Over 3.5 goals": {
-            "Under 3.5 goals": 3.55,
-            "Over 3.5 goals": 1.25
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.59,
-            "Over 5.5 goals": 2.2
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.15,
-            "Over 4.5 goals": 1.61
-          }
-        },
-        "HC Orebro - HV71": {
-          "1x2": {
-            "1": 1.78,
-            "X": 4.2,
-            "2": 3.55
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.24,
-            "12": 1.2,
-            "X2": 1.79
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 2.3,
-            "2 (+1.5)": 1.56
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 1.76,
-            "2 (+0.5)": 1.96
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.28,
-            "2 (-0.5)": 3.35
+            "Over 4.5 goals": 1.57
           },
           "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.32,
-            "Over 6.5 goals": 3.1
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.35,
-            "Over 4.5 goals": 1.54
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.68,
-            "Over 5.5 goals": 2.05
+            "Under 6.5 goals": 1.3,
+            "Over 6.5 goals": 3.2
           }
         },
-        "IK Oskarshamn - Skellefteaa Aik": {
+        "Modo Hockey - Rogle BK": {
           "1x2": {
-            "1": 3.3,
-            "X": 4.3,
-            "2": 1.84
+            "1": 2.5,
+            "X": 4.0,
+            "2": 2.35
           },
           "time": "",
           "Double chance": {
-            "1X": 1.74,
-            "12": 1.19,
-            "X2": 1.27
+            "1X": 1.48,
+            "12": 1.21,
+            "X2": 1.43
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.4,
+            "2 (+0.5)": 1.5
           },
           "Handicap +1.5 / -1.5": {
-            "1 (+1.5)": 1.52,
-            "2 (-1.5)": 2.35
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 3.15,
-            "2 (+0.5)": 1.32
+            "1 (+1.5)": 1.32,
+            "2 (-1.5)": 3.1
           },
           "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.89,
-            "2 (-0.5)": 1.82
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.42,
-            "Over 6.5 goals": 2.7
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.85,
-            "Over 5.5 goals": 1.85
+            "1 (+0.5)": 1.56,
+            "2 (-0.5)": 2.3
           },
           "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.65,
-            "Over 4.5 goals": 1.43
+            "Under 4.5 goals": 2.5,
+            "Over 4.5 goals": 1.47
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.79,
+            "Over 5.5 goals": 1.92
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.38,
+            "Over 6.5 goals": 2.8
           }
         },
-        "Luleaa Hockey - Modo Hockey": {
+        "Vaxjo Lakers - Skellefteaa Aik": {
           "1x2": {
-            "1": 1.61,
-            "X": 4.25,
-            "2": 4.45
+            "1": 1.91,
+            "X": 4.0,
+            "2": 3.25
           },
           "time": "",
           "Double chance": {
-            "1X": 1.17,
-            "12": 1.18,
-            "X2": 1.98
+            "1X": 1.28,
+            "12": 1.21,
+            "X2": 1.69
           },
           "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 1.6,
-            "2 (+0.5)": 2.2
+            "1 (-0.5)": 1.88,
+            "2 (+0.5)": 1.83
           },
-          "Handicap -2.5 / +2.5": {
-            "1 (-2.5)": 2.95,
-            "2 (+2.5)": 1.35
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.32,
+            "2 (-0.5)": 3.1
           },
           "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 2.05,
-            "2 (+1.5)": 1.68
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 1.91,
-            "Over 4.5 goals": 1.8
-          },
-          "Under/Over 3.5 goals": {
-            "Under 3.5 goals": 3.0,
-            "Over 3.5 goals": 1.33
+            "1 (-1.5)": 2.5,
+            "2 (+1.5)": 1.46
           },
           "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.44,
-            "Over 5.5 goals": 2.6
+            "Under 5.5 goals": 1.52,
+            "Over 5.5 goals": 2.4
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.05,
+            "Over 4.5 goals": 1.7
+          },
+          "Under/Over 3.5 goals": {
+            "Under 3.5 goals": 3.3,
+            "Over 3.5 goals": 1.29
           }
         },
-        "Leksands IF - Rogle BK": {
+        "Leksands IF - IK Oskarshamn": {
           "1x2": {
-            "1": 2.05,
-            "X": 3.95,
+            "1": 1.56,
+            "X": 4.55,
+            "2": 4.6
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.16,
+            "12": 1.17,
+            "X2": 2.05
+          },
+          "Handicap -2.5 / +2.5": {
+            "1 (-2.5)": 2.65,
+            "2 (+2.5)": 1.43
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.54,
+            "2 (+0.5)": 2.3
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 1.92,
+            "2 (+1.5)": 1.79
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.73,
+            "Over 5.5 goals": 1.99
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.35,
+            "Over 6.5 goals": 2.95
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.45,
+            "Over 4.5 goals": 1.49
+          }
+        },
+        "Luleaa Hockey - Timraa IK": {
+          "1x2": {
+            "1": 2.1,
+            "X": 3.75,
             "2": 2.95
           },
           "time": "",
           "Double chance": {
             "1X": 1.32,
-            "12": 1.22,
-            "X2": 1.61
+            "12": 1.23,
+            "X2": 1.58
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.05,
+            "2 (+0.5)": 1.69
           },
           "Handicap +0.5 / -0.5": {
             "1 (+0.5)": 1.37,
             "2 (-0.5)": 2.85
           },
           "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 2.75,
-            "2 (+1.5)": 1.4
+            "1 (-1.5)": 2.8,
+            "2 (+1.5)": 1.38
           },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.0,
-            "2 (+0.5)": 1.72
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.05,
-            "Over 4.5 goals": 1.69
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.44,
+            "Over 5.5 goals": 2.6
           },
           "Under/Over 3.5 goals": {
-            "Under 3.5 goals": 3.3,
-            "Over 3.5 goals": 1.28
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.53,
-            "Over 5.5 goals": 2.35
-          }
-        },
-        "Vaxjo Lakers - Malmo IF": {
-          "1x2": {
-            "1": 1.63,
-            "X": 4.35,
-            "2": 4.2
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.19,
-            "12": 1.18,
-            "X2": 1.96
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 2.05,
-            "2 (+1.5)": 1.68
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 1.61,
-            "2 (+0.5)": 2.15
-          },
-          "Handicap -2.5 / +2.5": {
-            "1 (-2.5)": 2.9,
-            "2 (+2.5)": 1.36
+            "Under 3.5 goals": 3.0,
+            "Over 3.5 goals": 1.34
           },
           "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.15,
-            "Over 4.5 goals": 1.62
-          },
-          "Under/Over 3.5 goals": {
-            "Under 3.5 goals": 3.55,
-            "Over 3.5 goals": 1.25
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.58,
-            "Over 5.5 goals": 2.25
-          }
-        }
-      }
-    },
-    {},
-    {}
-  ],
-  "Usa": [
-    {
-      "NHL": {
-        "Columbus Blue Jackets - Boston Bruins": {
-          "1x2": {
-            "1": 3.9,
-            "X": 4.6,
-            "2": 1.65
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.93,
-            "12": 1.17,
-            "X2": 1.21
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 2.15,
-            "2 (-0.5)": 1.64
-          },
-          "Handicap +1.5 / -1.5": {
-            "1 (+1.5)": 1.77,
-            "2 (-1.5)": 1.94
-          },
-          "Handicap +2.5 / -2.5": {
-            "1 (+2.5)": 1.43,
-            "2 (-2.5)": 2.65
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.66,
-            "Over 6.5 goals": 2.1
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 2.35,
-            "Over 5.5 goals": 1.53
-          },
-          "Under/Over 7.5 goals": {
-            "Under 7.5 goals": 1.35,
-            "Over 7.5 goals": 2.95
+            "Under 4.5 goals": 1.89,
+            "Over 4.5 goals": 1.82
           }
         },
-        "New York Rangers - Carolina Hurricanes": {
+        "HV71 - Linkopings HC": {
           "1x2": {
-            "1": 2.2,
-            "X": 4.15,
-            "2": 2.6
+            "1": 2.35,
+            "X": 4.05,
+            "2": 2.45
           },
           "time": "",
           "Double chance": {
-            "1X": 1.39,
-            "12": 1.2,
-            "X2": 1.54
+            "1X": 1.43,
+            "12": 1.21,
+            "X2": 1.48
           },
           "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 2.75,
-            "2 (+1.5)": 1.4
+            "1 (-1.5)": 3.1,
+            "2 (+1.5)": 1.32
           },
           "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.15,
-            "2 (+0.5)": 1.63
+            "1 (-0.5)": 2.3,
+            "2 (+0.5)": 1.56
           },
           "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.46,
-            "2 (-0.5)": 2.55
+            "1 (+0.5)": 1.51,
+            "2 (-0.5)": 2.4
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.4,
+            "Over 6.5 goals": 2.75
           },
           "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.9,
-            "Over 4.5 goals": 1.36
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.49,
-            "Over 6.5 goals": 2.45
+            "Under 4.5 goals": 2.55,
+            "Over 4.5 goals": 1.45
           },
           "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 2.05,
-            "Over 5.5 goals": 1.7
+            "Under 5.5 goals": 1.82,
+            "Over 5.5 goals": 1.88
           }
         },
-        "Pittsburgh Penguins - Washington Capitals": {
+        "HC Orebro - Farjestads BK": {
           "1x2": {
-            "1": 1.89,
-            "X": 4.25,
-            "2": 3.15
+            "1": 2.65,
+            "X": 4.0,
+            "2": 2.2
           },
           "time": "",
           "Double chance": {
-            "1X": 1.29,
-            "12": 1.19,
-            "X2": 1.7
+            "1X": 1.54,
+            "12": 1.21,
+            "X2": 1.38
           },
           "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 1.86,
-            "2 (+0.5)": 1.84
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 2.3,
-            "2 (+1.5)": 1.55
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.33,
-            "2 (-0.5)": 3.0
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.95,
-            "Over 4.5 goals": 1.35
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 2.05,
-            "Over 5.5 goals": 1.69
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.5,
-            "Over 6.5 goals": 2.4
-          }
-        },
-        "Minnesota Wild - Calgary Flames": {
-          "1x2": {
-            "1": 2.15,
-            "X": 4.2,
-            "2": 2.7
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.38,
-            "12": 1.2,
-            "X2": 1.56
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 2.65,
-            "2 (+1.5)": 1.43
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.44,
-            "2 (-0.5)": 2.6
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.1,
-            "2 (+0.5)": 1.67
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 3.05,
-            "Over 4.5 goals": 1.33
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 2.15,
-            "Over 5.5 goals": 1.64
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.54,
-            "Over 6.5 goals": 2.3
-          }
-        },
-        "Dallas Stars - Montreal Canadiens": {
-          "1x2": {
-            "1": 1.55,
-            "X": 4.65,
-            "2": 4.55
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.17,
-            "12": 1.16,
-            "X2": 2.05
-          },
-          "Handicap -2.5 / +2.5": {
-            "1 (-2.5)": 2.4,
-            "2 (+2.5)": 1.52
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 1.79,
-            "2 (+1.5)": 1.92
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 1.54,
-            "2 (+0.5)": 2.35
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.64,
-            "Over 6.5 goals": 2.15
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 2.3,
-            "Over 5.5 goals": 1.54
-          },
-          "Under/Over 7.5 goals": {
-            "Under 7.5 goals": 1.34,
-            "Over 7.5 goals": 3.0
-          }
-        },
-        "Nashville Predators - Chicago Blackhawks": {
-          "1x2": {
-            "1": 1.64,
-            "X": 4.5,
-            "2": 4.05
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.2,
-            "12": 1.17,
-            "X2": 1.95
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 1.9,
-            "2 (+1.5)": 1.8
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 1.62,
-            "2 (+0.5)": 2.15
-          },
-          "Handicap -2.5 / +2.5": {
-            "1 (-2.5)": 2.6,
-            "2 (+2.5)": 1.45
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.63,
-            "Over 6.5 goals": 2.15
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 2.3,
-            "Over 5.5 goals": 1.55
-          },
-          "Under/Over 7.5 goals": {
-            "Under 7.5 goals": 1.34,
-            "Over 7.5 goals": 3.0
-          }
-        },
-        "Winnipeg Jets - Tampa Bay Lightning": {
-          "1x2": {
-            "1": 2.15,
-            "X": 4.2,
-            "2": 2.65
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.38,
-            "12": 1.2,
-            "X2": 1.55
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 2.65,
-            "2 (+1.5)": 1.42
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.1,
-            "2 (+0.5)": 1.65
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.45,
-            "2 (-0.5)": 2.55
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.56,
-            "Over 6.5 goals": 2.25
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 3.15,
-            "Over 4.5 goals": 1.31
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 2.15,
-            "Over 5.5 goals": 1.62
-          }
-        },
-        "Edmonton Oilers - Philadelphia Flyers": {
-          "1x2": {
-            "1": 1.82,
-            "X": 4.45,
-            "2": 3.25
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.27,
-            "12": 1.18,
-            "X2": 1.76
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.32,
-            "2 (-0.5)": 3.1
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 1.79,
-            "2 (+0.5)": 1.91
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 2.15,
-            "2 (+1.5)": 1.62
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 2.5,
-            "Over 5.5 goals": 1.47
-          },
-          "Under/Over 7.5 goals": {
-            "Under 7.5 goals": 1.41,
-            "Over 7.5 goals": 2.7
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.74,
-            "Over 6.5 goals": 1.98
-          }
-        },
-        "Colorado Avalanche - New York Islanders": {
-          "1x2": {
-            "1": 1.92,
-            "X": 4.3,
-            "2": 3.05
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.31,
-            "12": 1.19,
-            "X2": 1.68
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 1.89,
-            "2 (+0.5)": 1.81
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.35,
-            "2 (-0.5)": 2.95
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 2.3,
-            "2 (+1.5)": 1.54
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.62,
-            "Over 6.5 goals": 2.15
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 2.25,
-            "Over 5.5 goals": 1.56
-          },
-          "Under/Over 7.5 goals": {
-            "Under 7.5 goals": 1.33,
-            "Over 7.5 goals": 3.05
-          }
-        },
-        "Arizona Coyotes - Florida Panthers": {
-          "1x2": {
-            "1": 3.0,
-            "X": 4.25,
-            "2": 1.96
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.66,
-            "12": 1.19,
-            "X2": 1.32
-          },
-          "Handicap +1.5 / -1.5": {
-            "1 (+1.5)": 1.52,
-            "2 (-1.5)": 2.35
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.85,
-            "2 (+0.5)": 1.37
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.79,
-            "2 (-0.5)": 1.92
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 2.3,
-            "Over 5.5 goals": 1.54
-          },
-          "Under/Over 7.5 goals": {
-            "Under 7.5 goals": 1.35,
-            "Over 7.5 goals": 2.95
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.64,
-            "Over 6.5 goals": 2.15
-          }
-        },
-        "Vancouver Canucks - Ottawa Senators": {
-          "1x2": {
-            "1": 1.95,
-            "X": 4.4,
-            "2": 2.95
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.32,
-            "12": 1.19,
-            "X2": 1.66
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.38,
-            "2 (-0.5)": 2.85
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 2.35,
-            "2 (+1.5)": 1.53
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 1.92,
-            "2 (+0.5)": 1.79
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.77,
-            "Over 6.5 goals": 1.94
-          },
-          "Under/Over 7.5 goals": {
-            "Under 7.5 goals": 1.43,
-            "Over 7.5 goals": 2.65
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 2.55,
-            "Over 5.5 goals": 1.45
-          }
-        },
-        "Los Angeles Kings - Toronto Maple Leafs": {
-          "1x2": {
-            "1": 2.15,
-            "X": 4.25,
-            "2": 2.6
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.4,
-            "12": 1.19,
-            "X2": 1.54
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.47,
-            "2 (-0.5)": 2.5
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.15,
-            "2 (+0.5)": 1.64
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 2.65,
-            "2 (+1.5)": 1.42
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.73,
-            "Over 6.5 goals": 1.99
-          },
-          "Under/Over 7.5 goals": {
-            "Under 7.5 goals": 1.41,
-            "Over 7.5 goals": 2.7
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 2.5,
-            "Over 5.5 goals": 1.47
-          }
-        },
-        "San Jose Sharks - Detroit Red Wings": {
-          "1x2": {
-            "1": 3.3,
-            "X": 4.5,
-            "2": 1.81
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.77,
-            "12": 1.18,
-            "X2": 1.27
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.93,
-            "2 (-0.5)": 1.78
-          },
-          "Handicap +1.5 / -1.5": {
-            "1 (+1.5)": 1.63,
-            "2 (-1.5)": 2.15
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 3.15,
-            "2 (+0.5)": 1.31
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 2.6,
-            "Over 5.5 goals": 1.43
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.8,
-            "Over 6.5 goals": 1.91
-          },
-          "Under/Over 7.5 goals": {
-            "Under 7.5 goals": 1.44,
-            "Over 7.5 goals": 2.6
-          }
-        }
-      }
-    },
-    {
-      "AHL": {
-        "Chicago Wolves - Texas Stars": {
-          "1x2": {
-            "1": 2.5,
-            "X": 4.15,
-            "2": 2.3
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.49,
-            "12": 1.2,
-            "X2": 1.43
+            "1 (-0.5)": 2.6,
+            "2 (+0.5)": 1.44
           },
           "Handicap +1.5 / -1.5": {
             "1 (+1.5)": 1.36,
             "2 (-1.5)": 2.9
           },
           "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.58,
-            "2 (-0.5)": 2.25
+            "1 (+0.5)": 1.63,
+            "2 (-0.5)": 2.15
           },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.4,
-            "2 (+0.5)": 1.5
-          },
-          "Under/Over 7.5 goals": {
-            "Under 7.5 goals": 1.37,
-            "Over 7.5 goals": 2.85
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.4,
+            "Over 4.5 goals": 1.51
           },
           "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.7,
-            "Over 6.5 goals": 2.05
+            "Under 6.5 goals": 1.34,
+            "Over 6.5 goals": 2.95
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.72,
+            "Over 5.5 goals": 2.0
+          }
+        },
+        "Timraa IK - Rogle BK": {
+          "1x2": {
+            "1": 2.2,
+            "X": 3.95,
+            "2": 2.65
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.38,
+            "12": 1.22,
+            "X2": 1.53
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.44,
+            "2 (-0.5)": 2.6
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 3.0,
+            "2 (+1.5)": 1.34
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.15,
+            "2 (+0.5)": 1.62
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.6,
+            "Over 5.5 goals": 2.2
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.2,
+            "Over 4.5 goals": 1.61
+          },
+          "Under/Over 3.5 goals": {
+            "Under 3.5 goals": 3.6,
+            "Over 3.5 goals": 1.25
+          }
+        },
+        "Linkopings HC - Malmo IF": {
+          "1x2": {
+            "1": 1.81,
+            "X": 4.2,
+            "2": 3.4
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.26,
+            "12": 1.19,
+            "X2": 1.77
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.35,
+            "2 (+1.5)": 1.53
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.79,
+            "2 (+0.5)": 1.92
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.3,
+            "2 (-0.5)": 3.25
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.4,
+            "Over 4.5 goals": 1.51
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.71,
+            "Over 5.5 goals": 2.0
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.34,
+            "Over 6.5 goals": 3.0
+          }
+        },
+        "Frolunda HC - HC Orebro": {
+          "1x2": {
+            "1": 1.91,
+            "X": 4.1,
+            "2": 3.2
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.29,
+            "12": 1.2,
+            "X2": 1.69
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.5,
+            "2 (+1.5)": 1.47
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.88,
+            "2 (+0.5)": 1.82
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.33,
+            "2 (-0.5)": 3.05
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.65,
+            "Over 5.5 goals": 2.1
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.3,
+            "Over 4.5 goals": 1.56
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.31,
+            "Over 6.5 goals": 3.15
+          }
+        },
+        "Farjestads BK - Vaxjo Lakers": {
+          "1x2": {
+            "1": 2.1,
+            "X": 3.95,
+            "2": 2.9
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.34,
+            "12": 1.22,
+            "X2": 1.58
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.39,
+            "2 (-0.5)": 2.75
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.8,
+            "2 (+1.5)": 1.39
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.05,
+            "2 (+0.5)": 1.69
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.59,
+            "Over 5.5 goals": 2.2
+          },
+          "Under/Over 3.5 goals": {
+            "Under 3.5 goals": 3.55,
+            "Over 3.5 goals": 1.25
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.15,
+            "Over 4.5 goals": 1.62
+          }
+        },
+        "Rogle BK - Timraa IK": {
+          "1x2": {
+            "1": 2.15,
+            "X": 4.0,
+            "2": 2.7
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.37,
+            "12": 1.21,
+            "X2": 1.55
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.43,
+            "2 (-0.5)": 2.6
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.1,
+            "2 (+0.5)": 1.64
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.85,
+            "2 (+1.5)": 1.37
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.72,
+            "Over 5.5 goals": 2.0
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.34,
+            "Over 6.5 goals": 3.0
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.4,
+            "Over 4.5 goals": 1.51
+          }
+        },
+        "Modo Hockey - Leksands IF": {
+          "1x2": {
+            "1": 2.8,
+            "X": 4.1,
+            "2": 2.05
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.59,
+            "12": 1.2,
+            "X2": 1.35
+          },
+          "Handicap +1.5 / -1.5": {
+            "1 (+1.5)": 1.41,
+            "2 (-1.5)": 2.7
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.7,
+            "2 (+0.5)": 1.41
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.7,
+            "2 (-0.5)": 2.05
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.42,
+            "Over 6.5 goals": 2.65
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.65,
+            "Over 4.5 goals": 1.42
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.87,
+            "Over 5.5 goals": 1.83
+          }
+        },
+        "Skellefteaa Aik - HV71": {
+          "1x2": {
+            "1": 1.72,
+            "X": 4.3,
+            "2": 3.75
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.22,
+            "12": 1.19,
+            "X2": 1.85
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.26,
+            "2 (-0.5)": 3.5
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.15,
+            "2 (+1.5)": 1.63
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.7,
+            "2 (+0.5)": 2.05
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.87,
+            "Over 5.5 goals": 1.83
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.43,
+            "Over 6.5 goals": 2.65
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.65,
+            "Over 4.5 goals": 1.42
+          }
+        },
+        "IK Oskarshamn - Luleaa Hockey": {
+          "1x2": {
+            "1": 2.85,
+            "X": 4.1,
+            "2": 2.05
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.6,
+            "12": 1.2,
+            "X2": 1.34
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.75,
+            "2 (+0.5)": 1.39
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.72,
+            "2 (-0.5)": 2.0
+          },
+          "Handicap +1.5 / -1.5": {
+            "1 (+1.5)": 1.43,
+            "2 (-1.5)": 2.65
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.97,
+            "Over 5.5 goals": 1.75
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.47,
+            "Over 6.5 goals": 2.5
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.8,
+            "Over 4.5 goals": 1.38
+          }
+        }
+      }
+    },
+    {
+      "Svenska Damhockeyligan": {
+        "Frolunda HC - Modo Hockey": {
+          "1x2": {
+            "1": 2.95,
+            "X": 3.9,
+            "2": 1.98
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.62,
+            "12": 1.21,
+            "X2": 1.32
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.73,
+            "2 (-0.5)": 1.96
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 1.94,
+            "Over 4.5 goals": 1.74
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.46,
+            "Over 5.5 goals": 2.45
+          },
+          "Under/Over 3.5 goals": {
+            "Under 3.5 goals": 3.05,
+            "Over 3.5 goals": 1.31
+          }
+        },
+        "AIK IF - Djurgardens IF": {
+          "1x2": {
+            "1": 11.5,
+            "X": 6.7,
+            "2": 1.16
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 3.4,
+            "12": 1.07,
+            "X2": 1.04
+          },
+          "Handicap +2.5 / -2.5": {
+            "1 (+2.5)": 2.25,
+            "2 (-2.5)": 1.54
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.94,
+            "Over 5.5 goals": 1.74
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.47,
+            "Over 6.5 goals": 2.45
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.9,
+            "Over 4.5 goals": 1.35
+          }
+        },
+        "SDE Hockey - Linkopings HC": {
+          "1x2": {
+            "1": 2.4,
+            "X": 4.0,
+            "2": 2.3
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.47,
+            "12": 1.21,
+            "X2": 1.45
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.54,
+            "2 (-0.5)": 2.25
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.35,
+            "Over 6.5 goals": 2.85
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.73,
+            "Over 5.5 goals": 1.96
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.4,
+            "Over 4.5 goals": 1.48
+          }
+        }
+      }
+    },
+    {
+      "Allettan": {
+        "Kalix UHC - Enkopings SK HK": {
+          "1x2": {
+            "1": 1.84,
+            "X": 4.35,
+            "2": 3.1
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.29,
+            "12": 1.18,
+            "X2": 1.72
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.82,
+            "2 (+0.5)": 1.85
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.46,
+            "Over 6.5 goals": 2.45
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.8,
+            "Over 4.5 goals": 1.37
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.92,
+            "Over 5.5 goals": 1.75
+          }
+        },
+        "Clemensnas HC - Surahammar IF": {
+          "1x2": {
+            "1": 2.4,
+            "X": 4.3,
+            "2": 2.2
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.51,
+            "12": 1.19,
+            "X2": 1.44
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.59,
+            "2 (-0.5)": 2.15
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 2.55,
+            "Over 5.5 goals": 1.44
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.79,
+            "Over 6.5 goals": 1.88
+          },
+          "Under/Over 7.5 goals": {
+            "Under 7.5 goals": 1.43,
+            "Over 7.5 goals": 2.55
+          }
+        },
+        "Borlange HF - Wings Arlanda Hc": {
+          "1x2": {
+            "1": 2.3,
+            "X": 4.15,
+            "2": 2.35
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.45,
+            "12": 1.2,
+            "X2": 1.48
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.25,
+            "2 (+0.5)": 1.55
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.6,
+            "Over 4.5 goals": 1.41
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.84,
+            "Over 5.5 goals": 1.83
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.41,
+            "Over 6.5 goals": 2.65
+          }
+        },
+        "Hanvikens SK - Nykopings SK": {
+          "1x2": {
+            "1": 1.62,
+            "X": 4.45,
+            "2": 3.85
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.21,
+            "12": 1.17,
+            "X2": 1.94
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.1,
+            "2 (+1.5)": 1.62
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.15,
+            "Over 4.5 goals": 1.6
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.57,
+            "Over 5.5 goals": 2.2
+          },
+          "Under/Over 3.5 goals": {
+            "Under 3.5 goals": 3.45,
+            "Over 3.5 goals": 1.25
+          }
+        },
+        "Lindlovens IF - Pitea HC": {
+          "1x2": {
+            "1": 2.65,
+            "X": 4.05,
+            "2": 2.1
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.56,
+            "12": 1.2,
+            "X2": 1.38
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.65,
+            "2 (-0.5)": 2.05
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.77,
+            "Over 5.5 goals": 1.91
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.37,
+            "Over 6.5 goals": 2.8
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.5,
+            "Over 4.5 goals": 1.45
+          }
+        },
+        "Lindens Hockey - Alvesta SK": {
+          "1x2": {
+            "1": 1.93,
+            "X": 4.25,
+            "2": 2.9
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.33,
+            "12": 1.19,
+            "X2": 1.66
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.91,
+            "2 (+0.5)": 1.77
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 2.05,
+            "Over 5.5 goals": 1.66
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.52,
+            "Over 6.5 goals": 2.3
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 3.0,
+            "Over 4.5 goals": 1.32
+          }
+        },
+        "Mjolby HC - Huddinge IK": {
+          "1x2": {
+            "1": 2.9,
+            "X": 4.4,
+            "2": 1.89
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.68,
+            "12": 1.18,
+            "X2": 1.32
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.8,
+            "2 (-0.5)": 1.87
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 2.4,
+            "Over 5.5 goals": 1.49
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.72,
+            "Over 6.5 goals": 1.97
+          },
+          "Under/Over 7.5 goals": {
+            "Under 7.5 goals": 1.38,
+            "Over 7.5 goals": 2.75
+          }
+        },
+        "Forshaga IF - Tyringe Sos": {
+          "1x2": {
+            "1": 1.6,
+            "X": 4.4,
+            "2": 4.05
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.19,
+            "12": 1.17,
+            "X2": 1.97
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 1.99,
+            "2 (+1.5)": 1.7
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.42,
+            "Over 6.5 goals": 2.6
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.65,
+            "Over 4.5 goals": 1.4
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.86,
+            "Over 5.5 goals": 1.81
+          }
+        },
+        "Vimmerby HC - Mariestads BOIS": {
+          "1x2": {
+            "1": 1.99,
+            "X": 4.2,
+            "2": 2.8
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.34,
+            "12": 1.19,
+            "X2": 1.62
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.96,
+            "2 (+0.5)": 1.72
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.5,
+            "Over 4.5 goals": 1.45
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.76,
+            "Over 5.5 goals": 1.91
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.37,
+            "Over 6.5 goals": 2.75
+          }
+        },
+        "Lindlovens IF - IF Sundsvall": {
+          "1x2": {
+            "1": 2.3,
+            "X": 4.15,
+            "2": 2.35
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.45,
+            "12": 1.2,
+            "X2": 1.48
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.25,
+            "2 (+0.5)": 1.55
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.79,
+            "Over 5.5 goals": 1.89
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.55,
+            "Over 4.5 goals": 1.44
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.38,
+            "Over 6.5 goals": 2.75
+          }
+        },
+        "Skovde IK - HC Dalen": {
+          "1x2": {
+            "1": 1.82,
+            "X": 4.3,
+            "2": 3.15
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.28,
+            "12": 1.18,
+            "X2": 1.74
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.81,
+            "2 (+0.5)": 1.86
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.39,
+            "Over 6.5 goals": 2.7
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.55,
+            "Over 4.5 goals": 1.43
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.8,
+            "Over 5.5 goals": 1.87
+          }
+        },
+        "Morrum Gois IK - IF Troja/Ljungby": {
+          "1x2": {
+            "1": 5.1,
+            "X": 4.9,
+            "2": 1.43
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 2.3,
+            "12": 1.14,
+            "X2": 1.13
+          },
+          "Handicap +1.5 / -1.5": {
+            "1 (+1.5)": 2.0,
+            "2 (-1.5)": 1.68
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.68,
+            "Over 6.5 goals": 2.0
           },
           "Under/Over 5.5 goals": {
             "Under 5.5 goals": 2.35,
-            "Over 5.5 goals": 1.52
+            "Over 5.5 goals": 1.51
+          },
+          "Under/Over 7.5 goals": {
+            "Under 7.5 goals": 1.35,
+            "Over 7.5 goals": 2.85
           }
         },
-        "Toronto Marlies - Cleveland Monsters": {
+        "Hudiksvalls HC - Pitea HC": {
+          "1x2": {
+            "1": 1.53,
+            "X": 4.45,
+            "2": 4.5
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.16,
+            "12": 1.17,
+            "X2": 2.05
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 1.89,
+            "2 (+1.5)": 1.78
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.74,
+            "Over 5.5 goals": 1.94
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.45,
+            "Over 4.5 goals": 1.47
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.35,
+            "Over 6.5 goals": 2.85
+          }
+        },
+        "Kallinge/Ronneby IF - Tranaas Aif": {
+          "1x2": {
+            "1": 3.05,
+            "X": 4.25,
+            "2": 1.86
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.71,
+            "12": 1.19,
+            "X2": 1.29
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.83,
+            "2 (-0.5)": 1.84
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.75,
+            "Over 5.5 goals": 1.93
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.45,
+            "Over 4.5 goals": 1.46
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.36,
+            "Over 6.5 goals": 2.8
+          }
+        },
+        "Visby-Roma HK - Halmstad Hammers": {
+          "1x2": {
+            "1-2": 1.99,
+            "X": 3.95,
+            "Halmstad Hammers": 2.9
+          },
+          "time": "",
+          "Double chance": {
+            "1-2 or X": 1.32,
+            "1-2 or Halmstad Hammers": 1.21,
+            "X or Halmstad Hammers": 1.62
+          },
+          "Handicap -0.5 / +0.5": {
+            "1-2 (-0.5)": 1.96,
+            "Halmstad Hammers (+0.5)": 1.72
+          },
+          "Under/Over 3.5 goals": {
+            "Under 3.5 goals": 3.1,
+            "Over 3.5 goals": 1.31
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.47,
+            "Over 5.5 goals": 2.45
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 1.95,
+            "Over 4.5 goals": 1.73
+          }
+        },
+        "Segeltorps IF - Boraas HC": {
+          "1x2": {
+            "1": 4.95,
+            "X": 4.7,
+            "2": 1.46
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 2.2,
+            "12": 1.15,
+            "X2": 1.14
+          },
+          "Handicap +1.5 / -1.5": {
+            "1 (+1.5)": 1.92,
+            "2 (-1.5)": 1.76
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.75,
+            "Over 4.5 goals": 1.37
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.45,
+            "Over 6.5 goals": 2.5
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.91,
+            "Over 5.5 goals": 1.76
+          }
+        }
+      }
+    }
+  ],
+  "Usa": [
+    {
+      "NHL": {
+        "Philadelphia Flyers - Calgary Flames": {
           "1x2": {
             "1": 2.45,
             "X": 4.1,
@@ -2661,83 +3117,729 @@
             "12": 1.21,
             "X2": 1.44
           },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.56,
+            "2 (-0.5)": 2.25
+          },
           "Handicap -0.5 / +0.5": {
             "1 (-0.5)": 2.4,
             "2 (+0.5)": 1.51
           },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.56,
-            "2 (-0.5)": 2.3
-          },
           "Handicap +1.5 / -1.5": {
-            "1 (+1.5)": 1.32,
-            "2 (-1.5)": 3.1
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.7,
-            "Over 4.5 goals": 1.41
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.88,
-            "Over 5.5 goals": 1.82
+            "1 (+1.5)": 1.35,
+            "2 (-1.5)": 2.9
           },
           "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.43,
-            "Over 6.5 goals": 2.6
-          }
-        },
-        "Hershey Bears - Charlotte Checkers": {
-          "1x2": {
-            "1": 2.05,
-            "X": 4.2,
-            "2": 2.85
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.35,
-            "12": 1.2,
-            "X2": 1.6
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.4,
-            "2 (-0.5)": 2.75
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.0,
-            "2 (+0.5)": 1.72
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 2.6,
-            "2 (+1.5)": 1.43
+            "Under 6.5 goals": 1.5,
+            "Over 6.5 goals": 2.4
           },
           "Under/Over 4.5 goals": {
             "Under 4.5 goals": 2.95,
             "Over 4.5 goals": 1.35
           },
           "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 2.0,
-            "Over 5.5 goals": 1.71
+            "Under 5.5 goals": 2.05,
+            "Over 5.5 goals": 1.68
+          }
+        },
+        "Colorado Avalanche - Florida Panthers": {
+          "1x2": {
+            "1": 2.05,
+            "X": 4.2,
+            "2": 2.8
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.35,
+            "12": 1.2,
+            "X2": 1.59
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.5,
+            "2 (+1.5)": 1.46
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.41,
+            "2 (-0.5)": 2.7
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.05,
+            "2 (+0.5)": 1.7
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 2.3,
+            "Over 5.5 goals": 1.55
+          },
+          "Under/Over 7.5 goals": {
+            "Under 7.5 goals": 1.34,
+            "Over 7.5 goals": 3.0
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.63,
+            "Over 6.5 goals": 2.15
+          }
+        },
+        "Columbus Blue Jackets - Minnesota Wild": {
+          "1x2": {
+            "1": 2.6,
+            "X": 4.15,
+            "2": 2.2
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.53,
+            "12": 1.2,
+            "X2": 1.4
+          },
+          "Handicap +1.5 / -1.5": {
+            "1 (+1.5)": 1.4,
+            "2 (-1.5)": 2.7
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.63,
+            "2 (-0.5)": 2.15
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.5,
+            "2 (+0.5)": 1.46
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 3.15,
+            "Over 4.5 goals": 1.31
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 2.15,
+            "Over 5.5 goals": 1.61
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.57,
+            "Over 6.5 goals": 2.25
+          }
+        },
+        "Boston Bruins - Tampa Bay Lightning": {
+          "1x2": {
+            "1": 1.95,
+            "X": 4.25,
+            "2": 3.0
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.31,
+            "12": 1.19,
+            "X2": 1.66
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.36,
+            "2 (-0.5)": 2.9
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.92,
+            "2 (+0.5)": 1.79
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.35,
+            "2 (+1.5)": 1.52
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 2.15,
+            "Over 5.5 goals": 1.62
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 3.15,
+            "Over 4.5 goals": 1.32
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.56,
+            "Over 6.5 goals": 2.3
+          }
+        },
+        "Montreal Canadiens - New York Rangers": {
+          "1x2": {
+            "1": 3.7,
+            "X": 4.4,
+            "2": 1.71
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.86,
+            "12": 1.18,
+            "X2": 1.23
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 2.05,
+            "2 (-0.5)": 1.69
+          },
+          "Handicap +1.5 / -1.5": {
+            "1 (+1.5)": 1.7,
+            "2 (-1.5)": 2.05
+          },
+          "Handicap +2.5 / -2.5": {
+            "1 (+2.5)": 1.38,
+            "2 (-2.5)": 2.8
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 2.2,
+            "Over 5.5 goals": 1.6
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.57,
+            "Over 6.5 goals": 2.25
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 3.2,
+            "Over 4.5 goals": 1.31
+          }
+        },
+        "New Jersey Devils - Vancouver Canucks": {
+          "1x2": {
+            "1": 2.2,
+            "X": 4.25,
+            "2": 2.6
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.4,
+            "12": 1.2,
+            "X2": 1.54
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.05,
+            "2 (+0.5)": 1.68
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.6,
+            "2 (+1.5)": 1.45
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.44,
+            "2 (-0.5)": 2.6
+          },
+          "Under/Over 7.5 goals": {
+            "Under 7.5 goals": 1.41,
+            "Over 7.5 goals": 2.7
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.75,
+            "Over 6.5 goals": 1.97
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 2.5,
+            "Over 5.5 goals": 1.46
+          }
+        },
+        "Pittsburgh Penguins - Buffalo Sabres": {
+          "1x2": {
+            "1": 1.88,
+            "X": 4.4,
+            "2": 3.1
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.3,
+            "12": 1.19,
+            "X2": 1.71
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.34,
+            "2 (-0.5)": 3.0
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.25,
+            "2 (+1.5)": 1.58
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.85,
+            "2 (+0.5)": 1.85
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 2.65,
+            "Over 5.5 goals": 1.43
+          },
+          "Under/Over 7.5 goals": {
+            "Under 7.5 goals": 1.45,
+            "Over 7.5 goals": 2.55
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.81,
+            "Over 6.5 goals": 1.9
+          }
+        },
+        "San Jose Sharks - Toronto Maple Leafs": {
+          "1x2": {
+            "1": 4.6,
+            "X": 4.55,
+            "2": 1.55
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 2.05,
+            "12": 1.17,
+            "X2": 1.16
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 2.3,
+            "2 (-0.5)": 1.54
+          },
+          "Handicap +1.5 / -1.5": {
+            "1 (+1.5)": 1.91,
+            "2 (-1.5)": 1.8
+          },
+          "Handicap +2.5 / -2.5": {
+            "1 (+2.5)": 1.5,
+            "2 (-2.5)": 2.4
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.52,
+            "Over 6.5 goals": 2.35
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 2.1,
+            "Over 5.5 goals": 1.66
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 3.0,
+            "Over 4.5 goals": 1.34
+          }
+        },
+        "Carolina Hurricanes - St. Louis Blues": {
+          "1x2": {
+            "1": 1.79,
+            "X": 4.4,
+            "2": 3.4
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.26,
+            "12": 1.18,
+            "X2": 1.79
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.77,
+            "2 (+0.5)": 1.95
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.15,
+            "2 (+1.5)": 1.64
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.3,
+            "2 (-0.5)": 3.25
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 2.3,
+            "Over 5.5 goals": 1.54
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.64,
+            "Over 6.5 goals": 2.15
+          },
+          "Under/Over 7.5 goals": {
+            "Under 7.5 goals": 1.35,
+            "Over 7.5 goals": 2.95
+          }
+        },
+        "Dallas Stars - Nashville Predators": {
+          "1x2": {
+            "1": 1.89,
+            "X": 4.35,
+            "2": 3.15
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.3,
+            "12": 1.19,
+            "X2": 1.71
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.86,
+            "2 (+0.5)": 1.84
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.3,
+            "2 (+1.5)": 1.56
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.34,
+            "2 (-0.5)": 3.0
+          },
+          "Under/Over 7.5 goals": {
+            "Under 7.5 goals": 1.33,
+            "Over 7.5 goals": 3.05
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 2.25,
+            "Over 5.5 goals": 1.57
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.61,
+            "Over 6.5 goals": 2.15
+          }
+        },
+        "Vegas Golden Knights - New York Islanders": {
+          "1x2": {
+            "1": 1.99,
+            "X": 4.2,
+            "2": 2.95
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.32,
+            "12": 1.2,
+            "X2": 1.64
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.45,
+            "2 (+1.5)": 1.49
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.37,
+            "2 (-0.5)": 2.85
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.95,
+            "2 (+0.5)": 1.76
           },
           "Under/Over 6.5 goals": {
             "Under 6.5 goals": 1.51,
             "Over 6.5 goals": 2.4
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.95,
+            "Over 4.5 goals": 1.35
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 2.05,
+            "Over 5.5 goals": 1.68
           }
         },
-        "Bakersfield Condors - Abbotsford Canucks": {
+        "Edmonton Oilers - Ottawa Senators": {
+          "1x2": {
+            "1": 1.75,
+            "X": 4.35,
+            "2": 3.55
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.24,
+            "12": 1.18,
+            "X2": 1.82
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.28,
+            "2 (-0.5)": 3.35
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.0,
+            "2 (+1.5)": 1.72
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.73,
+            "2 (+0.5)": 1.99
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 3.0,
+            "Over 5.5 goals": 1.34
+          },
+          "Under/Over 7.5 goals": {
+            "Under 7.5 goals": 1.56,
+            "Over 7.5 goals": 2.25
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.98,
+            "Over 6.5 goals": 1.74
+          }
+        },
+        "Washington Capitals - Los Angeles Kings": {
+          "1x2": {
+            "1": 2.5,
+            "X": 4.05,
+            "2": 2.35
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.48,
+            "12": 1.21,
+            "X2": 1.43
+          }
+        },
+        "Chicago Blackhawks - Calgary Flames": {
+          "1x2": {
+            "1": 3.75,
+            "X": 4.6,
+            "2": 1.67
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.91,
+            "12": 1.17,
+            "X2": 1.22
+          }
+        },
+        "Arizona Coyotes - Winnipeg Jets": {
+          "1x2": {
+            "1": 3.05,
+            "X": 4.45,
+            "2": 1.9
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.7,
+            "12": 1.18,
+            "X2": 1.31
+          }
+        },
+        "Anaheim Ducks - Detroit Red Wings": {
+          "1x2": {
+            "1": 2.7,
+            "X": 4.2,
+            "2": 2.15
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.56,
+            "12": 1.2,
+            "X2": 1.38
+          }
+        },
+        "New York Rangers - Vancouver Canucks": {
+          "1x2": {
+            "1": 1.83,
+            "X": 4.3,
+            "2": 3.3
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.27,
+            "12": 1.19,
+            "X2": 1.75
+          }
+        },
+        "Minnesota Wild - Dallas Stars": {
+          "1x2": {
+            "1": 2.75,
+            "X": 4.0,
+            "2": 2.15
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.55,
+            "12": 1.21,
+            "X2": 1.37
+          }
+        },
+        "Colorado Avalanche - Boston Bruins": {
+          "1x2": {
+            "1": 2.4,
+            "X": 4.05,
+            "2": 2.4
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.46,
+            "12": 1.21,
+            "X2": 1.45
+          }
+        }
+      }
+    },
+    {
+      "AHL": {
+        "Manitoba Moose - Belleville Senators": {
           "1x2": {
             "1": 2.35,
-            "X": 4.05,
+            "X": 4.0,
+            "2": 2.5
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.43,
+            "12": 1.21,
+            "X2": 1.48
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.25,
+            "2 (+0.5)": 1.56
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.95,
+            "2 (+1.5)": 1.35
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.5,
+            "2 (-0.5)": 2.4
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 3.25,
+            "Over 4.5 goals": 1.3
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 2.2,
+            "Over 5.5 goals": 1.6
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.59,
+            "Over 6.5 goals": 2.2
+          }
+        },
+        "Toronto Marlies - Syracuse Crunch": {
+          "1x2": {
+            "1": 2.4,
+            "X": 3.95,
+            "2": 2.45
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.45,
+            "12": 1.22,
+            "X2": 1.46
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 3.15,
+            "2 (+1.5)": 1.31
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.35,
+            "2 (+0.5)": 1.53
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.52,
+            "2 (-0.5)": 2.35
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.7,
+            "Over 4.5 goals": 1.41
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.43,
+            "Over 6.5 goals": 2.65
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.88,
+            "Over 5.5 goals": 1.82
+          }
+        },
+        "Wilkes-Barre/Scranton Penguins - Lehigh Valley Phantoms": {
+          "1x2": {
+            "1-2": 2.2,
+            "X": 4.0,
+            "Lehigh Valley Phantoms": 2.65
+          },
+          "time": "",
+          "Double chance": {
+            "1-2 or X": 1.39,
+            "1-2 or Lehigh Valley Phantoms": 1.21,
+            "X or Lehigh Valley Phantoms": 1.53
+          },
+          "Handicap +0.5 / -0.5": {
+            "1-2 (+0.5)": 1.45,
+            "Lehigh Valley Phantoms (-0.5)": 2.55
+          },
+          "Handicap -1.5 / +1.5": {
+            "1-2 (-1.5)": 2.85,
+            "Lehigh Valley Phantoms (+1.5)": 1.37
+          },
+          "Handicap -0.5 / +0.5": {
+            "1-2 (-0.5)": 2.15,
+            "Lehigh Valley Phantoms (+0.5)": 1.62
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.42,
+            "Over 6.5 goals": 2.65
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.7,
+            "Over 4.5 goals": 1.41
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.87,
+            "Over 5.5 goals": 1.83
+          }
+        },
+        "Hershey Bears - Hartford Wolf Pack": {
+          "1x2": {
+            "1": 2.2,
+            "X": 4.0,
+            "2": 2.7
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.38,
+            "12": 1.21,
+            "X2": 1.54
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.15,
+            "2 (+0.5)": 1.64
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.8,
+            "2 (+1.5)": 1.38
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.44,
+            "2 (-0.5)": 2.6
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.86,
+            "Over 5.5 goals": 1.84
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.42,
+            "Over 6.5 goals": 2.65
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.65,
+            "Over 4.5 goals": 1.42
+          }
+        },
+        "Bridgeport Sound Tigers - Charlotte Checkers": {
+          "1x2": {
+            "1": 2.3,
+            "X": 4.0,
+            "2": 2.55
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.42,
+            "12": 1.21,
+            "X2": 1.49
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.48,
+            "2 (-0.5)": 2.45
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.25,
+            "2 (+0.5)": 1.58
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 3.0,
+            "2 (+1.5)": 1.34
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.6,
+            "Over 4.5 goals": 1.44
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.83,
+            "Over 5.5 goals": 1.87
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.4,
+            "Over 6.5 goals": 2.7
+          }
+        },
+        "Milwaukee Admirals - Colorado Eagles": {
+          "1x2": {
+            "1": 2.4,
+            "X": 3.95,
             "2": 2.45
           },
           "time": "",
           "Double chance": {
             "1X": 1.44,
-            "12": 1.21,
-            "X2": 1.47
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.3,
-            "2 (+0.5)": 1.55
+            "12": 1.22,
+            "X2": 1.46
           },
           "Handicap -1.5 / +1.5": {
             "1 (-1.5)": 3.1,
@@ -2747,255 +3849,172 @@
             "1 (+0.5)": 1.52,
             "2 (-0.5)": 2.35
           },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.65,
-            "Over 4.5 goals": 1.42
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 1.86,
-            "Over 5.5 goals": 1.85
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.42,
-            "Over 6.5 goals": 2.65
-          }
-        },
-        "San Jose Barracuda - Tucson Roadrunners": {
-          "1x2": {
-            "1": 2.45,
-            "X": 4.25,
-            "2": 2.3
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.5,
-            "12": 1.2,
-            "X2": 1.44
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.58,
-            "2 (-0.5)": 2.25
-          },
-          "Handicap +1.5 / -1.5": {
-            "1 (+1.5)": 1.35,
-            "2 (-1.5)": 2.95
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.4,
-            "2 (+0.5)": 1.51
-          },
-          "Under/Over 7.5 goals": {
-            "Under 7.5 goals": 1.34,
-            "Over 7.5 goals": 3.0
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.64,
-            "Over 6.5 goals": 2.1
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 2.25,
-            "Over 5.5 goals": 1.56
-          }
-        },
-        "Henderson Silver Knights - San Diego Gulls": {
-          "1x2": {
-            "1": 2.1,
-            "X": 4.35,
-            "2": 2.7
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.38,
-            "12": 1.19,
-            "X2": 1.58
-          }
-        },
-        "Bridgeport Sound Tigers - Hartford Wolf Pack": {
-          "1x2": {
-            "1": 2.4,
-            "X": 4.15,
-            "2": 2.35
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.47,
-            "12": 1.2,
-            "X2": 1.45
-          },
           "Handicap -0.5 / +0.5": {
             "1 (-0.5)": 2.35,
-            "2 (+0.5)": 1.53
-          },
-          "Handicap +1.5 / -1.5": {
-            "1 (+1.5)": 1.32,
-            "2 (-1.5)": 3.1
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.55,
-            "2 (-0.5)": 2.3
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 2.05,
-            "Over 5.5 goals": 1.71
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.95,
-            "Over 4.5 goals": 1.35
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.51,
-            "Over 6.5 goals": 2.4
-          }
-        },
-        "Utica Comets - Laval Rocket": {
-          "1x2": {
-            "1": 2.4,
-            "X": 4.2,
-            "2": 2.35
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.47,
-            "12": 1.2,
-            "X2": 1.46
-          },
-          "Handicap +1.5 / -1.5": {
-            "1 (+1.5)": 1.32,
-            "2 (-1.5)": 3.1
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.3,
             "2 (+0.5)": 1.54
           },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.55,
-            "2 (-0.5)": 2.3
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.75,
+            "Over 4.5 goals": 1.4
           },
           "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 2.1,
-            "Over 5.5 goals": 1.66
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 3.1,
-            "Over 4.5 goals": 1.32
+            "Under 5.5 goals": 1.9,
+            "Over 5.5 goals": 1.8
           },
           "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.55,
-            "Over 6.5 goals": 2.3
+            "Under 6.5 goals": 1.44,
+            "Over 6.5 goals": 2.6
           }
         },
-        "Springfield Thunderbirds - Wilkes-Barre/Scranton Penguins": {
+        "Cleveland Monsters - Rochester Americans": {
           "1x2": {
             "1": 2.3,
-            "X": 4.2,
-            "2-Barre/Scranton Penguins": 2.45
-          },
-          "time": "",
-          "Double chance": {
-            "1X": 1.44,
-            "12-Barre/Scranton Penguins": 1.2,
-            "X2-Barre/Scranton Penguins": 1.48
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 3.0,
-            "2-Barre/Scranton Penguins (+1.5)": 1.34
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.25,
-            "2-Barre/Scranton Penguins (+0.5)": 1.57
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.52,
-            "2-Barre/Scranton Penguins (-0.5)": 2.4
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 3.1,
-            "Over 4.5 goals": 1.32
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.55,
-            "Over 6.5 goals": 2.3
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 2.1,
-            "Over 5.5 goals": 1.66
-          }
-        },
-        "Milwaukee Admirals - Colorado Eagles": {
-          "1x2": {
-            "1": 2.35,
-            "X": 4.15,
+            "X": 4.1,
             "2": 2.45
           },
           "time": "",
           "Double chance": {
-            "1X": 1.45,
-            "12": 1.2,
-            "X2": 1.47
-          },
-          "Handicap -0.5 / +0.5": {
-            "1 (-0.5)": 2.3,
-            "2 (+0.5)": 1.56
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.52,
-            "2 (-0.5)": 2.35
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 3.05,
-            "2 (+1.5)": 1.33
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 3.1,
-            "Over 4.5 goals": 1.32
-          },
-          "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.55,
-            "Over 6.5 goals": 2.3
-          },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 2.1,
-            "Over 5.5 goals": 1.66
-          }
-        },
-        "Iowa Wild - Grand Rapids Griffins": {
-          "1x2": {
-            "1": 2.3,
-            "X": 4.15,
-            "2": 2.5
-          },
-          "time": "",
-          "Double chance": {
             "1X": 1.43,
-            "12": 1.2,
+            "12": 1.21,
             "X2": 1.49
-          },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 3.0,
-            "2 (+1.5)": 1.34
           },
           "Handicap -0.5 / +0.5": {
             "1 (-0.5)": 2.25,
-            "2 (+0.5)": 1.58
+            "2 (+0.5)": 1.57
           },
           "Handicap +0.5 / -0.5": {
             "1 (+0.5)": 1.51,
             "2 (-0.5)": 2.4
           },
-          "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 2.1,
-            "Over 5.5 goals": 1.66
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.95,
+            "2 (+1.5)": 1.35
           },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 3.1,
-            "Over 4.5 goals": 1.32
+          "Under/Over 7.5 goals": {
+            "Under 7.5 goals": 1.36,
+            "Over 7.5 goals": 2.9
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 2.35,
+            "Over 5.5 goals": 1.53
           },
           "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.55,
-            "Over 6.5 goals": 2.3
+            "Under 6.5 goals": 1.67,
+            "Over 6.5 goals": 2.05
           }
         },
-        "Manitoba Moose - Belleville Senators": {
+        "Iowa Wild - Grand Rapids Griffins": {
+          "1x2": {
+            "1": 2.15,
+            "X": 4.1,
+            "2": 2.7
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.38,
+            "12": 1.21,
+            "X2": 1.55
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.44,
+            "2 (-0.5)": 2.6
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.8,
+            "2 (+1.5)": 1.38
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.1,
+            "2 (+0.5)": 1.65
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.9,
+            "Over 5.5 goals": 1.8
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.44,
+            "Over 6.5 goals": 2.6
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.75,
+            "Over 4.5 goals": 1.4
+          }
+        },
+        "Springfield Thunderbirds - Providence Bruins": {
+          "1x2": {
+            "1": 2.2,
+            "X": 4.05,
+            "2": 2.65
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.38,
+            "12": 1.21,
+            "X2": 1.54
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.15,
+            "2 (+0.5)": 1.63
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.85,
+            "2 (+1.5)": 1.37
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.45,
+            "2 (-0.5)": 2.6
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.82,
+            "Over 5.5 goals": 1.88
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.4,
+            "Over 6.5 goals": 2.75
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.6,
+            "Over 4.5 goals": 1.44
+          }
+        },
+        "Texas Stars - Rockford Icehogs": {
+          "1x2": {
+            "1": 1.97,
+            "X": 4.15,
+            "2": 3.05
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.31,
+            "12": 1.2,
+            "X2": 1.65
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.36,
+            "2 (-0.5)": 2.9
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 1.93,
+            "2 (+0.5)": 1.78
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.45,
+            "2 (+1.5)": 1.49
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 2.25,
+            "Over 5.5 goals": 1.57
+          },
+          "Under/Over 7.5 goals": {
+            "Under 7.5 goals": 1.33,
+            "Over 7.5 goals": 3.05
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.63,
+            "Over 6.5 goals": 2.15
+          }
+        },
+        "Chicago Wolves - Tucson Roadrunners": {
           "1x2": {
             "1": 2.35,
             "X": 4.15,
@@ -3007,29 +4026,214 @@
             "12": 1.2,
             "X2": 1.47
           },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.52,
+            "2 (-0.5)": 2.35
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 3.0,
+            "2 (+1.5)": 1.34
+          },
           "Handicap -0.5 / +0.5": {
             "1 (-0.5)": 2.3,
             "2 (+0.5)": 1.55
           },
-          "Handicap -1.5 / +1.5": {
-            "1 (-1.5)": 3.1,
-            "2 (+1.5)": 1.32
-          },
-          "Handicap +0.5 / -0.5": {
-            "1 (+0.5)": 1.53,
-            "2 (-0.5)": 2.35
-          },
-          "Under/Over 4.5 goals": {
-            "Under 4.5 goals": 2.95,
-            "Over 4.5 goals": 1.35
+          "Under/Over 7.5 goals": {
+            "Under 7.5 goals": 1.35,
+            "Over 7.5 goals": 2.95
           },
           "Under/Over 5.5 goals": {
-            "Under 5.5 goals": 2.0,
-            "Over 5.5 goals": 1.72
+            "Under 5.5 goals": 2.3,
+            "Over 5.5 goals": 1.55
           },
           "Under/Over 6.5 goals": {
-            "Under 6.5 goals": 1.51,
-            "Over 6.5 goals": 2.4
+            "Under 6.5 goals": 1.66,
+            "Over 6.5 goals": 2.1
+          }
+        },
+        "Coachella Valley Firebirds - Abbotsford Canucks": {
+          "1x2": {
+            "1": 2.25,
+            "X": 4.05,
+            "2": 2.55
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.41,
+            "12": 1.21,
+            "X2": 1.51
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.48,
+            "2 (-0.5)": 2.45
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.2,
+            "2 (+0.5)": 1.6
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.95,
+            "2 (+1.5)": 1.35
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.75,
+            "Over 4.5 goals": 1.4
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.44,
+            "Over 6.5 goals": 2.6
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.9,
+            "Over 5.5 goals": 1.81
+          }
+        },
+        "San Diego Gulls - Bakersfield Condors": {
+          "1x2": {
+            "1": 2.35,
+            "X": 4.05,
+            "2": 2.45
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.44,
+            "12": 1.21,
+            "X2": 1.48
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.3,
+            "2 (+0.5)": 1.56
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.51,
+            "2 (-0.5)": 2.4
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 3.05,
+            "2 (+1.5)": 1.33
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.8,
+            "Over 4.5 goals": 1.38
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.46,
+            "Over 6.5 goals": 2.55
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.94,
+            "Over 5.5 goals": 1.77
+          }
+        },
+        "Calgary Wranglers - Henderson Silver Knights": {
+          "1x2": {
+            "1": 2.1,
+            "X": 3.9,
+            "2": 2.85
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.35,
+            "12": 1.22,
+            "X2": 1.57
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.75,
+            "2 (+1.5)": 1.4
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.1,
+            "2 (+0.5)": 1.67
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.4,
+            "2 (-0.5)": 2.7
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 1.79,
+            "Over 5.5 goals": 1.92
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 2.5,
+            "Over 4.5 goals": 1.46
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.38,
+            "Over 6.5 goals": 2.8
+          }
+        },
+        "Ontario Reign - San Jose Barracuda": {
+          "1x2": {
+            "1": 2.2,
+            "X": 4.05,
+            "2": 2.65
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.39,
+            "12": 1.21,
+            "X2": 1.53
+          },
+          "Handicap -1.5 / +1.5": {
+            "1 (-1.5)": 2.75,
+            "2 (+1.5)": 1.39
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.15,
+            "2 (+0.5)": 1.63
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.45,
+            "2 (-0.5)": 2.55
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 2.2,
+            "Over 5.5 goals": 1.61
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 3.25,
+            "Over 4.5 goals": 1.3
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.59,
+            "Over 6.5 goals": 2.2
+          }
+        },
+        "Utica Comets - Laval Rocket": {
+          "1x2": {
+            "1": 2.4,
+            "X": 4.05,
+            "2": 2.4
+          },
+          "time": "",
+          "Double chance": {
+            "1X": 1.46,
+            "12": 1.21,
+            "X2": 1.45
+          },
+          "Handicap -0.5 / +0.5": {
+            "1 (-0.5)": 2.35,
+            "2 (+0.5)": 1.53
+          },
+          "Handicap +0.5 / -0.5": {
+            "1 (+0.5)": 1.54,
+            "2 (-0.5)": 2.3
+          },
+          "Handicap +1.5 / -1.5": {
+            "1 (+1.5)": 1.33,
+            "2 (-1.5)": 3.05
+          },
+          "Under/Over 5.5 goals": {
+            "Under 5.5 goals": 2.15,
+            "Over 5.5 goals": 1.63
+          },
+          "Under/Over 4.5 goals": {
+            "Under 4.5 goals": 3.15,
+            "Over 4.5 goals": 1.31
+          },
+          "Under/Over 6.5 goals": {
+            "Under 6.5 goals": 1.57,
+            "Over 6.5 goals": 2.25
           }
         }
       }

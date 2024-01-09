@@ -4,248 +4,454 @@
   },
   "Australia": {
     "Australia - NBL": {
-      "Sydney Kings vs Melbourne Utd": {
-        "time": "2024-01-04 08:30:00",
+      "New Zealand Breakers vs Perth Wildcats": {
+        "time": "2024-01-07 03:00:00",
         "Money line": {
-          "1": 1.92592593,
-          "2": 1.89285715
+          "1": 1.81967214,
+          "2": 2.02
         },
         "Spread": {
-          "2 -1": 1.92592593,
-          "1 +1": 1.89285715
+          "1 -2": 1.90909091,
+          "2 +2": 1.90909091
         },
         "Over/under": {
-          "Over 187.5": 1.89285715,
-          "Under 187.5": 1.92592593
+          "Over 182.5": 1.92592593,
+          "Under 182.5": 1.89285715
+        }
+      },
+      "Sydney Kings vs Brisbane Bullets": {
+        "time": "2024-01-07 05:00:00",
+        "Money line": {
+          "1": 1.32786886,
+          "2": 3.45
+        },
+        "Spread": {
+          "1 -7.5": 1.89285715,
+          "2 +7.5": 1.92592593
+        },
+        "Over/under": {
+          "Over 186": 1.89285715,
+          "Under 186": 1.92592593
         }
       }
     },
     "Australia - WNBL": {
-      "Melbourne Boomers [W] vs Southside Flyers [W]": {
-        "time": "2024-01-03 07:00:00",
+      "Sydney Uni Flames [W] vs Melbourne Boomers [W]": {
+        "time": "2024-01-07 02:30:00",
         "Money line": {
-          "1": 1.8,
-          "2": 1.83333334
+          "1": 3.0,
+          "2": 1.28169015
         },
         "Spread": {
-          "2 -1": 1.9174312,
-          "1 +1": 1.82644629
+          "2 -6.5": 1.84745763,
+          "1 +6.5": 1.89285715
         },
         "Over/under": {
-          "Over 153": 1.87719299,
-          "Under 153": 1.86206897
+          "Over 147.5": 1.88495576,
+          "Under 147.5": 1.85470086
         }
       },
-      "Townsville Fire [W] vs Perth Lynx [W]": {
-        "time": "2024-01-03 09:30:00",
+      "Bendigo Spirit [W] vs Townsville Fire [W]": {
+        "time": "2024-01-07 04:30:00",
         "Money line": {
-          "1": 1.36363637,
-          "2": 2.7
+          "1": 3.85,
+          "2": 1.17391305
         },
         "Spread": {
-          "1 -5.5": 1.86956522,
-          "2 +5.5": 1.86956522
+          "2 -9.5": 1.89285715,
+          "1 +9.5": 1.84745763
         },
         "Over/under": {
-          "Over 158": 1.87719299,
-          "Under 158": 1.86206897
+          "Over 151.5": 1.86206897,
+          "Under 151.5": 1.87719299
         }
       },
-      "Adelaide Link Lightning [W] vs Sydney Uni Flames [W]": {
-        "time": "2024-01-05 08:30:00",
+      "Perth Lynx [W] vs Adelaide Link Lightning [W]": {
+        "time": "2024-01-07 07:00:00",
         "Money line": {
-          "1": 2.0,
-          "2": 1.66666667
+          "1": 1.25316456,
+          "2": 3.2
         },
         "Spread": {
-          "2 -1.5": 1.85470086,
-          "1 +1.5": 1.88495576
+          "1 -7.5": 1.86956522,
+          "2 +7.5": 1.86956522
         },
         "Over/under": {
-          "Over 148.5": 1.86956522,
-          "Under 148.5": 1.86956522
+          "Over 162.5": 1.86956522,
+          "Under 162.5": 1.86956522
         }
       }
     }
   },
   "Austria": {
     "Austria - Superliga": {
-      "BBC Nord vs Oberwart Gunners": {
-        "time": "2024-01-04 17:00:00",
+      "Dukes Klosterneuburg vs Flyers Wels": {
+        "time": "2024-01-06 18:00:00",
         "Money line": {
-          "1": 6.5,
-          "2": 1.04761905
+          "1": 1.2631579,
+          "2": 3.25
         },
         "Spread": {
-          "2 -15": 1.87719299,
-          "1 +15": 1.86206897
+          "1 -7.5": 1.85470086,
+          "2 +7.5": 1.88495576
         },
         "Over/under": {
-          "Over 157": 1.85470086,
-          "Under 157": 1.88495576
+          "Over 149.5": 1.86206897,
+          "Under 149.5": 1.87719299
         }
       },
-      "Arkadia Traiskirchen Lions vs Kapfenberg Bulls": {
-        "time": "2024-01-04 18:00:00",
+      "Kapfenberg Bulls vs BBC Nord": {
+        "time": "2024-01-06 18:00:00",
         "Money line": {
-          "1": 1.18181819,
-          "2": 3.8
-        },
-        "Spread": {
-          "1 -9": 1.88495576,
-          "2 +9": 1.85470086
-        },
-        "Over/under": {
-          "Over 159": 1.86206897,
-          "Under 159": 1.87719299
-        }
-      },
-      "Dukes Klosterneuburg vs UBSC Graz": {
-        "time": "2024-01-04 18:00:00",
-        "Money line": {
-          "1": 1.2,
-          "2": 3.65
-        },
-        "Spread": {
-          "1 -7": 1.89285715,
-          "2 +7": 1.84745763
-        },
-        "Over/under": {
-          "Over 153": 1.88495576,
-          "Under 153": 1.85470086
-        }
-      },
-      "SKN St. Polten vs Flyers Wels": {
-        "time": "2024-01-04 18:00:00",
-        "Money line": {
-          "1": 1.60606061,
-          "2": 2.1
-        },
-        "Spread": {
-          "1 -3.5": 1.89285715,
-          "2 +3.5": 1.84745763
-        },
-        "Over/under": {
-          "Over 154.5": 1.87719299,
-          "Under 154.5": 1.86206897
-        }
-      },
-      "Swans Gmunden vs Vienna DC Timberwolves": {
-        "time": "2024-01-04 18:00:00",
-        "Money line": {
-          "1": 1.01098902,
+          "1": 1.02439025,
           "2": 8.25
         },
         "Spread": {
-          "1 -21": 1.84745763,
-          "2 +21": 1.89285715
+          "1 -20.5": 1.90090091,
+          "2 +20.5": 1.84033614
         },
         "Over/under": {
-          "Over 155.5": 1.88495576,
-          "Under 155.5": 1.85470086
+          "Over 168": 1.84033614,
+          "Under 168": 1.90090091
+        }
+      },
+      "Arkadia Traiskirchen Lions vs Swans Gmunden": {
+        "time": "2024-01-07 16:30:00",
+        "Money line": {
+          "1": 1.71428572,
+          "2": 1.95238096
+        },
+        "Spread": {
+          "1 -2": 1.84745763,
+          "2 +2": 1.89285715
+        },
+        "Over/under": {
+          "Over 151.5": 1.84745763,
+          "Under 151.5": 1.89285715
+        }
+      },
+      "Furstenfeld Panthers vs UBSC Graz": {
+        "time": "2024-01-07 16:30:00",
+        "Money line": {
+          "1": 4.55,
+          "2": 1.12121213
+        },
+        "Spread": {
+          "2 -10.5": 1.84033614,
+          "1 +10.5": 1.90090091
+        },
+        "Over/under": {
+          "Over 165.5": 1.84745763,
+          "Under 165.5": 1.89285715
+        }
+      },
+      "Oberwart Gunners vs SKN St. Polten": {
+        "time": "2024-01-07 16:30:00",
+        "Money line": {
+          "1": 1.71428572,
+          "2": 1.95238096
+        },
+        "Spread": {
+          "1 -1": 1.85470086,
+          "2 +1": 1.88495576
+        },
+        "Over/under": {
+          "Over 150.5": 1.88495576,
+          "Under 150.5": 1.85470086
+        }
+      },
+      "Vienna DC Timberwolves vs Hallmann Vienna": {
+        "time": "2024-01-07 18:00:00",
+        "Money line": {
+          "1": 7.5,
+          "2": 1.02173913
+        },
+        "Spread": {
+          "2 -18.5": 1.88495576,
+          "1 +18.5": 1.85470086
+        },
+        "Over/under": {
+          "Over 156": 1.84745763,
+          "Under 156": 1.89285715
         }
       }
     }
   },
   "Bahrain": {
-    "Bahrain - Premier League": {
-      "Isa Town vs Al Ahli [BRN]": {
-        "time": "2024-01-02 14:30:00",
+    "Bahrain - Premier League": {}
+  },
+  "Brazil": {
+    "Brazil - NBB": {
+      "Uniceub BRB Brasilia vs Pato Basquete": {
+        "time": "2024-01-06 19:00:00",
+        "Money line": {
+          "1": 2.7,
+          "2": 1.48780488
+        },
         "Spread": {
-          "2 -32.5": 1.83333334,
-          "1 +32.5": 1.83333334
+          "2 -5": 1.90909091,
+          "1 +5": 1.90909091
         },
         "Over/under": {
-          "Over 176": 1.85470086,
-          "Under 176": 1.81300814
+          "Over 156": 1.89285715,
+          "Under 156": 1.92592593
         }
       },
-      "Al Hala vs Bahrain Club": {
-        "time": "2024-01-02 16:30:00",
+      "Sao Paulo vs Paschoalotto Bauru": {
+        "time": "2024-01-06 20:00:00",
+        "Money line": {
+          "1": 1.6451613,
+          "2": 2.3
+        },
         "Spread": {
-          "1 -32.5": 1.83333334,
-          "2 +32.5": 1.83333334
+          "1 -3": 1.89285715,
+          "2 +3": 1.92592593
         },
         "Over/under": {
-          "Over 165.5": 1.83333334,
-          "Under 165.5": 1.83333334
+          "Over 155": 1.92592593,
+          "Under 155": 1.89285715
         }
       }
     }
   },
-  "Brazil": {
-    "Brazil - NBB": {}
-  },
   "Bulgaria": {
-    "Bulgaria - NBL": {}
+    "Bulgaria - NBL": {
+      "Academic Bulteks 99 vs Shumen": {
+        "time": "2024-01-06 16:00:00",
+        "Money line": {
+          "1": 1.65789474,
+          "2": 2.2
+        },
+        "Spread": {
+          "1 -3.5": 1.84745763,
+          "2 +3.5": 1.81967214
+        },
+        "Over/under": {
+          "Over 165": 1.83333334,
+          "Under 165": 1.83333334
+        }
+      },
+      "Minyor 2015 vs Chernomorets Burgas": {
+        "time": "2024-01-06 16:00:00",
+        "Money line": {
+          "1": 6.5,
+          "2": 1.10989011
+        },
+        "Spread": {
+          "2 -18": 1.82644629,
+          "1 +18": 1.84033614
+        },
+        "Over/under": {
+          "Over 159": 1.83333334,
+          "Under 159": 1.83333334
+        }
+      },
+      "Spartak Pleven vs Cherno More": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 1.35460993,
+          "2": 3.1
+        },
+        "Spread": {
+          "1 -7.5": 1.80645162,
+          "2 +7.5": 1.86206897
+        },
+        "Over/under": {
+          "Over 167": 1.83333334,
+          "Under 167": 1.83333334
+        }
+      },
+      "Rilski Sportist vs Balkan Botevgrad": {
+        "time": "2024-01-07 11:00:00",
+        "Money line": {
+          "1": 1.15151516,
+          "2": 5.2
+        },
+        "Spread": {
+          "1 -11.5": 1.83333334,
+          "2 +11.5": 1.83333334
+        },
+        "Over/under": {
+          "Over 161.5": 1.83333334,
+          "Under 161.5": 1.83333334
+        }
+      }
+    }
   },
   "China": {
     "China - CBA": {
-      "Shandong vs Ningbo Rockets": {
-        "time": "2024-01-02 11:35:00",
+      "Beijing Ducks vs Tianjin Pioneers": {
+        "time": "2024-01-06 11:35:00",
         "Money line": {
-          "1": 1.16666667,
-          "2": 5.4
+          "1": 1.21052632,
+          "2": 4.05
         },
         "Spread": {
-          "1 -10.5": 1.90909091,
-          "2 +10.5": 1.90909091
+          "1 -8.5": 1.86000001,
+          "2 +8.5": 1.86000001
         },
         "Over/under": {
-          "Over 200.5": 1.90909091,
-          "Under 200.5": 1.90909091
+          "Over 220.5": 1.84000001,
+          "Under 220.5": 1.84000001
         }
       },
-      "Shenzhen vs Shanghai": {
-        "time": "2024-01-02 11:35:00",
+      "Nanjing Tongxi vs Fujian": {
+        "time": "2024-01-06 11:35:00",
         "Money line": {
-          "1": 1.61728396,
-          "2": 2.36
+          "1": 2.3,
+          "2": 1.57142858
         },
         "Spread": {
-          "1 -3.5": 1.90909091,
-          "2 +3.5": 1.90909091
+          "2 -3.5": 1.86000001,
+          "1 +3.5": 1.86000001
         },
         "Over/under": {
-          "Over 214": 1.90909091,
-          "Under 214": 1.90909091
+          "Over 206.5": 1.84000001,
+          "Under 206.5": 1.84000001
+        }
+      },
+      "Qingdao vs Zhejiang Chouzhou": {
+        "time": "2024-01-06 11:35:00",
+        "Money line": {
+          "1": 1.12121213,
+          "2": 5.5
+        },
+        "Spread": {
+          "1 -11.5": 1.86000001,
+          "2 +11.5": 1.86000001
+        },
+        "Over/under": {
+          "Over 185.5": 1.84000001,
+          "Under 185.5": 1.84000001
+        }
+      },
+      "Shanghai vs Shandong": {
+        "time": "2024-01-06 11:35:00",
+        "Money line": {
+          "1": 1.30769231,
+          "2": 3.25
+        },
+        "Spread": {
+          "1 -6.5": 1.73180579,
+          "2 +6.5": 2.00869015
+        },
+        "Over/under": {
+          "Over 222.5": 1.84000001,
+          "Under 222.5": 1.84000001
+        }
+      },
+      "Shenzhen vs Jiangsu Dragons": {
+        "time": "2024-01-06 11:35:00",
+        "Money line": {
+          "1": 1.21052632,
+          "2": 4.05
+        },
+        "Spread": {
+          "1 -8.5": 1.86000001,
+          "2 +8.5": 1.86000001
+        },
+        "Over/under": {
+          "Over 205.5": 1.84000001,
+          "Under 205.5": 1.84000001
         }
       }
     }
   },
   "Cyprus": {
-    "Cyprus - Division 1": {},
+    "Cyprus - Division 1": {
+      "Paeek BC vs APOP": {
+        "time": "2024-01-06 14:00:00",
+        "Money line": {
+          "1": 1.55555556,
+          "2": 2.4
+        },
+        "Spread": {
+          "1 -3.5": 1.83333334,
+          "2 +3.5": 1.83333334
+        },
+        "Over/under": {
+          "Over 158.5": 1.83333334,
+          "Under 158.5": 1.83333334
+        }
+      }
+    },
     "Cyprus - Division 1 Women": {}
   },
   "Denmark": {
     "Denmark - Basketligaen": {
-      "Holbaek-Stenhus vs Horsens": {
-        "time": "2024-01-03 18:00:00",
+      "Bakken Bears vs Svendborg Rabbits": {
+        "time": "2024-01-06 13:00:00",
         "Money line": {
-          "1": 9.75
+          "1": 1.1,
+          "2": 6.0
         },
         "Spread": {
-          "2 -29": 1.85470086,
-          "1 +29": 1.88495576
+          "1 -15": 1.87719299,
+          "2 +15": 1.86206897
         },
         "Over/under": {
-          "Over 163.5": 1.88495576,
-          "Under 163.5": 1.85470086
+          "Over 179": 1.88495576,
+          "Under 179": 1.85470086
         }
       },
-      "Copenhagen Basketball vs Naestved": {
-        "time": "2024-01-04 18:15:00",
+      "Randers Cimbria vs Bears Academy": {
+        "time": "2024-01-07 14:00:00",
         "Money line": {
-          "1": 3.05,
-          "2": 1.27777778
+          "1": 1.02564103,
+          "2": 7.25
         },
         "Spread": {
-          "2 -7": 1.87719299,
-          "1 +7": 1.86206897
+          "1 -18.5": 1.86956522,
+          "2 +18.5": 1.86956522
         },
         "Over/under": {
-          "Over 174": 1.86956522,
-          "Under 174": 1.86956522
+          "Over 168": 1.86956522,
+          "Under 168": 1.86956522
+        }
+      },
+      "Holbaek-Stenhus vs BK Amager": {
+        "time": "2024-01-07 15:00:00",
+        "Money line": {
+          "1": 1.43478261,
+          "2": 2.45
+        },
+        "Spread": {
+          "1 -4.5": 1.85470086,
+          "2 +4.5": 1.89285715
+        },
+        "Over/under": {
+          "Over 165": 1.85470086,
+          "Under 165": 1.88495576
+        }
+      },
+      "Vaerlose vs BMS Herlev Wolfpack": {
+        "time": "2024-01-07 15:00:00",
+        "Money line": {
+          "1": 1.11111112,
+          "2": 4.85
+        },
+        "Spread": {
+          "1 -12": 1.89285715,
+          "2 +12": 1.84745763
+        },
+        "Over/under": {
+          "Over 171": 1.87719299,
+          "Under 171": 1.86206897
+        }
+      },
+      "Horsens vs Copenhagen Basketball": {
+        "time": "2024-01-08 18:00:00",
+        "Money line": {
+          "1": 1.1,
+          "2": 5.0
+        },
+        "Spread": {
+          "1 -11.5": 1.84033614,
+          "2 +11.5": 1.90090091
+        },
+        "Over/under": {
+          "Over 163": 1.85470086,
+          "Under 163": 1.88495576
         }
       }
     }
@@ -254,223 +460,148 @@
     "Estonia - 1st League": {}
   },
   "Europe": {
-    "Euroleague": {
-      "Fenerbahce vs Crvena Zvezda": {
-        "time": "2024-01-02 17:45:00",
+    "Euroleague": {},
+    "Adriatic League": {
+      "Cedevita Olimpija vs Crvena Zvezda": {
+        "time": "2024-01-06 16:00:00",
         "Money line": {
-          "1": 1.33333334,
-          "2": 3.4
+          "1": 4.0,
+          "2": 1.2
         },
         "Spread": {
-          "1 -8": 1.93457944,
-          "2 +8": 1.88495576
+          "2 -9": 1.94339623,
+          "1 +9": 1.87719299
         },
         "Over/under": {
-          "Over 164": 1.92592593,
-          "Under 164": 1.89285715
+          "Over 165.5": 1.87719299,
+          "Under 165.5": 1.86206897
         }
       },
-      "Zalgiris Kaunas vs Alba Berlin": {
-        "time": "2024-01-02 18:00:00",
+      "KK Partizan Nis Belgrade vs KK Krka": {
+        "time": "2024-01-06 18:00:00",
         "Money line": {
-          "1": 1.32258065,
-          "2": 3.45
+          "2": 14.0
         },
         "Spread": {
-          "1 -7": 1.89285715,
-          "2 +7": 1.92592593
+          "1 -23": 1.92592593,
+          "2 +23": 1.89285715
         },
         "Over/under": {
-          "Over 160.5": 1.89285715,
-          "Under 160.5": 1.92592593
-        }
-      },
-      "Maccabi Tel-Aviv vs Monaco": {
-        "time": "2024-01-02 19:05:00",
-        "Money line": {
-          "1": 2.2,
-          "2": 1.71428572
-        },
-        "Spread": {
-          "2 -2.5": 1.89285715,
-          "1 +2.5": 1.92592593
-        },
-        "Over/under": {
-          "Over 170": 1.9174312,
-          "Under 170": 1.90090091
-        }
-      },
-      "Olympiakos vs Milano": {
-        "time": "2024-01-02 19:15:00",
-        "Money line": {
-          "1": 1.27777778,
-          "2": 3.8
-        },
-        "Spread": {
-          "1 -8": 1.88495576,
-          "2 +8": 1.93457944
-        },
-        "Over/under": {
-          "Over 150": 1.90909091,
-          "Under 150": 1.90909091
-        }
-      },
-      "KK Partizan Nis Belgrade vs Lyon-Villeurbanne": {
-        "time": "2024-01-02 19:45:00",
-        "Money line": {
-          "1": 1.12903226,
-          "2": 6.25
-        },
-        "Spread": {
-          "1 -11.5": 1.90909091,
-          "2 +11.5": 1.90909091
-        },
-        "Over/under": {
-          "Over 165.5": 1.90909091,
-          "Under 165.5": 1.90909091
-        }
-      },
-      "Valencia Basket Club vs Anadolu Efes": {
-        "time": "2024-01-03 18:30:00",
-        "Money line": {
-          "1": 1.5882353,
-          "2": 2.45
-        },
-        "Spread": {
-          "1 -3.5": 1.90909091,
-          "2 +3.5": 1.90909091
-        },
-        "Over/under": {
-          "Over 160": 1.93457944,
-          "Under 160": 1.88495576
-        }
-      },
-      "Baskonia vs Panathinaikos": {
-        "time": "2024-01-03 19:30:00",
-        "Money line": {
-          "1": 1.95238096,
-          "2": 1.90909091
-        },
-        "Spread": {
-          "2 -1": 1.9174312,
-          "1 +1": 1.90090091
-        },
-        "Over/under": {
-          "Over 165.5": 1.93457944,
-          "Under 165.5": 1.88495576
-        }
-      },
-      "Virtus Bologna vs FC Bayern Munich": {
-        "time": "2024-01-03 19:30:00",
-        "Money line": {
-          "1": 1.46511628,
-          "2": 2.8
-        },
-        "Spread": {
-          "1 -5": 1.95238096,
-          "2 +5": 1.86956522
-        },
-        "Over/under": {
-          "Over 161": 1.89285715,
-          "Under 161": 1.92592593
-        }
-      },
-      "FC Barcelona vs Real Madrid": {
-        "time": "2024-01-03 20:00:00",
-        "Money line": {
-          "1": 2.3,
-          "2": 1.64516129
-        },
-        "Spread": {
-          "2 -3": 1.93457944,
-          "1 +3": 1.88495576
-        },
-        "Over/under": {
-          "Over 162.5": 1.90090091,
-          "Under 162.5": 1.9174312
+          "Over 166.5": 1.86956522,
+          "Under 166.5": 1.86956522
         }
       }
     },
-    "Adriatic League": {},
     "Adriatic League 2": {},
     "EuroCup Women": {},
-    "Latvia-Estonia League": {}
+    "Latvia-Estonia League": {
+      "AVIS Rapla vs KK Viimsi/Noto": {
+        "time": "2024-01-06 15:00:00",
+        "Money line": {
+          "1": 1.1923077,
+          "2": 4.5
+        },
+        "Spread": {
+          "1 -10.5": 1.84033614,
+          "2 +10.5": 1.82644629
+        },
+        "Over/under": {
+          "Over 155.5": 1.81967214,
+          "Under 155.5": 1.84745763
+        }
+      },
+      "TTU KK vs Keila Korvpallikool": {
+        "time": "2024-01-06 15:00:00",
+        "Money line": {
+          "1": 1.45045046,
+          "2": 2.7
+        },
+        "Spread": {
+          "1 -5.5": 1.82644629,
+          "2 +5.5": 1.84033614
+        },
+        "Over/under": {
+          "Over 163.5": 1.81967214,
+          "Under 163.5": 1.84745763
+        }
+      },
+      "VEF Riga vs TU/Rock": {
+        "time": "2024-01-06 15:00:00",
+        "Money line": {
+          "1": 1.42016807,
+          "2": 2.8
+        },
+        "Spread": {
+          "1 -4.5": 1.84033614,
+          "2 +4.5": 1.82644629
+        },
+        "Over/under": {
+          "Over 152.5": 1.84745763,
+          "Under 152.5": 1.81967214
+        }
+      },
+      "BC Kalev/Cramo vs SC Prometey": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 3.2,
+          "2": 1.33557047
+        },
+        "Spread": {
+          "2 -8": 1.83333334,
+          "1 +8": 1.83333334
+        },
+        "Over/under": {
+          "Over 161": 1.84745763,
+          "Under 161": 1.81967214
+        }
+      },
+      "BK Ventspils vs Latvijas Uni": {
+        "time": "2024-01-09 17:00:00",
+        "Money line": {
+          "1": 1.05128206,
+          "2": 10.5
+        },
+        "Spread": {
+          "1 -21.5": 1.81300814,
+          "2 +21.5": 1.85470086
+        },
+        "Over/under": {
+          "Over 164.5": 1.81967214,
+          "Under 164.5": 1.84745763
+        }
+      }
+    }
   },
   "Finland": {
     "Finland - Korisliiga": {
-      "Helsinki Seagulls vs KTP-Basket": {
-        "time": "2024-01-02 16:30:00",
+      "Salon Vilpas vs Kouvot": {
+        "time": "2024-01-06 17:00:00",
         "Money line": {
-          "1": 1.03225807,
-          "2": 7.0
+          "1": 1.40816327,
+          "2": 2.65
         },
         "Spread": {
-          "1 -17.5": 1.86206897,
-          "2 +17.5": 1.87719299
+          "1 -4.5": 1.84033614,
+          "2 +4.5": 1.90090091
         },
         "Over/under": {
-          "Over 174.5": 1.87719299,
-          "Under 174.5": 1.86206897
+          "Over 176": 1.87719299,
+          "Under 176": 1.86206897
         }
       },
-      "Kouvot vs Pyrinto Tampere": {
-        "time": "2024-01-02 16:30:00",
+      "Pyrinto Tampere vs Lahti Basketball": {
+        "time": "2024-01-07 15:00:00",
         "Money line": {
-          "1": 1.25,
-          "2": 3.25
+          "1": 1.27777778,
+          "2": 3.05
         },
         "Spread": {
-          "1 -8": 1.89285715,
-          "2 +8": 1.84745763
+          "1 -7": 1.84745763,
+          "2 +7": 1.89285715
         },
         "Over/under": {
-          "Over 176.5": 1.86206897,
-          "Under 176.5": 1.88495576
-        }
-      },
-      "Salon Vilpas vs BC Nokia": {
-        "time": "2024-01-02 16:30:00",
-        "Money line": {
-          "1": 1.74074075,
-          "2": 1.90909091
-        },
-        "Spread": {
-          "1 -1": 1.85470086,
-          "2 +1": 1.88495576
-        },
-        "Over/under": {
-          "Over 174.5": 1.87719299,
-          "Under 174.5": 1.86206897
-        }
-      },
-      "Kataja Basket vs Kauhajoki": {
-        "time": "2024-01-03 16:30:00",
-        "Money line": {
-          "1": 2.05,
-          "2": 1.625
-        },
-        "Spread": {
-          "2 -2.5": 1.88495576,
-          "1 +2.5": 1.85470086
-        },
-        "Over/under": {
-          "Over 166.5": 1.86206897,
-          "Under 166.5": 1.87719299
-        }
-      },
-      "Nilan Bisons vs Kobrat": {
-        "time": "2024-01-03 16:30:00",
-        "Money line": {
-          "1": 1.86956522,
-          "2": 1.76923077
-        },
-        "Spread": {
-          "2 -1.5": 1.89285715,
-          "1 +1.5": 1.84745763
-        },
-        "Over/under": {
-          "Over 164": 1.85470086,
-          "Under 164": 1.88495576
+          "Over 179": 1.86206897,
+          "Under 179": 1.88495576
         }
       }
     }
@@ -481,103 +612,224 @@
   },
   "Germany": {
     "Germany - Bundesliga": {
-      "Ratiopharm Ulm vs Basketball Lowen Braunschweig": {
-        "time": "2024-01-02 19:00:00",
+      "BG Gottingen vs Ratiopharm Ulm": {
+        "time": "2024-01-06 17:30:00",
         "Money line": {
-          "1": 1.16,
-          "2": 5.55
-        },
-        "Spread": {
-          "1 -11.5": 1.89285715,
-          "2 +11.5": 1.92592593
-        },
-        "Over/under": {
-          "Over 178.5": 1.89285715,
-          "Under 178.5": 1.92592593
-        }
-      }
-    },
-    "Germany - Bundesliga Women": {},
-    "Germany - Pro A": {
-      "Giessen 46ers vs Gladiators Trier": {
-        "time": "2024-01-02 18:00:00",
-        "Money line": {
-          "1": 1.74074075,
-          "2": 1.86956522
-        },
-        "Spread": {
-          "1 -1.5": 1.86206897,
-          "2 +1.5": 1.87719299
-        },
-        "Over/under": {
-          "Over 172.5": 1.87719299,
-          "Under 172.5": 1.86206897
-        }
-      },
-      "ART Giants Dusseldorf vs Eisbaren Bremerhaven": {
-        "time": "2024-01-02 18:30:00",
-        "Money line": {
-          "1": 1.83333334,
-          "2": 1.76923077
-        },
-        "Spread": {
-          "2 -1": 1.87719299,
-          "1 +1": 1.86206897
-        },
-        "Over/under": {
-          "Over 174.5": 1.84745763,
-          "Under 174.5": 1.89285715
-        }
-      },
-      "Artland Dragons vs Medi Bayreuth": {
-        "time": "2024-01-02 18:30:00",
-        "Money line": {
-          "1": 4.2,
-          "2": 1.14285715
+          "1": 4.6,
+          "2": 1.21276596
         },
         "Spread": {
           "2 -10": 1.86956522,
-          "1 +10": 1.86956522
+          "1 +10": 1.95238096
         },
         "Over/under": {
-          "Over 165.5": 1.89285715,
-          "Under 165.5": 1.84745763
+          "Over 182.5": 1.89285715,
+          "Under 182.5": 1.92592593
         }
       },
-      "Dresden Titans vs Rasta Vechta II": {
-        "time": "2024-01-02 18:30:00",
+      "Hamburg Towers vs Basketball Lowen Braunschweig": {
+        "time": "2024-01-06 17:30:00",
         "Money line": {
-          "1": 1.12903226,
-          "2": 4.45
+          "1": 1.42016807,
+          "2": 2.95
         },
         "Spread": {
-          "1 -11.5": 1.87719299,
-          "2 +11.5": 1.86206897
+          "1 -5.5": 1.89285715,
+          "2 +5.5": 1.92592593
         },
         "Over/under": {
-          "Over 168": 1.89285715,
-          "Under 168": 1.84745763
+          "Over 174": 1.90909091,
+          "Under 174": 1.90909091
         }
       },
-      "Kirchheim Knights vs Uni Baskets Paderborn": {
-        "time": "2024-01-02 18:30:00",
+      "Crailsheim Merlins vs Mitteldeutscher BC": {
+        "time": "2024-01-06 19:00:00",
         "Money line": {
-          "1": 1.1,
-          "2": 5.0
+          "1": 1.84745763,
+          "2": 1.98039216
         },
         "Spread": {
-          "1 -11.5": 1.84745763,
-          "2 +11.5": 1.89285715
+          "1 -1.5": 1.89285715,
+          "2 +1.5": 1.92592593
         },
         "Over/under": {
-          "Over 165.5": 1.85470086,
-          "Under 165.5": 1.88495576
+          "Over 173": 1.89285715,
+          "Under 173": 1.92592593
         }
       },
-      "Nurnberg Falcons vs WwuBaskets Munster": {
-        "time": "2024-01-02 18:30:00",
+      "Niners Chemnitz vs MHP Riesen Ludwigsburg": {
+        "time": "2024-01-06 19:00:00",
         "Money line": {
-          "1": 1.34482759,
+          "1": 1.42016807,
+          "2": 2.95
+        },
+        "Spread": {
+          "1 -5.5": 1.92592593,
+          "2 +5.5": 1.89285715
+        },
+        "Over/under": {
+          "Over 167.5": 1.92592593,
+          "Under 167.5": 1.89285715
+        }
+      },
+      "Brose Bamberg vs Alba Berlin": {
+        "time": "2024-01-07 14:30:00",
+        "Money line": {
+          "1": 4.3,
+          "2": 1.23529412
+        },
+        "Spread": {
+          "2 -9": 1.90909091,
+          "1 +9": 1.90909091
+        },
+        "Over/under": {
+          "Over 176": 1.90909091,
+          "Under 176": 1.90909091
+        }
+      },
+      "Rostock Seawolves vs FC Bayern Munich": {
+        "time": "2024-01-07 14:30:00",
+        "Money line": {
+          "1": 4.9,
+          "2": 1.1923077
+        },
+        "Spread": {
+          "2 -10": 1.90909091,
+          "1 +10": 1.90909091
+        },
+        "Over/under": {
+          "Over 169": 1.90909091,
+          "Under 169": 1.90909091
+        }
+      },
+      "EWE Baskets Oldenburg vs Telekom Baskets Bonn": {
+        "time": "2024-01-07 16:00:00",
+        "Money line": {
+          "1": 2.05,
+          "2": 1.8
+        },
+        "Spread": {
+          "2 -1.5": 1.90909091,
+          "1 +1.5": 1.90909091
+        },
+        "Over/under": {
+          "Over 170": 1.90909091,
+          "Under 170": 1.90909091
+        }
+      },
+      "Walter Tigers Tubingen vs s.Oliver Wurzburg": {
+        "time": "2024-01-08 19:00:00",
+        "Money line": {
+          "1": 2.64,
+          "2": 1.50505051
+        },
+        "Spread": {
+          "2 -4": 1.86956522,
+          "1 +4": 1.95238096
+        },
+        "Over/under": {
+          "Over 167.5": 1.90909091,
+          "Under 167.5": 1.90909091
+        }
+      }
+    },
+    "Germany - Bundesliga Women": {
+      "Pharmaserv Marburg [W] vs BG Gottingen [W]": {
+        "time": "2024-01-06 18:00:00",
+        "Money line": {
+          "1": 1.37037038,
+          "2": 3.02
+        },
+        "Spread": {
+          "1 -6.5": 1.83333334,
+          "2 +6.5": 1.83333334
+        },
+        "Over/under": {
+          "Over 143": 1.82644629,
+          "Under 143": 1.84033614
+        }
+      },
+      "Osnabruck [W] vs Saarlouis Royals [W]": {
+        "time": "2024-01-07 15:00:00",
+        "Money line": {
+          "1": 1.24390244,
+          "2": 3.9
+        },
+        "Spread": {
+          "1 -9.5": 1.85470086,
+          "2 +9.5": 1.81300814
+        },
+        "Over/under": {
+          "Over 136": 1.84033614,
+          "Under 136": 1.82644629
+        }
+      }
+    },
+    "Germany - Pro A": {
+      "Rasta Vechta II vs Fraport Skyliners": {
+        "time": "2024-01-06 16:00:00",
+        "Money line": {
+          "1": 3.85,
+          "2": 1.21052632
+        },
+        "Spread": {
+          "2 -8.5": 1.84745763,
+          "1 +8.5": 1.89285715
+        },
+        "Over/under": {
+          "Over 158.5": 1.86956522,
+          "Under 158.5": 1.86956522
+        }
+      },
+      "Medi Bayreuth vs Kirchheim Knights": {
+        "time": "2024-01-06 18:00:00",
+        "Money line": {
+          "1": 1.25974026,
+          "2": 3.3
+        },
+        "Spread": {
+          "1 -7.5": 1.89285715,
+          "2 +7.5": 1.84745763
+        },
+        "Over/under": {
+          "Over 163": 1.85470086,
+          "Under 163": 1.88495576
+        }
+      },
+      "Phoenix Hagen vs Nurnberg Falcons": {
+        "time": "2024-01-06 18:00:00",
+        "Money line": {
+          "1": 1.30303031,
+          "2": 3.0
+        },
+        "Spread": {
+          "1 -6.5": 1.87719299,
+          "2 +6.5": 1.86206897
+        },
+        "Over/under": {
+          "Over 165": 1.87719299,
+          "Under 165": 1.86206897
+        }
+      },
+      "Science City Jena vs Giessen 46ers": {
+        "time": "2024-01-06 18:00:00",
+        "Money line": {
+          "1": 1.52631579,
+          "2": 2.3
+        },
+        "Spread": {
+          "1 -4": 1.89285715,
+          "2 +4": 1.85470086
+        },
+        "Over/under": {
+          "Over 166.5": 1.86206897,
+          "Under 166.5": 1.87719299
+        }
+      },
+      "VfL SparkassenStars Bochum vs ART Giants Dusseldorf": {
+        "time": "2024-01-06 18:00:00",
+        "Money line": {
+          "1": 1.37037037,
           "2": 2.75
         },
         "Spread": {
@@ -585,162 +837,394 @@
           "2 +5.5": 1.85470086
         },
         "Over/under": {
+          "Over 177": 1.88495576,
+          "Under 177": 1.85470086
+        }
+      },
+      "Uni Baskets Paderborn vs Artland Dragons": {
+        "time": "2024-01-06 18:30:00",
+        "Money line": {
+          "1": 1.625,
+          "2": 2.1
+        },
+        "Spread": {
+          "1 -2": 1.84745763,
+          "2 +2": 1.89285715
+        },
+        "Over/under": {
+          "Over 163.5": 1.88495576,
+          "Under 163.5": 1.85470086
+        }
+      },
+      "WwuBaskets Munster vs Karlsruhe": {
+        "time": "2024-01-06 18:30:00",
+        "Money line": {
+          "1": 1.95238096,
+          "2": 1.71428572
+        },
+        "Spread": {
+          "2 -2": 1.89285715,
+          "1 +2": 1.84745763
+        },
+        "Over/under": {
           "Over 160.5": 1.88495576,
           "Under 160.5": 1.85470086
         }
       },
-      "Baskets Koblenz vs Fraport Skyliners": {
-        "time": "2024-01-03 18:30:00",
+      "Eisbaren Bremerhaven vs Dresden Titans": {
+        "time": "2024-01-07 14:00:00",
         "Money line": {
-          "1": 3.0,
-          "2": 1.28571429
+          "1": 1.86956522,
+          "2": 1.74074075
         },
         "Spread": {
-          "2 -7": 1.84745763,
-          "1 +7": 1.89285715
+          "2 -1.5": 1.87719299,
+          "1 +1.5": 1.86206897
         },
         "Over/under": {
-          "Over 158.5": 1.85470086,
-          "Under 158.5": 1.88495576
+          "Over 175": 1.86956522,
+          "Under 175": 1.86956522
         }
       },
-      "Karlsruhe vs Phoenix Hagen": {
-        "time": "2024-01-03 18:30:00",
+      "Gladiators Trier vs Baskets Koblenz": {
+        "time": "2024-01-07 16:00:00",
         "Money line": {
-          "1": 1.54054055,
-          "2": 2.2
+          "1": 1.11111112,
+          "2": 4.75
         },
         "Spread": {
-          "1 -2.5": 1.84745763,
-          "2 +2.5": 1.89285715
+          "1 -10.5": 1.84033614,
+          "2 +10.5": 1.90090091
         },
         "Over/under": {
-          "Over 165.5": 1.89285715,
-          "Under 165.5": 1.84745763
-        }
-      },
-      "VfL SparkassenStars Bochum vs Science City Jena": {
-        "time": "2024-01-03 18:30:00",
-        "Money line": {
-          "1": 2.8,
-          "2": 1.32786886
-        },
-        "Spread": {
-          "2 -6": 1.84033614,
-          "1 +6": 1.90090091
-        },
-        "Over/under": {
-          "Over 175.5": 1.86956522,
-          "Under 175.5": 1.86956522
+          "Over 165": 1.86956522,
+          "Under 165": 1.86956522
         }
       }
     }
   },
   "Greece": {
-    "Greece - Basket League": {}
-  },
-  "Hong Kong (SAR)": {
-    "Hong Kong - BL": {
-      "Pegasus vs South China": {
-        "time": "2024-01-02 11:00:00",
+    "Greece - Basket League": {
+      "PAOK vs Marousi": {
+        "time": "2024-01-06 12:45:00",
         "Money line": {
-          "1": 19.0,
-          "2": 1.01538462
+          "1": 1.34482759,
+          "2": 3.05
         },
         "Spread": {
-          "2 -21.5": 1.83333334,
-          "1 +21.5": 1.83333334
+          "1 -5": 1.90090091,
+          "2 +5": 1.9174312
         },
         "Over/under": {
-          "Over 151.5": 1.83333334,
-          "Under 151.5": 1.83333334
+          "Over 163": 1.86206897,
+          "Under 163": 1.87719299
         }
       },
-      "Tycoon vs Fukien": {
-        "time": "2024-01-02 12:40:00",
+      "Karditsa vs Prometheus Patras": {
+        "time": "2024-01-06 15:00:00",
         "Money line": {
-          "1": 1.07692308,
-          "2": 8.0
+          "1": 2.95,
+          "2": 1.37037037
         },
         "Spread": {
-          "1 -19.5": 1.81967214,
-          "2 +19.5": 1.84745763
+          "2 -5.5": 1.90909091,
+          "1 +5.5": 1.90909091
         },
         "Over/under": {
-          "Over 152": 1.82644629,
-          "Under 152": 1.84033614
+          "Over 153.5": 1.86956522,
+          "Under 153.5": 1.86956522
+        }
+      },
+      "Aris vs Apollon Patras": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 1.08333334,
+          "2": 6.5
+        },
+        "Spread": {
+          "1 -15.5": 1.93457944,
+          "2 +15.5": 1.88495576
+        },
+        "Over/under": {
+          "Over 148": 1.85470086,
+          "Under 148": 1.88495576
+        }
+      },
+      "AEK Athens vs Olympiakos": {
+        "time": "2024-01-07 12:45:00",
+        "Money line": {
+          "1": 3.95,
+          "2": 1.17391305
+        },
+        "Spread": {
+          "2 -9": 1.87719299,
+          "1 +9": 1.94339623
+        },
+        "Over/under": {
+          "Over 161": 1.89285715,
+          "Under 161": 1.85470086
+        }
+      },
+      "Panathinaikos vs Peristeri": {
+        "time": "2024-01-07 15:00:00",
+        "Money line": {
+          "1": 1.06666667,
+          "2": 6.0
+        },
+        "Spread": {
+          "1 -14.5": 1.88495576,
+          "2 +14.5": 1.93457944
+        },
+        "Over/under": {
+          "Over 159": 1.86206897,
+          "Under 159": 1.87719299
+        }
+      },
+      "Kolossos Rodou BC vs Lavrio BC": {
+        "time": "2024-01-07 16:00:00",
+        "Money line": {
+          "1": 1.22222223,
+          "2": 3.5
+        },
+        "Spread": {
+          "1 -8.5": 1.92592593,
+          "2 +8.5": 1.89285715
+        },
+        "Over/under": {
+          "Over 164.5": 1.85470086,
+          "Under 164.5": 1.88495576
         }
       }
     }
   },
+  "Hong Kong (SAR)": {
+    "Hong Kong - BL": {}
+  },
   "Hungary": {
-    "Hungary - NB I": {}
+    "Hungary - NB I": {
+      "Alba Fehervar vs SZTE Szedeak": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 1.11764706,
+          "2": 6.2
+        },
+        "Spread": {
+          "1 -15.5": 1.83333334,
+          "2 +15.5": 1.83333334
+        },
+        "Over/under": {
+          "Over 179.5": 1.84033614,
+          "Under 179.5": 1.82644629
+        }
+      },
+      "Falco Szombathely vs Budapesti Honved SE": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 1.08695653,
+          "2": 7.5
+        },
+        "Spread": {
+          "1 -19": 1.85470086,
+          "2 +19": 1.81300814
+        },
+        "Over/under": {
+          "Over 163": 1.81967214,
+          "Under 163": 1.84745763
+        }
+      },
+      "Szolnoki Olajbanyasz vs Soproni KC": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 1.35460993,
+          "2": 3.1
+        },
+        "Spread": {
+          "1 -5.5": 1.85470086,
+          "2 +5.5": 1.81300814
+        },
+        "Over/under": {
+          "Over 159.5": 1.81967214,
+          "Under 159.5": 1.84745763
+        }
+      },
+      "ZTE KK vs OSE Lions": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 1.3968254,
+          "2": 2.9
+        },
+        "Spread": {
+          "1 -6": 1.84745763,
+          "2 +6": 1.81967214
+        },
+        "Over/under": {
+          "Over 167.5": 1.84745763,
+          "Under 167.5": 1.81967214
+        }
+      },
+      "Kormend vs Atomeromu SE Paks": {
+        "time": "2024-01-06 18:00:00",
+        "Money line": {
+          "1": 1.27777778,
+          "2": 3.6
+        },
+        "Spread": {
+          "1 -6": 1.80645162,
+          "2 +6": 1.86206897
+        },
+        "Over/under": {
+          "Over 165.5": 1.84033614,
+          "Under 165.5": 1.82644629
+        }
+      },
+      "NKA Pecs vs Kaposvari KK": {
+        "time": "2024-01-06 18:00:00",
+        "Money line": {
+          "1": 1.46511628,
+          "2": 2.65
+        },
+        "Spread": {
+          "1 -5": 1.83333334,
+          "2 +5": 1.83333334
+        },
+        "Over/under": {
+          "Over 171": 1.84745763,
+          "Under 171": 1.81967214
+        }
+      }
+    }
   },
   "Israel": {
-    "Israel - Super League": {},
-    "Israel - National Division": {
-      "Hapoel Bnei Kfar Kasem vs Ironi Nahariya": {
-        "time": "2024-01-02 16:30:00",
+    "Israel - Super League": {
+      "Ironi Ramat-Gan vs Hapoel Holon": {
+        "time": "2024-01-06 17:20:00",
         "Money line": {
-          "1": 2.2,
-          "2": 1.65789474
+          "1": 2.05,
+          "2": 1.66666667
         },
         "Spread": {
-          "2 -2.5": 1.83333334,
-          "1 +2.5": 1.83333334
+          "2 -2.5": 1.92592593,
+          "1 +2.5": 1.89285715
         },
         "Over/under": {
-          "Over 170.5": 1.83333334,
-          "Under 170.5": 1.83333334
+          "Over 161.5": 1.88495576,
+          "Under 161.5": 1.85470086
         }
-      },
-      "Maccabi Rishon Lezion vs Elitzur Ironi Netanya": {
-        "time": "2024-01-02 16:35:00",
+      }
+    },
+    "Israel - National Division": {}
+  },
+  "Italy": {
+    "Italy - Lega 1": {
+      "Universo Treviso vs Varese": {
+        "time": "2024-01-06 19:30:00",
         "Money line": {
-          "1": 1.76923077,
-          "2": 2.0
+          "1": 1.5882353,
+          "2": 2.42
         },
         "Spread": {
-          "1 -1.5": 1.83333334,
-          "2 +1.5": 1.83333334
+          "1 -3.5": 1.90909091,
+          "2 +3.5": 1.90909091
         },
         "Over/under": {
-          "Over 163.5": 1.83333334,
-          "Under 163.5": 1.83333334
+          "Over 173.5": 1.92592593,
+          "Under 173.5": 1.89285715
         }
       },
-      "AS Ramat Hasharon vs Maccabi Raanana": {
-        "time": "2024-01-02 17:00:00",
+      "Derthona Basket Tortona vs Givova Scafati": {
+        "time": "2024-01-07 15:00:00",
         "Money line": {
-          "1": 2.4,
-          "2": 1.55555556
+          "1": 1.50505051,
+          "2": 2.64
         },
         "Spread": {
-          "2 -3.5": 1.83333334,
-          "1 +3.5": 1.83333334
+          "1 -4.5": 1.90909091,
+          "2 +4.5": 1.90909091
         },
         "Over/under": {
-          "Over 163.5": 1.83333334,
-          "Under 163.5": 1.83333334
+          "Over 162.5": 1.90909091,
+          "Under 162.5": 1.90909091
         }
       },
-      "Elitzur Ashkelon vs Maccabi Haifa": {
-        "time": "2024-01-02 17:00:00",
+      "Victoria Libertas Pesaro vs Sassari": {
+        "time": "2024-01-07 15:30:00",
         "Money line": {
-          "1": 1.30303031,
-          "2": 3.4
+          "1": 2.05,
+          "2": 1.8
         },
         "Spread": {
-          "1 -7.5": 1.83333334,
-          "2 +7.5": 1.83333334
+          "2 -1.5": 1.90909091,
+          "1 +1.5": 1.90909091
         },
         "Over/under": {
-          "Over 165.5": 1.83333334,
-          "Under 165.5": 1.83333334
+          "Over 162.5": 1.90909091,
+          "Under 162.5": 1.90909091
         }
       },
-      "Maccabi Rehovot vs Daniel Zefat BC": {
-        "time": "2024-01-02 17:30:00",
+      "Brindisi vs Pallacanestro Brescia": {
+        "time": "2024-01-07 16:30:00",
+        "Money line": {
+          "1": 3.3,
+          "2": 1.3508772
+        },
+        "Spread": {
+          "2 -7": 1.90909091,
+          "1 +7": 1.90909091
+        },
+        "Over/under": {
+          "Over 158.5": 1.92592593,
+          "Under 158.5": 1.89285715
+        }
+      },
+      "Pistoia Basket vs Vanoli Cremona": {
+        "time": "2024-01-07 17:15:00",
+        "Money line": {
+          "1": 1.6451613,
+          "2": 2.3
+        },
+        "Spread": {
+          "1 -3": 1.90909091,
+          "2 +3": 1.90909091
+        },
+        "Over/under": {
+          "Over 157.5": 1.90909091,
+          "Under 157.5": 1.90909091
+        }
+      },
+      "Umana Reyer Venezia vs Napoli Basket": {
+        "time": "2024-01-07 19:00:00",
+        "Money line": {
+          "1": 1.3875969,
+          "2": 3.1
+        },
+        "Spread": {
+          "1 -6.5": 1.92592593,
+          "2 +6.5": 1.89285715
+        },
+        "Over/under": {
+          "Over 161.5": 1.89285715,
+          "Under 161.5": 1.92592593
+        }
+      }
+    },
+    "Italy - A2 Women": {
+      "Castel Carugate [W] vs Stella Azzurra Roma [W]": {
+        "time": "2024-01-06 15:00:00",
+        "Money line": {
+          "1": 1.2,
+          "2": 4.4
+        },
+        "Spread": {
+          "1 -10.5": 1.83333334,
+          "2 +10.5": 1.83333334
+        },
+        "Over/under": {
+          "Over 129.5": 1.83333334,
+          "Under 129.5": 1.83333334
+        }
+      },
+      "ASD San Salvatore [W] vs Foxes Giussano [W]": {
+        "time": "2024-01-06 17:00:00",
         "Money line": {
           "1": 1.35460993,
           "2": 3.1
@@ -750,192 +1234,1291 @@
           "2 +6.5": 1.83333334
         },
         "Over/under": {
-          "Over 157.5": 1.83333334,
-          "Under 157.5": 1.83333334
+          "Over 124.5": 1.83333334,
+          "Under 124.5": 1.83333334
+        }
+      },
+      "Basket Roma [W] vs Empoli [W]": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 5.7,
+          "2": 1.13333334
+        },
+        "Spread": {
+          "2 -13.5": 1.82644629,
+          "1 +13.5": 1.84033614
+        },
+        "Over/under": {
+          "Over 127.5": 1.83333334,
+          "Under 127.5": 1.83333334
+        }
+      },
+      "Castelnuovo Scrivia [W] vs Costa Masnaga [W]": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 1.35460993,
+          "2": 3.1
+        },
+        "Spread": {
+          "1 -6.5": 1.83333334,
+          "2 +6.5": 1.83333334
+        },
+        "Over/under": {
+          "Over 132.5": 1.83333334,
+          "Under 132.5": 1.83333334
+        }
+      },
+      "Futurosa Trieste [W] vs Pallacanestro Umbertide [W]": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 1.2,
+          "2": 4.4
+        },
+        "Spread": {
+          "1 -10.5": 1.83333334,
+          "2 +10.5": 1.83333334
+        },
+        "Over/under": {
+          "Over 129.5": 1.83333334,
+          "Under 129.5": 1.83333334
+        }
+      },
+      "Nuova Treviso [W] vs Alpo Basket ASD [W]": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 1.95238096,
+          "2": 1.8
+        },
+        "Spread": {
+          "2 -1.5": 1.83333334,
+          "1 +1.5": 1.83333334
+        },
+        "Over/under": {
+          "Over 132.5": 1.83333334,
+          "Under 132.5": 1.83333334
+        }
+      },
+      "Ponzano [W] vs Meccanica Nova Vigarano [W]": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 1.0952381,
+          "2": 7.0
+        },
+        "Spread": {
+          "1 -13.5": 1.83333334,
+          "2 +13.5": 1.83333334
+        },
+        "Over/under": {
+          "Over 127.5": 1.83333334,
+          "Under 127.5": 1.83333334
+        }
+      },
+      "Rhodigium [W] vs Alperia Bolzano [W]": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 4.9,
+          "2": 1.16666667
+        },
+        "Spread": {
+          "2 -11.5": 1.83333334,
+          "1 +11.5": 1.83333334
+        },
+        "Over/under": {
+          "Over 125.5": 1.83333334,
+          "Under 125.5": 1.83333334
+        }
+      },
+      "San Giorgio Mantova [W] vs Torino Teen Basket [W]": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 1.13333334,
+          "2": 5.7
+        },
+        "Spread": {
+          "1 -14": 1.81300814,
+          "2 +14": 1.85470086
+        },
+        "Over/under": {
+          "Over 127": 1.85470086,
+          "Under 127": 1.81300814
+        }
+      }
+    },
+    "Italy - Serie A2": {
+      "Fortitudo Bologna vs APU Udine": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 1.86956522,
+          "2": 1.86956522
+        },
+        "Spread": {
+          "1 -1": 1.86206897,
+          "2 +1": 1.80645162
+        },
+        "Over/under": {
+          "Over 150": 1.82644629,
+          "Under 150": 1.84033614
+        }
+      },
+      "Juvi Cremona vs Novipiu Casale Monferrato": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 1.35460993,
+          "2": 3.1
+        },
+        "Spread": {
+          "1 -6.5": 1.86206897,
+          "2 +6.5": 1.80645162
+        },
+        "Over/under": {
+          "Over 161.5": 1.85470086,
+          "Under 161.5": 1.81300814
+        }
+      },
+      "Moncada Agrigento vs Lighthouse Trapani": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 6.2,
+          "2": 1.11764706
+        },
+        "Spread": {
+          "2 -13": 1.80645162,
+          "1 +13": 1.86206897
+        },
+        "Over/under": {
+          "Over 160": 1.83333334,
+          "Under 160": 1.83333334
+        }
+      },
+      "Remer Treviglio vs Vigevano": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 1.13888889,
+          "2": 5.5
+        },
+        "Spread": {
+          "1 -12": 1.81300814,
+          "2 +12": 1.85470086
+        },
+        "Over/under": {
+          "Over 158.5": 1.84745763,
+          "Under 158.5": 1.81967214
+        }
+      },
+      "Latina Basket vs ASD LUISS Roma": {
+        "time": "2024-01-06 18:00:00",
+        "Money line": {
+          "1": 2.1,
+          "2": 1.71428572
+        },
+        "Spread": {
+          "2 -2.5": 1.84033614,
+          "1 +2.5": 1.82644629
+        },
+        "Over/under": {
+          "Over 163.5": 1.85470086,
+          "Under 163.5": 1.81967214
+        }
+      },
+      "UEB Gesteco Cividale vs Pallacanestro Forli": {
+        "time": "2024-01-06 19:00:00",
+        "Money line": {
+          "1": 3.2,
+          "2": 1.33557047
+        },
+        "Spread": {
+          "2 -7.5": 1.84745763,
+          "1 +7.5": 1.81967214
+        },
+        "Over/under": {
+          "Over 148": 1.86206897,
+          "Under 148": 1.80645162
+        }
+      },
+      "Urania Milano vs Real Sebastiani Rieti": {
+        "time": "2024-01-06 19:30:00",
+        "Money line": {
+          "1": 1.46511628,
+          "2": 2.65
+        },
+        "Spread": {
+          "1 -5": 1.86206897,
+          "2 +5": 1.80645162
+        },
+        "Over/under": {
+          "Over 160": 1.84033614,
+          "Under 160": 1.82644629
+        }
+      },
+      "Orzi Basket vs Andrea Pasca Nardo": {
+        "time": "2024-01-07 16:00:00",
+        "Money line": {
+          "1": 1.83333334,
+          "2": 1.90909091
+        },
+        "Spread": {
+          "1 -1.5": 1.81967214,
+          "2 +1.5": 1.84745763
+        },
+        "Over/under": {
+          "Over 152": 1.81300814,
+          "Under 152": 1.85470086
+        }
+      },
+      "Reale Mutua Torino vs Cantu": {
+        "time": "2024-01-07 17:00:00",
+        "Money line": {
+          "1": 1.8,
+          "2": 1.95238096
+        },
+        "Spread": {
+          "1 -1.5": 1.82644629,
+          "2 +1.5": 1.84033614
+        },
+        "Over/under": {
+          "Over 166.5": 1.81300814,
+          "Under 166.5": 1.85470086
+        }
+      },
+      "Scaligera Basket Verona vs San Giobbe Chiusi": {
+        "time": "2024-01-07 17:00:00",
+        "Money line": {
+          "1": 1.13333334,
+          "2": 5.7
+        },
+        "Spread": {
+          "1 -13": 1.82644629,
+          "2 +13": 1.84033614
+        },
+        "Over/under": {
+          "Over 145": 1.84033614,
+          "Under 145": 1.82644629
+        }
+      },
+      "Tramec Cento vs Rimini": {
+        "time": "2024-01-07 17:00:00",
+        "Money line": {
+          "1": 1.74074075,
+          "2": 2.05
+        },
+        "Spread": {
+          "1 -2": 1.80645162,
+          "2 +2": 1.86206897
+        },
+        "Over/under": {
+          "Over 149.5": 1.84033614,
+          "Under 149.5": 1.82644629
+        }
+      },
+      "Trieste vs Assigeco Piacenza": {
+        "time": "2024-01-07 17:00:00",
+        "Money line": {
+          "1": 1.26666667,
+          "2": 3.7
+        },
+        "Spread": {
+          "1 -8": 1.81967214,
+          "2 +8": 1.84745763
+        },
+        "Over/under": {
+          "Over 151.5": 1.82644629,
+          "Under 151.5": 1.84745763
         }
       }
     }
-  },
-  "Italy": {
-    "Italy - Lega 1": {},
-    "Italy - A2 Women": {},
-    "Italy - Serie A2": {}
   },
   "Japan": {
-    "Japan - WJBL": {
-      "Toyota Sunshine Rabbits [W] vs Aishin Wings [W]": {
-        "time": "2024-01-02 04:00:00",
+    "Japan - WJBL": {}
+  },
+  "Lithuania": {
+    "Lithuania - LKL": {
+      "Lietkabelis vs Lietuvos Rytas": {
+        "time": "2024-01-06 15:00:00",
         "Money line": {
-          "1": 1.5,
-          "2": 2.54
+          "1": 3.05,
+          "2": 1.3508772
         },
         "Spread": {
-          "1 -5": 1.82644629,
-          "2 +5": 1.84033614
+          "2 -7.5": 1.88495576,
+          "1 +7.5": 1.93457944
         },
         "Over/under": {
-          "Over 131": 1.84033614,
-          "Under 131": 1.82644629
+          "Over 168.5": 1.84745763,
+          "Under 168.5": 1.89285715
         }
       },
-      "JX Sunflowers [W] vs Himeji Egrets [W]": {
-        "time": "2024-01-02 06:30:00",
+      "Jonavos SK vs Zalgiris Kaunas": {
+        "time": "2024-01-07 15:20:00",
+        "Money line": {
+          "1": 6.25,
+          "2": 1.0625
+        },
         "Spread": {
-          "1 -33.5": 1.84033614,
-          "2 +33.5": 1.82644629
+          "2 -14": 1.88495576,
+          "1 +14": 1.93457944
         },
         "Over/under": {
-          "Over 152.5": 1.82644629,
-          "Under 152.5": 1.84033614
+          "Over 159": 1.89285715,
+          "Under 159": 1.84745763
         }
       },
-      "Haneda Vickies [W] vs Hitachi Cougars [W]": {
-        "time": "2024-01-02 09:00:00",
+      "Pieno Zvaigzdes Pasvalys vs Siauliai": {
+        "time": "2024-01-08 16:00:00",
         "Money line": {
-          "1": 3.02,
-          "2": 1.37037038
+          "1": 1.60606061,
+          "2": 2.1
         },
         "Spread": {
-          "2 -6.5": 1.85470086,
-          "1 +6.5": 1.81300814
+          "1 -2.5": 1.88495576,
+          "2 +2.5": 1.93457944
         },
         "Over/under": {
-          "Over 135.5": 1.83333334,
-          "Under 135.5": 1.83333334
+          "Over 175": 1.88495576,
+          "Under 175": 1.85470086
         }
       },
-      "Mitsubishi Koalas [W] vs Yamanashi Queenbees [W]": {
-        "time": "2024-01-04 03:00:00",
+      "Gargzdu Gargzdai vs Mazeikiai": {
+        "time": "2024-01-08 16:30:00",
         "Money line": {
-          "1": 1.48076924,
-          "2": 2.6
+          "1": 2.15,
+          "2": 1.57142858
         },
         "Spread": {
-          "1 -5": 1.81300814,
-          "2 +5": 1.85470086
+          "2 -3": 1.87719299,
+          "1 +3": 1.94339623
         },
         "Over/under": {
-          "Over 134": 1.84033614,
-          "Under 134": 1.82644629
+          "Over 161": 1.88495576,
+          "Under 161": 1.85470086
+        }
+      }
+    },
+    "Lithuania - NKL": {
+      "Delikatesas vs Rytas II": {
+        "time": "2024-01-06 14:00:00",
+        "Money line": {
+          "1": 1.42016807,
+          "2": 2.8
+        },
+        "Spread": {
+          "1 -5.5": 1.84033614,
+          "2 +5.5": 1.82644629
+        },
+        "Over/under": {
+          "Over 170": 1.83333334,
+          "Under 170": 1.83333334
         }
       },
-      "Denso Iris [W] vs Aranmare [W]": {
-        "time": "2024-01-04 05:30:00",
+      "Neptunas-Akvaservis vs LSU Atletas": {
+        "time": "2024-01-06 14:00:00",
         "Money line": {
-          "1": 1.05128206,
-          "2": 10.5
+          "1": 3.3,
+          "2": 1.31746032
         },
         "Spread": {
-          "1 -21": 1.83333334,
-          "2 +21": 1.83333334
+          "2 -7": 1.82644629,
+          "1 +7": 1.84033614
         },
         "Over/under": {
-          "Over 125.5": 1.85470086,
-          "Under 125.5": 1.81300814
+          "Over 156.5": 1.83333334,
+          "Under 156.5": 1.83333334
         }
       },
-      "Toyota Antelopes [W] vs Fujitsu Red Wave [W]": {
-        "time": "2024-01-04 08:00:00",
-        "Money line": {
-          "1": 1.31746032,
-          "2": 3.3
-        },
+      "Suduva-Mantinga vs Kretingos Kretinga": {
+        "time": "2024-01-06 14:00:00",
         "Spread": {
-          "1 -7": 1.83333334,
-          "2 +7": 1.83333334
+          "1 -21.5": 1.84033614,
+          "2 +21.5": 1.82644629
         },
         "Over/under": {
-          "Over 140": 1.83333334,
-          "Under 140": 1.83333334
+          "Over 158.5": 1.83333334,
+          "Under 158.5": 1.83333334
+        }
+      },
+      "Vilniaus Stekas vs Telsiai": {
+        "time": "2024-01-06 14:00:00",
+        "Money line": {
+          "1": 3.3,
+          "2": 1.31746032
+        },
+        "Spread": {
+          "2 -7.5": 1.85470086,
+          "1 +7.5": 1.81300814
+        },
+        "Over/under": {
+          "Over 152": 1.83333334,
+          "Under 152": 1.83333334
+        }
+      },
+      "Vytis vs BC Vilkaviskio Perlas": {
+        "time": "2024-01-06 14:00:00",
+        "Money line": {
+          "1": 1.37037038,
+          "2": 3.02
+        },
+        "Spread": {
+          "1 -6.5": 1.85470086,
+          "2 +6.5": 1.81300814
+        },
+        "Over/under": {
+          "Over 171.5": 1.83333334,
+          "Under 171.5": 1.83333334
+        }
+      },
+      "Zalgiris Kaunas II vs Silute": {
+        "time": "2024-01-06 14:00:00",
+        "Money line": {
+          "1": 1.17857143,
+          "2": 4.7
+        },
+        "Spread": {
+          "1 -10.5": 1.83333334,
+          "2 +10.5": 1.83333334
+        },
+        "Over/under": {
+          "Over 148.5": 1.83333334,
+          "Under 148.5": 1.83333334
+        }
+      },
+      "Jurbarko Jurbarkas-Karys vs BC Olimpas Palanga": {
+        "time": "2024-01-06 15:00:00",
+        "Money line": {
+          "1": 3.1,
+          "2": 1.35460993
+        },
+        "Spread": {
+          "2 -6.5": 1.83333334,
+          "1 +6.5": 1.83333334
+        },
+        "Over/under": {
+          "Over 155": 1.82644629,
+          "Under 155": 1.84033614
         }
       }
     }
-  },
-  "Lithuania": {
-    "Lithuania - LKL": {},
-    "Lithuania - NKL": {}
   },
   "Malaysia": {
     "Malaysia - MABA Pro League": {}
   },
   "Morocco": {
-    "Morocco - Division 1": {}
+    "Morocco - Division 1": {
+      "CODM Meknes vs CPA Midelt": {
+        "time": "2024-01-06 15:00:00",
+        "Money line": {
+          "1": 2.8,
+          "2": 1.42016807
+        },
+        "Spread": {
+          "2 -5.5": 1.83333334,
+          "1 +5.5": 1.83333334
+        },
+        "Over/under": {
+          "Over 130.5": 1.83333334,
+          "Under 130.5": 1.83333334
+        }
+      },
+      "MAT Tetouan vs MSR Rabat": {
+        "time": "2024-01-06 18:30:00",
+        "Money line": {
+          "1": 4.5,
+          "2": 1.1923077
+        },
+        "Spread": {
+          "2 -10": 1.81967214,
+          "1 +10": 1.84745763
+        },
+        "Over/under": {
+          "Over 121": 1.82644629,
+          "Under 121": 1.84033614
+        }
+      }
+    }
   },
   "Philippines": {
-    "Philippines PBA Commissioners Cup": {}
+    "Philippines PBA Commissioners Cup": {
+      "Magnolia Hotshots vs Meralco Bolts": {
+        "time": "2024-01-06 10:30:00",
+        "Money line": {
+          "1": 1.4,
+          "2": 2.85
+        },
+        "Spread": {
+          "1 -4.5": 1.87000001,
+          "2 +4.5": 1.87000001
+        },
+        "Over/under": {
+          "Over 165.5": 1.87000001,
+          "Under 165.5": 1.87000001
+        }
+      },
+      "Terrafirma Dyip vs San Miguel Beermen": {
+        "time": "2024-01-07 07:00:00",
+        "Money line": {
+          "1": 6.0,
+          "2": 1.07142858
+        },
+        "Spread": {
+          "2 -15.5": 1.90909091,
+          "1 +15.5": 1.90909091
+        },
+        "Over/under": {
+          "Over 206": 1.86956522,
+          "Under 206": 1.86956522
+        }
+      },
+      "North Port Batang Pier vs Ginebra San Miguel": {
+        "time": "2024-01-07 10:30:00",
+        "Money line": {
+          "1": 3.55,
+          "2": 1.22222223
+        },
+        "Spread": {
+          "2 -10.5": 1.93457944,
+          "1 +10.5": 1.88495576
+        },
+        "Over/under": {
+          "Over 200": 1.89285715,
+          "Under 200": 1.84745763
+        }
+      }
+    }
   },
   "Poland": {
     "Poland - Basket Liga": {
-      "Twarde Pierniki Torun vs TBV Start Lublin": {
-        "time": "2024-01-04 16:30:00",
+      "Spojnia Stargard vs Energa Czarni Slupsk": {
+        "time": "2024-01-06 16:30:00",
         "Money line": {
-          "1": 1.74074075,
-          "2": 1.90909091
+          "1": 1.64516129,
+          "2": 2.15
         },
         "Spread": {
-          "1 -1.5": 1.89285715,
-          "2 +1.5": 1.92592593
+          "1 -2": 1.86956522,
+          "2 +2": 1.95238096
         },
         "Over/under": {
-          "Over 170.5": 1.87719299,
-          "Under 170.5": 1.86206897
+          "Over 156.5": 1.86956522,
+          "Under 156.5": 1.86956522
+        }
+      },
+      "Sokol Lancut vs King Szczecin": {
+        "time": "2024-01-07 14:30:00",
+        "Money line": {
+          "1": 2.55,
+          "2": 1.40816327
+        },
+        "Spread": {
+          "2 -5": 1.9174312,
+          "1 +5": 1.90090091
+        },
+        "Over/under": {
+          "Over 169": 1.85470086,
+          "Under 169": 1.88495576
+        }
+      },
+      "Asseco Gdynia vs Gtk Gliwice": {
+        "time": "2024-01-07 16:30:00",
+        "Money line": {
+          "1": 1.90909091,
+          "2": 1.74074075
+        },
+        "Spread": {
+          "2 -1.5": 1.87719299,
+          "1 +1.5": 1.94339623
+        },
+        "Over/under": {
+          "Over 175.5": 1.85470086,
+          "Under 175.5": 1.88495576
+        }
+      },
+      "Slask Wroclaw vs MKS Dabrowa Gornicza": {
+        "time": "2024-01-07 18:30:00",
+        "Money line": {
+          "1": 1.66666667,
+          "2": 2.0
+        },
+        "Spread": {
+          "1 -1.5": 1.92592593,
+          "2 +1.5": 1.89285715
+        },
+        "Over/under": {
+          "Over 176": 1.86206897,
+          "Under 176": 1.87719299
         }
       }
     }
   },
   "Portugal": {
-    "Portugal - Nacional 2": {}
-  },
-  "Romania": {
-    "Romania - Nationala": {}
-  },
-  "Slovenia": {
-    "Slovenia - 1. SKL": {},
-    "Slovenia - 1. SKL Women": {}
-  },
-  "South Korea": {
-    "KBL": {
-      "Anyang KGC vs Changwon LG Sakers": {
-        "time": "2024-01-02 10:00:00",
-        "Money line": {
-          "1": 4.6,
-          "2": 1.21276596
-        },
+    "Portugal - Nacional 2": {
+      "Carnide vs Belenenses U23": {
+        "time": "2024-01-06 20:30:00",
         "Spread": {
-          "2 -10": 1.90909091,
-          "1 +10": 1.90909091
+          "1 -23": 1.83333334,
+          "2 +23": 1.83333334
         },
         "Over/under": {
-          "Over 165": 1.92592593,
-          "Under 165": 1.89285715
+          "Over 128": 1.83333334,
+          "Under 128": 1.83333334
         }
       },
-      "Wonju Dongbu Promy vs Goyang Sky Gunners": {
-        "time": "2024-01-02 10:00:00",
+      "Escola Slb O Azemeis vs FC Gaia U23": {
+        "time": "2024-01-06 21:00:00",
+        "Money line": {
+          "1": 1.06896552,
+          "2": 8.5
+        },
+        "Spread": {
+          "1 -19.5": 1.82644629,
+          "2 +19.5": 1.84033614
+        },
+        "Over/under": {
+          "Over 121.5": 1.83333334,
+          "Under 121.5": 1.83333334
+        }
+      },
+      "GD Bolacesto vs Grib": {
+        "time": "2024-01-06 21:00:00",
+        "Money line": {
+          "1": 7.0,
+          "2": 1.0952381
+        },
+        "Spread": {
+          "2 -16.5": 1.83333334,
+          "1 +16.5": 1.83333334
+        },
+        "Over/under": {
+          "Over 127.5": 1.85470086,
+          "Under 127.5": 1.81300814
+        }
+      },
+      "BC Gaia vs UD Oliveirense U23": {
+        "time": "2024-01-07 16:30:00",
+        "Money line": {
+          "1": 1.16666667,
+          "2": 4.9
+        },
+        "Spread": {
+          "1 -11.5": 1.84745763,
+          "2 +11.5": 1.81967214
+        },
+        "Over/under": {
+          "Over 140.5": 1.84745763,
+          "Under 140.5": 1.81967214
+        }
+      },
+      "CAA Salesianos/Pad.Ribeiro vs Inedsport AD Basket": {
+        "time": "2024-01-07 18:00:00",
+        "Money line": {
+          "1": 6.7,
+          "2": 1.10416667
+        },
+        "Spread": {
+          "2 -17.5": 1.86206897,
+          "1 +17.5": 1.80645162
+        },
+        "Over/under": {
+          "Over 144": 1.82644629,
+          "Under 144": 1.84033614
+        }
+      },
+      "SIMECQ vs Gdemam": {
+        "time": "2024-01-07 20:30:00",
+        "Money line": {
+          "1": 1.8,
+          "2": 1.95238096
+        },
+        "Spread": {
+          "1 -1.5": 1.83333334,
+          "2 +1.5": 1.83333334
+        },
+        "Over/under": {
+          "Over 124.5": 1.83333334,
+          "Under 124.5": 1.83333334
+        }
+      }
+    }
+  },
+  "Romania": {
+    "Romania - Nationala": {
+      "CSS Ramnicu Valcea vs CSM Focsani": {
+        "time": "2024-01-06 15:00:00",
+        "Money line": {
+          "1": 1.28985508,
+          "2": 3.5
+        },
+        "Spread": {
+          "1 -8": 1.83333334,
+          "2 +8": 1.83333334
+        },
+        "Over/under": {
+          "Over 153.5": 1.82644629,
+          "Under 153.5": 1.84033614
+        }
+      },
+      "U-Banca Transilvania Cluj vs CS Phoenix Galati": {
+        "time": "2024-01-06 15:00:00",
+        "Money line": {
+          "1": 1.03571429,
+          "2": 13.0
+        },
+        "Spread": {
+          "1 -28.5": 1.85470086,
+          "2 +28.5": 1.81300814
+        },
+        "Over/under": {
+          "Over 174.5": 1.81967214,
+          "Under 174.5": 1.84745763
+        }
+      },
+      "CSU Sibiu vs CSM Targu Mures": {
+        "time": "2024-01-06 16:00:00",
+        "Money line": {
+          "1": 1.68493151,
+          "2": 2.14
+        },
+        "Spread": {
+          "1 -2.5": 1.81300814,
+          "2 +2.5": 1.85470086
+        },
+        "Over/under": {
+          "Over 160": 1.81300814,
+          "Under 160": 1.85470086
+        }
+      },
+      "Rapid Bucharest vs CSM Targu Jiu": {
+        "time": "2024-01-06 16:30:00",
+        "Money line": {
+          "1": 1.13888889,
+          "2": 5.5
+        },
+        "Spread": {
+          "1 -12.5": 1.83333334,
+          "2 +12.5": 1.83333334
+        },
+        "Over/under": {
+          "Over 155": 1.85470086,
+          "Under 155": 1.81300814
+        }
+      },
+      "CSM Corona Brasov vs ABC Laguna Bucuresti": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 1.06896552,
+          "2": 8.5
+        },
+        "Spread": {
+          "1 -22.5": 1.81300814,
+          "2 +22.5": 1.85470086
+        },
+        "Over/under": {
+          "Over 149.5": 1.81300814,
+          "Under 149.5": 1.85470086
+        }
+      },
+      "Dinamo Bucuresti vs CSO Voluntari": {
+        "time": "2024-01-06 18:00:00",
+        "Money line": {
+          "1": 2.24,
+          "2": 1.6329114
+        },
+        "Spread": {
+          "2 -3.5": 1.84033614,
+          "1 +3.5": 1.82644629
+        },
+        "Over/under": {
+          "Over 151.5": 1.84033614,
+          "Under 151.5": 1.82644629
+        }
+      }
+    }
+  },
+  "Slovenia": {
+    "Slovenia - 1. SKL": {
+      "Helios Domzale vs Podcetrtek": {
+        "time": "2024-01-06 12:00:00",
+        "Money line": {
+          "1": 1.28985508,
+          "2": 3.5
+        },
+        "Spread": {
+          "1 -8.5": 1.86956522,
+          "2 +8.5": 1.86956522
+        },
+        "Over/under": {
+          "Over 161.5": 1.86956522,
+          "Under 161.5": 1.86956522
+        }
+      },
+      "Hopsi Polzela vs Ilirija": {
+        "time": "2024-01-06 18:00:00",
+        "Money line": {
+          "1": 2.75,
+          "2": 1.43478261
+        },
+        "Spread": {
+          "2 -5.5": 1.84745763,
+          "1 +5.5": 1.81967214
+        },
+        "Over/under": {
+          "Over 171": 1.82644629,
+          "Under 171": 1.84033614
+        }
+      }
+    },
+    "Slovenia - 1. SKL Women": {
+      "Konjice [W] vs Triglav [W]": {
+        "time": "2024-01-06 15:30:00",
+        "Money line": {
+          "1": 10.0,
+          "2": 1.05405406
+        },
+        "Spread": {
+          "2 -27": 1.83333334,
+          "1 +27": 1.83333334
+        },
+        "Over/under": {
+          "Over 129.5": 1.83333334,
+          "Under 129.5": 1.83333334
+        }
+      },
+      "Maribor [W] vs Ilirija [W]": {
+        "time": "2024-01-06 18:00:00",
+        "Money line": {
+          "1": 2.8,
+          "2": 1.42016807
+        },
+        "Spread": {
+          "2 -6": 1.82644629,
+          "1 +6": 1.84033614
+        },
+        "Over/under": {
+          "Over 137.5": 1.84745763,
+          "Under 137.5": 1.81967214
+        }
+      }
+    }
+  },
+  "South Korea": {
+    "KBL": {},
+    "KBL Women": {}
+  },
+  "Spain": {
+    "Spain - ACB League": {
+      "BC Andorra vs UCAM Murcia CB": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 2.1,
+          "2": 1.76923077
+        },
+        "Spread": {
+          "2 -2": 1.95238096,
+          "1 +2": 1.86956522
+        },
+        "Over/under": {
+          "Over 165.5": 1.89285715,
+          "Under 165.5": 1.92592593
+        }
+      },
+      "Basket Zaragoza vs Girona": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 1.3875969,
+          "2": 3.1
+        },
+        "Spread": {
+          "1 -6.5": 1.90909091,
+          "2 +6.5": 1.90909091
+        },
+        "Over/under": {
+          "Over 167.5": 1.92592593,
+          "Under 167.5": 1.89285715
+        }
+      },
+      "CB Canarias vs DKV Joventut": {
+        "time": "2024-01-06 19:45:00",
+        "Money line": {
+          "1": 1.34482759,
+          "2": 3.35
+        },
+        "Spread": {
+          "1 -7": 1.92592593,
+          "2 +7": 1.89285715
+        },
+        "Over/under": {
+          "Over 162.5": 1.89285715,
+          "Under 162.5": 1.92592593
+        }
+      },
+      "Destino Palencia vs Unicaja": {
+        "time": "2024-01-06 19:45:00",
+        "Money line": {
+          "1": 5.4,
+          "2": 1.16666667
+        },
+        "Spread": {
+          "2 -11.5": 1.92592593,
+          "1 +11.5": 1.89285715
+        },
+        "Over/under": {
+          "Over 163": 1.92592593,
+          "Under 163": 1.89285715
+        }
+      },
+      "Bilbao Basket vs Manresa": {
+        "time": "2024-01-07 11:30:00",
+        "Money line": {
+          "1": 1.70422536,
+          "2": 2.2
+        },
+        "Spread": {
+          "1 -2.5": 1.90909091,
+          "2 +2.5": 1.90909091
+        },
+        "Over/under": {
+          "Over 163.5": 1.90909091,
+          "Under 163.5": 1.90909091
+        }
+      },
+      "CB Breogan vs CB Granada": {
+        "time": "2024-01-07 11:30:00",
+        "Money line": {
+          "1": 1.67567568,
+          "2": 2.24
+        },
+        "Spread": {
+          "1 -3": 1.92592593,
+          "2 +3": 1.89285715
+        },
+        "Over/under": {
+          "Over 161": 1.90909091,
+          "Under 161": 1.90909091
+        }
+      },
+      "FC Barcelona vs Obradoiro CAB": {
+        "time": "2024-01-07 16:00:00",
         "Money line": {
           "1": 1.08333334,
           "2": 8.4
         },
         "Spread": {
-          "1 -14.5": 1.86956522,
-          "2 +14.5": 1.95238096
+          "1 -14": 1.90909091,
+          "2 +14": 1.90909091
         },
         "Over/under": {
-          "Over 166": 1.89285715,
-          "Under 166": 1.92592593
+          "Over 165.5": 1.90909091,
+          "Under 165.5": 1.90909091
+        }
+      },
+      "Valencia Basket Club vs CB Gran Canaria": {
+        "time": "2024-01-07 16:00:00",
+        "Money line": {
+          "1": 1.4,
+          "2": 3.05
+        },
+        "Spread": {
+          "1 -5.5": 1.89285715,
+          "2 +5.5": 1.92592593
+        },
+        "Over/under": {
+          "Over 164": 1.90909091,
+          "Under 164": 1.90909091
+        }
+      },
+      "Baskonia vs Real Madrid": {
+        "time": "2024-01-07 17:30:00",
+        "Money line": {
+          "1": 2.24,
+          "2": 1.67567568
+        },
+        "Spread": {
+          "2 -3": 1.90909091,
+          "1 +3": 1.90909091
+        },
+        "Over/under": {
+          "Over 170.5": 1.90909091,
+          "Under 170.5": 1.90909091
         }
       }
     },
-    "KBL Women": {}
-  },
-  "Spain": {
-    "Spain - ACB League": {},
-    "Spain - LEB League": {},
-    "Spain - LFB Women": {}
+    "Spain - LEB League": {
+      "Vive Menorca vs Actel Forca Lleida": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 2.95,
+          "2": 1.34482759
+        },
+        "Spread": {
+          "2 -6.5": 1.89285715,
+          "1 +6.5": 1.84745763
+        },
+        "Over/under": {
+          "Over 148.5": 1.88495576,
+          "Under 148.5": 1.85470086
+        }
+      },
+      "Valladolid vs Fuenlabrada": {
+        "time": "2024-01-06 18:00:00",
+        "Money line": {
+          "1": 1.3508772,
+          "2": 2.8
+        },
+        "Spread": {
+          "1 -5.5": 1.85470086,
+          "2 +5.5": 1.88495576
+        },
+        "Over/under": {
+          "Over 154": 1.85470086,
+          "Under 154": 1.88495576
+        }
+      },
+      "CB Tizona vs San Pablo Burgos": {
+        "time": "2024-01-06 19:00:00",
+        "Money line": {
+          "1": 2.3,
+          "2": 1.51282052
+        },
+        "Spread": {
+          "2 -4": 1.85470086,
+          "1 +4": 1.88495576
+        },
+        "Over/under": {
+          "Over 169": 1.86956522,
+          "Under 169": 1.86956522
+        }
+      },
+      "Club Melilla Baloncesto vs Gipuzkoa Basket": {
+        "time": "2024-01-07 11:00:00",
+        "Money line": {
+          "1": 2.3,
+          "2": 1.47619048
+        },
+        "Spread": {
+          "2 -4": 1.89285715,
+          "1 +4": 1.84745763
+        },
+        "Over/under": {
+          "Over 151": 1.85470086,
+          "Under 151": 1.88495576
+        }
+      },
+      "CB Estudiantes vs Club Ourense Baloncesto": {
+        "time": "2024-01-07 11:30:00",
+        "Money line": {
+          "1": 1.04,
+          "2": 6.75
+        },
+        "Spread": {
+          "1 -16.5": 1.84745763,
+          "2 +16.5": 1.89285715
+        },
+        "Over/under": {
+          "Over 153.5": 1.86956522,
+          "Under 153.5": 1.86956522
+        }
+      },
+      "Grupo Alega Cantabria CBT vs CB Clavijo": {
+        "time": "2024-01-07 11:30:00",
+        "Money line": {
+          "1": 1.17391305,
+          "2": 3.9
+        },
+        "Spread": {
+          "1 -9.5": 1.89285715,
+          "2 +9.5": 1.84745763
+        },
+        "Over/under": {
+          "Over 148": 1.85470086,
+          "Under 148": 1.88495576
+        }
+      },
+      "Real Betis vs Fundacion Lucentum Alicante": {
+        "time": "2024-01-07 16:00:00",
+        "Money line": {
+          "1": 1.55555556,
+          "2": 2.15
+        },
+        "Spread": {
+          "1 -3.5": 1.89285715,
+          "2 +3.5": 1.84745763
+        },
+        "Over/under": {
+          "Over 156.5": 1.85470086,
+          "Under 156.5": 1.88495576
+        }
+      },
+      "Caceres Patrimonio de la Humanidad vs Liberbank Oviedo Baloncesto": {
+        "time": "2024-01-07 17:00:00",
+        "Money line": {
+          "1": 2.05,
+          "2": 1.625
+        },
+        "Spread": {
+          "2 -2.5": 1.84745763,
+          "1 +2.5": 1.89285715
+        },
+        "Over/under": {
+          "Over 156": 1.84745763,
+          "Under 156": 1.89285715
+        }
+      }
+    },
+    "Spain - LFB Women": {
+      "Valencia Basket Club [W] vs Gernika Bizkaia [W]": {
+        "time": "2024-01-06 18:15:00",
+        "Money line": {
+          "1": 1.10989011,
+          "2": 6.5
+        },
+        "Spread": {
+          "1 -15": 1.81300814,
+          "2 +15": 1.85470086
+        },
+        "Over/under": {
+          "Over 126.5": 1.81300814,
+          "Under 126.5": 1.85470086
+        }
+      }
+    }
   },
   "Turkey": {
-    "Turkey - BSL": {},
-    "Turkey - TBL": {},
+    "Turkey - BSL": {
+      "Galatasaray vs Tofas": {
+        "time": "2024-01-06 12:30:00",
+        "Money line": {
+          "1": 1.50505051,
+          "2": 2.64
+        },
+        "Spread": {
+          "1 -4.5": 1.92592593,
+          "2 +4.5": 1.89285715
+        },
+        "Over/under": {
+          "Over 167": 1.92592593,
+          "Under 167": 1.89285715
+        }
+      },
+      "Pinar Karsiyaka vs Manisa BSB Spor": {
+        "time": "2024-01-06 15:00:00",
+        "Money line": {
+          "1": 1.20618557,
+          "2": 4.7
+        },
+        "Spread": {
+          "1 -10.5": 1.90909091,
+          "2 +10.5": 1.90909091
+        },
+        "Over/under": {
+          "Over 170.5": 1.92592593,
+          "Under 170.5": 1.89285715
+        }
+      },
+      "Buyukcekmece vs Fenerbahce": {
+        "time": "2024-01-06 17:30:00",
+        "Money line": {
+          "1": 5.85,
+          "2": 1.14814815
+        },
+        "Spread": {
+          "2 -12": 1.89285715,
+          "1 +12": 1.92592593
+        },
+        "Over/under": {
+          "Over 164": 1.89285715,
+          "Under 164": 1.92592593
+        }
+      },
+      "Cagdas Bodrum Spor vs Socar Petkimspor": {
+        "time": "2024-01-07 10:00:00",
+        "Money line": {
+          "1": 2.24,
+          "2": 1.67567568
+        },
+        "Spread": {
+          "2 -2.5": 1.89285715,
+          "1 +2.5": 1.92592593
+        },
+        "Over/under": {
+          "Over 164.5": 1.89285715,
+          "Under 164.5": 1.92592593
+        }
+      },
+      "Darussafaka vs Turk Telekom": {
+        "time": "2024-01-07 12:30:00",
+        "Money line": {
+          "1": 3.6,
+          "2": 1.30769231
+        },
+        "Spread": {
+          "2 -8": 1.92592593,
+          "1 +8": 1.89285715
+        },
+        "Over/under": {
+          "Over 160": 1.92592593,
+          "Under 160": 1.89285715
+        }
+      },
+      "Bursaspor vs Anadolu Efes": {
+        "time": "2024-01-07 15:00:00",
+        "Money line": {
+          "1": 2.7,
+          "2": 1.48780488
+        },
+        "Spread": {
+          "2 -4.5": 1.89285715,
+          "1 +4.5": 1.92592593
+        },
+        "Over/under": {
+          "Over 168": 1.90909091,
+          "Under 168": 1.90909091
+        }
+      }
+    },
+    "Turkey - TBL": {
+      "MKE Ankaragucu vs Mersin Buyuksehir": {
+        "time": "2024-01-06 11:45:00",
+        "Money line": {
+          "1": 2.35,
+          "2": 1.57142858
+        },
+        "Spread": {
+          "2 -3.5": 1.8999756,
+          "1 +3.5": 1.84095556
+        },
+        "Over/under": {
+          "Over 156.5": 1.8999756,
+          "Under 156.5": 1.84095556
+        }
+      },
+      "Konyaspor vs Bornova Belediye": {
+        "time": "2024-01-06 13:30:00",
+        "Money line": {
+          "1": 1.5,
+          "2": 2.5
+        },
+        "Spread": {
+          "1 -3.5": 1.87719299,
+          "2 +3.5": 1.94339623
+        },
+        "Over/under": {
+          "Over 165": 1.88495576,
+          "Under 165": 1.85470086
+        }
+      },
+      "Balikesir Buyuksehir Belediyespor vs Ormanspor": {
+        "time": "2024-01-06 15:15:00",
+        "Money line": {
+          "1": 1.71428572,
+          "2": 2.05
+        },
+        "Spread": {
+          "1 -2": 1.87719299,
+          "2 +2": 1.94339623
+        },
+        "Over/under": {
+          "Over 162.5": 1.85470086,
+          "Under 162.5": 1.88495576
+        }
+      }
+    },
     "Turkey - TBL2": {}
   },
   "United Kingdom": {
@@ -943,482 +2526,2123 @@
   },
   "United States": {
     "NBA": {
-      "NY Knicks vs MIN Timberwolves": {
-        "time": "2024-01-01 20:10:00",
+      "IND Pacers vs BOS Celtics": {
+        "time": "2024-01-07 00:10:00",
         "Money line": {
-          "1": 1.06896552,
-          "2": 8.5
+          "1": 2.65,
+          "2": 1.42553192
         },
         "Spread": {
-          "1 -6.5": 2.0,
-          "2 +6.5": 1.76923077
+          "2 -5.5": 1.8350289,
+          "1 +5.5": 1.8249986
         },
         "Over/under": {
-          "Over 213.5": 1.95238096,
-          "Under 213.5": 1.8
+          "Over 247.5": 1.9174312,
+          "Under 247.5": 1.90090091
         }
       },
-      "TOR Raptors vs CLE Cavaliers": {
-        "time": "2024-01-02 00:40:00",
+      "WAS Wizards vs NY Knicks": {
+        "time": "2024-01-07 00:10:00",
         "Money line": {
-          "1": 1.68965518,
-          "2": 2.25
+          "1": 3.6,
+          "2": 1.23529412
         },
         "Spread": {
-          "1 -2.5": 1.89747999,
-          "2 +2.5": 1.92268633
+          "2 -9": 1.80687766,
+          "1 +9": 1.85372181
         },
         "Over/under": {
-          "Over 227.5": 1.89285715,
-          "Under 227.5": 1.92592593
+          "Over 239": 1.90909091,
+          "Under 239": 1.90909091
         }
       },
-      "HOU Rockets vs DET Pistons": {
-        "time": "2024-01-02 01:10:00",
+      "PHI 76ers vs UTA Jazz": {
+        "time": "2024-01-07 00:40:00",
         "Money line": {
-          "1": 1.25,
-          "2": 4.15
+          "1": 1.1,
+          "2": 5.75
         },
         "Spread": {
-          "1 -9": 1.87448362,
-          "2 +9": 1.94688827
+          "1 -12.5": 1.83004921,
+          "2 +12.5": 1.8299508
         },
         "Over/under": {
-          "Over 227": 1.90909091,
-          "Under 227": 1.90909091
+          "Over 238.5": 1.90909091,
+          "Under 238.5": 1.90909091
         }
       },
-      "MIL Bucks vs IND Pacers": {
-        "time": "2024-01-02 01:15:00",
+      "HOU Rockets vs MIL Bucks": {
+        "time": "2024-01-07 01:10:00",
         "Money line": {
-          "1": 1.30303031,
-          "2": 3.65
+          "1": 2.8,
+          "2": 1.3773585
         },
         "Spread": {
-          "1 -8": 1.90999535,
-          "2 +8": 1.91000466
+          "2 -6": 1.82336713,
+          "1 +6": 1.83668131
         },
         "Over/under": {
-          "Over 260.5": 1.90909091,
-          "Under 260.5": 1.90909091
-        }
-      },
-      "DEN Nuggets vs CHA Hornets": {
-        "time": "2024-01-02 02:10:00",
-        "Money line": {
-          "1": 1.0625,
-          "2": 9.0
-        },
-        "Spread": {
-          "1 -16": 1.90958981,
-          "2 +16": 1.87080805
-        },
-        "Over/under": {
-          "Over 226": 1.90090091,
-          "Under 226": 1.9174312
-        }
-      },
-      "PHO Suns vs POR Trail Blazers": {
-        "time": "2024-01-02 02:10:00",
-        "Money line": {
-          "1": 1.23529412,
-          "2": 4.15
-        },
-        "Spread": {
-          "1 -9.5": 1.89532937,
-          "2 +9.5": 1.88470053
-        },
-        "Over/under": {
-          "Over 228": 1.90090091,
-          "Under 228": 1.9174312
-        }
-      },
-      "UTA Jazz vs DAL Mavericks": {
-        "time": "2024-01-02 02:10:00",
-        "Money line": {
-          "1": 2.35,
-          "2": 1.60606061
-        },
-        "Spread": {
-          "2 -4": 1.92785893,
-          "1 +4": 1.85359938
-        },
-        "Over/under": {
-          "Over 246.5": 1.90909091,
-          "Under 246.5": 1.90909091
-        }
-      },
-      "LA Clippers vs MIA Heat": {
-        "time": "2024-01-02 03:40:00",
-        "Money line": {
-          "1": 1.32258065,
-          "2": 3.25
-        },
-        "Spread": {
-          "1 -7.5": 1.83753877,
-          "2 +7.5": 1.90362876
-        },
-        "Over/under": {
-          "Over 227.5": 1.89285715,
-          "Under 227.5": 1.92592593
-        }
-      },
-      "PHI 76ers vs CHI Bulls": {
-        "time": "2024-01-03 00:00:00",
-        "Money line": {
-          "1": 1.11428572,
-          "2": 5.25
-        },
-        "Spread": {
-          "1 -11": 1.83,
-          "2 +11": 1.83
-        },
-        "Over/under": {
-          "Over 224": 1.90909091,
-          "Under 224": 1.90909091
+          "Over 238.5": 1.90909091,
+          "Under 238.5": 1.90909091
         }
       }
     },
     "NCAAB": {
-      "TCU vs Texas A&M-Commerce": {
-        "time": "2024-01-01 21:00:00",
+      "Clemson vs North Carolina": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 1.60240964,
+          "2": 2.4
+        },
         "Spread": {
-          "1 -41.5": 2.0,
-          "2 +41.5": 1.76923077
+          "1 -3.5": 1.93457944,
+          "2 +3.5": 1.88495576
         },
         "Over/under": {
-          "Over 123.5": 1.95238096,
-          "Under 123.5": 1.8
+          "Over 158.5": 1.90909091,
+          "Under 158.5": 1.90909091
         }
       },
-      "Air Force vs Utah State": {
-        "time": "2024-01-02 21:00:00",
+      "Fordham vs La Salle": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 1.4587156,
+          "2": 2.8
+        },
         "Spread": {
-          "2 -6.5": 1.9174312,
-          "1 +6.5": 1.90090091
+          "1 -5": 1.88495576,
+          "2 +5": 1.93457944
         },
         "Over/under": {
-          "Over 138": 1.95238096,
-          "Under 138": 1.86956522
+          "Over 145": 1.90909091,
+          "Under 145": 1.90909091
         }
       },
-      "UConn vs DePaul": {
-        "time": "2024-01-02 23:30:00",
+      "Georgetown vs DePaul": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 1.35971224,
+          "2": 3.25
+        },
         "Spread": {
-          "1 -23.5": 1.90909091,
-          "2 +23.5": 1.90909091
+          "1 -6.5": 1.90090091,
+          "2 +6.5": 1.9174312
         },
         "Over/under": {
-          "Over 140": 1.90909091,
-          "Under 140": 1.90909091
+          "Over 144.5": 1.90909091,
+          "Under 144.5": 1.90909091
         }
       },
-      "Boston College vs Wake Forest": {
-        "time": "2024-01-03 00:00:00",
+      "Iowa vs Rutgers": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 1.33557047,
+          "2": 3.4
+        },
         "Spread": {
-          "1 -1": 1.95238096,
-          "2 +1": 1.86956522
+          "1 -7": 1.90909091,
+          "2 +7": 1.90909091
         },
         "Over/under": {
-          "Over 150": 1.90909091,
-          "Under 150": 1.90909091
+          "Over 152": 1.90090091,
+          "Under 152": 1.9174312
         }
       },
-      "Bowling Green vs Eastern Michigan": {
-        "time": "2024-01-03 00:00:00",
+      "Louisville vs Pittsburgh": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 4.4,
+          "2": 1.22727273
+        },
         "Spread": {
-          "1 -10": 1.90909091,
-          "2 +10": 1.90909091
+          "2 -9": 1.90090091,
+          "1 +9": 1.9174312
         },
         "Over/under": {
-          "Over 140.5": 1.93457944,
-          "Under 140.5": 1.88495576
+          "Over 145.5": 1.92592593,
+          "Under 145.5": 1.89285715
         }
       },
-      "Brown vs Vermont": {
-        "time": "2024-01-03 00:00:00",
+      "New Hampshire vs UMass Lowell": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 1.92592593,
+          "2": 1.89285715
+        },
         "Spread": {
-          "2 -4": 1.90909091,
-          "1 +4": 1.90909091
+          "1 0": 1.92592593,
+          "2 0": 1.89285715
         },
         "Over/under": {
-          "Over 134": 1.90909091,
-          "Under 134": 1.90909091
+          "Over 153": 1.90909091,
+          "Under 153": 1.90909091
         }
       },
-      "Central Michigan vs Buffalo": {
-        "time": "2024-01-03 00:00:00",
-        "Spread": {
-          "1 -3.5": 1.90909091,
-          "2 +3.5": 1.90909091
+      "North Carolina Central vs Howard": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 1.74074075,
+          "2": 2.14
         },
-        "Over/under": {
-          "Over 141": 1.90909091,
-          "Under 141": 1.90909091
-        }
-      },
-      "Florida Atlantic vs East Carolina": {
-        "time": "2024-01-03 00:00:00",
         "Spread": {
-          "1 -18": 1.93457944,
-          "2 +18": 1.88495576
-        },
-        "Over/under": {
-          "Over 146.5": 1.86956522,
-          "Under 146.5": 1.95238096
-        }
-      },
-      "Georgetown vs Creighton": {
-        "time": "2024-01-03 00:00:00",
-        "Spread": {
-          "2 -12.5": 1.90909091,
-          "1 +12.5": 1.90909091
-        },
-        "Over/under": {
-          "Over 148": 1.86956522,
-          "Under 148": 1.95238096
-        }
-      },
-      "Harvard vs Albany NY": {
-        "time": "2024-01-03 00:00:00",
-        "Spread": {
-          "1 -3": 1.90909091,
-          "2 +3": 1.90909091
-        },
-        "Over/under": {
-          "Over 152.5": 1.90909091,
-          "Under 152.5": 1.90909091
-        }
-      },
-      "Kent State vs Ball State": {
-        "time": "2024-01-03 00:00:00",
-        "Spread": {
-          "1 -11.5": 1.90909091,
-          "2 +11.5": 1.90909091
-        },
-        "Over/under": {
-          "Over 143.5": 1.90909091,
-          "Under 143.5": 1.90909091
-        }
-      },
-      "Maryland vs Purdue": {
-        "time": "2024-01-03 00:00:00",
-        "Spread": {
-          "2 -7.5": 1.90090091,
-          "1 +7.5": 1.9174312
-        },
-        "Over/under": {
-          "Over 142": 1.81967214,
-          "Under 142": 2.02
-        }
-      },
-      "Miami OH vs Western Michigan": {
-        "time": "2024-01-03 00:00:00",
-        "Spread": {
-          "1 -5.5": 1.92592593,
-          "2 +5.5": 1.89285715
-        },
-        "Over/under": {
-          "Over 146.5": 1.86956522,
-          "Under 146.5": 1.95238096
-        }
-      },
-      "Ohio vs Toledo": {
-        "time": "2024-01-03 00:00:00",
-        "Spread": {
-          "1 -3.5": 1.90909091,
-          "2 +3.5": 1.90909091
-        },
-        "Over/under": {
-          "Over 159": 1.90909091,
-          "Under 159": 1.90909091
-        }
-      },
-      "Pittsburgh vs North Carolina": {
-        "time": "2024-01-03 00:00:00",
-        "Spread": {
-          "2 -3": 1.84745763,
-          "1 +3": 1.98039216
-        },
-        "Over/under": {
-          "Over 157": 1.89285715,
-          "Under 157": 1.92592593
-        }
-      },
-      "Tennessee vs Norfolk State": {
-        "time": "2024-01-03 00:00:00",
-        "Spread": {
-          "1 -24.5": 1.86956522,
-          "2 +24.5": 1.95238096
-        },
-        "Over/under": {
-          "Over 139": 1.90909091,
-          "Under 139": 1.90909091
-        }
-      },
-      "Wisconsin vs Iowa": {
-        "time": "2024-01-03 00:00:00",
-        "Spread": {
-          "1 -7.5": 1.87719299,
-          "2 +7.5": 1.94339623
-        },
-        "Over/under": {
-          "Over 153.5": 1.9174312,
-          "Under 153.5": 1.90090091
-        }
-      },
-      "Baylor vs Cornell": {
-        "time": "2024-01-03 01:00:00",
-        "Spread": {
-          "1 -16": 1.90909091,
-          "2 +16": 1.90909091
-        },
-        "Over/under": {
-          "Over 166.5": 1.95238096,
-          "Under 166.5": 1.86956522
-        }
-      },
-      "Kansas State vs Chicago State": {
-        "time": "2024-01-03 01:00:00",
-        "Spread": {
-          "1 -19": 1.90909091,
-          "2 +19": 1.90909091
-        },
-        "Over/under": {
-          "Over 134": 1.90909091,
-          "Under 134": 1.90909091
-        }
-      },
-      "Murray State vs UIC": {
-        "time": "2024-01-03 01:00:00",
-        "Spread": {
-          "1 -2.5": 1.90909091,
-          "2 +2.5": 1.90909091
-        },
-        "Over/under": {
-          "Over 138.5": 1.90909091,
-          "Under 138.5": 1.90909091
-        }
-      },
-      "Northern Illinois vs Akron": {
-        "time": "2024-01-03 01:00:00",
-        "Spread": {
-          "2 -5": 1.90909091,
-          "1 +5": 1.90909091
+          "1 -2": 1.90909091,
+          "2 +2": 1.90909091
         },
         "Over/under": {
           "Over 149.5": 1.90909091,
           "Under 149.5": 1.90909091
         }
       },
-      "Southern Illinois vs Belmont": {
-        "time": "2024-01-03 01:00:00",
+      "Seton Hall vs Marquette": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 2.8,
+          "2": 1.4587156
+        },
+        "Spread": {
+          "2 -5.5": 1.95238096,
+          "1 +5.5": 1.86956522
+        },
+        "Over/under": {
+          "Over 144": 1.92592593,
+          "Under 144": 1.89285715
+        }
+      },
+      "South Carolina vs Mississippi State": {
+        "time": "2024-01-06 17:00:00",
+        "Money line": {
+          "1": 2.3,
+          "2": 1.6451613
+        },
+        "Spread": {
+          "2 -3": 1.90090091,
+          "1 +3": 1.9174312
+        },
+        "Over/under": {
+          "Over 134.5": 1.90909091,
+          "Under 134.5": 1.90909091
+        }
+      },
+      "Florida vs Kentucky": {
+        "time": "2024-01-06 17:30:00",
+        "Money line": {
+          "1": 1.61728396,
+          "2": 2.36
+        },
+        "Spread": {
+          "1 -3.5": 1.9174312,
+          "2 +3.5": 1.90090091
+        },
+        "Over/under": {
+          "Over 167.5": 1.88495576,
+          "Under 167.5": 1.93457944
+        }
+      },
+      "Army West Point vs Holy Cross": {
+        "time": "2024-01-06 18:00:00",
+        "Money line": {
+          "1": 1.3875969,
+          "2": 3.1
+        },
+        "Spread": {
+          "1 -6": 1.90909091,
+          "2 +6": 1.90909091
+        },
+        "Over/under": {
+          "Over 126.5": 1.90909091,
+          "Under 126.5": 1.90909091
+        }
+      },
+      "Boston University vs Lafayette": {
+        "time": "2024-01-06 18:00:00",
         "Spread": {
           "1 -6.5": 1.90909091,
           "2 +6.5": 1.90909091
         },
         "Over/under": {
-          "Over 145.5": 1.86956522,
-          "Under 145.5": 1.95238096
+          "Over 127": 1.95238096,
+          "Under 127": 1.86956522
         }
       },
-      "Saint Johns vs Butler": {
-        "time": "2024-01-03 01:30:00",
+      "Detroit Mercy vs Milwaukee": {
+        "time": "2024-01-06 18:00:00",
+        "Money line": {
+          "1": 3.75,
+          "2": 1.28985508
+        },
         "Spread": {
-          "1 -7": 1.90909091,
-          "2 +7": 1.90909091
+          "2 -7.5": 1.86956522,
+          "1 +7.5": 1.95238096
         },
         "Over/under": {
           "Over 151.5": 1.90909091,
           "Under 151.5": 1.90909091
         }
       },
-      "Wyoming vs San Jose State": {
-        "time": "2024-01-03 01:30:00",
+      "Missouri vs Georgia Bulldogs": {
+        "time": "2024-01-06 18:00:00",
+        "Money line": {
+          "1": 1.4587156,
+          "2": 2.8
+        },
         "Spread": {
           "1 -5": 1.90909091,
           "2 +5": 1.90909091
         },
         "Over/under": {
-          "Over 146": 1.90909091,
-          "Under 146": 1.90909091
+          "Over 148": 1.90909091,
+          "Under 148": 1.90909091
         }
       },
-      "Auburn vs Pennsylvania": {
-        "time": "2024-01-03 02:00:00",
+      "Navy vs Colgate": {
+        "time": "2024-01-06 18:00:00",
+        "Money line": {
+          "1": 2.85,
+          "2": 1.44444445
+        },
         "Spread": {
-          "1 -21.5": 1.9174312,
-          "2 +21.5": 1.90090091
+          "2 -5": 1.92592593,
+          "1 +5": 1.89285715
         },
         "Over/under": {
-          "Over 150.5": 1.89285715,
-          "Under 150.5": 1.92592593
+          "Over 135": 1.90909091,
+          "Under 135": 1.90909091
         }
       },
-      "Drake vs Illinois State": {
-        "time": "2024-01-03 02:00:00",
+      "Purdue Fort Wayne vs Wright State": {
+        "time": "2024-01-06 18:00:00",
+        "Money line": {
+          "1": 1.74074075,
+          "2": 2.14
+        },
         "Spread": {
-          "1 -13": 1.90909091,
-          "2 +13": 1.90909091
+          "1 -2": 1.89285715,
+          "2 +2": 1.92592593
         },
         "Over/under": {
-          "Over 137.5": 1.90909091,
-          "Under 137.5": 1.90909091
+          "Over 162.5": 1.90909091,
+          "Under 162.5": 1.90909091
         }
       },
-      "Duke vs Syracuse": {
-        "time": "2024-01-03 02:00:00",
+      "The Citadel vs Samford": {
+        "time": "2024-01-06 18:00:00",
+        "Money line": {
+          "1": 3.0,
+          "2": 1.40816327
+        },
         "Spread": {
-          "1 -14.5": 1.90909091,
-          "2 +14.5": 1.90909091
+          "2 -6": 1.90909091,
+          "1 +6": 1.90909091
         },
         "Over/under": {
-          "Over 151.5": 1.86956522,
-          "Under 151.5": 1.95238096
+          "Over 152": 1.90909091,
+          "Under 152": 1.90909091
         }
       },
-      "Illinois vs Northwestern": {
-        "time": "2024-01-03 02:00:00",
+      "UMBC vs Bryant": {
+        "time": "2024-01-06 18:00:00",
+        "Money line": {
+          "1": 3.15,
+          "2": 1.3773585
+        },
         "Spread": {
-          "1 -6": 1.90909091,
-          "2 +6": 1.90909091
+          "2 -5.5": 1.90909091,
+          "1 +5.5": 1.90909091
+        },
+        "Over/under": {
+          "Over 170.5": 1.90909091,
+          "Under 170.5": 1.90909091
+        }
+      },
+      "VMI vs Mercer": {
+        "time": "2024-01-06 18:00:00",
+        "Money line": {
+          "1": 2.8,
+          "2": 1.4587156
+        },
+        "Spread": {
+          "2 -5": 1.92592593,
+          "1 +5": 1.89285715
+        },
+        "Over/under": {
+          "Over 141": 1.90909091,
+          "Under 141": 1.90909091
+        }
+      },
+      "Villanova vs Saint Johns": {
+        "time": "2024-01-06 18:00:00",
+        "Money line": {
+          "1": 1.54054055,
+          "2": 2.54
+        },
+        "Spread": {
+          "1 -4.5": 1.9174312,
+          "2 +4.5": 1.90090091
         },
         "Over/under": {
           "Over 143.5": 1.90909091,
           "Under 143.5": 1.90909091
         }
       },
-      "SMU vs Charlotte": {
-        "time": "2024-01-03 02:00:00",
+      "Wagner vs Saint Francis PA": {
+        "time": "2024-01-06 18:00:00",
+        "Money line": {
+          "1": 1.55555556,
+          "2": 2.5
+        },
         "Spread": {
-          "1 -8.5": 1.87719299,
-          "2 +8.5": 1.94339623
+          "1 -5": 1.90909091,
+          "2 +5": 1.90909091
+        },
+        "Over/under": {
+          "Over 128.5": 1.90909091,
+          "Under 128.5": 1.90909091
+        }
+      },
+      "Arkansas vs Auburn": {
+        "time": "2024-01-06 19:00:00",
+        "Money line": {
+          "1": 2.14,
+          "2": 1.74074075
+        },
+        "Spread": {
+          "2 -2.5": 1.9174312,
+          "1 +2.5": 1.90090091
+        },
+        "Over/under": {
+          "Over 157.5": 1.92592593,
+          "Under 157.5": 1.89285715
+        }
+      },
+      "Ball State vs Central Michigan": {
+        "time": "2024-01-06 19:00:00",
+        "Money line": {
+          "1": 1.28169015,
+          "2": 3.8
+        },
+        "Spread": {
+          "1 -7.5": 1.89285715,
+          "2 +7.5": 1.92592593
+        },
+        "Over/under": {
+          "Over 140": 1.9174312,
+          "Under 140": 1.90090091
+        }
+      },
+      "Bucknell vs American": {
+        "time": "2024-01-06 19:00:00",
+        "Money line": {
+          "1": 2.02,
+          "2": 1.81967214
+        },
+        "Spread": {
+          "2 -1.5": 1.90909091,
+          "1 +1.5": 1.90909091
+        },
+        "Over/under": {
+          "Over 132": 1.90909091,
+          "Under 132": 1.90909091
+        }
+      },
+      "Buffalo vs Western Michigan": {
+        "time": "2024-01-06 19:00:00",
+        "Money line": {
+          "1": 1.67567568,
+          "2": 2.24
+        },
+        "Spread": {
+          "1 -2.5": 1.90909091,
+          "2 +2.5": 1.90909091
+        },
+        "Over/under": {
+          "Over 148.5": 1.90909091,
+          "Under 148.5": 1.90909091
+        }
+      },
+      "Creighton vs Providence": {
+        "time": "2024-01-06 19:00:00",
+        "Money line": {
+          "1": 1.16,
+          "2": 5.55
+        },
+        "Spread": {
+          "1 -11": 1.90909091,
+          "2 +11": 1.90909091
+        },
+        "Over/under": {
+          "Over 140.5": 1.9174312,
+          "Under 140.5": 1.90090091
+        }
+      },
+      "Evansville vs Murray State": {
+        "time": "2024-01-06 19:00:00",
+        "Money line": {
+          "1": 1.8,
+          "2": 2.05
+        },
+        "Spread": {
+          "1 -2": 1.92592593,
+          "2 +2": 1.89285715
+        },
+        "Over/under": {
+          "Over 148": 1.92592593,
+          "Under 148": 1.89285715
+        }
+      },
+      "George Mason vs Saint Louis": {
+        "time": "2024-01-06 19:00:00",
+        "Money line": {
+          "1": 1.21978022,
+          "2": 4.5
+        },
+        "Spread": {
+          "1 -8.5": 1.88495576,
+          "2 +8.5": 1.93457944
+        },
+        "Over/under": {
+          "Over 143": 1.90090091,
+          "Under 143": 1.9174312
+        }
+      },
+      "Hampton vs Campbell": {
+        "time": "2024-01-06 19:00:00",
+        "Money line": {
+          "1": 1.70422536,
+          "2": 2.2
+        },
+        "Spread": {
+          "1 -2.5": 1.92592593,
+          "2 +2.5": 1.89285715
+        },
+        "Over/under": {
+          "Over 141": 1.90909091,
+          "Under 141": 1.90909091
+        }
+      },
+      "High Point vs Gardner-Webb": {
+        "time": "2024-01-06 19:00:00",
+        "Spread": {
+          "1 -7.5": 1.95238096,
+          "2 +7.5": 1.86956522
+        },
+        "Over/under": {
+          "Over 150": 1.90909091,
+          "Under 150": 1.90909091
+        }
+      },
+      "Hofstra vs Delaware": {
+        "time": "2024-01-06 19:00:00",
+        "Money line": {
+          "1": 1.43478261,
+          "2": 2.9
+        },
+        "Spread": {
+          "1 -6": 1.9174312,
+          "2 +6": 1.90090091
+        },
+        "Over/under": {
+          "Over 143.5": 1.90909091,
+          "Under 143.5": 1.90909091
+        }
+      },
+      "Houston vs West Virginia": {
+        "time": "2024-01-06 19:00:00",
+        "Spread": {
+          "1 -21": 1.90909091,
+          "2 +21": 1.90909091
+        },
+        "Over/under": {
+          "Over 135": 1.95238096,
+          "Under 135": 1.86956522
+        }
+      },
+      "Kansas vs TCU": {
+        "time": "2024-01-06 19:00:00",
+        "Money line": {
+          "1": 1.22727273,
+          "2": 4.4
+        },
+        "Spread": {
+          "1 -9.5": 1.90909091,
+          "2 +9.5": 1.90909091
+        },
+        "Over/under": {
+          "Over 152.5": 1.90909091,
+          "Under 152.5": 1.90909091
+        }
+      },
+      "North Carolina State vs Virginia": {
+        "time": "2024-01-06 19:00:00",
+        "Money line": {
+          "1": 1.76923077,
+          "2": 2.1
+        },
+        "Spread": {
+          "1 -1.5": 1.88495576,
+          "2 +1.5": 1.93457944
+        },
+        "Over/under": {
+          "Over 127.5": 1.90909091,
+          "Under 127.5": 1.90909091
+        }
+      },
+      "North Texas vs Tulane": {
+        "time": "2024-01-06 19:00:00",
+        "Money line": {
+          "1": 1.48780488,
+          "2": 2.7
+        },
+        "Spread": {
+          "1 -5": 1.9174312,
+          "2 +5": 1.90090091
+        },
+        "Over/under": {
+          "Over 142.5": 1.90909091,
+          "Under 142.5": 1.90909091
+        }
+      },
+      "Ohio vs Northern Illinois": {
+        "time": "2024-01-06 19:00:00",
+        "Money line": {
+          "1": 1.30769231,
+          "2": 3.6
+        },
+        "Spread": {
+          "1 -7.5": 1.90909091,
+          "2 +7.5": 1.90909091
+        },
+        "Over/under": {
+          "Over 155": 1.90909091,
+          "Under 155": 1.90909091
+        }
+      },
+      "Pennsylvania vs Dartmouth": {
+        "time": "2024-01-06 19:00:00",
+        "Money line": {
+          "1": 1.25316456,
+          "2": 4.1
+        },
+        "Spread": {
+          "1 -7.5": 1.9174312,
+          "2 +7.5": 1.90090091
+        },
+        "Over/under": {
+          "Over 134": 1.86206897,
+          "Under 134": 1.96153847
+        }
+      },
+      "Presbyterian vs UNC Asheville": {
+        "time": "2024-01-06 19:00:00",
+        "Money line": {
+          "1": 2.42,
+          "2": 1.5882353
+        },
+        "Spread": {
+          "2 -3.5": 1.86956522,
+          "1 +3.5": 1.95238096
+        },
+        "Over/under": {
+          "Over 144": 1.90090091,
+          "Under 144": 1.9174312
+        }
+      },
+      "Princeton vs Harvard": {
+        "time": "2024-01-06 19:00:00",
+        "Money line": {
+          "1": 1.06896552,
+          "2": 9.5
+        },
+        "Spread": {
+          "1 -15.5": 1.88495576,
+          "2 +15.5": 1.93457944
+        },
+        "Over/under": {
+          "Over 144": 1.90909091,
+          "Under 144": 1.90909091
+        }
+      },
+      "Stetson vs Jacksonville": {
+        "time": "2024-01-06 19:00:00",
+        "Money line": {
+          "1": 1.35971224,
+          "2": 3.25
+        },
+        "Spread": {
+          "1 -6.5": 1.90909091,
+          "2 +6.5": 1.90909091
+        },
+        "Over/under": {
+          "Over 148": 1.90909091,
+          "Under 148": 1.90909091
+        }
+      },
+      "Stonehill vs LIU": {
+        "time": "2024-01-06 19:00:00",
+        "Money line": {
+          "1": 1.48780488,
+          "2": 2.7
+        },
+        "Spread": {
+          "1 -6": 1.92592593,
+          "2 +6": 1.89285715
+        },
+        "Over/under": {
+          "Over 144": 1.90909091,
+          "Under 144": 1.90909091
+        }
+      },
+      "Texas A&M-Commerce vs McNeese": {
+        "time": "2024-01-06 19:00:00",
+        "Spread": {
+          "2 -10.5": 1.90909091,
+          "1 +10.5": 1.90909091
+        },
+        "Over/under": {
+          "Over 137": 1.90909091,
+          "Under 137": 1.90909091
+        }
+      },
+      "Towson vs UNCW": {
+        "time": "2024-01-06 19:00:00",
+        "Money line": {
+          "1": 1.95238096,
+          "2": 1.86956522
+        },
+        "Spread": {
+          "2 -1": 1.90909091,
+          "1 +1": 1.90909091
+        },
+        "Over/under": {
+          "Over 134": 1.9174312,
+          "Under 134": 1.90090091
+        }
+      },
+      "Vermont vs Maine": {
+        "time": "2024-01-06 19:00:00",
+        "Spread": {
+          "1 -7.5": 1.90909091,
+          "2 +7.5": 1.90909091
+        },
+        "Over/under": {
+          "Over 133.5": 1.9174312,
+          "Under 133.5": 1.90090091
+        }
+      },
+      "William & Mary vs Drexel": {
+        "time": "2024-01-06 19:00:00",
+        "Money line": {
+          "1": 3.6,
+          "2": 1.30769231
+        },
+        "Spread": {
+          "2 -7": 1.90909091,
+          "1 +7": 1.90909091
+        },
+        "Over/under": {
+          "Over 139": 1.90909091,
+          "Under 139": 1.90909091
+        }
+      },
+      "Wake Forest vs Miami FL": {
+        "time": "2024-01-06 19:15:00",
+        "Spread": {
+          "1 -3.5": 1.90090091,
+          "2 +3.5": 1.9174312
+        },
+        "Over/under": {
+          "Over 159.5": 1.90909091,
+          "Under 159.5": 1.90909091
+        }
+      },
+      "Wisconsin vs Nebraska": {
+        "time": "2024-01-06 19:15:00",
+        "Money line": {
+          "1": 1.35971224,
+          "2": 3.25
+        },
+        "Spread": {
+          "1 -6.5": 1.90090091,
+          "2 +6.5": 1.9174312
+        },
+        "Over/under": {
+          "Over 143.5": 1.9174312,
+          "Under 143.5": 1.90090091
+        }
+      },
+      "Arkansas State vs Old Dominion": {
+        "time": "2024-01-06 20:00:00",
+        "Money line": {
+          "1": 1.1923077,
+          "2": 4.9
+        },
+        "Spread": {
+          "1 -9.5": 1.88495576,
+          "2 +9.5": 1.93457944
+        },
+        "Over/under": {
+          "Over 150": 1.90909091,
+          "Under 150": 1.90909091
+        }
+      },
+      "Longwood vs Charleston Southern": {
+        "time": "2024-01-06 20:00:00",
+        "Spread": {
+          "1 -15": 1.90909091,
+          "2 +15": 1.90909091
+        },
+        "Over/under": {
+          "Over 134": 1.90909091,
+          "Under 134": 1.90909091
+        }
+      },
+      "Merrimack vs Sacred Heart": {
+        "time": "2024-01-06 20:00:00",
+        "Money line": {
+          "1": 1.52083334,
+          "2": 2.6
+        },
+        "Spread": {
+          "1 -4.5": 1.90909091,
+          "2 +4.5": 1.90909091
         },
         "Over/under": {
           "Over 135.5": 1.90909091,
           "Under 135.5": 1.90909091
         }
       },
-      "UTSA vs UAB": {
-        "time": "2024-01-03 02:00:00",
+      "Morehead State vs Tennessee State": {
+        "time": "2024-01-06 20:00:00",
+        "Money line": {
+          "1": 1.21276596,
+          "2": 4.6
+        },
         "Spread": {
-          "2 -5.5": 1.9174312,
-          "1 +5.5": 1.90090091
+          "1 -9": 1.90909091,
+          "2 +9": 1.90909091
         },
         "Over/under": {
-          "Over 159": 1.90909091,
-          "Under 159": 1.90909091
+          "Over 143.5": 1.90090091,
+          "Under 143.5": 1.9174312
         }
       },
-      "Colorado State vs New Mexico": {
-        "time": "2024-01-03 03:30:00",
+      "Northern Arizona vs North Dakota": {
+        "time": "2024-01-06 20:00:00",
+        "Money line": {
+          "1": 1.83333334,
+          "2": 2.0
+        },
+        "Spread": {
+          "1 -2": 1.92592593,
+          "2 +2": 1.89285715
+        },
+        "Over/under": {
+          "Over 141": 1.90909091,
+          "Under 141": 1.90909091
+        }
+      },
+      "Oakland vs Green Bay": {
+        "time": "2024-01-06 20:00:00",
+        "Money line": {
+          "1": 1.33557047,
+          "2": 3.4
+        },
+        "Spread": {
+          "1 -7.5": 1.9174312,
+          "2 +7.5": 1.90090091
+        },
+        "Over/under": {
+          "Over 140": 1.90909091,
+          "Under 140": 1.90909091
+        }
+      },
+      "Oklahoma State vs Baylor": {
+        "time": "2024-01-06 20:00:00",
+        "Money line": {
+          "1": 2.8,
+          "2": 1.4587156
+        },
+        "Spread": {
+          "2 -4.5": 1.90909091,
+          "1 +4.5": 1.90909091
+        },
+        "Over/under": {
+          "Over 147.5": 1.90909091,
+          "Under 147.5": 1.90909091
+        }
+      },
+      "Rice vs UTSA": {
+        "time": "2024-01-06 20:00:00",
+        "Money line": {
+          "1": 1.24390244,
+          "2": 4.2
+        },
+        "Spread": {
+          "1 -8": 1.88495576,
+          "2 +8": 1.93457944
+        },
+        "Over/under": {
+          "Over 154.5": 1.87719299,
+          "Under 154.5": 1.94339623
+        }
+      },
+      "SFA vs UT Arlington": {
+        "time": "2024-01-06 20:00:00",
+        "Money line": {
+          "1": 1.33557047,
+          "2": 3.4
+        },
+        "Spread": {
+          "1 -6.5": 1.9174312,
+          "2 +6.5": 1.90090091
+        },
+        "Over/under": {
+          "Over 145": 1.87719299,
+          "Under 145": 1.94339623
+        }
+      },
+      "Southern Mississippi vs James Madison": {
+        "time": "2024-01-06 20:00:00",
+        "Money line": {
+          "1": 3.8,
+          "2": 1.28169015
+        },
+        "Spread": {
+          "2 -7.5": 1.9174312,
+          "1 +7.5": 1.90090091
+        },
+        "Over/under": {
+          "Over 156.5": 1.89285715,
+          "Under 156.5": 1.92592593
+        }
+      },
+      "ULM vs Georgia Southern": {
+        "time": "2024-01-06 20:00:00",
+        "Money line": {
+          "1": 1.5882353,
+          "2": 2.42
+        },
         "Spread": {
           "1 -3.5": 1.90909091,
           "2 +3.5": 1.90909091
         },
         "Over/under": {
-          "Over 156.5": 1.90909091,
-          "Under 156.5": 1.90909091
+          "Over 140": 1.90909091,
+          "Under 140": 1.90909091
+        }
+      },
+      "Eastern Michigan vs Kent State": {
+        "time": "2024-01-06 20:30:00",
+        "Money line": {
+          "1": 4.7,
+          "2": 1.20618557
+        },
+        "Spread": {
+          "2 -10": 1.90909091,
+          "1 +10": 1.90909091
+        },
+        "Over/under": {
+          "Over 145.5": 1.9174312,
+          "Under 145.5": 1.90090091
+        }
+      },
+      "Jackson State vs Alcorn": {
+        "time": "2024-01-06 20:30:00",
+        "Spread": {
+          "1 -7.5": 1.90909091,
+          "2 +7.5": 1.90909091
+        },
+        "Over/under": {
+          "Over 151.5": 1.90909091,
+          "Under 151.5": 1.90909091
+        }
+      },
+      "Vanderbilt vs Alabama": {
+        "time": "2024-01-06 20:30:00",
+        "Spread": {
+          "2 -13.5": 1.9174312,
+          "1 +13.5": 1.90090091
+        },
+        "Over/under": {
+          "Over 157.5": 1.90090091,
+          "Under 157.5": 1.9174312
+        }
+      },
+      "Bellarmine vs Lipscomb": {
+        "time": "2024-01-06 21:00:00",
+        "Money line": {
+          "1": 2.05,
+          "2": 1.8
+        },
+        "Spread": {
+          "2 -2.5": 1.95238096,
+          "1 +2.5": 1.86956522
+        },
+        "Over/under": {
+          "Over 147.5": 1.90909091,
+          "Under 147.5": 1.90909091
+        }
+      },
+      "Bethune-Cookman vs Florida A&M": {
+        "time": "2024-01-06 21:00:00",
+        "Money line": {
+          "1": 1.48780488,
+          "2": 2.7
+        },
+        "Spread": {
+          "1 -5": 1.90909091,
+          "2 +5": 1.90909091
+        },
+        "Over/under": {
+          "Over 139.5": 1.90909091,
+          "Under 139.5": 1.90909091
+        }
+      },
+      "Bradley vs Missouri State": {
+        "time": "2024-01-06 21:00:00",
+        "Money line": {
+          "1": 1.52083334,
+          "2": 2.6
+        },
+        "Spread": {
+          "1 -4.5": 1.90090091,
+          "2 +4.5": 1.9174312
+        },
+        "Over/under": {
+          "Over 138.5": 1.9174312,
+          "Under 138.5": 1.90090091
+        }
+      },
+      "Charlotte vs Florida Atlantic": {
+        "time": "2024-01-06 21:00:00",
+        "Spread": {
+          "2 -9": 1.90909091,
+          "1 +9": 1.90909091
+        },
+        "Over/under": {
+          "Over 138": 1.90909091,
+          "Under 138": 1.90909091
+        }
+      },
+      "Delaware State vs Coppin State": {
+        "time": "2024-01-06 21:00:00",
+        "Spread": {
+          "1 -9.5": 1.93457944,
+          "2 +9.5": 1.88495576
+        },
+        "Over/under": {
+          "Over 133": 1.90909091,
+          "Under 133": 1.90909091
+        }
+      },
+      "Florida State vs Virginia Tech": {
+        "time": "2024-01-06 21:00:00",
+        "Money line": {
+          "1": 1.98039216,
+          "2": 1.84745763
+        },
+        "Spread": {
+          "2 -1": 1.90090091,
+          "1 +1": 1.9174312
+        },
+        "Over/under": {
+          "Over 144": 1.90909091,
+          "Under 144": 1.90909091
+        }
+      },
+      "Georgia Tech vs Boston College": {
+        "time": "2024-01-06 21:00:00",
+        "Money line": {
+          "1": 1.74074075,
+          "2": 2.14
+        },
+        "Spread": {
+          "1 -2": 1.88495576,
+          "2 +2": 1.93457944
+        },
+        "Over/under": {
+          "Over 146": 1.90909091,
+          "Under 146": 1.90909091
+        }
+      },
+      "Little Rock vs Eastern Illinois": {
+        "time": "2024-01-06 21:00:00",
+        "Money line": {
+          "1": 1.23529412,
+          "2": 4.3
+        },
+        "Spread": {
+          "1 -9": 1.92592593,
+          "2 +9": 1.89285715
+        },
+        "Over/under": {
+          "Over 146.5": 1.90909091,
+          "Under 146.5": 1.90909091
+        }
+      },
+      "Loyola Chicago vs Duquesne": {
+        "time": "2024-01-06 21:00:00",
+        "Money line": {
+          "1": 1.95238096,
+          "2": 1.86956522
+        },
+        "Spread": {
+          "2 -1.5": 1.90090091,
+          "1 +1.5": 1.92592593
+        },
+        "Over/under": {
+          "Over 142.5": 1.90909091,
+          "Under 142.5": 1.90909091
+        }
+      },
+      "Richmond vs Saint Bonaventure": {
+        "time": "2024-01-06 21:00:00",
+        "Money line": {
+          "1": 1.95238096,
+          "2": 1.86956522
+        },
+        "Spread": {
+          "2 -1": 1.93457944,
+          "1 +1": 1.88495576
+        },
+        "Over/under": {
+          "Over 140": 1.90909091,
+          "Under 140": 1.90909091
+        }
+      },
+      "San Diego State vs UNLV": {
+        "time": "2024-01-06 21:00:00",
+        "Spread": {
+          "1 -9.5": 1.9174312,
+          "2 +9.5": 1.90090091
+        },
+        "Over/under": {
+          "Over 140": 1.9174312,
+          "Under 140": 1.90090091
+        }
+      },
+      "South Alabama vs Georgia State": {
+        "time": "2024-01-06 21:00:00",
+        "Money line": {
+          "1": 1.52083334,
+          "2": 2.6
+        },
+        "Spread": {
+          "1 -4": 1.90909091,
+          "2 +4": 1.90909091
+        },
+        "Over/under": {
+          "Over 145.5": 1.90909091,
+          "Under 145.5": 1.90909091
+        }
+      },
+      "South Carolina State vs Norfolk State": {
+        "time": "2024-01-06 21:00:00",
+        "Spread": {
+          "2 -8": 1.90909091,
+          "1 +8": 1.90909091
+        },
+        "Over/under": {
+          "Over 147": 1.90909091,
+          "Under 147": 1.90909091
+        }
+      },
+      "UC Irvine vs UC Davis": {
+        "time": "2024-01-06 21:00:00",
+        "Money line": {
+          "1": 1.20618557,
+          "2": 4.7
+        },
+        "Spread": {
+          "1 -9.5": 1.90909091,
+          "2 +9.5": 1.90909091
+        },
+        "Over/under": {
+          "Over 141": 1.90909091,
+          "Under 141": 1.90909091
+        }
+      },
+      "UMES vs Morgan State": {
+        "time": "2024-01-06 21:00:00",
+        "Money line": {
+          "1": 1.61728396,
+          "2": 2.36
+        },
+        "Spread": {
+          "1 -2.5": 1.90909091,
+          "2 +2.5": 1.90909091
+        },
+        "Over/under": {
+          "Over 145": 1.90909091,
+          "Under 145": 1.90909091
+        }
+      },
+      "UNC Greensboro vs ETSU": {
+        "time": "2024-01-06 21:00:00",
+        "Money line": {
+          "1": 1.33557047,
+          "2": 3.4
+        },
+        "Spread": {
+          "1 -7.5": 1.95238096,
+          "2 +7.5": 1.86956522
+        },
+        "Over/under": {
+          "Over 141": 1.9174312,
+          "Under 141": 1.90090091
+        }
+      },
+      "USC Upstate vs Winthrop": {
+        "time": "2024-01-06 21:00:00",
+        "Money line": {
+          "1": 3.05,
+          "2": 1.4
+        },
+        "Spread": {
+          "2 -5.5": 1.90909091,
+          "1 +5.5": 1.90909091
+        },
+        "Over/under": {
+          "Over 139.5": 1.90909091,
+          "Under 139.5": 1.90909091
+        }
+      },
+      "USC vs Stanford": {
+        "time": "2024-01-06 21:00:00",
+        "Money line": {
+          "1": 1.50505051,
+          "2": 2.64
+        },
+        "Spread": {
+          "1 -5": 1.90090091,
+          "2 +5": 1.9174312
+        },
+        "Over/under": {
+          "Over 153.5": 1.90909091,
+          "Under 153.5": 1.90909091
+        }
+      },
+      "Utah Valley vs Southern Utah": {
+        "time": "2024-01-06 21:00:00",
+        "Spread": {
+          "1 -7": 1.90090091,
+          "2 +7": 1.9174312
+        },
+        "Over/under": {
+          "Over 148": 1.90909091,
+          "Under 148": 1.90909091
+        }
+      },
+      "VCU vs George Washington": {
+        "time": "2024-01-06 21:00:00",
+        "Money line": {
+          "1": 1.14285715,
+          "2": 6.0
+        },
+        "Spread": {
+          "1 -12": 1.95238096,
+          "2 +12": 1.86956522
+        },
+        "Over/under": {
+          "Over 152": 1.89285715,
+          "Under 152": 1.92592593
+        }
+      },
+      "Western Carolina vs Wofford": {
+        "time": "2024-01-06 21:00:00",
+        "Money line": {
+          "1": 1.34482759,
+          "2": 3.35
+        },
+        "Spread": {
+          "1 -7": 1.95238096,
+          "2 +7": 1.86956522
+        },
+        "Over/under": {
+          "Over 150.5": 1.90909091,
+          "Under 150.5": 1.90909091
+        }
+      },
+      "Houston Christian vs Nicholls State": {
+        "time": "2024-01-06 21:30:00",
+        "Spread": {
+          "2 -7": 1.90909091,
+          "1 +7": 1.90909091
+        },
+        "Over/under": {
+          "Over 150.5": 1.90909091,
+          "Under 150.5": 1.90909091
+        }
+      },
+      "Troy vs Appalachian State": {
+        "time": "2024-01-06 21:30:00",
+        "Money line": {
+          "1": 2.54,
+          "2": 1.54054055
+        },
+        "Spread": {
+          "2 -4": 1.90090091,
+          "1 +4": 1.9174312
+        },
+        "Over/under": {
+          "Over 144.5": 1.90909091,
+          "Under 144.5": 1.90909091
+        }
+      },
+      "Western Illinois vs Lindenwood": {
+        "time": "2024-01-06 21:30:00",
+        "Spread": {
+          "1 -8.5": 1.90909091,
+          "2 +8.5": 1.90909091
+        },
+        "Over/under": {
+          "Over 137": 1.9174312,
+          "Under 137": 1.90090091
+        }
+      },
+      "Eastern Washington vs North Dakota State": {
+        "time": "2024-01-06 22:00:00",
+        "Money line": {
+          "1": 1.22727273,
+          "2": 4.4
+        },
+        "Spread": {
+          "1 -9": 1.9174312,
+          "2 +9": 1.90090091
+        },
+        "Over/under": {
+          "Over 150": 1.90909091,
+          "Under 150": 1.90909091
+        }
+      },
+      "Grambling vs Prairie View": {
+        "time": "2024-01-06 22:00:00",
+        "Money line": {
+          "1": 1.8,
+          "2": 2.05
+        },
+        "Spread": {
+          "1 -1.5": 1.90909091,
+          "2 +1.5": 1.90909091
+        },
+        "Over/under": {
+          "Over 136.5": 1.90909091,
+          "Under 136.5": 1.90909091
+        }
+      },
+      "Jacksonville State vs FIU": {
+        "time": "2024-01-06 22:00:00",
+        "Money line": {
+          "1": 1.40816327,
+          "2": 3.0
+        },
+        "Spread": {
+          "1 -6": 1.92592593,
+          "2 +6": 1.89285715
+        },
+        "Over/under": {
+          "Over 138": 1.90909091,
+          "Under 138": 1.90909091
+        }
+      },
+      "Kennesaw State vs Queens NC": {
+        "time": "2024-01-06 22:00:00",
+        "Money line": {
+          "1": 1.24390244,
+          "2": 4.2
+        },
+        "Spread": {
+          "1 -9": 1.95238096,
+          "2 +9": 1.86956522
+        },
+        "Over/under": {
+          "Over 172.5": 1.90090091,
+          "Under 172.5": 1.9174312
+        }
+      },
+      "Loyola Maryland vs Lehigh": {
+        "time": "2024-01-06 22:00:00",
+        "Money line": {
+          "1": 2.1,
+          "2": 1.76923077
+        },
+        "Spread": {
+          "2 -2": 1.90909091,
+          "1 +2": 1.90909091
+        },
+        "Over/under": {
+          "Over 138.5": 1.90909091,
+          "Under 138.5": 1.90909091
+        }
+      },
+      "New Orleans vs Southeastern Louisiana": {
+        "time": "2024-01-06 22:00:00",
+        "Money line": {
+          "1": 1.8,
+          "2": 2.05
+        },
+        "Spread": {
+          "1 -1.5": 1.90909091,
+          "2 +1.5": 1.90909091
+        },
+        "Over/under": {
+          "Over 142.5": 1.90909091,
+          "Under 142.5": 1.90909091
+        }
+      },
+      "Texas State vs Marshall": {
+        "time": "2024-01-06 22:00:00",
+        "Money line": {
+          "1": 2.02,
+          "2": 1.81967214
+        },
+        "Spread": {
+          "2 -1": 1.86956522,
+          "1 +1": 1.95238096
+        },
+        "Over/under": {
+          "Over 141": 1.90090091,
+          "Under 141": 1.9174312
+        }
+      },
+      "South Dakota State vs Montana State": {
+        "time": "2024-01-06 22:15:00",
+        "Money line": {
+          "1": 1.13333334,
+          "2": 6.25
+        },
+        "Spread": {
+          "1 -12": 1.90909091,
+          "2 +12": 1.90909091
+        },
+        "Over/under": {
+          "Over 144.5": 1.89285715,
+          "Under 144.5": 1.92592593
+        }
+      },
+      "Sam Houston vs Louisiana Tech": {
+        "time": "2024-01-06 22:30:00",
+        "Money line": {
+          "1": 3.5,
+          "2": 1.32258065
+        },
+        "Spread": {
+          "2 -7": 1.88495576,
+          "1 +7": 1.93457944
+        },
+        "Over/under": {
+          "Over 136.5": 1.90909091,
+          "Under 136.5": 1.90909091
+        }
+      },
+      "Abilene Christian vs UTRGV": {
+        "time": "2024-01-06 23:00:00",
+        "Money line": {
+          "1": 1.18181819,
+          "2": 5.1
+        },
+        "Spread": {
+          "1 -10": 1.9174312,
+          "2 +10": 1.90090091
+        },
+        "Over/under": {
+          "Over 156": 1.90090091,
+          "Under 156": 1.9174312
+        }
+      },
+      "Kansas State vs UCF": {
+        "time": "2024-01-06 23:00:00",
+        "Money line": {
+          "1": 1.48780488,
+          "2": 2.7
+        },
+        "Spread": {
+          "1 -5": 1.92592593,
+          "2 +5": 1.89285715
+        },
+        "Over/under": {
+          "Over 139.5": 1.90909091,
+          "Under 139.5": 1.90909091
+        }
+      },
+      "Notre Dame vs Duke": {
+        "time": "2024-01-06 23:00:00",
+        "Spread": {
+          "2 -14.5": 1.93457944,
+          "1 +14.5": 1.88495576
+        },
+        "Over/under": {
+          "Over 133.5": 1.90090091,
+          "Under 133.5": 1.9174312
+        }
+      },
+      "Oklahoma vs Iowa State": {
+        "time": "2024-01-06 23:00:00",
+        "Money line": {
+          "1": 1.67567568,
+          "2": 2.24
+        },
+        "Spread": {
+          "1 -3": 1.92592593,
+          "2 +3": 1.89285715
+        },
+        "Over/under": {
+          "Over 142.5": 1.87719299,
+          "Under 142.5": 1.94339623
+        }
+      },
+      "Seattle vs California Baptist": {
+        "time": "2024-01-06 23:00:00",
+        "Money line": {
+          "1": 1.35971224,
+          "2": 3.25
+        },
+        "Spread": {
+          "1 -6.5": 1.90090091,
+          "2 +6.5": 1.9174312
+        },
+        "Over/under": {
+          "Over 135": 1.89285715,
+          "Under 135": 1.92592593
+        }
+      },
+      "Tennessee vs Ole Miss": {
+        "time": "2024-01-06 23:00:00",
+        "Money line": {
+          "1": 1.125,
+          "2": 6.5
+        },
+        "Spread": {
+          "1 -12": 1.90090091,
+          "2 +12": 1.9174312
+        },
+        "Over/under": {
+          "Over 141": 1.90909091,
+          "Under 141": 1.90909091
+        }
+      },
+      "UIW vs A&M-Corpus Christi": {
+        "time": "2024-01-06 23:00:00",
+        "Money line": {
+          "1": 2.1,
+          "2": 1.76923077
+        },
+        "Spread": {
+          "2 -2": 1.90909091,
+          "1 +2": 1.90909091
+        },
+        "Over/under": {
+          "Over 149.5": 1.90909091,
+          "Under 149.5": 1.90909091
+        }
+      },
+      "Washington vs Oregon State": {
+        "time": "2024-01-06 23:00:00",
+        "Money line": {
+          "1": 1.11111112,
+          "2": 7.0
+        },
+        "Spread": {
+          "1 -12.5": 1.9174312,
+          "2 +12.5": 1.90090091
+        },
+        "Over/under": {
+          "Over 145.5": 1.90909091,
+          "Under 145.5": 1.90909091
+        }
+      },
+      "Western Kentucky vs Liberty": {
+        "time": "2024-01-06 23:00:00",
+        "Money line": {
+          "1": 2.3,
+          "2": 1.6451613
+        },
+        "Spread": {
+          "2 -3": 1.92592593,
+          "1 +3": 1.89285715
+        },
+        "Over/under": {
+          "Over 144.5": 1.90909091,
+          "Under 144.5": 1.90909091
+        }
+      },
+      "Arkansas-Pine Bluff vs Alabama A&M": {
+        "time": "2024-01-06 23:30:00",
+        "Money line": {
+          "1": 1.57142858,
+          "2": 2.45
+        },
+        "Spread": {
+          "1 -3.5": 1.90909091,
+          "2 +3.5": 1.90909091
+        },
+        "Over/under": {
+          "Over 167": 1.90909091,
+          "Under 167": 1.90909091
+        }
+      },
+      "Southern University vs Texas Southern": {
+        "time": "2024-01-06 23:30:00",
+        "Money line": {
+          "1": 1.48780488,
+          "2": 2.7
+        },
+        "Spread": {
+          "1 -5": 1.90909091,
+          "2 +5": 1.90909091
+        },
+        "Over/under": {
+          "Over 143.5": 1.90909091,
+          "Under 143.5": 1.90909091
+        }
+      },
+      "Stony Brook vs Charleston": {
+        "time": "2024-01-06 23:30:00",
+        "Money line": {
+          "1": 3.15,
+          "2": 1.3773585
+        },
+        "Spread": {
+          "2 -6.5": 1.90909091,
+          "1 +6.5": 1.90909091
+        },
+        "Over/under": {
+          "Over 153": 1.90909091,
+          "Under 153": 1.90909091
+        }
+      },
+      "Chattanooga vs Furman": {
+        "time": "2024-01-07 00:00:00",
+        "Money line": {
+          "1": 1.74074075,
+          "2": 2.14
+        },
+        "Spread": {
+          "1 -1.5": 1.90090091,
+          "2 +1.5": 1.9174312
+        },
+        "Over/under": {
+          "Over 156": 1.9174312,
+          "Under 156": 1.90090091
+        }
+      },
+      "Eastern Kentucky vs Austin Peay": {
+        "time": "2024-01-07 00:00:00",
+        "Money line": {
+          "1": 1.50505051,
+          "2": 2.64
+        },
+        "Spread": {
+          "1 -4.5": 1.89285715,
+          "2 +4.5": 1.92592593
+        },
+        "Over/under": {
+          "Over 142.5": 1.90909091,
+          "Under 142.5": 1.90909091
+        }
+      },
+      "Elon vs North Carolina A&T": {
+        "time": "2024-01-07 00:00:00",
+        "Money line": {
+          "1": 1.44444445,
+          "2": 2.85
+        },
+        "Spread": {
+          "1 -5": 1.90909091,
+          "2 +5": 1.90909091
+        },
+        "Over/under": {
+          "Over 158": 1.90090091,
+          "Under 158": 1.9174312
+        }
+      },
+      "FGCU vs North Florida": {
+        "time": "2024-01-07 00:00:00",
+        "Spread": {
+          "1 -10": 1.90909091,
+          "2 +10": 1.90909091
+        },
+        "Over/under": {
+          "Over 141.5": 1.90909091,
+          "Under 141.5": 1.90909091
+        }
+      },
+      "Fresno State vs Nevada": {
+        "time": "2024-01-07 00:00:00",
+        "Money line": {
+          "1": 3.45,
+          "2": 1.32786886
+        },
+        "Spread": {
+          "2 -6.5": 1.94339623,
+          "1 +6.5": 1.87719299
+        },
+        "Over/under": {
+          "Over 138": 1.90909091,
+          "Under 138": 1.90909091
+        }
+      },
+      "Illinois State vs Southern Illinois": {
+        "time": "2024-01-07 00:00:00",
+        "Money line": {
+          "1": 2.2,
+          "2": 1.70422536
+        },
+        "Spread": {
+          "2 -2": 1.90909091,
+          "1 +2": 1.90909091
+        },
+        "Over/under": {
+          "Over 133": 1.90909091,
+          "Under 133": 1.90909091
+        }
+      },
+      "Lamar vs Northwestern State": {
+        "time": "2024-01-07 00:00:00",
+        "Spread": {
+          "1 -10.5": 1.90909091,
+          "2 +10.5": 1.90909091
+        },
+        "Over/under": {
+          "Over 155": 1.90909091,
+          "Under 155": 1.90909091
+        }
+      },
+      "Long Beach State vs UC Riverside": {
+        "time": "2024-01-07 00:00:00",
+        "Money line": {
+          "1": 1.28985508,
+          "2": 3.75
+        },
+        "Spread": {
+          "1 -8": 1.93457944,
+          "2 +8": 1.88495576
+        },
+        "Over/under": {
+          "Over 154.5": 1.90909091,
+          "Under 154.5": 1.90909091
+        }
+      },
+      "Mississippi Valley vs Alabama State": {
+        "time": "2024-01-07 00:00:00",
+        "Spread": {
+          "2 -10": 1.90909091,
+          "1 +10": 1.90909091
+        },
+        "Over/under": {
+          "Over 131": 1.90909091,
+          "Under 131": 1.90909091
+        }
+      },
+      "Arizona State vs Colorado": {
+        "time": "2024-01-07 01:00:00",
+        "Money line": {
+          "1": 2.3,
+          "2": 1.6451613
+        },
+        "Spread": {
+          "2 -3": 1.90909091,
+          "1 +3": 1.90909091
+        },
+        "Over/under": {
+          "Over 145.5": 1.93457944,
+          "Under 145.5": 1.88495576
+        }
+      },
+      "Arizona vs Utah": {
+        "time": "2024-01-07 01:00:00",
+        "Money line": {
+          "1": 1.1,
+          "2": 7.5
+        },
+        "Spread": {
+          "1 -14": 1.90909091,
+          "2 +14": 1.90909091
+        },
+        "Over/under": {
+          "Over 164": 1.9174312,
+          "Under 164": 1.90090091
+        }
+      },
+      "CSUN vs Hawaii": {
+        "time": "2024-01-07 01:00:00",
+        "Money line": {
+          "1": 2.14,
+          "2": 1.74074075
+        },
+        "Spread": {
+          "2 -2": 1.90090091,
+          "1 +2": 1.9174312
+        },
+        "Over/under": {
+          "Over 146.5": 1.9174312,
+          "Under 146.5": 1.90090091
+        }
+      },
+      "Idaho State vs Omaha": {
+        "time": "2024-01-07 01:00:00",
+        "Money line": {
+          "1": 1.76923077,
+          "2": 2.1
+        },
+        "Spread": {
+          "1 -2.5": 1.93457944,
+          "2 +2.5": 1.88495576
+        },
+        "Over/under": {
+          "Over 138": 1.90909091,
+          "Under 138": 1.90909091
+        }
+      },
+      "Indiana vs Ohio State": {
+        "time": "2024-01-07 01:00:00",
+        "Money line": {
+          "1": 1.92592593,
+          "2": 1.89285715
+        },
+        "Spread": {
+          "2 -1": 1.93457944,
+          "1 +1": 1.88495576
+        },
+        "Over/under": {
+          "Over 148": 1.90909091,
+          "Under 148": 1.90909091
+        }
+      },
+      "Kansas City vs Portland State": {
+        "time": "2024-01-07 01:00:00",
+        "Money line": {
+          "1": 2.2,
+          "2": 1.70422536
+        },
+        "Spread": {
+          "2 -2.5": 1.90909091,
+          "1 +2.5": 1.90909091
+        },
+        "Over/under": {
+          "Over 138.5": 1.90909091,
+          "Under 138.5": 1.90909091
+        }
+      },
+      "Louisiana-Lafayette vs Coastal Carolina": {
+        "time": "2024-01-07 01:00:00",
+        "Money line": {
+          "1": 1.16666667,
+          "2": 5.4
+        },
+        "Spread": {
+          "1 -10": 1.90909091,
+          "2 +10": 1.90909091
+        },
+        "Over/under": {
+          "Over 149": 1.90909091,
+          "Under 149": 1.90909091
+        }
+      },
+      "Northern Colorado vs Denver": {
+        "time": "2024-01-07 01:00:00",
+        "Money line": {
+          "1": 1.57142858,
+          "2": 2.45
+        },
+        "Spread": {
+          "1 -4.5": 1.95238096,
+          "2 +4.5": 1.86956522
+        },
+        "Over/under": {
+          "Over 166.5": 1.90909091,
+          "Under 166.5": 1.90909091
+        }
+      },
+      "Oral Roberts vs Weber State": {
+        "time": "2024-01-07 01:00:00",
+        "Money line": {
+          "1": 2.5,
+          "2": 1.55555556
+        },
+        "Spread": {
+          "2 -4": 1.90909091,
+          "1 +4": 1.90909091
+        },
+        "Over/under": {
+          "Over 144.5": 1.89285715,
+          "Under 144.5": 1.92592593
+        }
+      },
+      "Portland vs Pacific": {
+        "time": "2024-01-07 01:00:00",
+        "Money line": {
+          "1": 1.17391305,
+          "2": 5.25
+        },
+        "Spread": {
+          "1 -10": 1.9174312,
+          "2 +10": 1.90090091
+        },
+        "Over/under": {
+          "Over 149.5": 1.90909091,
+          "Under 149.5": 1.90909091
+        }
+      },
+      "Saint Thomas MN vs Sacramento State": {
+        "time": "2024-01-07 01:00:00",
+        "Money line": {
+          "1": 1.18691589,
+          "2": 5.0
+        },
+        "Spread": {
+          "1 -9": 1.90909091,
+          "2 +9": 1.90909091
+        },
+        "Over/under": {
+          "Over 132": 1.90909091,
+          "Under 132": 1.90909091
+        }
+      },
+      "Texas vs Texas Tech": {
+        "time": "2024-01-07 01:00:00",
+        "Money line": {
+          "1": 1.34482759,
+          "1 Tech": 3.35
+        },
+        "Spread": {
+          "1 -6": 1.90909091,
+          "1 Tech +6": 1.90909091
+        },
+        "Over/under": {
+          "Over 140.5": 1.90909091,
+          "Under 140.5": 1.90909091
+        }
+      },
+      "UIC vs Valparaiso": {
+        "time": "2024-01-07 01:00:00",
+        "Money line": {
+          "1": 1.13333334,
+          "2": 6.25
+        },
+        "Spread": {
+          "1 -12": 1.9174312,
+          "2 +12": 1.90090091
+        },
+        "Over/under": {
+          "Over 136": 1.89285715,
+          "Under 136": 1.92592593
+        }
+      },
+      "North Alabama vs Central Arkansas": {
+        "time": "2024-01-07 01:15:00",
+        "Spread": {
+          "1 -10": 1.90909091,
+          "2 +10": 1.90909091
+        },
+        "Over/under": {
+          "Over 151.5": 1.90909091,
+          "Under 151.5": 1.90909091
+        }
+      },
+      "Southern Indiana vs Tennessee Tech": {
+        "time": "2024-01-07 01:30:00",
+        "Money line": {
+          "1": 1.6451613,
+          "2": 2.3
+        },
+        "Spread": {
+          "1 -2.5": 1.78740158,
+          "2 +2.5": 2.07
+        },
+        "Over/under": {
+          "Over 140": 1.90909091,
+          "Under 140": 1.90909091
+        }
+      },
+      "Texas A&M vs LSU": {
+        "time": "2024-01-07 01:30:00",
+        "Money line": {
+          "1": 1.125,
+          "2": 6.5
+        },
+        "Spread": {
+          "1 -11.5": 1.90909091,
+          "2 +11.5": 1.90909091
+        },
+        "Over/under": {
+          "Over 146": 1.88495576,
+          "Under 146": 1.93457944
+        }
+      },
+      "Cal State Fullerton vs UC San Diego": {
+        "time": "2024-01-07 02:00:00",
+        "Money line": {
+          "1": 2.02,
+          "2": 1.81967214
+        },
+        "Spread": {
+          "2 -1.5": 1.89285715,
+          "1 +1.5": 1.92592593
+        },
+        "Over/under": {
+          "Over 134": 1.90909091,
+          "Under 134": 1.90909091
+        }
+      },
+      "Gonzaga vs San Diego": {
+        "time": "2024-01-07 02:00:00",
+        "Spread": {
+          "1 -23": 1.90909091,
+          "2 +23": 1.90909091
+        },
+        "Over/under": {
+          "Over 156": 1.90090091,
+          "Under 156": 1.9174312
+        }
+      },
+      "LMU vs Saint Marys": {
+        "time": "2024-01-07 02:00:00",
+        "Money line": {
+          "1": 5.0,
+          "2": 1.18691589
+        },
+        "Spread": {
+          "2 -10": 1.90909091,
+          "1 +10": 1.90909091
+        },
+        "Over/under": {
+          "Over 130": 1.90909091,
+          "Under 130": 1.90909091
+        }
+      },
+      "Montana vs South Dakota": {
+        "time": "2024-01-07 02:00:00",
+        "Money line": {
+          "1": 1.11764706,
+          "2": 6.75
+        },
+        "Spread": {
+          "1 -13": 1.92592593,
+          "2 +13": 1.89285715
+        },
+        "Over/under": {
+          "Over 152.5": 1.90090091,
+          "Under 152.5": 1.9174312
+        }
+      },
+      "Utah State vs Colorado State": {
+        "time": "2024-01-07 02:00:00",
+        "Money line": {
+          "1": 1.74074075,
+          "2": 2.14
+        },
+        "Spread": {
+          "1 -2": 1.90090091,
+          "2 +2": 1.9174312
+        },
+        "Over/under": {
+          "Over 151": 1.92592593,
+          "Under 151": 1.89285715
+        }
+      },
+      "Utah Tech vs Grand Canyon": {
+        "time": "2024-01-07 02:00:00",
+        "Money line": {
+          "1": 6.75,
+          "2": 1.11764706
+        },
+        "Spread": {
+          "2 -12": 1.90090091,
+          "1 +12": 1.9174312
+        },
+        "Over/under": {
+          "Over 148": 1.90909091,
+          "Under 148": 1.90909091
+        }
+      },
+      "BYU vs Cincinnati": {
+        "time": "2024-01-07 03:00:00",
+        "Money line": {
+          "1": 1.21978022,
+          "2": 4.5
+        },
+        "Spread": {
+          "1 -9": 1.90909091,
+          "2 +9": 1.90909091
+        },
+        "Over/under": {
+          "Over 151.5": 1.90909091,
+          "Under 151.5": 1.90909091
+        }
+      },
+      "Cal Poly vs UC Santa Barbara": {
+        "time": "2024-01-07 03:00:00",
+        "Money line": {
+          "1": 3.8,
+          "2": 1.28169015
+        },
+        "Spread": {
+          "2 -8": 1.9174312,
+          "1 +8": 1.90090091
+        },
+        "Over/under": {
+          "Over 140.5": 1.92592593,
+          "Under 140.5": 1.89285715
+        }
+      },
+      "New Mexico vs Wyoming": {
+        "time": "2024-01-07 03:00:00",
+        "Money line": {
+          "1": 1.06060607,
+          "2": 10.5
+        },
+        "Spread": {
+          "1 -16.5": 1.90909091,
+          "2 +16.5": 1.90909091
+        },
+        "Over/under": {
+          "Over 155": 1.90909091,
+          "Under 155": 1.90909091
+        }
+      },
+      "Pepperdine vs Santa Clara": {
+        "time": "2024-01-07 03:00:00",
+        "Money line": {
+          "1": 2.36,
+          "2": 1.61728396
+        },
+        "Spread": {
+          "2 -3": 1.90909091,
+          "1 +3": 1.90909091
+        },
+        "Over/under": {
+          "Over 150": 1.90909091,
+          "Under 150": 1.90909091
+        }
+      },
+      "UCLA vs California": {
+        "time": "2024-01-07 03:00:00",
+        "Money line": {
+          "1": 1.34482759,
+          "2": 3.35
+        },
+        "Spread": {
+          "1 -6.5": 1.90090091,
+          "2 +6.5": 1.9174312
+        },
+        "Over/under": {
+          "Over 135.5": 1.90909091,
+          "Under 135.5": 1.90909091
+        }
+      },
+      "Washington State vs Oregon": {
+        "time": "2024-01-07 03:00:00",
+        "Money line": {
+          "1": 1.83333334,
+          "2": 2.0
+        },
+        "Spread": {
+          "1 -1": 1.90909091,
+          "2 +1": 1.90909091
+        },
+        "Over/under": {
+          "Over 139.5": 1.90909091,
+          "Under 139.5": 1.90909091
         }
       }
     }
