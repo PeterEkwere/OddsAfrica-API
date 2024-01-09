@@ -1,6 +1,6 @@
 # OddsAfrica-API
 The is the first version of this API project with more versions coming later, The aim of this projects was to collectively cover fundamental concepts of higher level programming. The goal of The project is to eventually provide odds from all markets in each game across all the main betsites in Africa.
-
+If you found this Repo Helpfull please dont hesitate to drop a star🙏😌
 
 ## Table of Content
 * [Environment](#environment)
@@ -88,6 +88,22 @@ print(data)
         }..
 ```
 
+## Supported betsites and Sports
+```
+BETSITES                       SPORTS
+betpawa                        football
+bet9ja                         basketball
+paripesa                       ice Hockey
+22bet                          volleyball
+1xbet                          darts
+sportybet                      esoccer
+nairabet
+betwinner
+betking
+livescorebet
+merrybet
+```
+##### more betsites and sports comming soon...
 
 ## Bugs
 No known bugs at this time. 
