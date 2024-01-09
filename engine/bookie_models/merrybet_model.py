@@ -62,3 +62,4 @@ class merrybet:
             log_success(f"Scraped {country}")    
         Vault.save_games(self, all_leagues, self.bookie_name, Sport)
         log_success(f"Successfully Scraped and Saved {self.bookie_name} {Sport}")
+        return all_leagues

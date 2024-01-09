@@ -70,7 +70,7 @@ class nairabet:
             Sport = "icehockey"   
         Vault.save_games(self, all_leagues, self.bookie_name, Sport)
         log_success(f"Successfully Scraped and Saved {self.bookie_name} {Sport}")
-    
+        return all_leagues
     
     
     def get_league_games(league_id, sport, headers):
