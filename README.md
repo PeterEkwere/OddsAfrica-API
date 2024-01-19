@@ -103,6 +103,7 @@ betking
 livescorebet
 merrybet
 ```
+### Will add functionality to specify country and league very soon...
 ##### more betsites and sports comming soon...
 
 ## Bugs
